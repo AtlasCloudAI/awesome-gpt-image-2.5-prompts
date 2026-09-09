@@ -104,7 +104,7 @@ Every record keeps its category, source, author, source link, input references a
 |--------|-------|
 | Total Prompts | **19** |
 | Categories | **5** |
-| Preview Videos | **19** |
+| Preview Images | **19** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
