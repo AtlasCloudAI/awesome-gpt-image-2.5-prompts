@@ -93,7 +93,7 @@ const homeCopyEn: HomeCopy = {
     "GPT Image 2.5 (announced as ChatGPT Images 2.5 on September 8, 2026) is OpenAI's image model for generation and editing. The announcement leads with four claims: sharper details with more natural lighting and richer textures, better preservation of the subjects in your reference photos, editing instructions followed more reliably across multiple turns, and image generation latency reduced by up to 50% compared with Images 2.0.",
   promptGuide: "GPT Image 2.5 prompt guide",
   launchStatus:
-    "**Availability:** Images 2.5 rolled out on September 8, 2026 to all ChatGPT, ChatGPT Work and Codex tiers on desktop, mobile and web. In the API OpenAI released two models: `gpt-image-2.5-flare`, the default choice, with the same quality and editing gains at 50% lower latency than GPT Image 2, and `gpt-image-2.5-sunburst` for premium workflows that want tighter control across edits, at longer generation times. **Atlas Cloud does not serve either one yet**; the newest GPT Image generation there is [GPT Image 2 text-to-image](https://www.atlascloud.ai/models/openai/gpt-image-2/text-to-image) and [edit](https://www.atlascloud.ai/models/openai/gpt-image-2/edit), so that is where the Generate button lands until the 2.5 endpoints arrive.",
+    "**Availability:** Images 2.5 rolled out on September 8, 2026 to all ChatGPT, ChatGPT Work and Codex tiers on desktop, mobile and web, and both API models are now live on Atlas Cloud: [Flare text-to-image](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/text-to-image) and [Flare edit](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/edit) — the default choice, with the quality and editing gains at 50% lower latency than GPT Image 2 — plus [Sunburst text-to-image](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/text-to-image) and [Sunburst edit](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/edit) for premium workflows that want tighter control across edits, at longer generation times.",
   capabilityIntro:
     "**From the official announcement:** reference fidelity, so subjects from your own photos stay recognisable across new settings, styles and compositions; precision editing, changing one element while the rest of the frame holds; multi-turn consistency, where earlier edits survive later ones without quality decay; better handling of complex visual instructions, real-world information, complex layouts and transparent backgrounds; and stronger adherence to a named visual style. In ChatGPT it also ships Sketch (draw a reference with `@Sketch`), Templates for formats like Poster and Merch, comments placed directly on an image for focused edits, and prompt sharing. Outputs carry C2PA metadata and invisible watermarking. The API adds `xhigh` and `max` quality levels and arbitrary output resolutions within documented constraints.",
   availability:
@@ -139,7 +139,7 @@ const homeCopyZh: HomeCopy = {
     "GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 发布)是 OpenAI 的图像生成与编辑模型。官方公告主打四点:细节更锐、光影与质感更自然;更好地保留参考照片里的主体;多轮编辑时更可靠地照做指令;生成延迟相比 Images 2.0 降低最多 50%。",
   promptGuide: "GPT Image 2.5 提示词指南",
   launchStatus:
-    "**可用性：** Images 2.5 于 2026-09-08 面向全部 ChatGPT / ChatGPT Work / Codex 用户在桌面、移动和网页端推出。API 侧 OpenAI 发布了两个模型:`gpt-image-2.5-flare`(默认选择,画质与编辑能力同步提升,延迟比 GPT Image 2 低 50%)和 `gpt-image-2.5-sunburst`(面向需要跨多次编辑保持精细控制的高端工作流,生成更慢)。**Atlas Cloud 目前两个都还没上**——可用的最新一代是 [GPT Image 2 文生图](https://www.atlascloud.ai/models/openai/gpt-image-2/text-to-image) 与 [图像编辑](https://www.atlascloud.ai/models/openai/gpt-image-2/edit),本仓所有预览图正是在它上面跑出来的。",
+    "**可用性：** Images 2.5 于 2026-09-08 面向全部 ChatGPT / ChatGPT Work / Codex 用户在桌面、移动和网页端推出,API 侧两个模型现在都已上线 Atlas Cloud:[Flare 文生图](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/text-to-image) 与 [Flare 图像编辑](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/edit)——默认选择,画质与编辑能力同步提升、延迟比 GPT Image 2 低 50%;以及 [Sunburst 文生图](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/text-to-image) 与 [Sunburst 图像编辑](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/edit)——面向需要跨多次编辑保持精细控制的高端工作流,生成更慢。",
   capabilityIntro:
     "**取自官方公告:** 参考图保真——你自己照片里的主体换场景、换风格、换构图后依然认得出;精准编辑——只改一个元素,画面其余部分保持不动;多轮一致性——先前的修改在后续编辑中不被破坏、画质不随轮次衰减;对复杂视觉指令、真实世界信息、复杂版式与透明背景的处理更好;对指定风格的贴合度更高。ChatGPT 侧同时上了 Sketch(用 `@Sketch` 手绘参考)、Templates(海报/周边等版式模板)、直接在图上打评论做定点编辑、以及分享提示词。输出带 C2PA 元数据与隐形水印。API 侧新增 `xhigh`、`max` 画质档与任意分辨率(在文档约束内)。",
   referenceBinding: "**参考绑定：** 明确每张参考图控制什么,以及它的哪些特征必须延续下来。",
@@ -183,7 +183,7 @@ const homeCopyZhTw: HomeCopy = {
     "GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖像生成與編輯模型。官方公告主打四點:細節更銳、光影與質感更自然;更好地保留參考照片裡的主體;多輪編輯時更可靠地照做指令;生成延遲相比 Images 2.0 降低最多 50%。",
   promptGuide: "GPT Image 2.5 提示詞指南",
   launchStatus:
-    "**可用性：** Images 2.5 於 2026-09-08 面向全部 ChatGPT / ChatGPT Work / Codex 使用者在桌面、行動與網頁端推出。API 側 OpenAI 發布兩個模型:`gpt-image-2.5-flare`(預設選擇,畫質與編輯能力同步提升,延遲比 GPT Image 2 低 50%)與 `gpt-image-2.5-sunburst`(面向需要跨多次編輯維持精細控制的高階工作流,生成較慢)。**Atlas Cloud 目前兩個都還沒上**——可用的最新一代是 [GPT Image 2 文生圖](https://www.atlascloud.ai/models/openai/gpt-image-2/text-to-image) 與 [圖像編輯](https://www.atlascloud.ai/models/openai/gpt-image-2/edit),本倉所有預覽圖正是在它上面跑出來的。",
+    "**可用性：** Images 2.5 於 2026-09-08 面向全部 ChatGPT / ChatGPT Work / Codex 使用者在桌面、行動與網頁端推出,API 側兩個模型現在都已上線 Atlas Cloud:[Flare 文生圖](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/text-to-image) 與 [Flare 圖像編輯](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/edit)——預設選擇,畫質與編輯能力同步提升、延遲比 GPT Image 2 低 50%;以及 [Sunburst 文生圖](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/text-to-image) 與 [Sunburst 圖像編輯](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/edit)——面向需要跨多次編輯維持精細控制的高階工作流,生成更慢。",
   capabilityIntro:
     "**取自官方公告:** 參考圖保真——你自己照片裡的主體換場景、換風格、換構圖後依然認得出;精準編輯——只改一個元素,畫面其餘部分保持不動;多輪一致性——先前的修改在後續編輯中不被破壞、畫質不隨輪次衰減;對複雜視覺指令、真實世界資訊、複雜版式與透明背景的處理更好;對指定風格的貼合度更高。ChatGPT 側同時上了 Sketch(用 `@Sketch` 手繪參考)、Templates(海報/周邊等版式模板)、直接在圖上留言做定點編輯、以及分享提示詞。輸出帶 C2PA 中介資料與隱形水印。API 側新增 `xhigh`、`max` 畫質檔與任意解析度(在文件約束內)。",
   referenceBinding: "**參考綁定：** 明確每張參考圖控制什麼,以及它的哪些特徵必須延續下來。",
@@ -290,8 +290,8 @@ function renderExecution(locale: string): string {
     ...rows.map((r) => `| ${r[0]} | ${r[1]} | ${r[2]} |`),
     "",
     zh
-      ? "**Atlas Cloud 现状:** 还没有 `gpt-image-2.5-flare` / `sunburst` 端点,可用的最新一代是 GPT Image 2(文生图 / 图像编辑),所以生成按钮先落在它上面。这些提示词在 2.0 上照样能跑,但 2.5 的 `xhigh`/`max` 画质档与任意分辨率要等端点上线。"
-      : "**On Atlas Cloud today:** no `gpt-image-2.5-flare` / `sunburst` endpoints yet; the newest GPT Image generation available is GPT Image 2 (text-to-image / edit), which is where the Generate button lands for now. The prompts still run there, but 2.5's `xhigh`/`max` quality levels and arbitrary resolutions have to wait for the endpoints.",
+      ? "**Atlas Cloud 现状:** `gpt-image-2.5-flare` 与 `sunburst` 的文生图/图像编辑四条路由都已上线,生成按钮默认落在 Flare 文生图(官方口径的默认选择);实测 1024×1024 单价 $0.01817,比 GPT Image 2 的 $0.05768 便宜约三倍。"
+      : "**On Atlas Cloud today:** all four routes are live — text-to-image and edit for both `gpt-image-2.5-flare` and `gpt-image-2.5-sunburst`. The Generate button lands on Flare text-to-image, the default choice in OpenAI's own framing. Measured price at 1024x1024 is $0.01817, about three times cheaper than GPT Image 2 at $0.05768.",
     "",
     `**[→ ${zh ? "获取 Atlas Cloud API Key" : "Get an Atlas Cloud API key"}](https://www.atlascloud.ai/console/api-keys${UTM})**`,
     "",
@@ -306,8 +306,9 @@ function renderMoreTools(locale: string): string {
     renderHeading("resources", `🔗 ${copy.resources}`),
     "",
     `- [${websiteLabel}](${buildAtlasHomepageUrl()})`,
-    `- [Atlas Cloud GPT Image 2 text-to-image](https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/openai/gpt-image-2/text-to-image${UTM})`,
-    `- [Atlas Cloud GPT Image 2 edit](https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/openai/gpt-image-2/edit${UTM})`,
+    `- [Atlas Cloud GPT Image 2.5 Flare text-to-image](https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/openai/gpt-image-2.5-flare/text-to-image${UTM})`,
+    `- [Atlas Cloud GPT Image 2.5 Flare edit](https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/openai/gpt-image-2.5-flare/edit${UTM})`,
+    `- [Atlas Cloud GPT Image 2.5 Sunburst text-to-image](https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/openai/gpt-image-2.5-sunburst/text-to-image${UTM})`,
     "- [OpenAI: Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)",
     "- [Atlas MCP Server](https://github.com/AtlasCloudAI/mcp-server)",
     "- [Atlas CLI](https://github.com/AtlasCloudAI/cli)",

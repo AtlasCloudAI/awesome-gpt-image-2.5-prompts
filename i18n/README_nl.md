@@ -38,7 +38,7 @@
 
 GPT Image 2.5 (announced as ChatGPT Images 2.5 on September 8, 2026) is OpenAI's image model for generation and editing. The announcement leads with four claims: sharper details with more natural lighting and richer textures, better preservation of the subjects in your reference photos, editing instructions followed more reliably across multiple turns, and image generation latency reduced by up to 50% compared with Images 2.0.
 
-**Availability:** Images 2.5 rolled out on September 8, 2026 to all ChatGPT, ChatGPT Work and Codex tiers on desktop, mobile and web. In the API OpenAI released two models: `gpt-image-2.5-flare`, the default choice, with the same quality and editing gains at 50% lower latency than GPT Image 2, and `gpt-image-2.5-sunburst` for premium workflows that want tighter control across edits, at longer generation times. **Atlas Cloud does not serve either one yet**; the newest GPT Image generation there is [GPT Image 2 text-to-image](https://www.atlascloud.ai/models/openai/gpt-image-2/text-to-image) and [edit](https://www.atlascloud.ai/models/openai/gpt-image-2/edit), so that is where the Generate button lands until the 2.5 endpoints arrive.
+**Availability:** Images 2.5 rolled out on September 8, 2026 to all ChatGPT, ChatGPT Work and Codex tiers on desktop, mobile and web, and both API models are now live on Atlas Cloud: [Flare text-to-image](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/text-to-image) and [Flare edit](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/edit) — the default choice, with the quality and editing gains at 50% lower latency than GPT Image 2 — plus [Sunburst text-to-image](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/text-to-image) and [Sunburst edit](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/edit) for premium workflows that want tighter control across edits, at longer generation times.
 
 **From the official announcement:** reference fidelity, so subjects from your own photos stay recognisable across new settings, styles and compositions; precision editing, changing one element while the rest of the frame holds; multi-turn consistency, where earlier edits survive later ones without quality decay; better handling of complex visual instructions, real-world information, complex layouts and transparent backgrounds; and stronger adherence to a named visual style. In ChatGPT it also ships Sketch (draw a reference with `@Sketch`), Templates for formats like Poster and Merch, comments placed directly on an image for focused edits, and prompt sharing. Outputs carry C2PA metadata and invisible watermarking. The API adds `xhigh` and `max` quality levels and arbitrary output resolutions within documented constraints.
 
@@ -82,7 +82,7 @@ The announcement groups 2.5's gains into a handful of capability areas. Decide w
 | Sketch to image | Use Sketch to draw your idea to life | Say the drawing is layout guidance only, then describe the finished materials and light |
 | Template formats | Structure your prompts for better results | Pick the format (Poster, Merch), then fill every information slot |
 
-**On Atlas Cloud today:** no `gpt-image-2.5-flare` / `sunburst` endpoints yet; the newest GPT Image generation available is GPT Image 2 (text-to-image / edit), which is where the Generate button lands for now. The prompts still run there, but 2.5's `xhigh`/`max` quality levels and arbitrary resolutions have to wait for the endpoints.
+**On Atlas Cloud today:** all four routes are live — text-to-image and edit for both `gpt-image-2.5-flare` and `gpt-image-2.5-sunburst`. The Generate button lands on Flare text-to-image, the default choice in OpenAI's own framing. Measured price at 1024x1024 is $0.01817, about three times cheaper than GPT Image 2 at $0.05768.
 
 **[→ Get an Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)**
 
@@ -644,8 +644,9 @@ npx tsc --noEmit
 
 
 - [Atlas Cloud official website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
-- [Atlas Cloud GPT Image 2 text-to-image](https://www.atlascloud.ai/nl/models/openai/gpt-image-2/text-to-image?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
-- [Atlas Cloud GPT Image 2 edit](https://www.atlascloud.ai/nl/models/openai/gpt-image-2/edit?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Atlas Cloud GPT Image 2.5 Flare text-to-image](https://www.atlascloud.ai/nl/models/openai/gpt-image-2.5-flare/text-to-image?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Atlas Cloud GPT Image 2.5 Flare edit](https://www.atlascloud.ai/nl/models/openai/gpt-image-2.5-flare/edit?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Atlas Cloud GPT Image 2.5 Sunburst text-to-image](https://www.atlascloud.ai/nl/models/openai/gpt-image-2.5-sunburst/text-to-image?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
 - [OpenAI: Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
 - [Atlas MCP Server](https://github.com/AtlasCloudAI/mcp-server)
 - [Atlas CLI](https://github.com/AtlasCloudAI/cli)

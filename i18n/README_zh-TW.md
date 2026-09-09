@@ -38,7 +38,7 @@
 
 GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖像生成與編輯模型。官方公告主打四點:細節更銳、光影與質感更自然;更好地保留參考照片裡的主體;多輪編輯時更可靠地照做指令;生成延遲相比 Images 2.0 降低最多 50%。
 
-**可用性：** Images 2.5 於 2026-09-08 面向全部 ChatGPT / ChatGPT Work / Codex 使用者在桌面、行動與網頁端推出。API 側 OpenAI 發布兩個模型:`gpt-image-2.5-flare`(預設選擇,畫質與編輯能力同步提升,延遲比 GPT Image 2 低 50%)與 `gpt-image-2.5-sunburst`(面向需要跨多次編輯維持精細控制的高階工作流,生成較慢)。**Atlas Cloud 目前兩個都還沒上**——可用的最新一代是 [GPT Image 2 文生圖](https://www.atlascloud.ai/models/openai/gpt-image-2/text-to-image) 與 [圖像編輯](https://www.atlascloud.ai/models/openai/gpt-image-2/edit),本倉所有預覽圖正是在它上面跑出來的。
+**可用性：** Images 2.5 於 2026-09-08 面向全部 ChatGPT / ChatGPT Work / Codex 使用者在桌面、行動與網頁端推出,API 側兩個模型現在都已上線 Atlas Cloud:[Flare 文生圖](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/text-to-image) 與 [Flare 圖像編輯](https://www.atlascloud.ai/models/openai/gpt-image-2.5-flare/edit)——預設選擇,畫質與編輯能力同步提升、延遲比 GPT Image 2 低 50%;以及 [Sunburst 文生圖](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/text-to-image) 與 [Sunburst 圖像編輯](https://www.atlascloud.ai/models/openai/gpt-image-2.5-sunburst/edit)——面向需要跨多次編輯維持精細控制的高階工作流,生成更慢。
 
 **取自官方公告:** 參考圖保真——你自己照片裡的主體換場景、換風格、換構圖後依然認得出;精準編輯——只改一個元素,畫面其餘部分保持不動;多輪一致性——先前的修改在後續編輯中不被破壞、畫質不隨輪次衰減;對複雜視覺指令、真實世界資訊、複雜版式與透明背景的處理更好;對指定風格的貼合度更高。ChatGPT 側同時上了 Sketch(用 `@Sketch` 手繪參考)、Templates(海報/周邊等版式模板)、直接在圖上留言做定點編輯、以及分享提示詞。輸出帶 C2PA 中介資料與隱形水印。API 側新增 `xhigh`、`max` 畫質檔與任意解析度(在文件約束內)。
 
@@ -82,7 +82,7 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 | 草图转成图 | Use Sketch to draw your idea to life | 声明手绘只作版式参考,再描述成品的材质与光线 |
 | 版式模板 | Structure your prompts for better results | 先选定格式(海报/周边),再把每一个信息位填满 |
 
-**Atlas Cloud 现状:** 还没有 `gpt-image-2.5-flare` / `sunburst` 端点,可用的最新一代是 GPT Image 2(文生图 / 图像编辑),所以生成按钮先落在它上面。这些提示词在 2.0 上照样能跑,但 2.5 的 `xhigh`/`max` 画质档与任意分辨率要等端点上线。
+**Atlas Cloud 现状:** `gpt-image-2.5-flare` 与 `sunburst` 的文生图/图像编辑四条路由都已上线,生成按钮默认落在 Flare 文生图(官方口径的默认选择);实测 1024×1024 单价 $0.01817,比 GPT Image 2 的 $0.05768 便宜约三倍。
 
 **[→ 获取 Atlas Cloud API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)**
 
@@ -644,8 +644,9 @@ npx tsc --noEmit
 
 
 - [Atlas Cloud 官方網站](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
-- [Atlas Cloud GPT Image 2 text-to-image](https://www.atlascloud.ai/zh-TW/models/openai/gpt-image-2/text-to-image?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
-- [Atlas Cloud GPT Image 2 edit](https://www.atlascloud.ai/zh-TW/models/openai/gpt-image-2/edit?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Atlas Cloud GPT Image 2.5 Flare text-to-image](https://www.atlascloud.ai/zh-TW/models/openai/gpt-image-2.5-flare/text-to-image?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Atlas Cloud GPT Image 2.5 Flare edit](https://www.atlascloud.ai/zh-TW/models/openai/gpt-image-2.5-flare/edit?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Atlas Cloud GPT Image 2.5 Sunburst text-to-image](https://www.atlascloud.ai/zh-TW/models/openai/gpt-image-2.5-sunburst/text-to-image?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)
 - [OpenAI: Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
 - [Atlas MCP Server](https://github.com/AtlasCloudAI/mcp-server)
 - [Atlas CLI](https://github.com/AtlasCloudAI/cli)
