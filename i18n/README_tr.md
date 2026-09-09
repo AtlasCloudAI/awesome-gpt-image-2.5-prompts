@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-289%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-279%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **289** |
+| Total Prompts | **279** |
 | Categories | **4** |
-| Preview Images | **289** |
+| Preview Images | **279** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -114,7 +114,7 @@ Every record keeps its category, source, author, source link, input references a
 
 - [`Reference Fidelity`](#category-1): **41**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **199**
+- [`Style & Intelligence`](#category-3): **189**
 - [`Layout & Typography`](#category-4): **39**
 
 <a id="all-prompts"></a>
@@ -1319,7 +1319,7 @@ Yüzde keskin gölgeler oluşturan, belirli bir açıdan gelen, yumuşatılmamı
 
 <a id="category-3"></a>
 
-### Style & Intelligence (199)
+### Style & Intelligence (189)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -2234,29 +2234,7 @@ Yağmurdan sonra nehir kenarında, üzerinde yağmur damlaları bulunan tek bir 
 雨水滴る一輪のヒガンバナ。屋外の川辺。雨上がりの晴天。ハイクオリティ超美麗リアル2K
 ```
 
-### No. 41: Okul Üniformalı Tayvanlı Kız Yaz Estetiği
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** BubbleBrain
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Kısa saçlı ve çilli, okul üniformalı bir Tayvanlı kızı Japon yaz film fotoğrafçılığı stilinde bir portre için prompt.
-
-#### Prompt
-
-```text
-Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink
-```
-
-### No. 42: Kapanış Sonrası Yağmurlu Sokak Sahnesi
+### No. 41: Kapanış Sonrası Yağmurlu Sokak Sahnesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2280,7 +2258,7 @@ Kapanış saatinden sonra, ıslak yün, cilt ve sokak lambası detaylarına odak
 Rain after closing time. Look at the wet wool, the skin, and the light on the street behind her.
 ```
 
-### No. 43: Rüzgar ve İpek ile Moda Editoryalı
+### No. 42: Rüzgar ve İpek ile Moda Editoryalı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2304,7 +2282,7 @@ Rüzgarla şekillenen üç kişiyi, sert güneş ışığı ve bolca ipek kumaş
 Wind does the styling. A fashion editorial test with three people, hard sunlight, and a lot of silk.
 ```
 
-### No. 44: Tesla Model Y Realist iPhone Fotoğrafı
+### No. 43: Tesla Model Y Realist iPhone Fotoğrafı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2326,7 +2304,7 @@ Bir otoparkta, 0.5x kamera kullanılarak çekilmiş realist bir Tesla Model Y iP
 realistic iphone photo of a tesla model y from parking lot, done with 0.5x camera
 ```
 
-### No. 45: Ay ile Alacakaranlık Eko-Gelecek Şehri
+### No. 44: Ay ile Alacakaranlık Eko-Gelecek Şehri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2354,7 +2332,7 @@ Alacakaranlıkta bir eko-gelecek şehri, dev bir Dünya'ya sahip bir ay şehri, 
 氷晶の聖堂に舞う銀髪の女王
 ```
 
-### No. 46: Yağmurda Ejderhalı Büyük Ordu
+### No. 45: Yağmurda Ejderhalı Büyük Ordu
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2376,7 +2354,7 @@ Alacakaranlıkta bir eko-gelecek şehri, dev bir Dünya'ya sahip bir ay şehri, 
 100人以上の軍勢＋ルナ＋白竜＋日本語看板＋複雑な槍の持ち方＋雨天の反射
 ```
 
-### No. 47: Zıplayan Gri Hollanda Cüce Tavşanı
+### No. 46: Zıplayan Gri Hollanda Cüce Tavşanı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2400,7 +2378,7 @@ Bir tavşanın zıpladığı ve gri bir Hollanda Cüce tavşanının zıpladığ
 グレーのネザーランドドワーフがぴょんぴょん
 ```
 
-### No. 48: Parkta Anime Çift Yüksek Detay
+### No. 47: Parkta Anime Çift Yüksek Detay
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2423,7 +2401,7 @@ Büyük bir parkta gündelik kıyafetler içinde, anime tarzında genç bir erke
 「アニメ風の各々私服姿の少女と青年。大きな公園。2:3の縦長アスペクト比」に「16K超々高解像度で要素を各々具体的に描く。コントラストと彩度を少し高めに」
 ```
 
-### No. 49: Kızıl Köşk Rüyası Uzun Tomar Resmi
+### No. 48: Kızıl Köşk Rüyası Uzun Tomar Resmi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2446,7 +2424,7 @@ Kızıl Köşk'ün Rüyası'ndan bir sahneyi geleneksel bir Çin uzun tomar resm
 尝试把古典文学叙事做成中国传统长卷：从荣府门外的仪仗、元春省亲，到园中宴席、宝黛诗会，再一路延伸到冬日街景。
 ```
 
-### No. 50: Çöl Brutalizm Mimari Serisi
+### No. 49: Çöl Brutalizm Mimari Serisi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2478,7 +2456,7 @@ Desert Brutalism & Monolithic Earth Architecture
 4: Tadao
 ```
 
-### No. 51: Altın Saat Sokak Yürüyüşü Fotoğrafı
+### No. 50: Altın Saat Sokak Yürüyüşü Fotoğrafı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2501,7 +2479,7 @@ Altın saatte ağaçlıklı bir sokakta yürüyen bir kadının foto-gerçekçi 
 A highly photorealistic candid smartphone photograph of a young woman walking slowly through a quiet tree-lined residential street during golden hour. She has medium-length dark chestnut hair styled in a slightly messy half-up hairstyle, with soft
 ```
 
-### No. 52: Lüks Seyahat Afiş Koleksiyonu
+### No. 51: Lüks Seyahat Afiş Koleksiyonu
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2525,7 +2503,7 @@ Santorini, Amalfi Kıyısı ve Paris'ten ilham alan, sofistike bir lüks seyahat
 Premium sophisticated luxury travel-poster collection inspired by Santorini, Amalfi Coast, and Paris, blended together into one unified, breathtaking editorial composition, 3:4 vertical format. Create an original, luxurious travel-art
 ```
 
-### No. 53: Kentsel Parkta Doğal Portre
+### No. 52: Kentsel Parkta Doğal Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2548,7 +2526,7 @@ Güneşli bir öğleden sonra, huzurlu bir kentsel parkta, uzun koyu kahverengi 
 A photorealistic candid outdoor portrait of a young woman standing in a peaceful urban park on a sunny afternoon. She has long dark-brown hair styled in a loose low ponytail, with wispy face-framing strands gently falling across her face.
 ```
 
-### No. 54: Çöl Suikastçısı Karakter Referans Sayfası
+### No. 53: Çöl Suikastçısı Karakter Referans Sayfası
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2570,7 +2548,7 @@ A photorealistic candid outdoor portrait of a young woman standing in a peaceful
 Professional reference sheet, 16:9 cinematic layout. Left half: DESERT ASSASSIN, woman ~28, lithe and deadly, bronze skin, black kohl eyes, midnight blue wrapped silks revealing mirrored-scale armor underneath, curved scimitar with serpent-coil
 ```
 
-### No. 55: Salonda Doğu Asyalı Kadın Moda Fotoğrafı
+### No. 54: Salonda Doğu Asyalı Kadın Moda Fotoğrafı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2592,7 +2570,7 @@ Gece vakti özel bir salonda, güzel bir Doğu Asyalı kadının ultra foto-ger�
 Ultra-photorealistic vertical 9:16 smartphone fashion photo of an exceptionally beautiful adult East Asian woman in an elegant private lounge at night. She has a refined small oval face, luminous fair skin with natural texture, large
 ```
 
-### No. 56: Vintage Seyahat Posta Pulu Sanat Eseri
+### No. 55: Vintage Seyahat Posta Pulu Sanat Eseri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2616,7 +2594,7 @@ Bir ülkenin ikonik simgesel yapısını ve kültürel öğelerini içeren vinta
 Create a sophisticated vintage travel postage-stamp artwork representing [COUNTRY]. Feature the country’s most iconic landmark as the main focal point, surrounded by 3–5 carefully chosen elements that instantly represent the country — landscape, traditional
 ```
 
-### No. 57: İkonik Yapının Vintage Seyahat Afişi
+### No. 56: İkonik Yapının Vintage Seyahat Afişi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2640,7 +2618,7 @@ Tanınabilir bir mimari simgeyi içeren, stilize, el boyaması vintage bir seyah
 Create a sophisticated vintage-inspired travel poster featuring [ICONIC STRUCTURE] as the main focal point. Keep the architecture highly recognizable with accurate proportions and distinctive details, but reinterpret it as a stylized hand-painted
 ```
 
-### No. 58: Otopark Garajında Doğal Moda Portresi
+### No. 57: Otopark Garajında Doğal Moda Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2663,7 +2641,7 @@ Modern bir yeraltı otopark garajında, güzel bir Avrasyalı kadının ultra fo
 Ultra-photorealistic vertical 3:4 candid luxury fashion portrait in a modern underground parking garage. An exceptionally beautiful adult Eurasian woman with refined mixed Asian-European features stands beside a
 ```
 
-### No. 59: El Yapımı Minyatür Yemek Sahnesi
+### No. 58: El Yapımı Minyatür Yemek Sahnesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2687,7 +2665,7 @@ Seramik bir tabak üzerinde belirli bir yemek yemeğini içeren büyüleyici bir
 Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden
 ```
 
-### No. 60: Mağaza Cephesi Minyatür Dioraması
+### No. 59: Mağaza Cephesi Minyatür Dioraması
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2712,7 +2690,7 @@ Tanınabilir bir mağaza veya markanın tuhaf bir 3B kil minyatür dioramasını
 Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors
 ```
 
-### No. 61: İkonik Yapı Minyatür Dioraması
+### No. 60: İkonik Yapı Minyatür Dioraması
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2737,7 +2715,7 @@ Merkezde ikonik bir yapı içeren, detaylı ve samimi bir minyatür dünya yarat
 Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations
 ```
 
-### No. 62: Asimetrik Yüksek Moda Stüdyo Portresi
+### No. 61: Asimetrik Yüksek Moda Stüdyo Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2759,7 +2737,7 @@ Beyaz bir stüdyo arka planı önünde, asimetrik bir kompozisyonla bir erkeğin
 Create a high-fashion editorial close-up portrait of an adult man against a seamless pure white studio background. Use an intentionally asymmetric composition:
 ```
 
-### No. 63: Rüzgarla Oyulmuş Beyaz Labirent Manzarası
+### No. 62: Rüzgarla Oyulmuş Beyaz Labirent Manzarası
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2798,7 +2776,7 @@ Zamanla rüzgar erozyonuyla oluşmuş beyaz bir labirent manzarası oluşturmak 
 その違いだけで、
 ```
 
-### No. 64: Beyaz Ejderha Şövalyesi ve Küçük Taş
+### No. 63: Beyaz Ejderha Şövalyesi ve Küçük Taş
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2820,7 +2798,7 @@ Geceleyin, bir düşman tarafından değil de tek bir küçük taş tarafından 
 「痛みの正体は、だいたい小さい。」 白竜騎士の夜。 巡回を止めたのは、敵ではなく小石一個だった。
 ```
 
-### No. 65: Özgüvenli Adam Editöryel Portresi
+### No. 64: Özgüvenli Adam Editöryel Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2842,7 +2820,7 @@ Kısa siyah saçlı, özgüvenli bir adamın premium editöryel tarzda stüdyo p
 Create an ultra-realistic close-up studio portrait of an adult man with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style. Give him neatly short black hair.
 ```
 
-### No. 66: Tam Vücut Stüdyo Moda Portresi
+### No. 65: Tam Vücut Stüdyo Moda Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2864,7 +2842,7 @@ Sıcak, düz bir stüdyo ortamında, özgüvenli bir erkek modelin tam vücut po
 Create an ultra-realistic full-body studio fashion portrait of an adult man standing confidently against a seamless warm light-beige studio background. Position the man in the
 ```
 
-### No. 67: Lüks Seyahat Kampanyası Şaheseri
+### No. 66: Lüks Seyahat Kampanyası Şaheseri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2889,7 +2867,7 @@ Alp, Dubai ve Avrupa şato deneyimlerini birleştiren sofistike bir lüks yaşam
 Premium sophisticated luxury lifestyle travel-campaign masterpiece combining an exclusive Alpine lakeside mountain retreat, a breathtaking Dubai waterfront luxury escape, and multiple elegant European lakeside chalet experiences into one
 ```
 
-### No. 68: Mavi Büyücü Ustasının Sabah Rutini
+### No. 67: Mavi Büyücü Ustasının Sabah Rutini
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2911,7 +2889,7 @@ Mavi Büyücü Ustasının, tarakların, saç bantlarının ve ayakkabı bağlar
 「朝の支度に、手は要らなかった。」 青魔導士マスターの朝。 報告書を読む間に、櫛も髪紐も靴紐も仕事を終える。
 ```
 
-### No. 69: Beyaz Tebeşir Kıyısına Varış
+### No. 68: Beyaz Tebeşir Kıyısına Varış
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2933,7 +2911,7 @@ Bir geminin, beyaz toprak, tuz ve kireçtaşından oluşan, ötesinde görünmey
 白い大地に船が着く。海を渡った先に、砂ではなく、白い大地が待っていた。塩と石灰に覆われた岸。風に削られた白い岩。その向こうには、まだ見たことのない土地が続いている。昨日まで白紙だった地図に、
 ```
 
-### No. 70: Deniz Elf'i Balıkçı Karakter Portresi
+### No. 69: Deniz Elf'i Balıkçı Karakter Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2967,7 +2945,7 @@ TRPG人外図鑑 FILE.022｜リゼア
 《潮見浜》で今日も海を見る、ひとりの漁師です。
 ```
 
-### No. 71: Profesyonel Stüdyo Baş Çekim Portresi
+### No. 70: Profesyonel Stüdyo Baş Çekim Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2989,7 +2967,7 @@ Yetişkin bir erkeğin profesyonel stüdyo baş çekim portresini oluşturmak i�
 Create an ultra-realistic professional studio headshot portrait of an adult man photographed against a
 ```
 
-### No. 72: Lüks Modern İç Mekanda Özgüvenli Adam
+### No. 71: Lüks Modern İç Mekanda Özgüvenli Adam
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3011,7 +2989,7 @@ Koyu ahşap bir kapı aralığı ve büyük bir aynanın bulunduğu lüks modern
 Create an ultra-realistic premium lifestyle portrait of an adult man standing confidently inside a luxurious modern interior near a dark wooden doorway and a large floor-to-ceiling mirror.
 ```
 
-### No. 73: Fantastik Mızraklı Savaşçının Masada Uyuması
+### No. 72: Fantastik Mızraklı Savaşçının Masada Uyuması
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3036,7 +3014,7 @@ Mızraklı bir savaşçının gecesini, doğaüstü bir haritanın öncesinde bi
 異世界の地図より先に、机の木目を頬で覚えた。
 ```
 
-### No. 74: Gölgede Dinlenen Ejderha Şövalyesi
+### No. 73: Gölgede Dinlenen Ejderha Şövalyesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3058,7 +3036,7 @@ Bir harita ve sert ekmekle, bir ejderhanın kanadı altında mola veren iki ejde
 「日陰くらい、借りてもええか。」 双竜騎士の昼。 レシックの右翼の下で、地図と硬いパンをひらく。
 ```
 
-### No. 75: Rahat Akşam Kütüphanesinde Şık Adam
+### No. 74: Rahat Akşam Kütüphanesinde Şık Adam
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3080,7 +3058,7 @@ Akşamüstü erken saatlerde, lüks bir kütüphane salonunda dinlenen bir erke�
 Create an ultra-realistic lifestyle portrait of a stylish adult man relaxing in a cozy upscale library lounge during the early evening. Position him seated comfortably in a vintage cognac-brown leather armchair, holding a book, with soft ambient lighting from a nearby floor lamp and a warm fireplace glow. The atmosphere is serene and sophisticated, with rich wood shelves filled with books in the background.
 ```
 
-### No. 76: Sonbahar Gecesinde Dullahan Posta Taşıyıcısı
+### No. 75: Sonbahar Gecesinde Dullahan Posta Taşıyıcısı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3102,7 +3080,7 @@ Bir gece posta taşıyıcısı, gece gökyüzü altında kırmızı örümcek za
 秋の夜。彼岸花の咲く街道を歩く、夜間郵便配達人エルネ。街が眠ってからも、届ける手紙があります。エルネ／デュラハン／夜間郵便配達人
 ```
 
-### No. 77: Bordo Renginde Tam Boy Editorial Portre
+### No. 76: Bordo Renginde Tam Boy Editorial Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3124,7 +3102,7 @@ Minimalist bir stüdyo ortamında oturan, temiz bir takım elbise giymiş, kendi
 Create an ultra-realistic full-body editorial studio portrait of a stylish adult Black man seated confidently on a minimalist
 ```
 
-### No. 78: Mavi Büyücü Ustasının Öğleden Sonrası
+### No. 77: Mavi Büyücü Ustasının Öğleden Sonrası
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3146,7 +3124,7 @@ Sihrin, güneş ışığını ve arnavut kaldırımlarını ona ulaşmadan önce
 「歩ける。でも、歩く理由がなかった。」 青魔導士マスターの午後。 日差しも石畳も、彼女へ届く前に魔法が片づける。
 ```
 
-### No. 79: Alevlerle Çatlamış Toprak Üzerinde Gün Batımı
+### No. 78: Alevlerle Çatlamış Toprak Üzerinde Gün Batımı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3168,7 +3146,7 @@ Yer çatlaklarından ince alevlerin yükseldiği ve uzakta Hazar Denizi'nin gör
 夕暮れの荒野で、地面の亀裂から細い炎が静かに揺れていた。噴火でも、焚き火でもない。大地の奥から染み出したものが、ただ燃え続けている。遠くには、夕日に染まるカスピ海。土も、水も、火も、
 ```
 
-### No. 80: Altın Gün Batımında Antika Yelkenli Gemi
+### No. 79: Altın Gün Batımında Antika Yelkenli Gemi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3190,7 +3168,7 @@ Dramatik bir okyanus gün batımı sahnesinde, ultra gerçekçi bir antika ahşa
 Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a magnificent vintage wooden sailing ship dominating the left foreground. The ship has multiple tall wooden masts, intricate rigging, ropes, detailed weathered wooden textures and large
 ```
 
-### No. 81: Kanat Yaralanmasını Kontrol Eden Beyaz Ejderha Şövalyesi
+### No. 80: Kanat Yaralanmasını Kontrol Eden Beyaz Ejderha Şövalyesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3212,7 +3190,7 @@ Ay ışığıyla aydınlanan bir ejderha ahırında, bir Beyaz Ejderha Şövalye
 「眠ってる間に、少しだけ診せてな。」 月夜の竜舎。 白竜騎士マスターは、レシックを起こさないよう左翼の傷を確かめる。
 ```
 
-### No. 82: Volkanik Şehirde Mavi Seyahat Kumaşını Tamir Eden Gezgin
+### No. 81: Volkanik Şehirde Mavi Seyahat Kumaşını Tamir Eden Gezgin
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3234,7 +3212,7 @@ Ay ışığıyla aydınlanan bir ejderha ahırında, bir Beyaz Ejderha Şövalye
 「裂けたなら、縫えばええ。」 火山都市の午後。 遠い山を眺める前に、旅を支える青い布を直す。
 ```
 
-### No. 83: Bir Mızrakçı ile Ayna Dünyasında Sabah
+### No. 82: Bir Mızrakçı ile Ayna Dünyasında Sabah
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3256,7 +3234,7 @@ En büyük unvanını kaybetmiş bir mızrakçının, bir ayna dünyasının sab
 「泥は、歩いた分だけつく。」 ミラ世界の朝。 最強の肩書きを失った槍兵は、濡れた靴紐から一日を始める。
 ```
 
-### No. 84: Şafak Öncesi Mavi Büyücü Usta Luna
+### No. 83: Şafak Öncesi Mavi Büyücü Usta Luna
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3278,7 +3256,7 @@ Vücuduna ihtiyaç duyulmadığı bir zamandan, kitaplar, bir sandalye ve çay e
 「手を伸ばす必要なんて、なかった。」 夜明け前の青魔導士マスター・ルナ。 本も椅子も紅茶も、彼女の身体を必要としていなかった頃。
 ```
 
-### No. 85: Ateşin Yerden Sızdığı Manzara
+### No. 84: Ateşin Yerden Sızdığı Manzara
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3315,7 +3293,7 @@ Kurak bir vahşi doğada ateşin yerden sızdığı, gri çamurun aktığı ve u
 その奥ではずっと生きている。
 ```
 
-### No. 86: Gece Kara Ejderha Şövalyesi Luna
+### No. 85: Gece Kara Ejderha Şövalyesi Luna
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3337,7 +3315,7 @@ Gece vakti, mızrak nasırlarını kontrol eden Kara Ejderha Şövalyesi Luna'n�
 「今日も、この手で届いた。」 夜の黒竜騎士ルナ。 槍だこを確かめる隣で、エル・ドラゴは先に眠った。
 ```
 
-### No. 87: İyi Bir Yerde Frieren ve Fern
+### No. 86: İyi Bir Yerde Frieren ve Fern
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3359,7 +3337,7 @@ Fern ve Frieren karakterleri arasındaki bir konuşmayı betimleyen, SFW (Güven
 フェルン『良い場所ですねフリーレン様』 フリーレン『…そうだね』 SFW illustration
 ```
 
-### No. 88: Rüzgar ve Yağmurla Oyulmuş Tepeler
+### No. 87: Rüzgar ve Yağmurla Oyulmuş Tepeler
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3381,7 +3359,7 @@ Yeşilin solduğu, rüzgar ve yağmurla oyulmuş tepelerde toprak rengi, pas ren
 森を抜けると、景色から緑が少しずつ消えていった。代わりに現れたのは、黄土色。錆色。灰白色。淡い緑。風と雨に削られた丘には、大地そのものの時間が幾重にも重なっている。道はその色の間を縫いながら、
 ```
 
-### No. 89: Bambu Gölgeleri Önünde Yelpazeli Kadim Kadın
+### No. 88: Bambu Gölgeleri Önünde Yelpazeli Kadim Kadın
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3406,7 +3384,7 @@ Beyaz bir duvar ve bambu gölgeleri önünde, yuvarlak bir yelpazeye sahip klasi
 主体内容：一位手持圆形团扇的古风女子站在白墙竹影前
 ```
 
-### No. 90: Polis Kurtarma Robotları Can Salını Çekiyor
+### No. 89: Polis Kurtarma Robotları Can Salını Çekiyor
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3431,7 +3409,7 @@ Tokyo Polisi Ağır Makine Robot Ekibi'nin bir can salını çekerek tahliye edi
 　　避難者を救助します。
 ```
 
-### No. 91: Kentsel Gözlemevi Gündüz CCD Fotoğrafı
+### No. 90: Kentsel Gözlemevi Gündüz CCD Fotoğrafı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3458,7 +3436,7 @@ GPT Image 2生成日间高亮CCD生活照。
 服装方向：樱桃红色修身方领无袖针织上衣 + 冷白色高腰修身短裤
 ```
 
-### No. 92: Dikey iPhone Yaşam Tarzı Portresi
+### No. 91: Dikey iPhone Yaşam Tarzı Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3480,7 +3458,7 @@ Genç bir kadının gerçekçi, doğal bir iPhone tarzı portresini oluşturmak 
 9:16 竖版，真实 iPhone 手机随手拍摄的生活感女性照片，画面主体是一位视觉年龄约 20–26
 ```
 
-### No. 93: Yeni Çin Tarzı Çiçekli Pencere Afişi
+### No. 92: Yeni Çin Tarzı Çiçekli Pencere Afişi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3507,7 +3485,7 @@ Yeşim yeşili çiçekli bir pencerenin yanında duran klasik bir kadını içer
 构图与空间：9:16
 ```
 
-### No. 94: Doğu Asyalı Kadının Fotoğraf Gerçekçiliğinde Editoryal Portresi
+### No. 93: Doğu Asyalı Kadının Fotoğraf Gerçekçiliğinde Editoryal Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3536,7 +3514,7 @@ Knee-up cowboy shot, eye-level view.
 A 20-year-old adult East Asian woman, small near-round oval face with full low cheeks, large level warm gray-brown round eyes, short low-bridge nose, small even rose-pink lips, luminous
 ```
 
-### No. 95: Polis Ağır Makine Birimi Robotları Nehri Temizliyor
+### No. 94: Polis Ağır Makine Birimi Robotları Nehri Temizliyor
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3561,7 +3539,7 @@ Polis ağır makine birimine ait bir robot müfrezesinin, bir nehri tıkayan ç�
 　　ゴミを片付けています。
 ```
 
-### No. 96: Kalp-Oval Yüzlü Fotoğraf Gerçekçiliğinde Editoryal Portre
+### No. 95: Kalp-Oval Yüzlü Fotoğraf Gerçekçiliğinde Editoryal Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3590,7 +3568,7 @@ Knee-up cowboy shot, eye-level view.
 A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, warm hazel almond eyes with lifted corners, slim medium-bridge nose, full coral-rose lips with a plush lower lip,
 ```
 
-### No. 97: Genç Bir Kadının iPhone Portresi
+### No. 96: Genç Bir Kadının iPhone Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3612,7 +3590,7 @@ A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, war
 9:16 竖版，真实 iPhone 手机普通主摄随手拍摄的生活感女性照片，一位视觉年龄约 20–26
 ```
 
-### No. 98: Yazın Su Kenarında Zen Kadını
+### No. 97: Yazın Su Kenarında Zen Kadını
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3639,7 +3617,7 @@ Su kenarında, minimalist ve ferahlatıcı bir tarzda bir kadını betimleyen, D
 构图与空间：9:16
 ```
 
-### No. 99: Doğu Asyalı Kadının Cowboy Çekim Portresi
+### No. 98: Doğu Asyalı Kadının Cowboy Çekim Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3666,7 +3644,7 @@ Knee-up cowboy shot, waist-level view.
 A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed chin, wide-set gray-hazel almond eyes with lifted corners, narrow-bridge rounded-tip nose, full coral-brick
 ```
 
-### No. 100: Kentsel Çatı Katı Kitap Kafe Moda Çekimi
+### No. 99: Kentsel Çatı Katı Kitap Kafe Moda Çekimi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3691,7 +3669,7 @@ Kentsel, sanatsal bir mekan ve belirli kıyafetlerle, parlak, gündüz vakti CCD
 服装方向：蓝莓紫色修身方领短袖针织上衣 + 奶油白高腰A字短裙
 ```
 
-### No. 101: Doğu Asyalı Kadının Fotoğraf Gerçekçiliğinde Editoryal Portresi
+### No. 100: Doğu Asyalı Kadının Fotoğraf Gerçekçiliğinde Editoryal Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3715,36 +3693,7 @@ Belirli yüz özelliklerine sahip genç bir Doğu Asyalı kadının diz üstü, 
 Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, waist-level view. A 20-year-old adult East Asian woman, petite oval face with full cheeks, large slightly close-set round gray-brown eyes, tiny beauty mark near the outer cheek, cushioned slightly parted rose
 ```
 
-### No. 102: Gözlüklü ve Baştan Çıkarıcı Kadın Editoryal Portresi
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Gözlük ve kulak kelepçesi takan, 20'li yaşlarında, baştan çıkarıcı bir Japon veya Koreli kadının fotoğraf gerçekçiliğinde editoryal portresini oluşturmak için bir istem.
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait.
-
-Knee-up cowboy shot, waist-level view.
-
-A 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along
-```
-
-### No. 103: Oryantal Zen Minimalist Kapak Afişi
+### No. 101: Oryantal Zen Minimalist Kapak Afişi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3771,57 +3720,7 @@ Kiraz çiçekleriyle süslü mavi bir kapıdan geçen zarif, kadim tarzda bir ka
 构图与空间：9:16
 ```
 
-### No. 104: Tam Vücut Önden Editoryal Portre
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-20'li yaşlarında, baştan çıkarıcı bir kadının önden çekilmiş, fotoğraf gerçekçiliğinde, tam vücut editoryal portresini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive
-```
-
-### No. 105: Önden Diz Üstü 'Cowboy Shot' Portre
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Fotoğraf gerçekçiliğinde editoryal tarzda, baştan çıkarıcı genç bir Japon kadının eğik, önden diz üstü portresi için bir prompt.
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese
-```
-
-### No. 106: Polis Ağır Makine Birimi Robot Ekibi
+### No. 102: Polis Ağır Makine Birimi Robot Ekibi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3846,7 +3745,7 @@ Ağır Makine Karşı Tedbirler Birimi'ne ait bir polis robot ekibinin, şiddetl
 　　道路からの車両の移動
 ```
 
-### No. 107: Gündüz Parlak CCD Kent Spor Yaşam Fotoğrafı
+### No. 103: Gündüz Parlak CCD Kent Spor Yaşam Fotoğrafı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3872,7 +3771,7 @@ Kentsel bir spor ortamında, parlak gündüz ışığında CCD tarzı bir yaşam
 气质标签：活力、明亮、健康、甜酷、自然
 ```
 
-### No. 108: Zen Minimalist Dikey Kapak Posteri
+### No. 104: Zen Minimalist Dikey Kapak Posteri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3894,7 +3793,7 @@ Modern Doğulu kadın estetiği ve sabah havasına sahip, minimalist, parlak ve 
 东方禅意极简封面海报，女性审美明亮型，新中式清晨感高颜值封面。9:16 竖版构图，整体画面轻盈、清透、干净、明亮，具有现代东方女性审美与小红书封面感。
 ```
 
-### No. 109: Yuvarlak Pencerenin Yanında Oturan Kadın
+### No. 105: Yuvarlak Pencerenin Yanında Oturan Kadın
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3920,7 +3819,7 @@ Yuvarlak bir pencerenin yanında dinlenen bir kadını konu alan, Doğulu Zen mi
 场景与意象：圆窗、蜜瓜绿色窗外植物、樱花粉小花、白色坐垫、女子
 ```
 
-### No. 110: Kontrolsüz Kamyonu Durdurmaya Çalışan Polis Robot Müfrezesi
+### No. 106: Kontrolsüz Kamyonu Durdurmaya Çalışan Polis Robot Müfrezesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3945,7 +3844,7 @@ Ağır Makine Karşı Tedbirler Birimi'ne ait bir polis robot müfrezesinin, kon
 　　なんとか停止させる
 ```
 
-### No. 111: Genç Kadının Tam Vücut Editoryal Portresi
+### No. 107: Genç Kadının Tam Vücut Editoryal Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3970,32 +3869,7 @@ Halka küpeler takan genç bir Japon veya Koreli kadının, göz hizasında çek
 Create a photorealistic editorial portrait. Full-body portrait, eye-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with medium smooth hoop earrings, clean polished metal circular silhouette.
 ```
 
-### No. 112: Fotoğraf Gerçekçiliğinde Editoryal 'Cowboy Shot' Portre
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Belirli takılar ve kadrajla, genç bir Japon veya Koreli kadının fotoğraf gerçekçiliğinde editoryal portresini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck
-```
-
-### No. 113: Gözlüklü Fotoğraf Gerçekçiliğinde Bel Üstü Portre
+### No. 108: Gözlüklü Fotoğraf Gerçekçiliğinde Bel Üstü Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4020,7 +3894,7 @@ Cesur, beyaz kalın çerçeveli gözlükler takan genç bir Japon veya Koreli ka
 Create a photorealistic editorial portrait. Waist-up portrait, knee-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with white frame, bold thick-frame glasses, worn normally on the face, lenses aligned
 ```
 
-### No. 114: Kadın ve Rüzgar Çanı İçeren Zen Minimalist Kapak Posteri
+### No. 109: Kadın ve Rüzgar Çanı İçeren Zen Minimalist Kapak Posteri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4046,7 +3920,7 @@ Minimalist Doğulu Zen tarzında, bir pencerenin yanında rüzgar çanına dokun
 场景与意象：海盐蓝窗外色块、珊瑚粉花影、白色窗框、风铃、女子
 ```
 
-### No. 115: Yeşil Bitki Örtüsüyle Kaplı Post-Apokaliptik Şehir
+### No. 110: Yeşil Bitki Örtüsüyle Kaplı Post-Apokaliptik Şehir
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4068,30 +3942,7 @@ Minimalist Doğulu Zen tarzında, bir pencerenin yanında rüzgar çanına dokun
 废土风：一张废土城市的照片，画面中充满了绿色的植被，细节非常丰富，地址为中国深圳。
 ```
 
-### No. 116: Altın Saatlerde Çatıda Akıllı Telefon Selfiesi
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Mr Das
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_1.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Gün batımında bir çatıda, genç bir kadının akıllı telefonla çektiği selfie için bir prompt.
-
-#### Prompt
-
-```text
-Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.
-```
-
-### No. 117: Tanuki Benzeri Yüze Sahip Japon Kadını Geceleyin
+### No. 111: Tanuki Benzeri Yüze Sahip Japon Kadını Geceleyin
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4113,7 +3964,7 @@ Sessiz bir gece ortamında, tanuki benzeri yüze sahip kurgusal genç bir Japon 
 Photorealistic natural photo of a completely fictional 20-year-old adult Japanese woman. She has an extremely cute tanuki-like face, a soft round face and cheeks, gentle round eyes, and dark brown hair. At night on a quiet
 ```
 
-### No. 118: Cam Akvaryumdaki Kadınların Yunus Bakış Açısı
+### No. 112: Cam Akvaryumdaki Kadınların Yunus Bakış Açısı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4138,7 +3989,7 @@ Kalabalık, yalnızca kadınlara açık bir akvaryumu ziyaret eden kadınlara, 3
 女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
 ```
 
-### No. 119: Beyaz Torsolu Manken Üzerinde İç Çamaşırı Seti
+### No. 113: Beyaz Torsolu Manken Üzerinde İç Çamaşırı Seti
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4160,7 +4011,7 @@ Temiz beyaz bir manken üzerinde soluk pembe dantelli bir iç çamaşırı setin
 A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
 ```
 
-### No. 120: Polimer Kil Minyatür Marka Mağaza Sahnesi
+### No. 114: Polimer Kil Minyatür Marka Mağaza Sahnesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4185,7 +4036,7 @@ Samimi kaldırım detaylarına sahip bir marka mağazasının minyatür kil mode
 Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
 ```
 
-### No. 121: Eğimli Zemin Çekimli Moda Reklamı
+### No. 115: Eğimli Zemin Çekimli Moda Reklamı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4208,7 +4059,7 @@ Kobalt mavisi gökyüzü önünde canlı giysiler içindeki altı kişiyi, alça
 这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
 ```
 
-### No. 122: Kiraz Çiçekleriyle El Çizimi Anime Düellosu
+### No. 116: Kiraz Çiçekleriyle El Çizimi Anime Düellosu
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4231,32 +4082,7 @@ Düşen kiraz çiçekleri altında, katanalı bir kadının bir kılıç ustası
 来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
 ```
 
-### No. 123: Mermer Desenli Bluz ile Gotik Lolita Modası
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** towa💎AIart
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Neon mor ve turuncu mermer desenli bir bluz ile gotik lolita moda kıyafetini betimleyen bir görsel oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black
-```
-
-### No. 124: Siyah Lanetli Gelin Gotik Gelinlik
+### No. 117: Siyah Lanetli Gelin Gotik Gelinlik
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4280,7 +4106,7 @@ Karanlık romantik zarafete sahip, gotik Cadılar Bayramı korku gelin kostümü
 [concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
 ```
 
-### No. 125: Doğu Asyalı Kadının Kasvetli Sinematik Portresi
+### No. 118: Doğu Asyalı Kadının Kasvetli Sinematik Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4305,7 +4131,7 @@ Soluk tenli, uzun siyah saçlı genç bir Doğu Asyalı kadının yüksek kontra
 A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
 ```
 
-### No. 126: Islak Yaya Geçidinde Sinematik Gece Sokak Portresi
+### No. 119: Islak Yaya Geçidinde Sinematik Gece Sokak Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4330,7 +4156,7 @@ Gece vakti ıslak bir yaya geçidinde, genç bir Doğu Asyalı kadının sinemat
 A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
 ```
 
-### No. 127: Parlayan Altın Gözlerle Yakın Çekim Portre
+### No. 120: Parlayan Altın Gözlerle Yakın Çekim Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4355,7 +4181,7 @@ Simsiyah saçlı ve parlayan altın gözlü genç bir Doğu Asyalı kadının si
 Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
 ```
 
-### No. 128: Gözlüklü ve Göz Kırpan Fotoğraf Gerçekçiliğinde Portre
+### No. 121: Gözlüklü ve Göz Kırpan Fotoğraf Gerçekçiliğinde Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4380,7 +4206,7 @@ Gözlükleri ve dalgalı saçları olan, yumuşakça göz kırpan genç bir Doğ
 Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
 ```
 
-### No. 129: Dağınık Saçlı Analog-Film Tarzı Portre
+### No. 122: Dağınık Saçlı Analog-Film Tarzı Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4405,7 +4231,7 @@ Kameraya bakan, dağınık siyah saçlı genç bir Doğu Asyalı kadının foto�
 A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
 ```
 
-### No. 130: Karanlık Suda Süzülen Sinematik Portre
+### No. 123: Karanlık Suda Süzülen Sinematik Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4430,7 +4256,7 @@ Durgun suda, ıslak saçlarıyla süzülen huzurlu bir genç kadının sinematik
 Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
 ```
 
-### No. 131: Yandan Örgülü Stüdyo Güzellik Portresi
+### No. 124: Yandan Örgülü Stüdyo Güzellik Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4455,7 +4281,7 @@ Parlak cilt, uzun siyah saç ve kapalı gözleri olan genç bir Doğu Asyalı ka
 A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
 ```
 
-### No. 132: Arabada Başörtülü Kadın Portresi
+### No. 125: Arabada Başörtülü Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4480,7 +4306,7 @@ Açık bej rengi bir başörtüsü takan, arabadaki genç bir Doğu Asyalı kad�
 Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
 ```
 
-### No. 133: Başörtüsüyle Selfie Çeken Kadın
+### No. 126: Başörtüsüyle Selfie Çeken Kadın
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4505,7 +4331,7 @@ Ahşap bir masada, açık renk bir başörtüsüyle selfie çeken genç bir kad�
 A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
 ```
 
-### No. 134: Omzunun Üzerinden Bakan Kadın Portresi
+### No. 127: Omzunun Üzerinden Bakan Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4530,7 +4356,7 @@ Omzunun üzerinden bakan genç bir Doğu Asyalı kadının fotoğraf gerçekçil
 A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
 ```
 
-### No. 135: Gözlüklü Kadın Portresi
+### No. 128: Gözlüklü Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4555,32 +4381,7 @@ Gözlükleri, dalgalı saçları ve sakin bir ifadesi olan genç bir Doğu Asyal
 Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
 ```
 
-### No. 136: Genç Kızın Yakın Plan Portresi
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Belirli yüz hatları ve ifadesine sahip genç bir Doğu Asyalı kızın yakın plan portresini oluşturmak için detaylı bir prompt.
-
-#### Prompt
-
-```text
-A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly
-```
-
-### No. 137: Canlı Rujlu Yakın Plan Portre
+### No. 129: Canlı Rujlu Yakın Plan Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4605,7 +4406,7 @@ Porselen cilt, badem gözler ve canlı ruju olan genç bir Doğu Asyalı kadın�
 Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
 ```
 
-### No. 138: Islak Saçlı ve Çıplak Omuzlu Portre
+### No. 130: Islak Saçlı ve Çıplak Omuzlu Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4630,7 +4431,7 @@ Nemli cilt ve ıslak siyah saçları olan, omzunun üzerinden bakan genç bir ka
 photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
 ```
 
-### No. 139: Doğu Asyalı Kadının Sinematik Portresi
+### No. 131: Doğu Asyalı Kadının Sinematik Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4655,7 +4456,7 @@ Siyah bir fon önünde, uzun koyu dalgalı saçları olan genç bir Doğu Asyal�
 A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
 ```
 
-### No. 140: Gözlüklü Fotoğraf Gerçekçiliğinde Portre
+### No. 132: Gözlüklü Fotoğraf Gerçekçiliğinde Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4680,7 +4481,7 @@ Uzun dalgalı saç, yuvarlak gözlük ve yumuşak bir ifadeye sahip genç bir Do
 A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
 ```
 
-### No. 141: Bal Rengi Işıltılı Sinematik Portre
+### No. 133: Bal Rengi Işıltılı Sinematik Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4705,7 +4506,7 @@ Dalgalı açık kahverengi saç ve sakin bir ifadeye sahip genç bir Doğu Asyal
 Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
 ```
 
-### No. 142: Bob Saç Kesimli Fotoğraf Gerçekçiliğinde Portre
+### No. 134: Bob Saç Kesimli Fotoğraf Gerçekçiliğinde Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4730,7 +4531,7 @@ Kısa siyah bob saç kesimi, dumanlı göz farı ve ışıltılı cilt ile genç
 Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
 ```
 
-### No. 143: Hijab ve Şapkalı Kadın Portresi
+### No. 135: Hijab ve Şapkalı Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4755,7 +4556,7 @@ Açık tenli, sakin bir ifadeye sahip genç bir kadının yakın plan portresi; 
 A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
 ```
 
-### No. 144: Şifon Hijablı Selfie Portresi
+### No. 136: Şifon Hijablı Selfie Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4780,32 +4581,7 @@ Açık tenli, narin hatlara sahip genç bir Doğu Asyalı kadının yakın plan 
 Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
 ```
 
-### No. 145: Endonezyalı Kadın Portresi
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Açık tenli, yumuşak makyajlı ve dağınık koyu saçlı, güzel genç bir Endonezyalı kadının portresini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.
-```
-
-### No. 146: Gözyaşlı Doğu Asyalı Kadının Sinematik Portresi
+### No. 137: Gözyaşlı Doğu Asyalı Kadının Sinematik Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4830,7 +4606,7 @@ Parlak, gözyaşı izli bir cilde ve ince, dağınık kaküllere sahip genç bir
 A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
 ```
 
-### No. 147: Mücevherli Dantel Göz Bandı Takan Kadın Portresi
+### No. 138: Mücevherli Dantel Göz Bandı Takan Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4855,7 +4631,7 @@ Soluk tenli, siyah bob saçlı genç bir kadının yakın plan portresi; biri k�
 A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
 ```
 
-### No. 148: Dağınık Saçlı Yoğun Sinematik Portre
+### No. 139: Dağınık Saçlı Yoğun Sinematik Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4880,7 +4656,7 @@ Uzun siyah saçlı genç bir kadının yakın plan sinematik portresi; doğrudan
 Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
 ```
 
-### No. 149: Parlak Koyu Saçlı Yakın Plan Portre
+### No. 140: Parlak Koyu Saçlı Yakın Plan Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4905,7 +4681,7 @@ Açık tenli ve uzun koyu saçlı genç bir kadının portresini oluşturmak iç
 A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
 ```
 
-### No. 150: Güneşten Yanmış, Ter Parıltılı Gülümseyen Portre
+### No. 141: Güneşten Yanmış, Ter Parıltılı Gülümseyen Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4930,32 +4706,7 @@ Dağınık siyah saçlı, kısarak bakan ve gülümseyen, yanakları kızarmış
 Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
 ```
 
-### No. 151: İnce Kaküllü ve Samimi Bakışlı Portre
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Koyu saçlı, ince kaküllü ve samimi bir bakışa sahip genç bir Doğu Asyalı kadının yakın plan portresini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.
-```
-
-### No. 152: Kanatlı Eyelinerlı Etkileyici Portre
+### No. 142: Kanatlı Eyelinerlı Etkileyici Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4980,7 +4731,7 @@ Belirli yüz hatları ve makyajı olan genç bir Güneydoğu Asyalı kadının y
 A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
 ```
 
-### No. 153: Öpücük İfadeli Selfie Portresi
+### No. 143: Öpücük İfadeli Selfie Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5003,7 +4754,7 @@ Gözleri kapalı ve rahat bir ifadeye sahip genç bir Doğu Asyalı kadının ya
 Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
 ```
 
-### No. 154: Gülümseyen Genç Kadın Portresi
+### No. 144: Gülümseyen Genç Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5028,7 +4779,7 @@ Açık bir cilt tonu, yumuşak makyaj ve nazik, dostane bir ifadeye sahip genç 
 A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
 ```
 
-### No. 155: Yarı Topuz Saçlı Kadının Selfiesi
+### No. 145: Yarı Topuz Saçlı Kadının Selfiesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5054,7 +4805,7 @@ ar 9:16 2K
 A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
 ```
 
-### No. 156: Kara Delik Tarafından Yutulan Dünya Evreleri
+### No. 146: Kara Delik Tarafından Yutulan Dünya Evreleri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5076,7 +4827,7 @@ Bir insan gözlemcisinin bakış açısından, Dünya'nın bir kara delik taraf�
 generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
 ```
 
-### No. 157: Cyberpunk Savaşçı vs. Mekanik Boss Karakterleri
+### No. 147: Cyberpunk Savaşçı vs. Mekanik Boss Karakterleri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5101,7 +4852,7 @@ Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybe
 Character 2 (Boss Entity): Massive, heavy-armored mechanical
 ```
 
-### No. 158: Saray Önünde İnen Göksel Tanrıça
+### No. 148: Saray Önünde İnen Göksel Tanrıça
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5123,7 +4874,7 @@ Göksel bir saray önünde gül-altını bulutlar arasından inen, törensel han
 A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
 ```
 
-### No. 159: Sabah Işığında Üç Çeyrek Profilden Göksel Genç Kadın
+### No. 149: Sabah Işığında Üç Çeyrek Profilden Göksel Genç Kadın
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5146,7 +4897,7 @@ Sabah ışığıyla aydınlanmış, akan kurdeleler ve altın saç iğneleri ola
 A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
 ```
 
-### No. 160: Yeşim Havuz Başında Oturan Göksel Genç Kadın
+### No. 150: Yeşim Havuz Başında Oturan Göksel Genç Kadın
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5168,7 +4919,7 @@ Turkuaz bir havuz kenarında, ipek hanfu giymiş, sakin bir Çin göksel genç k
 A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
 ```
 
-### No. 161: Yeşim Saray Basamaklarındaki Göksel Tanrıça
+### No. 151: Yeşim Saray Basamaklarındaki Göksel Tanrıça
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5190,7 +4941,7 @@ Beyaz yeşim basamakların üzerinde, işlemeli hanfu giymiş ve süzülen ipek 
 An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
 ```
 
-### No. 162: Antik Çin Ayin Tapınağında Portre
+### No. 152: Antik Çin Ayin Tapınağında Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5215,7 +4966,7 @@ Nuo maskeleri ve mumlarla dolu karanlık bir antik Çin ayin tapınağında, yet
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
 ```
 
-### No. 163: Karanlık Ayin Tapınağındaki Kadın Portresi
+### No. 153: Karanlık Ayin Tapınağındaki Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5240,7 +4991,7 @@ Islak siyah saçlı ve dumanlı makyajlı, karanlık bir antik tapınakta bir Do
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
 ```
 
-### No. 164: Gece Nuo Festivalinde Yakın Plan Portre
+### No. 154: Gece Nuo Festivalinde Yakın Plan Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5265,7 +5016,7 @@ Geceleyin düzenlenen bir ayin festivali sırasında, yıpranmış bir Nuo maske
 Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
 ```
 
-### No. 165: Yoğun Köpük Tacına Sahip Bira
+### No. 155: Yoğun Köpük Tacına Sahip Bira
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5288,7 +5039,7 @@ a dense foam crown spilling in two uneven, heavy cascades while the glass rim st
 The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
 ```
 
-### No. 166: Yahniden Kaldırılan Tofu Küpü
+### No. 156: Yahniden Kaldırılan Tofu Küpü
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5310,7 +5061,7 @@ Bir tencerenin üzerinde kaldırılmış, üzerinde tek bir kehribar renkli et s
 Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
 ```
 
-### No. 167: Bir Kaşık Dolusu Acılı Sos
+### No. 157: Bir Kaşık Dolusu Acılı Sos
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5332,7 +5083,7 @@ Belirgin kırmızı acı biber küpleri, çayla kararmış yeşillikler, parlak 
 a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
 ```
 
-### No. 168: Oturma Odasında Kadın Yakın Çekim Portresi
+### No. 158: Oturma Odasında Kadın Yakın Çekim Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5354,7 +5105,7 @@ Rahat, modern bir oturma odasında, oyuncul bir ifadeye sahip genç bir kadını
 Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
 ```
 
-### No. 169: Loş Yatak Odasında Uzanmış Kadın Portresi
+### No. 159: Loş Yatak Odasında Uzanmış Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5377,7 +5128,7 @@ Gece vakti loş ışıklı bir yatak odasında, yatak örtüleri üzerinde uzanm
 A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
 ```
 
-### No. 170: Yaz Çimenlerinde Kadının Hayali Portresi
+### No. 160: Yaz Çimenlerinde Kadının Hayali Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5400,7 +5151,7 @@ Uzun çimenlerde dinlenen, sıcak gün ışığıyla yumuşak bir şekilde aydı
 Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
 ```
 
-### No. 171: Parlak Mavi Liman Kenarında Kadın Portresi
+### No. 161: Parlak Mavi Liman Kenarında Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5423,7 +5174,7 @@ Güneşli, esintili bir günde, parlak mavi bir liman kenarında rahatça çöme
 A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
 ```
 
-### No. 172: Genç Kadının Paris Sokağı Portresi
+### No. 162: Genç Kadının Paris Sokağı Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5445,7 +5196,7 @@ Paris esintili bir alışveriş sokağında, Asya görünümlü genç bir kadın
 High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
 ```
 
-### No. 173: Gece Vakti Metroda Doğal Portre
+### No. 163: Gece Vakti Metroda Doğal Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5470,7 +5221,7 @@ Gece vakti bir tren penceresi kenarında oturan yetişkin bir Doğu Asyalı kad�
 9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
 ```
 
-### No. 174: Buz ve Duman Şok Dalgasıyla Saat
+### No. 164: Buz ve Duman Şok Dalgasıyla Saat
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5492,7 +5243,7 @@ Arkasında dairesel bir buz ve duman şok dalgası bulunan, temiz bir silueti ko
 a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
 ```
 
-### No. 175: Derinlikli Katmanlı Fırın Ürünleri Teşhiri
+### No. 165: Derinlikli Katmanlı Fırın Ürünleri Teşhiri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5514,7 +5265,7 @@ Derinlik yaratmak için farklı yükseklik katmanlarında düzenlenmiş ürünle
 a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
 ```
 
-### No. 176: İpek Slip Elbise İçinde Yumuşak Işıklı Yatak Odası Portresi
+### No. 166: İpek Slip Elbise İçinde Yumuşak Işıklı Yatak Odası Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5538,7 +5289,7 @@ Yumuşak ışıklı bir yatak odasında, fildişi rengi saten bir slip elbise gi
 9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
 ```
 
-### No. 177: Patlayıcı Toz Bulutuyla Tezat Oluşturan Araba
+### No. 167: Patlayıcı Toz Bulutuyla Tezat Oluşturan Araba
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5560,7 +5311,7 @@ Yumuşak ışıklı bir yatak odasında, fildişi rengi saten bir slip elbise gi
 massive dust plume exploding behind the vehicle while the car stays clean and silent in front
 ```
 
-### No. 178: Göksel Ateşle Arkadan Aydınlatılan Cadı Silüeti
+### No. 168: Göksel Ateşle Arkadan Aydınlatılan Cadı Silüeti
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5582,7 +5333,7 @@ Devasa turuncu-altın renkli bir göksel ateş bulutuyla arkadan aydınlatılan 
 one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
 ```
 
-### No. 179: Koshari Kasesinden Yükselen Domates Sosu Kalbi
+### No. 169: Koshari Kasesinden Yükselen Domates Sosu Kalbi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5604,7 +5355,7 @@ Bir kase koshari'nin üzerinde parlak domates sosundan oluşan bir kalp şeklini
 thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
 ```
 
-### No. 180: Erişte İpliklerinden Oyma Satranç Taşları
+### No. 170: Erişte İpliklerinden Oyma Satranç Taşları
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5626,7 +5377,7 @@ Tanınabilir silüetlere sahip, el yapımı erişte ipliklerinden oyulmuş satra
 chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
 ```
 
-### No. 181: Ringde Zafer Koluyla Susam Yağı Şişesi
+### No. 171: Ringde Zafer Koluyla Susam Yağı Şişesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5648,7 +5399,7 @@ Boks ringinde zafer kazanmış, altın renkli boksör kollarına sahip, aşırı
 oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
 ```
 
-### No. 182: Kompakt Modern Apartman Mutfak Tezgahı Sahnesi
+### No. 172: Kompakt Modern Apartman Mutfak Tezgahı Sahnesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5673,7 +5424,7 @@ Kahvaltı tezgahı, sürekli tezgah yüzeyi, paslanmaz çelik lavabo, ocak üst�
 Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
 ```
 
-### No. 183: Roket Gibi Yukarı Açılı Döner Dürüm
+### No. 173: Roket Gibi Yukarı Açılı Döner Dürüm
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5695,7 +5446,7 @@ Açık içeriği odak noktası olarak vurgulayacak şekilde, roket gibi açılı
 shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
 ```
 
-### No. 184: Aşırı Büyük Kutu Tutan Muz Maskotu
+### No. 174: Aşırı Büyük Kutu Tutan Muz Maskotu
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5717,7 +5468,7 @@ Kameraya doğru ileri uzattığı aşırı büyük, soğuk bir alüminyum kutu t
 oversized cold aluminum can held forward toward camera by the running banana mascot
 ```
 
-### No. 185: Doğu Asyalı Kadın Samimi Gece Fotoğrafı
+### No. 175: Doğu Asyalı Kadın Samimi Gece Fotoğrafı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5742,7 +5493,7 @@ Belirli özelliklere ve ışıklandırmaya sahip, Doğu Asyalı bir kadının ge
 9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
 ```
 
-### No. 186: Miniyatür Paten Yüzeyi Olarak Kurabiye Kreması
+### No. 176: Miniyatür Paten Yüzeyi Olarak Kurabiye Kreması
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5764,7 +5515,7 @@ Vanilya kremasının, pürüzsüz bir mini paten yüzeyi oluşturmak için yüks
 vanilla creme layer rising above the cookie as a smooth miniature skating surface
 ```
 
-### No. 187: Üst Üste Dizilmiş Cipslerden Yapılmış Lunapark Treni Rayı
+### No. 177: Üst Üste Dizilmiş Cipslerden Yapılmış Lunapark Treni Rayı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5786,7 +5537,7 @@ Mükemmel şekilde hizalanmış, üst üste dizilmiş cipslerden inşa edilmiş,
 roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
 ```
 
-### No. 188: Kahraman Kovasının Arkasındaki Kırmızı Spot Işığı Bölgeleri
+### No. 178: Kahraman Kovasının Arkasındaki Kırmızı Spot Işığı Bölgeleri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5808,7 +5559,7 @@ Bir kahraman kovasının arkasında, ikincil yaşam tarzı anları içeren üç 
 three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
 ```
 
-### No. 189: Dikey Hareket Çizgisi Olarak Parlak Erişte Akışı
+### No. 179: Dikey Hareket Çizgisi Olarak Parlak Erişte Akışı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5830,7 +5581,7 @@ Merkezi dikey öğe olarak tek bir parlak erişte akışı içeren minimalist bi
 single glossy noodle stream forming the main vertical motion line from bowl to mouth
 ```
 
-### No. 190: Sinematik 2.5D Guaj Animasyon
+### No. 180: Sinematik 2.5D Guaj Animasyon
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5853,7 +5604,7 @@ Görünür fırça dokuları ve düz renk blokları içeren, resimsi, guaj konse
 Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
 ```
 
-### No. 191: Karanlıkta Duygusal Sinematik Portre
+### No. 181: Karanlıkta Duygusal Sinematik Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5875,7 +5626,7 @@ Dağınık saçlı bir erkeğin gölgelerden çıkışını konu alan sinematik 
 A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
 ```
 
-### No. 192: Özgürlük Heykeli Yanındaki Dev Adam
+### No. 182: Özgürlük Heykeli Yanındaki Dev Adam
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5897,7 +5648,7 @@ A mysterious man with messy textured hair emerging from darkness, dramatic side 
 Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
 ```
 
-### No. 193: Rustik Verandada Altın Saat Portresi
+### No. 183: Rustik Verandada Altın Saat Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5919,7 +5670,7 @@ Altın saat ışığında, rustik bir verandada çayını yudumlayan genç bir a
 Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
 ```
 
-### No. 194: Çayırda Sinematik Portre
+### No. 184: Çayırda Sinematik Portre
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5941,7 +5692,7 @@ Kovboy şapkalı bir kadının, adaçayı çalıları ve çam ağaçlarıyla dol
 Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
 ```
 
-### No. 195: Kadının Dikey Doğal Portresi
+### No. 185: Kadının Dikey Doğal Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5966,7 +5717,7 @@ Belirli özelliklere sahip genç bir Doğu Asyalı kadının dikey, doğal bir f
 Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
 ```
 
-### No. 196: Yırtık Lezzet Bölgeli Çapraz Bar
+### No. 186: Yırtık Lezzet Bölgeli Çapraz Bar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5988,7 +5739,7 @@ Paketi çapraz olan, yırtılmış ambalajıyla bir 'ağız açma' efekti yarata
 The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
 ```
 
-### No. 197: Oval Aynadaki Kadın Portresi
+### No. 187: Oval Aynadaki Kadın Portresi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -6010,7 +5761,7 @@ Dikey oval bir aynada yansıyan, mat kobalt dudak rujuna sahip bir kadının gü
 reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
 ```
 
-### No. 198: Çölde Bira Bardağı Girdabı
+### No. 188: Çölde Bira Bardağı Girdabı
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -6032,7 +5783,7 @@ reflected female beauty portrait inside a vertical oval mirror, wearing matte co
 towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
 ```
 
-### No. 199: Ön Planda Bira Şişesi
+### No. 189: Ön Planda Bira Şişesi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`

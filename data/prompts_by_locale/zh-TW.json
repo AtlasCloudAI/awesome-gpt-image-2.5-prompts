@@ -2338,42 +2338,6 @@
     }
   },
   {
-    "id": 135,
-    "title": "台灣女孩夏季制服美學",
-    "description": "一個用於生成肖像的提示，採用日本夏季電影攝影風格，主角為一位短髮、有雀斑、穿著學校制服的台灣女孩。",
-    "prompt": "Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink",
-    "original_prompt": "Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink",
-    "translated_prompt": "",
-    "source_link": "https://x.com/BubbleBrain/status/2097491637048090707",
-    "source_published_at": "2026-09-09T01:05:50.000Z",
-    "source_platform": "x",
-    "author_name": "BubbleBrain",
-    "author_link": "https://x.com/BubbleBrain",
-    "language": "zh-TW",
-    "likes": 60,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2097491637048090707",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "風格與理解力",
-    "sort_order": 75,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/135_0.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 143,
     "title": "打烊後的雨夜街景",
     "description": "一個用於生成氛圍圖像的提示，描繪打烊時間後的一個人，著重於濕潤的羊毛、肌膚質感和街燈光影。",
@@ -6014,48 +5978,6 @@
     }
   },
   {
-    "id": 373,
-    "title": "魅惑眼鏡女郎編輯肖像",
-    "description": "一個用於生成寫實編輯肖像的提示，主角為20多歲、充滿魅惑感的日韓女性，戴著眼鏡與耳骨夾。",
-    "prompt": "Photorealistic editorial portrait.\n\nKnee-up cowboy shot, waist-level view.\n\nA 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along",
-    "original_prompt": "Photorealistic editorial portrait.\n\nKnee-up cowboy shot, waist-level view.\n\nA 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along",
-    "translated_prompt": "",
-    "source_link": "https://x.com/VIBEQUIRKLABS/status/2096447046328946979",
-    "source_published_at": "2026-09-06T03:55:00.000Z",
-    "source_platform": "x",
-    "author_name": "Nailai7981",
-    "author_link": "https://x.com/VIBEQUIRKLABS",
-    "language": "zh-TW",
-    "likes": 132,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/373_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/373_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/373_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096447046328946979",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "風格與理解力",
-    "sort_order": 196,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/373_0.jpg",
-        "media/gpt-image-2-5/373_1.jpg",
-        "media/gpt-image-2-5/373_2.jpg",
-        "media/gpt-image-2-5/373_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 374,
     "title": "東方禪意極簡封面海報",
     "description": "一個用於生成東方極簡風格桌布的提示，描繪一位優雅的古典女子穿過藍色門扉，背景有櫻花。",
@@ -6087,90 +6009,6 @@
     "local_media": {
       "images": [
         "media/gpt-image-2-5/374_0.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 375,
-    "title": "全身正面編輯肖像",
-    "description": "一個用於生成20多歲誘人女性全身正面編輯肖像的提示，要求照片級真實感，採用正面視角拍攝。",
-    "prompt": "Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive",
-    "original_prompt": "Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive",
-    "translated_prompt": "",
-    "source_link": "https://x.com/VIBEQUIRKLABS/status/2096418860979171476",
-    "source_published_at": "2026-09-06T02:03:00.000Z",
-    "source_platform": "x",
-    "author_name": "Nailai7981",
-    "author_link": "https://x.com/VIBEQUIRKLABS",
-    "language": "zh-TW",
-    "likes": 64,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/375_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/375_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/375_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096418860979171476",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "風格與理解力",
-    "sort_order": 198,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/375_0.jpg",
-        "media/gpt-image-2-5/375_1.jpg",
-        "media/gpt-image-2-5/375_2.jpg",
-        "media/gpt-image-2-5/375_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 376,
-    "title": "正面膝上牛仔肖像",
-    "description": "一個用於生成照片級真實感編輯風格肖像的提示，描繪一位誘人的年輕日本女性，採用傾斜的正面膝上構圖。",
-    "prompt": "Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese",
-    "original_prompt": "Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese",
-    "translated_prompt": "",
-    "source_link": "https://x.com/VIBEQUIRKLABS/status/2096399999269752966",
-    "source_published_at": "2026-09-06T00:48:03.000Z",
-    "source_platform": "x",
-    "author_name": "Nailai7981",
-    "author_link": "https://x.com/VIBEQUIRKLABS",
-    "language": "zh-TW",
-    "likes": 92,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/376_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/376_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/376_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096399999269752966",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "風格與理解力",
-    "sort_order": 199,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/376_0.jpg",
-        "media/gpt-image-2-5/376_1.jpg",
-        "media/gpt-image-2-5/376_2.jpg",
-        "media/gpt-image-2-5/376_3.jpg"
       ],
       "video": ""
     }
@@ -6398,48 +6236,6 @@
     }
   },
   {
-    "id": 405,
-    "title": "照片級真實編輯牛仔肖像",
-    "description": "一個用於生成照片級真實感編輯肖像的提示，描繪一位年輕日本或韓國女性，佩戴特定珠寶並採用特定構圖。",
-    "prompt": "Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck",
-    "original_prompt": "Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck",
-    "translated_prompt": "",
-    "source_link": "https://x.com/VIBEQUIRKLABS/status/2095344279564800055",
-    "source_published_at": "2026-09-03T02:53:00.000Z",
-    "source_platform": "x",
-    "author_name": "Nailai7981",
-    "author_link": "https://x.com/VIBEQUIRKLABS",
-    "language": "zh-TW",
-    "likes": 136,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/405_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/405_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/405_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2095344279564800055",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "風格與理解力",
-    "sort_order": 208,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/405_0.jpg",
-        "media/gpt-image-2-5/405_1.jpg",
-        "media/gpt-image-2-5/405_2.jpg",
-        "media/gpt-image-2-5/405_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 406,
     "title": "戴眼鏡照片級真實半身肖像",
     "description": "一幅描繪年輕日本或韓國女性的半身肖像，採用膝蓋高度的視角，並佩戴大膽的白色粗框眼鏡。",
@@ -6549,44 +6345,6 @@
     "local_media": {
       "images": [
         "media/gpt-image-2-5/408_0.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 415,
-    "title": "黃金時刻屋頂智慧型手機自拍",
-    "description": "一個用於生成年輕女性在日落時分於屋頂進行智慧型手機自拍的提示。",
-    "prompt": "Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.",
-    "original_prompt": "Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.",
-    "translated_prompt": "",
-    "source_link": "https://x.com/MrDasOnX/status/2097316888384880795",
-    "source_published_at": "2026-09-08T13:31:27.000Z",
-    "source_platform": "x",
-    "author_name": "Mr Das",
-    "author_link": "https://x.com/MrDasOnX",
-    "language": "zh-TW",
-    "likes": 37,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/415_1.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2097316888384880795",
-      "confidence": "medium",
-      "prompt_kind": "keyword"
-    },
-    "category": "風格與理解力",
-    "sort_order": 212,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/415_0.jpg",
-        "media/gpt-image-2-5/415_1.jpg"
       ],
       "video": ""
     }
@@ -7003,48 +6761,6 @@
       "images": [
         "media/gpt-image-2-5/439_0.jpg",
         "media/gpt-image-2-5/439_1.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 472,
-    "title": "哥德蘿莉時尚與大理石紋上衣",
-    "description": "一個用於生成哥德蘿莉時尚穿搭圖像的提示，包含一件霓虹紫與橙色大理石紋上衣。",
-    "prompt": "［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black",
-    "original_prompt": "［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black",
-    "translated_prompt": "",
-    "source_link": "https://x.com/towa_AIillust/status/2095768323057418243",
-    "source_published_at": "2026-09-04T06:58:00.000Z",
-    "source_platform": "x",
-    "author_name": "towa💎AIart",
-    "author_link": "https://x.com/towa_AIillust",
-    "language": "zh-TW",
-    "likes": 22,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/472_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/472_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/472_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2095768323057418243",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "風格與理解力",
-    "sort_order": 224,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/472_0.jpg",
-        "media/gpt-image-2-5/472_1.jpg",
-        "media/gpt-image-2-5/472_2.jpg",
-        "media/gpt-image-2-5/472_3.jpg"
       ],
       "video": ""
     }
@@ -7588,48 +7304,6 @@
     }
   },
   {
-    "id": 502,
-    "title": "年輕女孩特寫肖像",
-    "description": "一個詳細的提示，用於生成一位具有特定面部特徵和表情的年輕東亞女孩特寫肖像。",
-    "prompt": "A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly",
-    "original_prompt": "A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly",
-    "translated_prompt": "",
-    "source_link": "https://x.com/woleswoosh/status/2097082487935525212",
-    "source_published_at": "2026-09-07T22:00:01.000Z",
-    "source_platform": "x",
-    "author_name": "Feyber",
-    "author_link": "https://x.com/woleswoosh",
-    "language": "zh-TW",
-    "likes": 43,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/502_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/502_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/502_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2097082487935525212",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "風格與理解力",
-    "sort_order": 242,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/502_0.jpg",
-        "media/gpt-image-2-5/502_1.jpg",
-        "media/gpt-image-2-5/502_2.jpg",
-        "media/gpt-image-2-5/502_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 503,
     "title": "鮮豔唇色的特寫肖像",
     "description": "一位肌膚如瓷器、有著杏仁眼、塗著鮮豔唇膏的年輕東亞女性寫實肖像。",
@@ -7966,48 +7640,6 @@
     }
   },
   {
-    "id": 512,
-    "title": "印尼女性肖像",
-    "description": "一個用於生成美麗年輕印尼女性肖像的提示，描述其膚色白皙、妝容柔和、深色頭髮蓬亂。",
-    "prompt": "A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.",
-    "original_prompt": "A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.",
-    "translated_prompt": "",
-    "source_link": "https://x.com/woleswoosh/status/2096569099824378243",
-    "source_published_at": "2026-09-06T12:00:00.000Z",
-    "source_platform": "x",
-    "author_name": "Feyber",
-    "author_link": "https://x.com/woleswoosh",
-    "language": "zh-TW",
-    "likes": 24,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/512_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/512_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/512_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096569099824378243",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "風格與理解力",
-    "sort_order": 251,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/512_0.jpg",
-        "media/gpt-image-2-5/512_1.jpg",
-        "media/gpt-image-2-5/512_2.jpg",
-        "media/gpt-image-2-5/512_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 513,
     "title": "流淚東亞女性的電影感肖像",
     "description": "一張寫實特寫肖像，描繪一位年輕女性，皮膚光澤且淚痕斑斑，留著稀疏的瀏海。",
@@ -8213,48 +7845,6 @@
         "media/gpt-image-2-5/517_1.jpg",
         "media/gpt-image-2-5/517_2.jpg",
         "media/gpt-image-2-5/517_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 518,
-    "title": "稀疏瀏海的親密凝視肖像",
-    "description": "一個用於生成東亞年輕女性特寫肖像的提示，描述其深色頭髮、稀疏瀏海，以及親密的凝視。",
-    "prompt": "Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.",
-    "original_prompt": "Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.",
-    "translated_prompt": "",
-    "source_link": "https://x.com/woleswoosh/status/2096357706802323564",
-    "source_published_at": "2026-09-05T22:00:00.000Z",
-    "source_platform": "x",
-    "author_name": "Feyber",
-    "author_link": "https://x.com/woleswoosh",
-    "language": "zh-TW",
-    "likes": 11,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "風格與理解力"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/518_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/518_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/518_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096357706802323564",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "風格與理解力",
-    "sort_order": 257,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/518_0.jpg",
-        "media/gpt-image-2-5/518_1.jpg",
-        "media/gpt-image-2-5/518_2.jpg",
-        "media/gpt-image-2-5/518_3.jpg"
       ],
       "video": ""
     }

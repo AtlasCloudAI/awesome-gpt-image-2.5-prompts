@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-289%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-279%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **289** |
+| Total Prompts | **279** |
 | Categories | **4** |
-| Preview Images | **289** |
+| Preview Images | **279** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -114,7 +114,7 @@ Every record keeps its category, source, author, source link, input references a
 
 - [`Reference Fidelity`](#category-1): **41**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **199**
+- [`Style & Intelligence`](#category-3): **189**
 - [`Layout & Typography`](#category-4): **39**
 
 <a id="all-prompts"></a>
@@ -1319,7 +1319,7 @@ Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [P
 
 <a id="category-3"></a>
 
-### Style & Intelligence (199)
+### Style & Intelligence (189)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -2234,29 +2234,7 @@ Black mist filter, overlay mask, soft-light CCD portrait photography, subtle hig
 雨水滴る一輪のヒガンバナ。屋外の川辺。雨上がりの晴天。ハイクオリティ超美麗リアル2K
 ```
 
-### No. 41: เด็กสาวไต้หวันในชุดนักเรียน เอสเธติกหน้าร้อน
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** BubbleBrain
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-คำสั่งสำหรับสร้างภาพบุคคลในสไตล์ภาพถ่ายฟิล์มฤดูร้อนแบบญี่ปุ่น เป็นเด็กสาวไต้หวันผมสั้นมีกระโดดใส่ชุดนักเรียน
-
-#### Prompt
-
-```text
-Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink
-```
-
-### No. 42: ฉากถนนยามฝนตกหลังปิดร้าน
+### No. 41: ฉากถนนยามฝนตกหลังปิดร้าน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2280,7 +2258,7 @@ Japanese summer film photography aesthetic with gentle highlight bloom on the fa
 Rain after closing time. Look at the wet wool, the skin, and the light on the street behind her.
 ```
 
-### No. 43: แฟชั่นอิดิทอเรียลกับสายลมและผ้าไหม
+### No. 42: แฟชั่นอิดิทอเรียลกับสายลมและผ้าไหม
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2304,7 +2282,7 @@ Rain after closing time. Look at the wet wool, the skin, and the light on the st
 Wind does the styling. A fashion editorial test with three people, hard sunlight, and a lot of silk.
 ```
 
-### No. 44: ภาพถ่ายสมจริงจาก iPhone ของ Tesla Model Y
+### No. 43: ภาพถ่ายสมจริงจาก iPhone ของ Tesla Model Y
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2326,7 +2304,7 @@ Wind does the styling. A fashion editorial test with three people, hard sunlight
 realistic iphone photo of a tesla model y from parking lot, done with 0.5x camera
 ```
 
-### No. 45: เมืองแห่งอนาคตเชิงนิเวศยามพลบค่ำพร้อมดวงจันทร์
+### No. 44: เมืองแห่งอนาคตเชิงนิเวศยามพลบค่ำพร้อมดวงจันทร์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2354,7 +2332,7 @@ realistic iphone photo of a tesla model y from parking lot, done with 0.5x camer
 氷晶の聖堂に舞う銀髪の女王
 ```
 
-### No. 46: กองทัพใหญ่กับมังกรในสายฝน
+### No. 45: กองทัพใหญ่กับมังกรในสายฝน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2376,7 +2354,7 @@ realistic iphone photo of a tesla model y from parking lot, done with 0.5x camer
 100人以上の軍勢＋ルナ＋白竜＋日本語看板＋複雑な槍の持ち方＋雨天の反射
 ```
 
-### No. 47: กระต่ายเนเธอร์แลนด์ดวอร์ฟสีเทากระโดด
+### No. 46: กระต่ายเนเธอร์แลนด์ดวอร์ฟสีเทากระโดด
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2400,7 +2378,7 @@ realistic iphone photo of a tesla model y from parking lot, done with 0.5x camer
 グレーのネザーランドドワーフがぴょんぴょん
 ```
 
-### No. 48: คู่รักอนิเมะในสวนสาธารณะ รายละเอียดสูง
+### No. 47: คู่รักอนิเมะในสวนสาธารณะ รายละเอียดสูง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2423,7 +2401,7 @@ realistic iphone photo of a tesla model y from parking lot, done with 0.5x camer
 「アニメ風の各々私服姿の少女と青年。大きな公園。2:3の縦長アスペクト比」に「16K超々高解像度で要素を各々具体的に描く。コントラストと彩度を少し高めに」
 ```
 
-### No. 49: ความฝันในหอแดง ม้วนภาพแนวยาว
+### No. 48: ความฝันในหอแดง ม้วนภาพแนวยาว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2446,7 +2424,7 @@ realistic iphone photo of a tesla model y from parking lot, done with 0.5x camer
 尝试把古典文学叙事做成中国传统长卷：从荣府门外的仪仗、元春省亲，到园中宴席、宝黛诗会，再一路延伸到冬日街景。
 ```
 
-### No. 50: ซีรีส์สถาปัตยกรรมบรูทัลลิสม์ในทะเลทราย
+### No. 49: ซีรีส์สถาปัตยกรรมบรูทัลลิสม์ในทะเลทราย
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2478,7 +2456,7 @@ Desert Brutalism & Monolithic Earth Architecture
 4: Tadao
 ```
 
-### No. 51: ภาพถ่ายการเดินบนถนนในยามโกลเด้นฮาวร์
+### No. 50: ภาพถ่ายการเดินบนถนนในยามโกลเด้นฮาวร์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2501,7 +2479,7 @@ Desert Brutalism & Monolithic Earth Architecture
 A highly photorealistic candid smartphone photograph of a young woman walking slowly through a quiet tree-lined residential street during golden hour. She has medium-length dark chestnut hair styled in a slightly messy half-up hairstyle, with soft
 ```
 
-### No. 52: คอลเลกชันโปสเตอร์ท่องเที่ยวระดับหรู
+### No. 51: คอลเลกชันโปสเตอร์ท่องเที่ยวระดับหรู
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2525,7 +2503,7 @@ A highly photorealistic candid smartphone photograph of a young woman walking sl
 Premium sophisticated luxury travel-poster collection inspired by Santorini, Amalfi Coast, and Paris, blended together into one unified, breathtaking editorial composition, 3:4 vertical format. Create an original, luxurious travel-art
 ```
 
-### No. 53: ภาพบุคคลแคนดิดในสวนสาธารณะกลางเมือง
+### No. 52: ภาพบุคคลแคนดิดในสวนสาธารณะกลางเมือง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2548,7 +2526,7 @@ Premium sophisticated luxury travel-poster collection inspired by Santorini, Ama
 A photorealistic candid outdoor portrait of a young woman standing in a peaceful urban park on a sunny afternoon. She has long dark-brown hair styled in a loose low ponytail, with wispy face-framing strands gently falling across her face.
 ```
 
-### No. 54: ชีทอ้างอิงตัวละครมือสังหารทะเลทราย
+### No. 53: ชีทอ้างอิงตัวละครมือสังหารทะเลทราย
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2570,7 +2548,7 @@ A photorealistic candid outdoor portrait of a young woman standing in a peaceful
 Professional reference sheet, 16:9 cinematic layout. Left half: DESERT ASSASSIN, woman ~28, lithe and deadly, bronze skin, black kohl eyes, midnight blue wrapped silks revealing mirrored-scale armor underneath, curved scimitar with serpent-coil
 ```
 
-### No. 55: ภาพแฟชั่นโฟโต้หญิงเอเชียตะวันออกในเลาจน์
+### No. 54: ภาพแฟชั่นโฟโต้หญิงเอเชียตะวันออกในเลาจน์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2592,7 +2570,7 @@ Professional reference sheet, 16:9 cinematic layout. Left half: DESERT ASSASSIN,
 Ultra-photorealistic vertical 9:16 smartphone fashion photo of an exceptionally beautiful adult East Asian woman in an elegant private lounge at night. She has a refined small oval face, luminous fair skin with natural texture, large
 ```
 
-### No. 56: ศิลปะแสตมป์ท่องเที่ยววินเทจ
+### No. 55: ศิลปะแสตมป์ท่องเที่ยววินเทจ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2616,7 +2594,7 @@ Ultra-photorealistic vertical 9:16 smartphone fashion photo of an exceptionally 
 Create a sophisticated vintage travel postage-stamp artwork representing [COUNTRY]. Feature the country’s most iconic landmark as the main focal point, surrounded by 3–5 carefully chosen elements that instantly represent the country — landscape, traditional
 ```
 
-### No. 57: โปสเตอร์ท่องเที่ยววินเทจของโครงสร้างสัญลักษณ์
+### No. 56: โปสเตอร์ท่องเที่ยววินเทจของโครงสร้างสัญลักษณ์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2640,7 +2618,7 @@ Create a sophisticated vintage travel postage-stamp artwork representing [COUNTR
 Create a sophisticated vintage-inspired travel poster featuring [ICONIC STRUCTURE] as the main focal point. Keep the architecture highly recognizable with accurate proportions and distinctive details, but reinterpret it as a stylized hand-painted
 ```
 
-### No. 58: ภาพแฟชั่นบุคคลแคนดิดในลานจอดรถใต้ดิน
+### No. 57: ภาพแฟชั่นบุคคลแคนดิดในลานจอดรถใต้ดิน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2663,7 +2641,7 @@ Create a sophisticated vintage-inspired travel poster featuring [ICONIC STRUCTUR
 Ultra-photorealistic vertical 3:4 candid luxury fashion portrait in a modern underground parking garage. An exceptionally beautiful adult Eurasian woman with refined mixed Asian-European features stands beside a
 ```
 
-### No. 59: ฉากอาหารจิ๋วประดิษฐ์ด้วยมือ
+### No. 58: ฉากอาหารจิ๋วประดิษฐ์ด้วยมือ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2687,7 +2665,7 @@ Ultra-photorealistic vertical 3:4 candid luxury fashion portrait in a modern und
 Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden
 ```
 
-### No. 60: ไดโอรามาจิ๋วหน้าร้านค้า
+### No. 59: ไดโอรามาจิ๋วหน้าร้านค้า
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2712,7 +2690,7 @@ Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as th
 Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors
 ```
 
-### No. 61: ไดโอรามาจิ๋วโครงสร้างสัญลักษณ์
+### No. 60: ไดโอรามาจิ๋วโครงสร้างสัญลักษณ์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2737,7 +2715,7 @@ Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] a
 Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations
 ```
 
-### No. 62: ภาพสตูดิโอบุคคลแฟชั่นระดับสูงแบบไม่สมมาตร
+### No. 61: ภาพสตูดิโอบุคคลแฟชั่นระดับสูงแบบไม่สมมาตร
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2759,7 +2737,7 @@ Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as
 Create a high-fashion editorial close-up portrait of an adult man against a seamless pure white studio background. Use an intentionally asymmetric composition:
 ```
 
-### No. 63: ทิวทัศน์เขาวงกตสีขาวที่ถูกกัดเซาะด้วยลม
+### No. 62: ทิวทัศน์เขาวงกตสีขาวที่ถูกกัดเซาะด้วยลม
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2798,7 +2776,7 @@ Create a high-fashion editorial close-up portrait of an adult man against a seam
 その違いだけで、
 ```
 
-### No. 64: อัศวินมังกรขาวและก้อนหินเล็กๆ
+### No. 63: อัศวินมังกรขาวและก้อนหินเล็กๆ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2820,7 +2798,7 @@ Create a high-fashion editorial close-up portrait of an adult man against a seam
 「痛みの正体は、だいたい小さい。」 白竜騎士の夜。 巡回を止めたのは、敵ではなく小石一個だった。
 ```
 
-### No. 65: ภาพบุคคลแนวบรรณาธิการของผู้ชายมั่นใจ
+### No. 64: ภาพบุคคลแนวบรรณาธิการของผู้ชายมั่นใจ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2842,7 +2820,7 @@ Create a high-fashion editorial close-up portrait of an adult man against a seam
 Create an ultra-realistic close-up studio portrait of an adult man with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style. Give him neatly short black hair.
 ```
 
-### No. 66: ภาพแฟชั่นบุคคลเต็มตัวในสตูดิโอ
+### No. 65: ภาพแฟชั่นบุคคลเต็มตัวในสตูดิโอ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2864,7 +2842,7 @@ Create an ultra-realistic close-up studio portrait of an adult man with a confid
 Create an ultra-realistic full-body studio fashion portrait of an adult man standing confidently against a seamless warm light-beige studio background. Position the man in the
 ```
 
-### No. 67: ผลงานชิ้นเอกแคมเปญท่องเที่ยวระดับหรู
+### No. 66: ผลงานชิ้นเอกแคมเปญท่องเที่ยวระดับหรู
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2889,7 +2867,7 @@ Create an ultra-realistic full-body studio fashion portrait of an adult man stan
 Premium sophisticated luxury lifestyle travel-campaign masterpiece combining an exclusive Alpine lakeside mountain retreat, a breathtaking Dubai waterfront luxury escape, and multiple elegant European lakeside chalet experiences into one
 ```
 
-### No. 68: กิจวัตรยามเช้าของอาจารย์จอมเวทสีน้ำเงิน
+### No. 67: กิจวัตรยามเช้าของอาจารย์จอมเวทสีน้ำเงิน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2911,7 +2889,7 @@ Premium sophisticated luxury lifestyle travel-campaign masterpiece combining an 
 「朝の支度に、手は要らなかった。」 青魔導士マスターの朝。 報告書を読む間に、櫛も髪紐も靴紐も仕事を終える。
 ```
 
-### No. 69: เรือมาถึงชายฝั่งชอล์กขาว
+### No. 68: เรือมาถึงชายฝั่งชอล์กขาว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2933,7 +2911,7 @@ Premium sophisticated luxury lifestyle travel-campaign masterpiece combining an 
 白い大地に船が着く。海を渡った先に、砂ではなく、白い大地が待っていた。塩と石灰に覆われた岸。風に削られた白い岩。その向こうには、まだ見たことのない土地が続いている。昨日まで白紙だった地図に、
 ```
 
-### No. 70: ภาพตัวละครชาวประมงเอลฟ์ทะเล
+### No. 69: ภาพตัวละครชาวประมงเอลฟ์ทะเล
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2967,7 +2945,7 @@ TRPG人外図鑑 FILE.022｜リゼア
 《潮見浜》で今日も海を見る、ひとりの漁師です。
 ```
 
-### No. 71: ภาพบุคคลเฮดช็อตระดับมืออาชีพในสตูดิโอ
+### No. 70: ภาพบุคคลเฮดช็อตระดับมืออาชีพในสตูดิโอ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2989,7 +2967,7 @@ TRPG人外図鑑 FILE.022｜リゼア
 Create an ultra-realistic professional studio headshot portrait of an adult man photographed against a
 ```
 
-### No. 72: ชายมั่นใจในอินทีเรียร์โมเดิร์นสุดหรู
+### No. 71: ชายมั่นใจในอินทีเรียร์โมเดิร์นสุดหรู
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3011,7 +2989,7 @@ Create an ultra-realistic professional studio headshot portrait of an adult man 
 Create an ultra-realistic premium lifestyle portrait of an adult man standing confidently inside a luxurious modern interior near a dark wooden doorway and a large floor-to-ceiling mirror.
 ```
 
-### No. 73: ทหารหอกแฟนตาซีหลับบนโต๊ะทำงาน
+### No. 72: ทหารหอกแฟนตาซีหลับบนโต๊ะทำงาน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3036,7 +3014,7 @@ Create an ultra-realistic premium lifestyle portrait of an adult man standing co
 異世界の地図より先に、机の木目を頬で覚えた。
 ```
 
-### No. 74: อัศวินมังกรพักผ่อนในร่มเงา
+### No. 73: อัศวินมังกรพักผ่อนในร่มเงา
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3058,7 +3036,7 @@ Create an ultra-realistic premium lifestyle portrait of an adult man standing co
 「日陰くらい、借りてもええか。」 双竜騎士の昼。 レシックの右翼の下で、地図と硬いパンをひらく。
 ```
 
-### No. 75: ชายสไตล์ดีในห้องสมุดยามเย็นอันอบอุ่น
+### No. 74: ชายสไตล์ดีในห้องสมุดยามเย็นอันอบอุ่น
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3080,7 +3058,7 @@ Create an ultra-realistic premium lifestyle portrait of an adult man standing co
 Create an ultra-realistic lifestyle portrait of a stylish adult man relaxing in a cozy upscale library lounge during the early evening. Position him seated comfortably in a vintage cognac-brown leather armchair, holding a book, with soft ambient lighting from a nearby floor lamp and a warm fireplace glow. The atmosphere is serene and sophisticated, with rich wood shelves filled with books in the background.
 ```
 
-### No. 76: บุรุษไร้ศีรษะส่งจดหมายในคืนฤดูใบไม้ร่วง
+### No. 75: บุรุษไร้ศีรษะส่งจดหมายในคืนฤดูใบไม้ร่วง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3102,7 +3080,7 @@ Create an ultra-realistic lifestyle portrait of a stylish adult man relaxing in 
 秋の夜。彼岸花の咲く街道を歩く、夜間郵便配達人エルネ。街が眠ってからも、届ける手紙があります。エルネ／デュラハン／夜間郵便配達人
 ```
 
-### No. 77: ภาพบุคคลเต็มตัวแนวบรรณาธิการในโทนเบอร์กันดี
+### No. 76: ภาพบุคคลเต็มตัวแนวบรรณาธิการในโทนเบอร์กันดี
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3124,7 +3102,7 @@ Create an ultra-realistic lifestyle portrait of a stylish adult man relaxing in 
 Create an ultra-realistic full-body editorial studio portrait of a stylish adult Black man seated confidently on a minimalist
 ```
 
-### No. 78: ยามบ่ายของอาจารย์จอมเวทสีน้ำเงิน
+### No. 77: ยามบ่ายของอาจารย์จอมเวทสีน้ำเงิน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3146,7 +3124,7 @@ Create an ultra-realistic full-body editorial studio portrait of a stylish adult
 「歩ける。でも、歩く理由がなかった。」 青魔導士マスターの午後。 日差しも石畳も、彼女へ届く前に魔法が片づける。
 ```
 
-### No. 79: พระอาทิตย์ตกเหนือพื้นดินแตกร้าวกับเปลวไฟ
+### No. 78: พระอาทิตย์ตกเหนือพื้นดินแตกร้าวกับเปลวไฟ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3168,7 +3146,7 @@ Create an ultra-realistic full-body editorial studio portrait of a stylish adult
 夕暮れの荒野で、地面の亀裂から細い炎が静かに揺れていた。噴火でも、焚き火でもない。大地の奥から染み出したものが、ただ燃え続けている。遠くには、夕日に染まるカスピ海。土も、水も、火も、
 ```
 
-### No. 80: เรือใบโบราณยามอาทิตย์อัสดงสีทอง
+### No. 79: เรือใบโบราณยามอาทิตย์อัสดงสีทอง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3190,7 +3168,7 @@ Create an ultra-realistic full-body editorial studio portrait of a stylish adult
 Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a magnificent vintage wooden sailing ship dominating the left foreground. The ship has multiple tall wooden masts, intricate rigging, ropes, detailed weathered wooden textures and large
 ```
 
-### No. 81: อัศวินมังกรขาวตรวจสอบบาดแผลที่ปีก
+### No. 80: อัศวินมังกรขาวตรวจสอบบาดแผลที่ปีก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3212,7 +3190,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 「眠ってる間に、少しだけ診せてな。」 月夜の竜舎。 白竜騎士マスターは、レシックを起こさないよう左翼の傷を確かめる。
 ```
 
-### No. 82: นักเดินทางซ่อมแซมผ้าสีฟ้าในเมืองภูเขาไฟ
+### No. 81: นักเดินทางซ่อมแซมผ้าสีฟ้าในเมืองภูเขาไฟ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3234,7 +3212,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 「裂けたなら、縫えばええ。」 火山都市の午後。 遠い山を眺める前に、旅を支える青い布を直す。
 ```
 
-### No. 83: ยามเช้าในโลกกระจกกับทหารถือหอก
+### No. 82: ยามเช้าในโลกกระจกกับทหารถือหอก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3256,7 +3234,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 「泥は、歩いた分だけつく。」 ミラ世界の朝。 最強の肩書きを失った槍兵は、濡れた靴紐から一日を始める。
 ```
 
-### No. 84: ลูน่า ปรมาจารย์นักเวทสีน้ำเงินก่อนรุ่งสาง
+### No. 83: ลูน่า ปรมาจารย์นักเวทสีน้ำเงินก่อนรุ่งสาง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3278,7 +3256,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 「手を伸ばす必要なんて、なかった。」 夜明け前の青魔導士マスター・ルナ。 本も椅子も紅茶も、彼女の身体を必要としていなかった頃。
 ```
 
-### No. 85: ทิวทัศน์ที่ไฟรั่วไหลจากพื้นดิน
+### No. 84: ทิวทัศน์ที่ไฟรั่วไหลจากพื้นดิน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3315,7 +3293,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 その奥ではずっと生きている。
 ```
 
-### No. 86: ลูน่า อัศวินมังกรดำยามราตรี
+### No. 85: ลูน่า อัศวินมังกรดำยามราตรี
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3337,7 +3315,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 「今日も、この手で届いた。」 夜の黒竜騎士ルナ。 槍だこを確かめる隣で、エル・ドラゴは先に眠った。
 ```
 
-### No. 87: ฟรีเรนกับเฟิร์นในสถานที่อันสงบ
+### No. 86: ฟรีเรนกับเฟิร์นในสถานที่อันสงบ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3359,7 +3337,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 フェルン『良い場所ですねフリーレン様』 フリーレン『…そうだね』 SFW illustration
 ```
 
-### No. 88: เนินเขาที่ถูกสายลมและสายฝนกัดเซาะ
+### No. 87: เนินเขาที่ถูกสายลมและสายฝนกัดเซาะ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3381,7 +3359,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 森を抜けると、景色から緑が少しずつ消えていった。代わりに現れたのは、黄土色。錆色。灰白色。淡い緑。風と雨に削られた丘には、大地そのものの時間が幾重にも重なっている。道はその色の間を縫いながら、
 ```
 
-### No. 89: หญิงโบราณถือพัดหน้าผนังไผ่
+### No. 88: หญิงโบราณถือพัดหน้าผนังไผ่
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3406,7 +3384,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 主体内容：一位手持圆形团扇的古风女子站在白墙竹影前
 ```
 
-### No. 90: หุ่นยนต์ตำรวจกู้ภัยลากรถบอลิฟบ็อต
+### No. 89: หุ่นยนต์ตำรวจกู้ภัยลากรถบอลิฟบ็อต
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3431,7 +3409,7 @@ Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a mag
 　　避難者を救助します。
 ```
 
-### No. 91: ภาพถ่ายซีซีดีหอดูดาวกลางวันในเมือง
+### No. 90: ภาพถ่ายซีซีดีหอดูดาวกลางวันในเมือง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3458,7 +3436,7 @@ GPT Image 2生成日间高亮CCD生活照。
 服装方向：樱桃红色修身方领无袖针织上衣 + 冷白色高腰修身短裤
 ```
 
-### No. 92: ภาพบุคคลแนวตั้งสไตล์ไลฟ์สไตล์จากไอโฟน
+### No. 91: ภาพบุคคลแนวตั้งสไตล์ไลฟ์สไตล์จากไอโฟน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3480,7 +3458,7 @@ GPT Image 2生成日间高亮CCD生活照。
 9:16 竖版，真实 iPhone 手机随手拍摄的生活感女性照片，画面主体是一位视觉年龄约 20–26
 ```
 
-### No. 93: โปสเตอร์หน้าต่างดอกไม้สไตล์จีนใหม่
+### No. 92: โปสเตอร์หน้าต่างดอกไม้สไตล์จีนใหม่
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3507,7 +3485,7 @@ GPT Image 2生成日间高亮CCD生活照。
 构图与空间：9:16
 ```
 
-### No. 94: ภาพบุคคลสมจริงแนวบรรณาธิการของหญิงเอเชียตะวันออก
+### No. 93: ภาพบุคคลสมจริงแนวบรรณาธิการของหญิงเอเชียตะวันออก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3536,7 +3514,7 @@ Knee-up cowboy shot, eye-level view.
 A 20-year-old adult East Asian woman, small near-round oval face with full low cheeks, large level warm gray-brown round eyes, short low-bridge nose, small even rose-pink lips, luminous
 ```
 
-### No. 95: หุ่นยนต์หน่วยเครื่องจักรหนักตำรวจทำความสะอาดแม่น้ำ
+### No. 94: หุ่นยนต์หน่วยเครื่องจักรหนักตำรวจทำความสะอาดแม่น้ำ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3561,7 +3539,7 @@ A 20-year-old adult East Asian woman, small near-round oval face with full low c
 　　ゴミを片付けています。
 ```
 
-### No. 96: ภาพบุคคลแนวบรรณาธิการสมจริงกับใบหน้ารูปหัวใจ-วงรี
+### No. 95: ภาพบุคคลแนวบรรณาธิการสมจริงกับใบหน้ารูปหัวใจ-วงรี
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3590,7 +3568,7 @@ Knee-up cowboy shot, eye-level view.
 A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, warm hazel almond eyes with lifted corners, slim medium-bridge nose, full coral-rose lips with a plush lower lip,
 ```
 
-### No. 97: ภาพบุคคลหญิงสาวจากไอโฟน
+### No. 96: ภาพบุคคลหญิงสาวจากไอโฟน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3612,7 +3590,7 @@ A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, war
 9:16 竖版，真实 iPhone 手机普通主摄随手拍摄的生活感女性照片，一位视觉年龄约 20–26
 ```
 
-### No. 98: หญิงเซนริมน้ำในฤดูร้อน
+### No. 97: หญิงเซนริมน้ำในฤดูร้อน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3639,7 +3617,7 @@ A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, war
 构图与空间：9:16
 ```
 
-### No. 99: ภาพบุคคลมุมคาวบอยของหญิงเอเชียตะวันออก
+### No. 98: ภาพบุคคลมุมคาวบอยของหญิงเอเชียตะวันออก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3666,7 +3644,7 @@ Knee-up cowboy shot, waist-level view.
 A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed chin, wide-set gray-hazel almond eyes with lifted corners, narrow-bridge rounded-tip nose, full coral-brick
 ```
 
-### No. 100: ภาพแฟชันช็อตร้านหนังสือบนดาดฟ้าในเมือง
+### No. 99: ภาพแฟชันช็อตร้านหนังสือบนดาดฟ้าในเมือง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3691,7 +3669,7 @@ A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed 
 服装方向：蓝莓紫色修身方领短袖针织上衣 + 奶油白高腰A字短裙
 ```
 
-### No. 101: ภาพบุคคลแนวบรรณาธิการสมจริงของหญิงเอเชียตะวันออก
+### No. 100: ภาพบุคคลแนวบรรณาธิการสมจริงของหญิงเอเชียตะวันออก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3715,36 +3693,7 @@ A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed 
 Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, waist-level view. A 20-year-old adult East Asian woman, petite oval face with full cheeks, large slightly close-set round gray-brown eyes, tiny beauty mark near the outer cheek, cushioned slightly parted rose
 ```
 
-### No. 102: ภาพบุคคลแนวบรรณาธิการหญิงเซ็กซี่ใส่แว่นตา
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-คำสั่งสำหรับสร้างภาพบุคคลสมจริงแนวบรรณาธิการของหญิงญี่ปุ่นหรือเกาหลีวัย 20 ปี ที่มีเสน่ห์ ใส่แว่นตาและต่างหูคลิป
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait.
-
-Knee-up cowboy shot, waist-level view.
-
-A 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along
-```
-
-### No. 103: โปสเตอร์ปกมินิมอลแนวเซนตะวันออก
+### No. 101: โปสเตอร์ปกมินิมอลแนวเซนตะวันออก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3771,57 +3720,7 @@ A 20s seductive stunning Japanese or Korean woman with black frame, aviator-fram
 构图与空间：9:16
 ```
 
-### No. 104: ภาพบุคคลเต็มตัวแนวหน้าสำหรับงานบรรณาธิการ
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-คำสั่งสำหรับสร้างภาพบุคคลเต็มตัวแบบสมจริงระดับภาพถ่ายสำหรับงานบรรณาธิการของหญิงสาววัย 20 ปลุกเร้าอารมณ์ ถ่ายจากมุมมองด้านหน้า
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive
-```
-
-### No. 105: ภาพบุคคลแนวหน้าถึงเข่าแบบ Cowboy Shot
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-คำสั่งสำหรับภาพบุคคลแนวหน้าถึงเข่า เอียงเล็กน้อย ของหญิงสาวญี่ปุ่นวัยเยาว์ที่ดูปลุกเร้าอารมณ์ ในสไตล์บรรณาธิการแบบสมจริงระดับภาพถ่าย
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese
-```
-
-### No. 106: ทีมหุ่นยนต์หน่วยเครื่องจักรหนักของตำรวจ
+### No. 102: ทีมหุ่นยนต์หน่วยเครื่องจักรหนักของตำรวจ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3846,7 +3745,7 @@ Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view
 　　道路からの車両の移動
 ```
 
-### No. 107: ภาพไลฟ์สไตล์กีฬาเมืองสว่างสดใสสไตล์ CCD ตอนกลางวัน
+### No. 103: ภาพไลฟ์สไตล์กีฬาเมืองสว่างสดใสสไตล์ CCD ตอนกลางวัน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3872,7 +3771,7 @@ Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view
 气质标签：活力、明亮、健康、甜酷、自然
 ```
 
-### No. 108: โปสเตอร์ปกแนวตั้งสไตล์มินิมอลเซน
+### No. 104: โปสเตอร์ปกแนวตั้งสไตล์มินิมอลเซน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3894,7 +3793,7 @@ Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view
 东方禅意极简封面海报，女性审美明亮型，新中式清晨感高颜值封面。9:16 竖版构图，整体画面轻盈、清透、干净、明亮，具有现代东方女性审美与小红书封面感。
 ```
 
-### No. 109: ผู้หญิงนั่งข้างหน้าต่างทรงกลม
+### No. 105: ผู้หญิงนั่งข้างหน้าต่างทรงกลม
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3920,7 +3819,7 @@ Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view
 场景与意象：圆窗、蜜瓜绿色窗外植物、樱花粉小花、白色坐垫、女子
 ```
 
-### No. 110: ทีมหุ่นยนต์ตำรวจหยุดรถบรรทุกที่失控
+### No. 106: ทีมหุ่นยนต์ตำรวจหยุดรถบรรทุกที่失控
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3945,7 +3844,7 @@ Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view
 　　なんとか停止させる
 ```
 
-### No. 111: ภาพบุคคลเต็มตัวสำหรับงานบรรณาธิการของหญิงสาว
+### No. 107: ภาพบุคคลเต็มตัวสำหรับงานบรรณาธิการของหญิงสาว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3970,32 +3869,7 @@ Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view
 Create a photorealistic editorial portrait. Full-body portrait, eye-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with medium smooth hoop earrings, clean polished metal circular silhouette.
 ```
 
-### No. 112: ภาพบุคคลแบบ Cowboy Shot สำหรับงานบรรณาธิการแบบสมจริง
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-คำสั่งสำหรับสร้างภาพบุคคลสำหรับงานบรรณาธิการแบบสมจริงระดับภาพถ่ายของหญิงสาวญี่ปุ่นหรือเกาหลี พร้อมเครื่องประดับและการจัดเฟรมเฉพาะ
-
-#### Prompt
-
-```text
-Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck
-```
-
-### No. 113: ภาพบุคคลครึ่งตัวแบบสมจริงพร้อมแว่นตา
+### No. 108: ภาพบุคคลครึ่งตัวแบบสมจริงพร้อมแว่นตา
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4020,7 +3894,7 @@ Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted fra
 Create a photorealistic editorial portrait. Waist-up portrait, knee-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with white frame, bold thick-frame glasses, worn normally on the face, lenses aligned
 ```
 
-### No. 114: โปสเตอร์ปกมินิมอลเซนกับผู้หญิงและกระดิ่งลม
+### No. 109: โปสเตอร์ปกมินิมอลเซนกับผู้หญิงและกระดิ่งลม
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4046,7 +3920,7 @@ Create a photorealistic editorial portrait. Waist-up portrait, knee-level view. 
 场景与意象：海盐蓝窗外色块、珊瑚粉花影、白色窗框、风铃、女子
 ```
 
-### No. 115: เมืองหลังวันสิ้นโลกกับพืชพรรณสีเขียว
+### No. 110: เมืองหลังวันสิ้นโลกกับพืชพรรณสีเขียว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4068,30 +3942,7 @@ Create a photorealistic editorial portrait. Waist-up portrait, knee-level view. 
 废土风：一张废土城市的照片，画面中充满了绿色的植被，细节非常丰富，地址为中国深圳。
 ```
 
-### No. 116: เซลฟี่ด้วยสมาร์ทโฟนบนดาดฟ้ายามโกลเด้นฮาวร์
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Mr Das
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_1.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-คำสั่งสำหรับเซลฟี่ด้วยสมาร์ทโฟนของหญิงสาวบนดาดฟ้าในเวลาพระอาทิตย์ตกดิน
-
-#### Prompt
-
-```text
-Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.
-```
-
-### No. 117: หญิงญี่ปุ่นที่มีใบหน้าเหมือนแรคคูนในยามค่ำคืน
+### No. 111: หญิงญี่ปุ่นที่มีใบหน้าเหมือนแรคคูนในยามค่ำคืน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4113,7 +3964,7 @@ Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman
 Photorealistic natural photo of a completely fictional 20-year-old adult Japanese woman. She has an extremely cute tanuki-like face, a soft round face and cheeks, gentle round eyes, and dark brown hair. At night on a quiet
 ```
 
-### No. 118: Dolphin's View of Women in Glass Aquarium
+### No. 112: Dolphin's View of Women in Glass Aquarium
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4138,7 +3989,7 @@ A realistic image from a dolphin's perspective looking through a 360-degree glas
 女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
 ```
 
-### No. 119: Lingerie Set on White Torso Mannequin
+### No. 113: Lingerie Set on White Torso Mannequin
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4160,7 +4011,7 @@ A prompt for generating a product-style reference image of a pale pink lace ling
 A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
 ```
 
-### No. 120: Polymer Clay Miniature Brand Store Scene
+### No. 114: Polymer Clay Miniature Brand Store Scene
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4185,7 +4036,7 @@ A prompt for creating a miniature clay model of a brand store with cozy sidewalk
 Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
 ```
 
-### No. 121: Fashion Ad with Tilted Ground Shot
+### No. 115: Fashion Ad with Tilted Ground Shot
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4208,7 +4059,7 @@ A fashion ad campaign for a fictional brand featuring six people in vibrant clot
 这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
 ```
 
-### No. 122: Hand-Drawn Anime Duel with Cherry Blossoms
+### No. 116: Hand-Drawn Anime Duel with Cherry Blossoms
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4231,32 +4082,7 @@ A scene from a late 1990s Japanese hand-drawn animated film, featuring a woman w
 来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
 ```
 
-### No. 123: Gothic Lolita Fashion with Marbled Blouse
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** towa💎AIart
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-A prompt for generating an image of a gothic lolita fashion outfit with a neon purple and orange marbled blouse.
-
-#### Prompt
-
-```text
-［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black
-```
-
-### No. 124: Black Haunted Bride Gothic Wedding Gown
+### No. 117: Black Haunted Bride Gothic Wedding Gown
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4280,7 +4106,7 @@ A prompt for a gothic Halloween horror bride costume with dark romantic elegance
 [concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
 ```
 
-### No. 125: Moody Cinematic Portrait of East Asian Woman
+### No. 118: Moody Cinematic Portrait of East Asian Woman
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4305,7 +4131,7 @@ A prompt for a high-contrast, cinematic close-up portrait of a young East Asian 
 A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
 ```
 
-### No. 126: Cinematic Night Street Portrait on Wet Crosswalk
+### No. 119: Cinematic Night Street Portrait on Wet Crosswalk
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4330,7 +4156,7 @@ A prompt for a cinematic portrait of a young East Asian woman on a wet crosswalk
 A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
 ```
 
-### No. 127: Close-Up Portrait with Glowing Gold Eyes
+### No. 120: Close-Up Portrait with Glowing Gold Eyes
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4355,7 +4181,7 @@ A prompt for a cinematic close-up portrait of a young East Asian woman with jet-
 Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
 ```
 
-### No. 128: ภาพเหมือนสมจริงสวมแว่นตาพร้อมการขยิบตา
+### No. 121: ภาพเหมือนสมจริงสวมแว่นตาพร้อมการขยิบตา
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4380,7 +4206,7 @@ Cinematic close-up portrait of a pale-skinned young East Asian woman with straig
 Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
 ```
 
-### No. 129: ภาพเหมือนสไตล์ฟิล์มแอนะล็อกกับผมยุ่งเหยิง
+### No. 122: ภาพเหมือนสไตล์ฟิล์มแอนะล็อกกับผมยุ่งเหยิง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4405,7 +4231,7 @@ Photorealistic close-up portrait of a young East Asian woman in her early 20s, l
 A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
 ```
 
-### No. 130: ภาพเหมือนเชิงภาพยนตร์ลอยอยู่ในน้ำสีเข้ม
+### No. 123: ภาพเหมือนเชิงภาพยนตร์ลอยอยู่ในน้ำสีเข้ม
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4430,7 +4256,7 @@ A photorealistic analog-film style portrait of a young East Asian woman with pal
 Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
 ```
 
-### No. 131: ภาพถ่ายบุคคลความงามในสตูดิโอพร้อมผมเปียข้าง
+### No. 124: ภาพถ่ายบุคคลความงามในสตูดิโอพร้อมผมเปียข้าง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4455,7 +4281,7 @@ Cinematic close-up portrait of a young East Asian woman floating on her back in 
 A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
 ```
 
-### No. 132: ภาพเหมือนผู้หญิงในรถพร้อมฮิญาบ
+### No. 125: ภาพเหมือนผู้หญิงในรถพร้อมฮิญาบ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4480,7 +4306,7 @@ A photorealistic studio beauty portrait of a young East Asian woman with fair, l
 Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
 ```
 
-### No. 133: ผู้หญิงถ่ายเซลฟี่ในฮิญาบ
+### No. 126: ผู้หญิงถ่ายเซลฟี่ในฮิญาบ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4505,7 +4331,7 @@ Photorealistic close-up portrait of a young East Asian woman sitting in the back
 A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
 ```
 
-### No. 134: ภาพเหมือนผู้หญิงมองข้ามไหล่
+### No. 127: ภาพเหมือนผู้หญิงมองข้ามไหล่
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4530,7 +4356,7 @@ A young woman sitting at a wooden table, taking a slightly angled selfie. She we
 A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
 ```
 
-### No. 135: ภาพเหมือนผู้หญิงสวมแว่นตา
+### No. 128: ภาพเหมือนผู้หญิงสวมแว่นตา
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4555,32 +4381,7 @@ A photorealistic portrait of a young East Asian woman looking back over her left
 Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
 ```
 
-### No. 136: ภาพเหมือนระยะใกล้ของเด็กหญิงวัยรุ่น
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-คำอธิบายโดยละเอียดสำหรับสร้างภาพเหมือนระยะใกล้ของเด็กหญิงชาวเอเชียตะวันออกวัยหนุ่มสาวที่มีลักษณะใบหน้าและสีหน้าที่เฉพาะเจาะจง
-
-#### Prompt
-
-```text
-A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly
-```
-
-### No. 137: ภาพเหมือนระยะใกล้พร้อมลิปสติกสีสด
+### No. 129: ภาพเหมือนระยะใกล้พร้อมลิปสติกสีสด
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4605,7 +4406,7 @@ A close-up portrait of a young East Asian girl with fair, smooth skin and a soft
 Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
 ```
 
-### No. 138: ภาพเหมือนพร้อมผมเปียกและไหล่เปลือย
+### No. 130: ภาพเหมือนพร้อมผมเปียกและไหล่เปลือย
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4630,7 +4431,7 @@ Photorealistic close-up portrait of a young East Asian woman with porcelain-pale
 photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
 ```
 
-### No. 139: ภาพเหมือนเชิงภาพยนตร์ของหญิงชาวเอเชียตะวันออก
+### No. 131: ภาพเหมือนเชิงภาพยนตร์ของหญิงชาวเอเชียตะวันออก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4655,7 +4456,7 @@ photorealistic close-up portrait of a young East Asian woman with pale dewy skin
 A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
 ```
 
-### No. 140: ภาพเหมือนสมจริงสวมแว่นตา
+### No. 132: ภาพเหมือนสมจริงสวมแว่นตา
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4680,7 +4481,7 @@ A cinematic close-up portrait of a young East Asian woman against a solid black 
 A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
 ```
 
-### No. 141: ภาพเหมือนเชิงภาพยนตร์พร้อมไฮไลท์ผมสีน้ำผึ้ง
+### No. 133: ภาพเหมือนเชิงภาพยนตร์พร้อมไฮไลท์ผมสีน้ำผึ้ง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4705,7 +4506,7 @@ A photorealistic portrait of a young East Asian woman with long wavy dark brown 
 Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
 ```
 
-### No. 142: ภาพเหมือนสมจริงพร้อมผมบ็อบสั้น
+### No. 134: ภาพเหมือนสมจริงพร้อมผมบ็อบสั้น
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4730,7 +4531,7 @@ Cinematic close-up portrait of a young East Asian woman with shoulder-length wav
 Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
 ```
 
-### No. 143: ภาพบุคคลผู้หญิงในฮิญาบและหมวกแก๊ป
+### No. 135: ภาพบุคคลผู้หญิงในฮิญาบและหมวกแก๊ป
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4755,7 +4556,7 @@ Photorealistic close-up portrait of a young East Asian woman with a short black 
 A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
 ```
 
-### No. 144: ภาพเซลฟี่บุคคลในฮิญาบผ้าชีฟอง
+### No. 136: ภาพเซลฟี่บุคคลในฮิญาบผ้าชีฟอง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4780,32 +4581,7 @@ A close-up portrait of a young woman with fair, smooth skin and a calm, slightly
 Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
 ```
 
-### No. 145: ภาพบุคคลหญิงสาวชาวอินโดนีเซีย
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-คำอธิบายสำหรับสร้างภาพบุคคลของหญิงสาวชาวอินโดนีเซียที่สวยงาม ผิวขาวซีด แต่งหน้าเรียบร้อย และมีผมดำรุงรัง
-
-#### Prompt
-
-```text
-A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.
-```
-
-### No. 146: ภาพบุคคลหญิงชาวเอเชียตะวันออกมีน้ำตาแบบภาพยนตร์
+### No. 137: ภาพบุคคลหญิงชาวเอเชียตะวันออกมีน้ำตาแบบภาพยนตร์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4830,7 +4606,7 @@ A beautiful young Indonesian woman with fair skin and soft natural makeup, looki
 A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
 ```
 
-### No. 147: ภาพบุคคลผู้หญิงกับที่ปิดตาลูกไม้ประดับอัญมณี
+### No. 138: ภาพบุคคลผู้หญิงกับที่ปิดตาลูกไม้ประดับอัญมณี
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4855,7 +4631,7 @@ A photorealistic close-up cinematic portrait of a beautiful young East Asian wom
 A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
 ```
 
-### No. 148: ภาพบุคคลแบบภาพยนตร์เข้มข้นกับผมยุ่งเหยิง
+### No. 139: ภาพบุคคลแบบภาพยนตร์เข้มข้นกับผมยุ่งเหยิง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4880,7 +4656,7 @@ A close-up portrait of a pale-skinned young woman with a sleek black bob haircut
 Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
 ```
 
-### No. 149: ภาพบุคคลระยะใกล้กับผมดำเป็นประกาย
+### No. 140: ภาพบุคคลระยะใกล้กับผมดำเป็นประกาย
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4905,7 +4681,7 @@ Close-up cinematic portrait of a young East Asian woman with long, slightly mess
 A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
 ```
 
-### No. 150: ภาพบุคคลยิ้มแย้มมีผิวเป็นประกายเหงื่อใต้แสงอาทิตย์
+### No. 141: ภาพบุคคลยิ้มแย้มมีผิวเป็นประกายเหงื่อใต้แสงอาทิตย์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4930,32 +4706,7 @@ A close-up portrait of a young East Asian woman with fair, smooth skin and a sof
 Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
 ```
 
-### No. 151: ภาพบุคคลระยะใกล้ที่มีสายตาลึกซึ้งและผมหน้าม้าบาง
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `th`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-คำอธิบายสำหรับสร้างภาพบุคคลระยะใกล้ของหญิงสาวชาวเอเชียตะวันออกผมดำ มีผมหน้าม้าบางๆ และมีสายตาที่ดูใกล้ชิดสนิทสนม
-
-#### Prompt
-
-```text
-Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.
-```
-
-### No. 152: ภาพบุคคลแสดงอารมณ์กับอายไลเนอร์ปีกกา
+### No. 142: ภาพบุคคลแสดงอารมณ์กับอายไลเนอร์ปีกกา
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4980,7 +4731,7 @@ Close-up portrait of a young East Asian woman with straight dark brown hair and 
 A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
 ```
 
-### No. 153: ภาพเซลฟี่บุคคลกับสีหน้ายิ้มจูบ
+### No. 143: ภาพเซลฟี่บุคคลกับสีหน้ายิ้มจูบ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5003,7 +4754,7 @@ A close-up portrait of a young Southeast Asian woman with fair, smooth skin and 
 Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
 ```
 
-### No. 154: ภาพบุคคลหญิงสาวยิ้มแย้ม
+### No. 144: ภาพบุคคลหญิงสาวยิ้มแย้ม
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5028,7 +4779,7 @@ Close-up selfie portrait of a young East Asian woman, fair skin, long straight d
 A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
 ```
 
-### No. 155: ภาพเซลฟี่ผู้หญิงกับผมทรงครึ่งขึ้นครึ่งลง
+### No. 145: ภาพเซลฟี่ผู้หญิงกับผมทรงครึ่งขึ้นครึ่งลง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5054,7 +4805,7 @@ ar 9:16 2K
 A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
 ```
 
-### No. 156: ภาพขั้นตอนโลกถูกหลุมดำกลืน
+### No. 146: ภาพขั้นตอนโลกถูกหลุมดำกลืน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5076,7 +4827,7 @@ A photorealistic selfie of a young East Asian woman with fair porcelain skin, la
 generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
 ```
 
-### No. 157: ตัวละครนักรบไซเบอร์พังก์ ปะทะ บอสจักรกลยักษ์
+### No. 147: ตัวละครนักรบไซเบอร์พังก์ ปะทะ บอสจักรกลยักษ์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5101,7 +4852,7 @@ Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybe
 Character 2 (Boss Entity): Massive, heavy-armored mechanical
 ```
 
-### No. 158: เทพธิดาแห่งสวรรค์เสด็จลงเบื้องหน้าวัง
+### No. 148: เทพธิดาแห่งสวรรค์เสด็จลงเบื้องหน้าวัง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5123,7 +4874,7 @@ Character 2 (Boss Entity): Massive, heavy-armored mechanical
 A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
 ```
 
-### No. 159: นางฟ้าแห่งสวรรค์ในมุมมองสามในสี่สว่างไสว
+### No. 149: นางฟ้าแห่งสวรรค์ในมุมมองสามในสี่สว่างไสว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5146,7 +4897,7 @@ A majestic Chinese celestial goddess descending slowly through rose-gold clouds 
 A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
 ```
 
-### No. 160: นางฟ้าแห่งสวรรค์สงบนิ่งนั่งข้างสระหยก
+### No. 150: นางฟ้าแห่งสวรรค์สงบนิ่งนั่งข้างสระหยก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5168,7 +4919,7 @@ A Chinese celestial maiden standing in three-quarter view, weight shifted to one
 A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
 ```
 
-### No. 161: เทพธิดาแห่งสวรรค์บนขั้นบันไดหยกขาว
+### No. 151: เทพธิดาแห่งสวรรค์บนขั้นบันไดหยกขาว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5190,7 +4941,7 @@ A serene Chinese celestial maiden seated beside the turquoise waters of the heav
 An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
 ```
 
-### No. 162: ภาพบุคคลในศาลเจ้าโบราณจีน
+### No. 152: ภาพบุคคลในศาลเจ้าโบราณจีน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5215,7 +4966,7 @@ An elegant Chinese celestial goddess standing atop the white jade steps of Lingx
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
 ```
 
-### No. 163: ภาพผู้หญิงในศาลเจ้าพิธีกรรมอันมืดมิด
+### No. 153: ภาพผู้หญิงในศาลเจ้าพิธีกรรมอันมืดมิด
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5240,7 +4991,7 @@ An elegant Chinese celestial goddess standing atop the white jade steps of Lingx
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
 ```
 
-### No. 164: ภาพบุคคลระยะใกล้ในเทศกาลนั่วยามค่ำคืน
+### No. 154: ภาพบุคคลระยะใกล้ในเทศกาลนั่วยามค่ำคืน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5265,7 +5016,7 @@ An elegant Chinese celestial goddess standing atop the white jade steps of Lingx
 Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
 ```
 
-### No. 165: เบียร์กับฟองหนาทะมึน
+### No. 155: เบียร์กับฟองหนาทะมึน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5288,7 +5039,7 @@ a dense foam crown spilling in two uneven, heavy cascades while the glass rim st
 The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
 ```
 
-### No. 166: เต้าหู้ก้อนถูกยกขึ้นจากสตู
+### No. 156: เต้าหู้ก้อนถูกยกขึ้นจากสตู
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5310,7 +5061,7 @@ The foam feels pressurized and creamy, but the silhouette still reads as a clean
 Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
 ```
 
-### No. 167: ช้อนเต็มไปด้วยน้ำพริกเผา
+### No. 157: ช้อนเต็มไปด้วยน้ำพริกเผา
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5332,7 +5083,7 @@ Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu 
 a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
 ```
 
-### No. 168: ภาพบุคคลระยะใกล้ของผู้หญิงในห้องนั่งเล่น
+### No. 158: ภาพบุคคลระยะใกล้ของผู้หญิงในห้องนั่งเล่น
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5354,7 +5105,7 @@ a loaded spoon with visibly separate red chili cubes, tea-darkened greens, brigh
 Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
 ```
 
-### No. 169: ภาพผู้หญิงนอนพิงในห้องนอนแสงสลัว
+### No. 159: ภาพผู้หญิงนอนพิงในห้องนอนแสงสลัว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5377,7 +5128,7 @@ Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casu
 A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
 ```
 
-### No. 170: ภาพผู้หญิงในทุ่งหญ้าฤดูร้อนแบบฝันหวาน
+### No. 160: ภาพผู้หญิงในทุ่งหญ้าฤดูร้อนแบบฝันหวาน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5400,7 +5151,7 @@ A highly photorealistic vertical 3:4 indoor portrait of a young adult woman recl
 Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
 ```
 
-### No. 171: ภาพผู้หญิงที่ท่าเรือสีฟ้าสดใส
+### No. 161: ภาพผู้หญิงที่ท่าเรือสีฟ้าสดใส
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5423,7 +5174,7 @@ Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting 
 A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
 ```
 
-### No. 172: ภาพถ่ายผู้หญิงสาวบนถนนในปารีส
+### No. 162: ภาพถ่ายผู้หญิงสาวบนถนนในปารีส
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5445,7 +5196,7 @@ A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman cro
 High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
 ```
 
-### No. 173: ภาพบุคคลในรถไฟใต้ดินยามค่ำคืนแบบสบายๆ
+### No. 163: ภาพบุคคลในรถไฟใต้ดินยามค่ำคืนแบบสบายๆ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5470,7 +5221,7 @@ High-resolution, natural-light street portrait of a young Asian-looking woman on
 9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
 ```
 
-### No. 174: นาฬิกาพร้อมคลื่นกระแทกน้ำแข็งและควัน
+### No. 164: นาฬิกาพร้อมคลื่นกระแทกน้ำแข็งและควัน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5492,7 +5243,7 @@ High-resolution, natural-light street portrait of a young Asian-looking woman on
 a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
 ```
 
-### No. 175: การจัดวางของร้านเบเกอรี่แบบหลายชั้นที่มีมิติลึก
+### No. 165: การจัดวางของร้านเบเกอรี่แบบหลายชั้นที่มีมิติลึก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5514,7 +5265,7 @@ a circular ice-and-smoke shockwave originating behind the watch, with a clean un
 a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
 ```
 
-### No. 176: ภาพผู้หญิงในชุดสลิปเดรสสีงาช้างในห้องนอนแสงนุ่มนวล
+### No. 166: ภาพผู้หญิงในชุดสลิปเดรสสีงาช้างในห้องนอนแสงนุ่มนวล
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5538,7 +5289,7 @@ a layered bakery spread with one oversized sliced loaf and one celebration cake 
 9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
 ```
 
-### No. 177: รถยนต์กับฝุ่นควันระเบิดตัดกัน
+### No. 167: รถยนต์กับฝุ่นควันระเบิดตัดกัน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5560,7 +5311,7 @@ a layered bakery spread with one oversized sliced loaf and one celebration cake 
 massive dust plume exploding behind the vehicle while the car stays clean and silent in front
 ```
 
-### No. 178: เงาแม่มดส่องหลังด้วยไฟสวรรค์
+### No. 168: เงาแม่มดส่องหลังด้วยไฟสวรรค์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5582,7 +5333,7 @@ massive dust plume exploding behind the vehicle while the car stays clean and si
 one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
 ```
 
-### No. 179: หัวใจซอสมะเขือเทศลอยจากชามข้าวกอชารี
+### No. 169: หัวใจซอสมะเขือเทศลอยจากชามข้าวกอชารี
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5604,7 +5355,7 @@ one immense orange-gold celestial fire cloud backlighting a calm central witch s
 thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
 ```
 
-### No. 180: หมากรุกปั้นจากเส้นก๋วยเตี๋ยว
+### No. 170: หมากรุกปั้นจากเส้นก๋วยเตี๋ยว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5626,7 +5377,7 @@ thick glossy tomato sauce rising from the koshari bowl and resolving into a susp
 chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
 ```
 
-### No. 181: ขวดน้ำมันงากับแขนนักมวยในเวที
+### No. 171: ขวดน้ำมันงากับแขนนักมวยในเวที
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5648,7 +5399,7 @@ chess pieces sculpted entirely from handcrafted noodle strands with recognizable
 oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
 ```
 
-### No. 182: ฉากเคาน์เตอร์ครัวอพาร์ตเมนต์สมัยใหม่กะทัดรัด
+### No. 172: ฉากเคาน์เตอร์ครัวอพาร์ตเมนต์สมัยใหม่กะทัดรัด
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5673,7 +5424,7 @@ oversized sesame oil bottle standing upright in the ring with raised sculpted go
 Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
 ```
 
-### No. 183: แซ่บหมูหันเอียงขึ้นเหมือนจรวด
+### No. 173: แซ่บหมูหันเอียงขึ้นเหมือนจรวด
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5695,7 +5446,7 @@ Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The
 shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
 ```
 
-### No. 184: มาสคอตกล้วยถือกระป๋องยักษ์
+### No. 174: มาสคอตกล้วยถือกระป๋องยักษ์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5717,7 +5468,7 @@ shawarma wrap angled upward like a rocket, with the open filling end as the appe
 oversized cold aluminum can held forward toward camera by the running banana mascot
 ```
 
-### No. 185: ภาพถ่ายแคนดิดหญิงเอเชียตะวันออกยามค่ำคืน
+### No. 175: ภาพถ่ายแคนดิดหญิงเอเชียตะวันออกยามค่ำคืน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5742,7 +5493,7 @@ oversized cold aluminum can held forward toward camera by the running banana mas
 9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
 ```
 
-### No. 186: ครีมคุกกี้เป็นลานสเก็ตขนาดเล็ก
+### No. 176: ครีมคุกกี้เป็นลานสเก็ตขนาดเล็ก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5764,7 +5515,7 @@ oversized cold aluminum can held forward toward camera by the running banana mas
 vanilla creme layer rising above the cookie as a smooth miniature skating surface
 ```
 
-### No. 187: รางรถไฟเหาะทำจากมันฝรั่งทอดซ้อนกัน
+### No. 177: รางรถไฟเหาะทำจากมันฝรั่งทอดซ้อนกัน
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5786,7 +5537,7 @@ vanilla creme layer rising above the cookie as a smooth miniature skating surfac
 roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
 ```
 
-### No. 188: โซนสปอตไลท์สีแดงด้านหลังถังฮีโร่
+### No. 178: โซนสปอตไลท์สีแดงด้านหลังถังฮีโร่
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5808,7 +5559,7 @@ roller-coaster track built entirely from perfectly aligned stacked crisps with o
 three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
 ```
 
-### No. 189: เส้นก๋วยเตี๋ยววาวเป็นเส้นแนวตั้งแห่งการเคลื่อนไหว
+### No. 179: เส้นก๋วยเตี๋ยววาวเป็นเส้นแนวตั้งแห่งการเคลื่อนไหว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5830,7 +5581,7 @@ three clean red spotlight zones with secondary lifestyle moments behind the hero
 single glossy noodle stream forming the main vertical motion line from bowl to mouth
 ```
 
-### No. 190: แอนิเมชันกวอชแบบ 2.5D ระดับภาพยนตร์
+### No. 180: แอนิเมชันกวอชแบบ 2.5D ระดับภาพยนตร์
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5853,7 +5604,7 @@ single glossy noodle stream forming the main vertical motion line from bowl to m
 Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
 ```
 
-### No. 191: ภาพบุคคลแนวซีนีมาติกในความมืด
+### No. 181: ภาพบุคคลแนวซีนีมาติกในความมืด
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5875,7 +5626,7 @@ Cinematic 2.5D animation in the style of fully painterly rendering, characters a
 A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
 ```
 
-### No. 192: ชายยักษ์ข้างอนุสาวรีย์เทพีเสรีภาพ
+### No. 182: ชายยักษ์ข้างอนุสาวรีย์เทพีเสรีภาพ
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5897,7 +5648,7 @@ A mysterious man with messy textured hair emerging from darkness, dramatic side 
 Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
 ```
 
-### No. 193: ภาพบุคคลยามโกลเด้นฮาวร์บนชานบ้านสไตล์รัสติก
+### No. 183: ภาพบุคคลยามโกลเด้นฮาวร์บนชานบ้านสไตล์รัสติก
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5919,7 +5670,7 @@ Ultra-realistic cinematic travel photograph of a strikingly handsome young man i
 Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
 ```
 
-### No. 194: ภาพบุคคลแนวซีนีมาติกในทุ่งหญ้า
+### No. 184: ภาพบุคคลแนวซีนีมาติกในทุ่งหญ้า
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5941,7 +5692,7 @@ Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige line
 Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
 ```
 
-### No. 195: ภาพบุคคลแนวตั้งแบบแคนดิดของหญิงสาว
+### No. 185: ภาพบุคคลแนวตั้งแบบแคนดิดของหญิงสาว
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5966,7 +5717,7 @@ Ultra-realistic cinematic portrait of a beautiful young woman standing sideways 
 Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
 ```
 
-### No. 196: แท่งขนมแนวทแยงกับส่วนรสชาติที่ฉีกขาด
+### No. 186: แท่งขนมแนวทแยงกับส่วนรสชาติที่ฉีกขาด
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5988,7 +5739,7 @@ Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties
 The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
 ```
 
-### No. 197: ภาพบุคคลหญิงในกระจกทรงรีแนวตั้ง
+### No. 187: ภาพบุคคลหญิงในกระจกทรงรีแนวตั้ง
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -6010,7 +5761,7 @@ The product feels dynamic because the dessert world is shaped around its opening
 reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
 ```
 
-### No. 198: แก้วเบียร์เป็นเกลียวหมุนในทะเลทราย
+### No. 188: แก้วเบียร์เป็นเกลียวหมุนในทะเลทราย
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -6032,7 +5783,7 @@ reflected female beauty portrait inside a vertical oval mirror, wearing matte co
 towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
 ```
 
-### No. 199: ขวดเบียร์อยู่เบื้องหน้า
+### No. 189: ขวดเบียร์อยู่เบื้องหน้า
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`

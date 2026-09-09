@@ -2338,42 +2338,6 @@
     }
   },
   {
-    "id": 135,
-    "title": "교복 차림 대만 소녀의 여름 감성",
-    "description": "짧은 머리와 주근깨가 있는 교복 차림의 대만 소녀를 일본식 여름 영화 사진 스타일로 담은 초상화 생성을 위한 프롬프트입니다.",
-    "prompt": "Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink",
-    "original_prompt": "Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink",
-    "translated_prompt": "",
-    "source_link": "https://x.com/BubbleBrain/status/2097491637048090707",
-    "source_published_at": "2026-09-09T01:05:50.000Z",
-    "source_platform": "x",
-    "author_name": "BubbleBrain",
-    "author_link": "https://x.com/BubbleBrain",
-    "language": "ko",
-    "likes": 60,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2097491637048090707",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 75,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/135_0.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 143,
     "title": "영업 종료 후의 비 내리는 거리 풍경",
     "description": "젖은 양모, 피부, 가로등에 초점을 맞춘, 영업 종료 후의 한 사람을 묘사하는 분위기 있는 이미지 생성을 위한 프롬프트입니다.",
@@ -6014,48 +5978,6 @@
     }
   },
   {
-    "id": 373,
-    "title": "안경 낀 매혹적인 여성의 편집용 인물 사진",
-    "description": "안경과 이어커프를 착용한 20대 일본 또는 한국인 여성의 매혹적이고 사진처럼 사실적인 편집용 인물 사진을 생성하는 프롬프트입니다.",
-    "prompt": "Photorealistic editorial portrait.\n\nKnee-up cowboy shot, waist-level view.\n\nA 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along",
-    "original_prompt": "Photorealistic editorial portrait.\n\nKnee-up cowboy shot, waist-level view.\n\nA 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along",
-    "translated_prompt": "",
-    "source_link": "https://x.com/VIBEQUIRKLABS/status/2096447046328946979",
-    "source_published_at": "2026-09-06T03:55:00.000Z",
-    "source_platform": "x",
-    "author_name": "Nailai7981",
-    "author_link": "https://x.com/VIBEQUIRKLABS",
-    "language": "ko",
-    "likes": 132,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/373_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/373_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/373_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096447046328946979",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 196,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/373_0.jpg",
-        "media/gpt-image-2-5/373_1.jpg",
-        "media/gpt-image-2-5/373_2.jpg",
-        "media/gpt-image-2-5/373_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 374,
     "title": "동양 선(禪) 미니멀리즘 표지 포스터",
     "description": "벚꽃이 흩날리는 파란 문을 지나가는 우아한 고풍 스타일의 여인이 등장하는 동양 미니멀리즘 배경화면을 생성하는 프롬프트입니다.",
@@ -6087,90 +6009,6 @@
     "local_media": {
       "images": [
         "media/gpt-image-2-5/374_0.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 375,
-    "title": "전신 정면 에디토리얼 포트레이트",
-    "description": "20대의 매혹적인 여성을 전신으로 정면에서 촬영한 사실적인 에디토리얼 스타일의 포트레이트를 생성하기 위한 프롬프트입니다.",
-    "prompt": "Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive",
-    "original_prompt": "Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive",
-    "translated_prompt": "",
-    "source_link": "https://x.com/VIBEQUIRKLABS/status/2096418860979171476",
-    "source_published_at": "2026-09-06T02:03:00.000Z",
-    "source_platform": "x",
-    "author_name": "Nailai7981",
-    "author_link": "https://x.com/VIBEQUIRKLABS",
-    "language": "ko",
-    "likes": 64,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/375_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/375_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/375_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096418860979171476",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 198,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/375_0.jpg",
-        "media/gpt-image-2-5/375_1.jpg",
-        "media/gpt-image-2-5/375_2.jpg",
-        "media/gpt-image-2-5/375_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 376,
-    "title": "정면 무릎 위 카우보이 샷 포트레이트",
-    "description": "기울어진 구도로 무릎 위까지 담은, 매혹적인 젊은 일본 여성의 사실적인 에디토리얼 스타일 정면 포트레이트 프롬프트입니다.",
-    "prompt": "Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese",
-    "original_prompt": "Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese",
-    "translated_prompt": "",
-    "source_link": "https://x.com/VIBEQUIRKLABS/status/2096399999269752966",
-    "source_published_at": "2026-09-06T00:48:03.000Z",
-    "source_platform": "x",
-    "author_name": "Nailai7981",
-    "author_link": "https://x.com/VIBEQUIRKLABS",
-    "language": "ko",
-    "likes": 92,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/376_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/376_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/376_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096399999269752966",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 199,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/376_0.jpg",
-        "media/gpt-image-2-5/376_1.jpg",
-        "media/gpt-image-2-5/376_2.jpg",
-        "media/gpt-image-2-5/376_3.jpg"
       ],
       "video": ""
     }
@@ -6398,48 +6236,6 @@
     }
   },
   {
-    "id": 405,
-    "title": "사실적인 에디토리얼 카우보이 샷 포트레이트",
-    "description": "특정 장신구와 프레이밍을 갖춘 젊은 일본 또는 한국 여성의 사실적인 에디토리얼 포트레이트를 생성하기 위한 프롬프트입니다.",
-    "prompt": "Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck",
-    "original_prompt": "Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck",
-    "translated_prompt": "",
-    "source_link": "https://x.com/VIBEQUIRKLABS/status/2095344279564800055",
-    "source_published_at": "2026-09-03T02:53:00.000Z",
-    "source_platform": "x",
-    "author_name": "Nailai7981",
-    "author_link": "https://x.com/VIBEQUIRKLABS",
-    "language": "ko",
-    "likes": 136,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/405_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/405_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/405_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2095344279564800055",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 208,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/405_0.jpg",
-        "media/gpt-image-2-5/405_1.jpg",
-        "media/gpt-image-2-5/405_2.jpg",
-        "media/gpt-image-2-5/405_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 406,
     "title": "안경을 쓴 사실적인 반신 포트레이트",
     "description": "굵은 흰색 테 두꺼운 안경을 쓴 젊은 일본 또는 한국 여성의 무릎 높이에서 바라본 반신 포트레이트입니다.",
@@ -6549,44 +6345,6 @@
     "local_media": {
       "images": [
         "media/gpt-image-2-5/408_0.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 415,
-    "title": "골든 아워 옥상 스마트폰 셀카",
-    "description": "일몰 시간대 옥상에서 젊은 여성이 스마트폰으로 찍는 셀카를 위한 프롬프트입니다.",
-    "prompt": "Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.",
-    "original_prompt": "Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.",
-    "translated_prompt": "",
-    "source_link": "https://x.com/MrDasOnX/status/2097316888384880795",
-    "source_published_at": "2026-09-08T13:31:27.000Z",
-    "source_platform": "x",
-    "author_name": "Mr Das",
-    "author_link": "https://x.com/MrDasOnX",
-    "language": "ko",
-    "likes": 37,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/415_1.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2097316888384880795",
-      "confidence": "medium",
-      "prompt_kind": "keyword"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 212,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/415_0.jpg",
-        "media/gpt-image-2-5/415_1.jpg"
       ],
       "video": ""
     }
@@ -7003,48 +6761,6 @@
       "images": [
         "media/gpt-image-2-5/439_0.jpg",
         "media/gpt-image-2-5/439_1.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 472,
-    "title": "대리석 무늬 블라우스를 입은 고딕 로리타 패션",
-    "description": "네온 퍼플과 오렌지 대리석 무늬 블라우스를 갖춘 고딕 로리타 패션 의상을 생성하기 위한 프롬프트입니다.",
-    "prompt": "［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black",
-    "original_prompt": "［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black",
-    "translated_prompt": "",
-    "source_link": "https://x.com/towa_AIillust/status/2095768323057418243",
-    "source_published_at": "2026-09-04T06:58:00.000Z",
-    "source_platform": "x",
-    "author_name": "towa💎AIart",
-    "author_link": "https://x.com/towa_AIillust",
-    "language": "ko",
-    "likes": 22,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/472_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/472_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/472_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2095768323057418243",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 224,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/472_0.jpg",
-        "media/gpt-image-2-5/472_1.jpg",
-        "media/gpt-image-2-5/472_2.jpg",
-        "media/gpt-image-2-5/472_3.jpg"
       ],
       "video": ""
     }
@@ -7588,48 +7304,6 @@
     }
   },
   {
-    "id": 502,
-    "title": "어린 소녀의 클로즈업 초상화",
-    "description": "특정 얼굴 특징과 표정을 가진 젊은 동아시아 소녀의 클로즈업 초상화를 생성하기 위한 상세한 프롬프트입니다.",
-    "prompt": "A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly",
-    "original_prompt": "A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly",
-    "translated_prompt": "",
-    "source_link": "https://x.com/woleswoosh/status/2097082487935525212",
-    "source_published_at": "2026-09-07T22:00:01.000Z",
-    "source_platform": "x",
-    "author_name": "Feyber",
-    "author_link": "https://x.com/woleswoosh",
-    "language": "ko",
-    "likes": 43,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/502_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/502_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/502_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2097082487935525212",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 242,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/502_0.jpg",
-        "media/gpt-image-2-5/502_1.jpg",
-        "media/gpt-image-2-5/502_2.jpg",
-        "media/gpt-image-2-5/502_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 503,
     "title": "선명한 립스틱의 클로즈업 초상화",
     "description": "도자기 같은 피부, 아몬드 눈, 선명한 립스틱을 가진 젊은 동아시아 여성의 포토리얼리즘 초상화입니다.",
@@ -7966,48 +7640,6 @@
     }
   },
   {
-    "id": 512,
-    "title": "인도네시아 여성 초상화",
-    "description": "밝은 피부, 부드러운 메이크업, 헝클어진 검은 머리를 가진 아름다운 젊은 인도네시아 여성의 초상화를 생성하기 위한 프롬프트.",
-    "prompt": "A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.",
-    "original_prompt": "A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.",
-    "translated_prompt": "",
-    "source_link": "https://x.com/woleswoosh/status/2096569099824378243",
-    "source_published_at": "2026-09-06T12:00:00.000Z",
-    "source_platform": "x",
-    "author_name": "Feyber",
-    "author_link": "https://x.com/woleswoosh",
-    "language": "ko",
-    "likes": 24,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/512_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/512_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/512_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096569099824378243",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 251,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/512_0.jpg",
-        "media/gpt-image-2-5/512_1.jpg",
-        "media/gpt-image-2-5/512_2.jpg",
-        "media/gpt-image-2-5/512_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 513,
     "title": "눈물 흘리는 동아시아 여성의 영화적 초상화",
     "description": "윤기 나는 눈물 자국이 있는 피부와 가늘게 흐르는 앞머리를 가진 젊은 여성의 사실적인 클로즈업 초상화.",
@@ -8213,48 +7845,6 @@
         "media/gpt-image-2-5/517_1.jpg",
         "media/gpt-image-2-5/517_2.jpg",
         "media/gpt-image-2-5/517_3.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
-    "id": 518,
-    "title": "가늘게 흐르는 앞머리와 친밀한 시선의 초상화",
-    "description": "검은 머리, 가늘게 흐르는 앞머리, 친밀한 시선을 가진 젊은 동아시아 여성의 클로즈업 초상화를 생성하기 위한 프롬프트.",
-    "prompt": "Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.",
-    "original_prompt": "Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.",
-    "translated_prompt": "",
-    "source_link": "https://x.com/woleswoosh/status/2096357706802323564",
-    "source_published_at": "2026-09-05T22:00:00.000Z",
-    "source_platform": "x",
-    "author_name": "Feyber",
-    "author_link": "https://x.com/woleswoosh",
-    "language": "ko",
-    "likes": 11,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/518_1.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/518_2.jpg",
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/518_3.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096357706802323564",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 257,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/518_0.jpg",
-        "media/gpt-image-2-5/518_1.jpg",
-        "media/gpt-image-2-5/518_2.jpg",
-        "media/gpt-image-2-5/518_3.jpg"
       ],
       "video": ""
     }

@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-289%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-279%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **289** |
+| Total Prompts | **279** |
 | Categories | **4** |
-| Preview Images | **289** |
+| Preview Images | **279** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -114,7 +114,7 @@ Every record keeps its category, source, author, source link, input references a
 
 - [`Reference Fidelity`](#category-1): **41**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **199**
+- [`Style & Intelligence`](#category-3): **189**
 - [`Layout & Typography`](#category-4): **39**
 
 <a id="all-prompts"></a>
@@ -1319,7 +1319,7 @@ Een prompt die een portret beschrijft verlicht door hard, ongezacht zonlicht van
 
 <a id="category-3"></a>
 
-### Style & Intelligence (199)
+### Style & Intelligence (189)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -2234,29 +2234,7 @@ Een prompt voor het genereren van een realistisch beeld van een enkele rode spin
 雨水滴る一輪のヒガンバナ。屋外の川辺。雨上がりの晴天。ハイクオリティ超美麗リアル2K
 ```
 
-### No. 41: Taiwanese meisje in schooluniform zomeraesthetiek
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** BubbleBrain
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een prompt voor een portret in een Japanse zomerfilmfotografie-stijl met een Taiwanees meisje met kort haar en sproeten dat een schooluniform draagt.
-
-#### Prompt
-
-```text
-Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink
-```
-
-### No. 42: Regenachtige straatscène na sluitingstijd
+### No. 41: Regenachtige straatscène na sluitingstijd
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2280,7 +2258,7 @@ Een prompt voor een sfeervol beeld dat een persoon na sluitingstijd toont, met f
 Rain after closing time. Look at the wet wool, the skin, and the light on the street behind her.
 ```
 
-### No. 43: Mode-editorial met wind en zijde
+### No. 42: Mode-editorial met wind en zijde
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2304,7 +2282,7 @@ Een prompt voor een mode-editorialscène met drie personen gestyled door de wind
 Wind does the styling. A fashion editorial test with three people, hard sunlight, and a lot of silk.
 ```
 
-### No. 44: Realistische iPhone-foto van Tesla Model Y
+### No. 43: Realistische iPhone-foto van Tesla Model Y
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2326,7 +2304,7 @@ Een prompt voor het genereren van een realistische iPhone-foto van een Tesla Mod
 realistic iphone photo of a tesla model y from parking lot, done with 0.5x camera
 ```
 
-### No. 45: Schemering eco-toekomststad met maan
+### No. 44: Schemering eco-toekomststad met maan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2354,7 +2332,7 @@ Een prompt die een schemerende eco-toekomststad beschrijft, een maanstad met een
 氷晶の聖堂に舞う銀髪の女王
 ```
 
-### No. 46: Groot leger met draak in de regen
+### No. 45: Groot leger met draak in de regen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2376,7 +2354,7 @@ Een complexe scène met een leger van meer dan 100 personen, het personage Luna,
 100人以上の軍勢＋ルナ＋白竜＋日本語看板＋複雑な槍の持ち方＋雨天の反射
 ```
 
-### No. 47: Grijze Nederlandse dwergkonijn springend
+### No. 46: Grijze Nederlandse dwergkonijn springend
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2400,7 +2378,7 @@ Een prompt voor het genereren van beelden van een springend konijn en een grijs 
 グレーのネザーランドドワーフがぴょんぴょん
 ```
 
-### No. 48: Anime Stel in Park - Hoge Detailgraad
+### No. 47: Anime Stel in Park - Hoge Detailgraad
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2423,7 +2401,7 @@ Een prompt voor het genereren van een afbeelding van een jonge man en vrouw in a
 「アニメ風の各々私服姿の少女と青年。大きな公園。2:3の縦長アスペクト比」に「16K超々高解像度で要素を各々具体的に描く。コントラストと彩度を少し高めに」
 ```
 
-### No. 49: Droom van het Rode Paviljoen - Lange Rolschildering
+### No. 48: Droom van het Rode Paviljoen - Lange Rolschildering
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2446,7 +2424,7 @@ Een prompt om een scène uit 'Droom van het Rode Paviljoen' te reconstrueren als
 尝试把古典文学叙事做成中国传统长卷：从荣府门外的仪仗、元春省亲，到园中宴席、宝黛诗会，再一路延伸到冬日街景。
 ```
 
-### No. 50: Woestijn Brutalisme Architectuur Serie
+### No. 49: Woestijn Brutalisme Architectuur Serie
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2478,7 +2456,7 @@ Desert Brutalism & Monolithic Earth Architecture
 4: Tadao
 ```
 
-### No. 51: Gouden Uur Straatwandeling Foto
+### No. 50: Gouden Uur Straatwandeling Foto
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2501,7 +2479,7 @@ Een prompt voor een fotorealistische smartphonefoto van een vrouw die op een met
 A highly photorealistic candid smartphone photograph of a young woman walking slowly through a quiet tree-lined residential street during golden hour. She has medium-length dark chestnut hair styled in a slightly messy half-up hairstyle, with soft
 ```
 
-### No. 52: Luxe Reisposter Collectie
+### No. 51: Luxe Reisposter Collectie
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2525,7 +2503,7 @@ Een prompt voor het creëren van een verfijnde luxe reisposter collectie geïnsp
 Premium sophisticated luxury travel-poster collection inspired by Santorini, Amalfi Coast, and Paris, blended together into one unified, breathtaking editorial composition, 3:4 vertical format. Create an original, luxurious travel-art
 ```
 
-### No. 53: Onopgesmukt Portret in Stads Park
+### No. 52: Onopgesmukt Portret in Stads Park
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2548,7 +2526,7 @@ Een spontaan, onopgesmukt buitensportret van een jonge vrouw met lang donkerbrui
 A photorealistic candid outdoor portrait of a young woman standing in a peaceful urban park on a sunny afternoon. She has long dark-brown hair styled in a loose low ponytail, with wispy face-framing strands gently falling across her face.
 ```
 
-### No. 54: Woestijn Moordenaar Karakter Referentieblad
+### No. 53: Woestijn Moordenaar Karakter Referentieblad
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2570,7 +2548,7 @@ Een prompt voor het genereren van een cinematografisch karakter referentieblad m
 Professional reference sheet, 16:9 cinematic layout. Left half: DESERT ASSASSIN, woman ~28, lithe and deadly, bronze skin, black kohl eyes, midnight blue wrapped silks revealing mirrored-scale armor underneath, curved scimitar with serpent-coil
 ```
 
-### No. 55: Oost-Aziatische Vrouw Modefoto in Lounge
+### No. 54: Oost-Aziatische Vrouw Modefoto in Lounge
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2592,7 +2570,7 @@ Een prompt voor een ultra-fotorealistische smartphone modefoto van een mooie Oos
 Ultra-photorealistic vertical 9:16 smartphone fashion photo of an exceptionally beautiful adult East Asian woman in an elegant private lounge at night. She has a refined small oval face, luminous fair skin with natural texture, large
 ```
 
-### No. 56: Vintage Reis Postzegel Kunstwerk
+### No. 55: Vintage Reis Postzegel Kunstwerk
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2616,7 +2594,7 @@ Een prompt voor het creëren van een postzegel in vintage-stijl met een iconisch
 Create a sophisticated vintage travel postage-stamp artwork representing [COUNTRY]. Feature the country’s most iconic landmark as the main focal point, surrounded by 3–5 carefully chosen elements that instantly represent the country — landscape, traditional
 ```
 
-### No. 57: Vintage Reisposter van Iconisch Bouwwerk
+### No. 56: Vintage Reisposter van Iconisch Bouwwerk
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2640,7 +2618,7 @@ Een prompt voor het creëren van een gestileerde, handgeschilderde vintage reisp
 Create a sophisticated vintage-inspired travel poster featuring [ICONIC STRUCTURE] as the main focal point. Keep the architecture highly recognizable with accurate proportions and distinctive details, but reinterpret it as a stylized hand-painted
 ```
 
-### No. 58: Spontane Modeportret in Parkeergarage
+### No. 57: Spontane Modeportret in Parkeergarage
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2663,7 +2641,7 @@ Een ultra-fotorealistisch portret van een mooie Euraziatische vrouw in een moder
 Ultra-photorealistic vertical 3:4 candid luxury fashion portrait in a modern underground parking garage. An exceptionally beautiful adult Eurasian woman with refined mixed Asian-European features stands beside a
 ```
 
-### No. 59: Ambachtelijke Miniatuur Eetbaar Tafereel
+### No. 58: Ambachtelijke Miniatuur Eetbaar Tafereel
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2687,7 +2665,7 @@ Een prompt voor het genereren van een charmant miniatuurtafereel met een specifi
 Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden
 ```
 
-### No. 60: Winkelpui Miniatuur Diorama
+### No. 59: Winkelpui Miniatuur Diorama
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2712,7 +2690,7 @@ Een prompt om een speels 3D-klei miniatuur diorama te genereren van een herkenba
 Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors
 ```
 
-### No. 61: Iconisch Bouwwerk Miniatuur Diorama
+### No. 60: Iconisch Bouwwerk Miniatuur Diorama
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2737,7 +2715,7 @@ Een prompt voor het creëren van een gedetailleerde, gezellige miniatuurwereld m
 Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations
 ```
 
-### No. 62: Asymmetrisch High-Fashion Studio Portret
+### No. 61: Asymmetrisch High-Fashion Studio Portret
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2759,7 +2737,7 @@ Een prompt voor een close-upportret van een man tegen een witte studiobackground
 Create a high-fashion editorial close-up portrait of an adult man against a seamless pure white studio background. Use an intentionally asymmetric composition:
 ```
 
-### No. 63: Wind-Gesneden Wit Doolhof Landschap
+### No. 62: Wind-Gesneden Wit Doolhof Landschap
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2798,7 +2776,7 @@ Een beschrijvende prompt voor het genereren van een landschap van een wit doolho
 その違いだけで、
 ```
 
-### No. 64: Witte Drakenridder en Klein Steentje
+### No. 63: Witte Drakenridder en Klein Steentje
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2820,7 +2798,7 @@ Een scène die een Witte Drakenridder toont in de nacht, niet tegengehouden door
 「痛みの正体は、だいたい小さい。」 白竜騎士の夜。 巡回を止めたのは、敵ではなく小石一個だった。
 ```
 
-### No. 65: Zelfverzekerde Man Redactioneel Portret
+### No. 64: Zelfverzekerde Man Redactioneel Portret
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2842,7 +2820,7 @@ Een prompt voor het genereren van een premium redactioneel studio-portret van ee
 Create an ultra-realistic close-up studio portrait of an adult man with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style. Give him neatly short black hair.
 ```
 
-### No. 66: Volledig Lichaam Studio Mode Portret
+### No. 65: Volledig Lichaam Studio Mode Portret
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2864,7 +2842,7 @@ Een prompt voor het genereren van een vol lichaam, zelfverzekerd mannelijk model
 Create an ultra-realistic full-body studio fashion portrait of an adult man standing confidently against a seamless warm light-beige studio background. Position the man in the
 ```
 
-### No. 67: Meesterwerk Luxe Reis Campagne
+### No. 66: Meesterwerk Luxe Reis Campagne
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2889,7 +2867,7 @@ Een prompt voor een verfijnde luxe lifestyle reiscampagne die Alpen-, Dubai- en 
 Premium sophisticated luxury lifestyle travel-campaign masterpiece combining an exclusive Alpine lakeside mountain retreat, a breathtaking Dubai waterfront luxury escape, and multiple elegant European lakeside chalet experiences into one
 ```
 
-### No. 68: Ochtendroutine van de Blauwe Tovenaarsmeester
+### No. 67: Ochtendroutine van de Blauwe Tovenaarsmeester
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2911,7 +2889,7 @@ Een scène die de ochtend van een Blauwe Tovenaarsmeester toont, waar kammen, ha
 「朝の支度に、手は要らなかった。」 青魔導士マスターの朝。 報告書を読む間に、櫛も髪紐も靴紐も仕事を終える。
 ```
 
-### No. 69: Schip Aankomend aan Witte Krijt Kust
+### No. 68: Schip Aankomend aan Witte Krijt Kust
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2933,7 +2911,7 @@ Een beschrijvende prompt voor een scène waarin een schip aankomt aan een oever 
 白い大地に船が着く。海を渡った先に、砂ではなく、白い大地が待っていた。塩と石灰に覆われた岸。風に削られた白い岩。その向こうには、まだ見たことのない土地が続いている。昨日まで白紙だった地図に、
 ```
 
-### No. 70: Zee-Elf Visser Personage Portret
+### No. 69: Zee-Elf Visser Personage Portret
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2967,7 +2945,7 @@ TRPG人外図鑑 FILE.022｜リゼア
 《潮見浜》で今日も海を見る、ひとりの漁師です。
 ```
 
-### No. 71: Professioneel Studio Hoofdportret
+### No. 70: Professioneel Studio Hoofdportret
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2989,7 +2967,7 @@ Een prompt voor het genereren van een professioneel studio hoofdportret van een 
 Create an ultra-realistic professional studio headshot portrait of an adult man photographed against a
 ```
 
-### No. 72: Zelfverzekerde Man in Luxueus Modern Interieur
+### No. 71: Zelfverzekerde Man in Luxueus Modern Interieur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3011,7 +2989,7 @@ Een ultrarealistisch lifestyle portret van een zelfverzekerde man in een luxueus
 Create an ultra-realistic premium lifestyle portrait of an adult man standing confidently inside a luxurious modern interior near a dark wooden doorway and a large floor-to-ceiling mirror.
 ```
 
-### No. 73: Fantasy Sperman Slaapt aan Bureau
+### No. 72: Fantasy Sperman Slaapt aan Bureau
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3036,7 +3014,7 @@ Een poëtische prompt die de nacht van een sperman beschrijft, waarbij hij de ho
 異世界の地図より先に、机の木目を頬で覚えた。
 ```
 
-### No. 74: Drakenridder Rustend in de Schaduw
+### No. 73: Drakenridder Rustend in de Schaduw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3058,7 +3036,7 @@ Een scène waarin twee drakenridders pauzeren onder de vleugel van een draak, me
 「日陰くらい、借りてもええか。」 双竜騎士の昼。 レシックの右翼の下で、地図と硬いパンをひらく。
 ```
 
-### No. 75: Stijlvolle Man in Gezellige Avondbibliotheek
+### No. 74: Stijlvolle Man in Gezellige Avondbibliotheek
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3080,7 +3058,7 @@ Een ultrarealistisch portret van een man die ontspant in een chique bibliotheekl
 Create an ultra-realistic lifestyle portrait of a stylish adult man relaxing in a cozy upscale library lounge during the early evening. Position him seated comfortably in a vintage cognac-brown leather armchair, holding a book, with soft ambient lighting from a nearby floor lamp and a warm fireplace glow. The atmosphere is serene and sophisticated, with rich wood shelves filled with books in the background.
 ```
 
-### No. 76: Dullahan Postbode op Herfstnacht
+### No. 75: Dullahan Postbode op Herfstnacht
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3102,7 +3080,7 @@ Een nachtpostbode loopt over een herfstweg omzoomd met rode spinlelies onder een
 秋の夜。彼岸花の咲く街道を歩く、夜間郵便配達人エルネ。街が眠ってからも、届ける手紙があります。エルネ／デュラハン／夜間郵便配達人
 ```
 
-### No. 77: Volledig Lichaam Editorial Portret in Bordeauxrood
+### No. 76: Volledig Lichaam Editorial Portret in Bordeauxrood
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3124,7 +3102,7 @@ Een ultrarealistisch editorial portret van een zelfverzekerde zwarte man in een 
 Create an ultra-realistic full-body editorial studio portrait of a stylish adult Black man seated confidently on a minimalist
 ```
 
-### No. 78: Blauwe Tovenaarsmeester's Middag
+### No. 77: Blauwe Tovenaarsmeester's Middag
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3146,7 +3124,7 @@ Een scène die de middag van een Blauwe Tovenaarsmeester uitbeeldt, waar magie z
 「歩ける。でも、歩く理由がなかった。」 青魔導士マスターの午後。 日差しも石畳も、彼女へ届く前に魔法が片づける。
 ```
 
-### No. 79: Zonsondergang over Gebarsten Aarde Met Vlammen
+### No. 78: Zonsondergang over Gebarsten Aarde Met Vlammen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3168,7 +3146,7 @@ Een beschrijvende prompt voor een scène van een schemerwildernis met dunne vlam
 夕暮れの荒野で、地面の亀裂から細い炎が静かに揺れていた。噴火でも、焚き火でもない。大地の奥から染み出したものが、ただ燃え続けている。遠くには、夕日に染まるカスピ海。土も、水も、火も、
 ```
 
-### No. 80: Klassiek Zeilschip Bij Gouden Zonsondergang
+### No. 79: Klassiek Zeilschip Bij Gouden Zonsondergang
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3190,7 +3168,7 @@ Een ultrareëel beeld van een klassiek houten zeilschip in een dramatische oceaa
 Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a magnificent vintage wooden sailing ship dominating the left foreground. The ship has multiple tall wooden masts, intricate rigging, ropes, detailed weathered wooden textures and large
 ```
 
-### No. 81: Witte Drakenridder Controleert Vleugelblessure
+### No. 80: Witte Drakenridder Controleert Vleugelblessure
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3212,7 +3190,7 @@ Een scène van een Witte Drakenridder Meester die voorzichtig de linker vleugelb
 「眠ってる間に、少しだけ診せてな。」 月夜の竜舎。 白竜騎士マスターは、レシックを起こさないよう左翼の傷を確かめる。
 ```
 
-### No. 82: Reiziger Repareert Blauwe Doek In Vulkanische Stad
+### No. 81: Reiziger Repareert Blauwe Doek In Vulkanische Stad
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3234,7 +3212,7 @@ Een scène van het repareren van een blauwe reisdoek in een vulkanische stad tij
 「裂けたなら、縫えばええ。」 火山都市の午後。 遠い山を眺める前に、旅を支える青い布を直す。
 ```
 
-### No. 83: Ochtend In Een Spiegelwereld Met Een Sperendrager
+### No. 82: Ochtend In Een Spiegelwereld Met Een Sperendrager
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3256,7 +3234,7 @@ Een prompt die een sperendrager toont die zijn grootste titel heeft verloren, zi
 「泥は、歩いた分だけつく。」 ミラ世界の朝。 最強の肩書きを失った槍兵は、濡れた靴紐から一日を始める。
 ```
 
-### No. 84: Blauwe Tovenaar Meester Luna Voor Dageraad
+### No. 83: Blauwe Tovenaar Meester Luna Voor Dageraad
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3278,7 +3256,7 @@ Een scène die Blauwe Tovenaar Meester Luna toont voor dageraad, met boeken, een
 「手を伸ばす必要なんて、なかった。」 夜明け前の青魔導士マスター・ルナ。 本も椅子も紅茶も、彼女の身体を必要としていなかった頃。
 ```
 
-### No. 85: Landschap Waar Vuur Uit De Aarde Lek
+### No. 84: Landschap Waar Vuur Uit De Aarde Lek
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3315,7 +3293,7 @@ Een beschrijvende prompt voor een landschap waar vuur uit de aarde lekt in een d
 その奥ではずっと生きている。
 ```
 
-### No. 86: Nacht Zwarte Drakenridder Luna
+### No. 85: Nacht Zwarte Drakenridder Luna
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3337,7 +3315,7 @@ Een scène die de Zwarte Drakenridder Luna 's nachts toont, terwijl ze haar spee
 「今日も、この手で届いた。」 夜の黒竜騎士ルナ。 槍だこを確かめる隣で、エル・ドラゴは先に眠った。
 ```
 
-### No. 87: Frieren en Fern Op Een Goede Plek
+### No. 86: Frieren en Fern Op Een Goede Plek
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3359,7 +3337,7 @@ Een SFW illustratie die een gesprek toont tussen de personages Fern en Frieren.
 フェルン『良い場所ですねフリーレン様』 フリーレン『…そうだね』 SFW illustration
 ```
 
-### No. 88: Heuvels Uitgeslepen Door Wind En Regen
+### No. 87: Heuvels Uitgeslepen Door Wind En Regen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3381,7 +3359,7 @@ Een poëtische prompt die een landschap beschrijft waar groen vervaagt en lagen 
 森を抜けると、景色から緑が少しずつ消えていった。代わりに現れたのは、黄土色。錆色。灰白色。淡い緑。風と雨に削られた丘には、大地そのものの時間が幾重にも重なっている。道はその色の間を縫いながら、
 ```
 
-### No. 89: Oude Dame met Waaier voor Bamboe
+### No. 88: Oude Dame met Waaier voor Bamboe
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3406,7 +3384,7 @@ Een AI-prompt om een oosters esthetisch behang te genereren met een klassieke vr
 主体内容：一位手持圆形团扇的古风女子站在白墙竹影前
 ```
 
-### No. 90: Politie Reddingsrobots Slepen Reddingsboot
+### No. 89: Politie Reddingsrobots Slepen Reddingsboot
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3431,7 +3409,7 @@ Een prompt die een Tokyo Police Heavy Machinery Robot Team toont dat evacués re
 　　避難者を救助します。
 ```
 
-### No. 91: Stedelijk Observatorium Daglicht CCD-foto
+### No. 90: Stedelijk Observatorium Daglicht CCD-foto
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3458,7 +3436,7 @@ GPT Image 2生成日间高亮CCD生活照。
 服装方向：樱桃红色修身方领无袖针织上衣 + 冷白色高腰修身短裤
 ```
 
-### No. 92: Verticale iPhone Lifestyle Portret
+### No. 91: Verticale iPhone Lifestyle Portret
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3480,7 +3458,7 @@ Een prompt voor het genereren van een realistisch, spontaan iPhone-stijl portret
 9:16 竖版，真实 iPhone 手机随手拍摄的生活感女性照片，画面主体是一位视觉年龄约 20–26
 ```
 
-### No. 93: Nieuwe Chinese Stijl Bloemenraam Poster
+### No. 92: Nieuwe Chinese Stijl Bloemenraam Poster
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3507,7 +3485,7 @@ Een beeldgeneratieprompt voor een elegante, minimalistische oosterse poster met 
 构图与空间：9:16
 ```
 
-### No. 94: Fotorealistisch Redactioneel Portret van Oost-Aziatische Vrouw
+### No. 93: Fotorealistisch Redactioneel Portret van Oost-Aziatische Vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3536,7 +3514,7 @@ Knee-up cowboy shot, eye-level view.
 A 20-year-old adult East Asian woman, small near-round oval face with full low cheeks, large level warm gray-brown round eyes, short low-bridge nose, small even rose-pink lips, luminous
 ```
 
-### No. 95: Politie Zware Machinerie Eenheid Robots Reinigen Rivier
+### No. 94: Politie Zware Machinerie Eenheid Robots Reinigen Rivier
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3561,7 +3539,7 @@ Een prompt die een robotsquad van de politie zware machinerie eenheid beschrijft
 　　ゴミを片付けています。
 ```
 
-### No. 96: Fotorealistisch Redactioneel Portret met Hart-Ovaal Gezicht
+### No. 95: Fotorealistisch Redactioneel Portret met Hart-Ovaal Gezicht
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3590,7 +3568,7 @@ Knee-up cowboy shot, eye-level view.
 A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, warm hazel almond eyes with lifted corners, slim medium-bridge nose, full coral-rose lips with a plush lower lip,
 ```
 
-### No. 97: iPhone Portret van een Jonge Vrouw
+### No. 96: iPhone Portret van een Jonge Vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3612,7 +3590,7 @@ Een prompt voor het genereren van een realistisch, casual 9:16 verticaal foto va
 9:16 竖版，真实 iPhone 手机普通主摄随手拍摄的生活感女性照片，一位视觉年龄约 20–26
 ```
 
-### No. 98: Zen Vrouw bij Water in de Zomer
+### No. 97: Zen Vrouw bij Water in de Zomer
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3639,7 +3617,7 @@ Een prompt voor het genereren van een oosters esthetisch behang met een vrouw bi
 构图与空间：9:16
 ```
 
-### No. 99: Cowboy Shot Portret van Oost-Aziatische Vrouw
+### No. 98: Cowboy Shot Portret van Oost-Aziatische Vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3666,7 +3644,7 @@ Knee-up cowboy shot, waist-level view.
 A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed chin, wide-set gray-hazel almond eyes with lifted corners, narrow-bridge rounded-tip nose, full coral-brick
 ```
 
-### No. 100: Stedelijk Dak Boekencafé Fashion Shot
+### No. 99: Stedelijk Dak Boekencafé Fashion Shot
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3691,7 +3669,7 @@ Een prompt voor het genereren van een heldere, overdag CCD-stijl lifestylefoto m
 服装方向：蓝莓紫色修身方领短袖针织上衣 + 奶油白高腰A字短裙
 ```
 
-### No. 101: Fotorealistisch Redactioneel Portret van Oost-Aziatische Vrouw
+### No. 100: Fotorealistisch Redactioneel Portret van Oost-Aziatische Vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3715,36 +3693,7 @@ Een gedetailleerde prompt voor het genereren van een redactioneel portret tot de
 Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, waist-level view. A 20-year-old adult East Asian woman, petite oval face with full cheeks, large slightly close-set round gray-brown eyes, tiny beauty mark near the outer cheek, cushioned slightly parted rose
 ```
 
-### No. 102: Verleidelijke Vrouw met Bril Redactioneel Portret
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een prompt voor het genereren van een fotorealistisch redactioneel portret van een verleidelijke Japanse of Koreaanse vrouw in haar jaren 20, met een bril en een oorcuff.
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait.
-
-Knee-up cowboy shot, waist-level view.
-
-A 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along
-```
-
-### No. 103: Oosterse Zen Minimalistische Cover Poster
+### No. 101: Oosterse Zen Minimalistische Cover Poster
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3771,57 +3720,7 @@ Een prompt voor het genereren van een oosters minimalistische wallpaper met een 
 构图与空间：9:16
 ```
 
-### No. 104: Volledige Lichaam Frontaal Redactioneel Portret
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een prompt voor het genereren van een fotorealistisch, volledig lichaams redactioneel portret van een verleidelijke vrouw in de 20, geschoten vanuit een frontaal zicht.
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive
-```
-
-### No. 105: Frontaal Knie-Hoog Cowboy Shot Portret
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een prompt voor een knie-hoog, gekanteld, frontaal portret van een verleidelijke jonge Japanse vrouw in een fotorealistische redactionele stijl.
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese
-```
-
-### No. 106: Politie Zwaar Materieel Eenheid Robot Team
+### No. 102: Politie Zwaar Materieel Eenheid Robot Team
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3846,7 +3745,7 @@ Een afbeelding van een politie robotteam van de Zwaar Materieel Tegenaatregelen 
 　　道路からの車両の移動
 ```
 
-### No. 107: Overdag Helder CCD Stedelijk Sport Leven Foto
+### No. 103: Overdag Helder CCD Stedelijk Sport Leven Foto
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3872,7 +3771,7 @@ Een prompt voor het genereren van een heldere overdag CCD-stijl lifestyle foto i
 气质标签：活力、明亮、健康、甜酷、自然
 ```
 
-### No. 108: Zen Minimalistisch Verticaal Omslag Poster
+### No. 104: Zen Minimalistisch Verticaal Omslag Poster
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3894,7 +3793,7 @@ Een prompt voor het creëren van een minimalistische, heldere en strakke 9:16 ve
 东方禅意极简封面海报，女性审美明亮型，新中式清晨感高颜值封面。9:16 竖版构图，整体画面轻盈、清透、干净、明亮，具有现代东方女性审美与小红书封面感。
 ```
 
-### No. 109: Vrouw Zittend bij Rond Raam
+### No. 105: Vrouw Zittend bij Rond Raam
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3920,7 +3819,7 @@ Een prompt voor het genereren van een Oosterse Zen minimalistische poster met ee
 场景与意象：圆窗、蜜瓜绿色窗外植物、樱花粉小花、白色坐垫、女子
 ```
 
-### No. 110: Politie Robot Squad Stopt Weggelopen Vrachtwagen
+### No. 106: Politie Robot Squad Stopt Weggelopen Vrachtwagen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3945,7 +3844,7 @@ Een afbeelding van een politie robotsquad van de Zwaar Materieel Tegenaatregelen
 　　なんとか停止させる
 ```
 
-### No. 111: Volledige Lichaam Redactioneel Portret van Jonge Vrouw
+### No. 107: Volledige Lichaam Redactioneel Portret van Jonge Vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3970,32 +3869,7 @@ Een prompt voor een volledig lichaams, ooghoogte redactioneel portret van een jo
 Create a photorealistic editorial portrait. Full-body portrait, eye-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with medium smooth hoop earrings, clean polished metal circular silhouette.
 ```
 
-### No. 112: Fotorealistisch Redactioneel Cowboy Shot Portret
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een prompt voor het genereren van een fotorealistisch redactioneel portret van een jonge Japanse of Koreaanse vrouw met specifieke sieraden en kadrering.
-
-#### Prompt
-
-```text
-Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck
-```
-
-### No. 113: Fotorealistisch Taille-Hoog Portret met Bril
+### No. 108: Fotorealistisch Taille-Hoog Portret met Bril
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4020,7 +3894,7 @@ Een taille-hoog, knie-niveau zicht portret van een jonge Japanse of Koreaanse vr
 Create a photorealistic editorial portrait. Waist-up portrait, knee-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with white frame, bold thick-frame glasses, worn normally on the face, lenses aligned
 ```
 
-### No. 114: Zen Minimalistische Omslag Poster met Vrouw en Windgong
+### No. 109: Zen Minimalistische Omslag Poster met Vrouw en Windgong
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4046,7 +3920,7 @@ Een prompt voor het genereren van een afbeelding van een vrouw die een windgong 
 场景与意象：海盐蓝窗外色块、珊瑚粉花影、白色窗框、风铃、女子
 ```
 
-### No. 115: Post-Apocalyptische Stad met Groene Begroeiing
+### No. 110: Post-Apocalyptische Stad met Groene Begroeiing
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4068,30 +3942,7 @@ Een gedetailleerde foto van een post-apocalyptische stad in Shenzhen, China, ove
 废土风：一张废土城市的照片，画面中充满了绿色的植被，细节非常丰富，地址为中国深圳。
 ```
 
-### No. 116: Gouden Uur Dak Smartphone Selfie
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Mr Das
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_1.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een prompt voor een smartphone selfie van een jonge vrouw op een dak tijdens zonsondergang.
-
-#### Prompt
-
-```text
-Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.
-```
-
-### No. 117: Japanse Vrouw met Tanuki-Achtig Gezicht 's Nachts
+### No. 111: Japanse Vrouw met Tanuki-Achtig Gezicht 's Nachts
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4113,7 +3964,7 @@ Een prompt voor het genereren van een fotorealistische afbeelding van een fictie
 Photorealistic natural photo of a completely fictional 20-year-old adult Japanese woman. She has an extremely cute tanuki-like face, a soft round face and cheeks, gentle round eyes, and dark brown hair. At night on a quiet
 ```
 
-### No. 118: Dolfijnenperspectief op Vrouwen in Glazen Aquarium
+### No. 112: Dolfijnenperspectief op Vrouwen in Glazen Aquarium
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4138,7 +3989,7 @@ Een realistische afbeelding vanuit het perspectief van een dolfijn die door een 
 女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
 ```
 
-### No. 119: Lingerieset op Witte Torso Paspop
+### No. 113: Lingerieset op Witte Torso Paspop
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4160,7 +4011,7 @@ Een prompt voor het genereren van een productstijl referentiebeeld van een licht
 A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
 ```
 
-### No. 120: Polymeerklei Miniatuur Winkelgevelscène
+### No. 114: Polymeerklei Miniatuur Winkelgevelscène
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4185,7 +4036,7 @@ Een prompt voor het creëren van een miniatuur kleimodel van een merkstore met g
 Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
 ```
 
-### No. 121: Modeadvertentie met Kantelende Grondopname
+### No. 115: Modeadvertentie met Kantelende Grondopname
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4208,7 +4059,7 @@ Een modecampagne voor een fictief merk met zes mensen in levendige kleding tegen
 这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
 ```
 
-### No. 122: Handgetekende Anime Duel met Kersenbloesems
+### No. 116: Handgetekende Anime Duel met Kersenbloesems
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4231,32 +4082,7 @@ Een scène uit een eind jaren negentig Japanse handgetekende animatiefilm, met e
 来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
 ```
 
-### No. 123: Gothic Lolita Mode met Gemarmerde Blouse
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** towa💎AIart
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een prompt voor het genereren van een afbeelding van een gothic lolita mode-outfit met een neonpaarse en oranje gemarmerde blouse.
-
-#### Prompt
-
-```text
-［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black
-```
-
-### No. 124: Zwarte Spookbruid Gotische Trouwjurk
+### No. 117: Zwarte Spookbruid Gotische Trouwjurk
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4280,7 +4106,7 @@ Een prompt voor een gotische Halloween horrorbruid kostuum met donkere romantisc
 [concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
 ```
 
-### No. 125: Sfeervol Cinematografisch Portret van Oost-Aziatische Vrouw
+### No. 118: Sfeervol Cinematografisch Portret van Oost-Aziatische Vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4305,7 +4131,7 @@ Een prompt voor een hoogcontrast, cinematografisch close-up portret van een jong
 A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
 ```
 
-### No. 126: Cinematografisch Nachtstraat Portret op Nat Zebrapad
+### No. 119: Cinematografisch Nachtstraat Portret op Nat Zebrapad
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4330,7 +4156,7 @@ Een prompt voor een cinematografisch portret van een jonge Oost-Aziatische vrouw
 A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
 ```
 
-### No. 127: Close-Up Portret met Gloeiende Gouden Ogen
+### No. 120: Close-Up Portret met Gloeiende Gouden Ogen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4355,7 +4181,7 @@ Een prompt voor een cinematografisch close-up portret van een jonge Oost-Aziatis
 Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
 ```
 
-### No. 128: Fotorealistisch portret met bril en knipoog
+### No. 121: Fotorealistisch portret met bril en knipoog
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4380,7 +4206,7 @@ Een fotorealistisch portret van een jonge Oost-Aziatische vrouw met een bril en 
 Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
 ```
 
-### No. 129: Portret in analoge-filmstijl met slordig haar
+### No. 122: Portret in analoge-filmstijl met slordig haar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4405,7 +4231,7 @@ Een fotorealistisch portret in analoge-filmstijl van een jonge Oost-Aziatische v
 A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
 ```
 
-### No. 130: Cinematografisch portret drijvend in donker water
+### No. 123: Cinematografisch portret drijvend in donker water
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4430,7 +4256,7 @@ Een cinematografisch portret van een serene jonge vrouw die in stil water drijft
 Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
 ```
 
-### No. 131: Studio schoonheidsportret met zijvlecht
+### No. 124: Studio schoonheidsportret met zijvlecht
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4455,7 +4281,7 @@ Een fotorealistisch studio schoonheidsportret van een jonge Oost-Aziatische vrou
 A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
 ```
 
-### No. 132: Portret van vrouw in auto met hijab
+### No. 125: Portret van vrouw in auto met hijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4480,7 +4306,7 @@ Een fotorealistisch close-upportret van een jonge Oost-Aziatische vrouw in een a
 Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
 ```
 
-### No. 133: Vrouw die een selfie maakt in hijab
+### No. 126: Vrouw die een selfie maakt in hijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4505,7 +4331,7 @@ Een prompt om een afbeelding te genereren van een jonge vrouw in een lichte hija
 A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
 ```
 
-### No. 134: Portret van vrouw die over haar schouder kijkt
+### No. 127: Portret van vrouw die over haar schouder kijkt
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4530,7 +4356,7 @@ Een gedetailleerde prompt voor het genereren van een fotorealistisch portret van
 A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
 ```
 
-### No. 135: Portret van vrouw met bril
+### No. 128: Portret van vrouw met bril
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4555,32 +4381,7 @@ Een portret van een jonge Oost-Aziatische vrouw met een bril, golvend haar en ee
 Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
 ```
 
-### No. 136: Close-upportret van jong meisje
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een gedetailleerde prompt voor het genereren van een close-upportret van een jong Oost-Aziatisch meisje met specifieke gelaatstrekken en uitdrukking.
-
-#### Prompt
-
-```text
-A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly
-```
-
-### No. 137: Close-upportret met levendige lippenstift
+### No. 129: Close-upportret met levendige lippenstift
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4605,7 +4406,7 @@ Een fotorealistisch portret van een jonge Oost-Aziatische vrouw met porseleinen 
 Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
 ```
 
-### No. 138: Portret met nat haar en blote schouder
+### No. 130: Portret met nat haar en blote schouder
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4630,7 +4431,7 @@ Een fotorealistisch portret van een jonge vrouw met dauwachtige huid en nat zwar
 photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
 ```
 
-### No. 139: Cinematografisch portret van Oost-Aziatische vrouw
+### No. 131: Cinematografisch portret van Oost-Aziatische vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4655,7 +4456,7 @@ Een close-upportret van een jonge Oost-Aziatische vrouw met lang donker golvend 
 A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
 ```
 
-### No. 140: Fotorealistisch portret met bril
+### No. 132: Fotorealistisch portret met bril
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4680,7 +4481,7 @@ Een fotorealistisch portret van een jonge Oost-Aziatische vrouw met lang golvend
 A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
 ```
 
-### No. 141: Cinematografisch portret met honingkleurige highlights
+### No. 133: Cinematografisch portret met honingkleurige highlights
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4705,7 +4506,7 @@ Een prompt voor een cinematografisch close-upportret van een jonge Oost-Aziatisc
 Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
 ```
 
-### No. 142: Fotorealistisch portret met bobkapsel
+### No. 134: Fotorealistisch portret met bobkapsel
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4730,7 +4531,7 @@ Een fotorealistisch close-upportret van een jonge Oost-Aziatische vrouw met een 
 Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
 ```
 
-### No. 143: Portret van Vrouw in Hijab en Pet
+### No. 135: Portret van Vrouw in Hijab en Pet
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4755,7 +4556,7 @@ Een close-upportret van een jonge vrouw met een lichte huid en een kalme uitdruk
 A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
 ```
 
-### No. 144: Selfieportret in Chiffon Hijab
+### No. 136: Selfieportret in Chiffon Hijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4780,32 +4581,7 @@ Een close-up selfieportret van een jonge Oost-Aziatische vrouw met een lichte hu
 Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
 ```
 
-### No. 145: Portret van Indonesische Vrouw
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een prompt voor het genereren van een portret van een mooie jonge Indonesische vrouw met een lichte huid, zachte make-up en warrig donker haar.
-
-#### Prompt
-
-```text
-A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.
-```
-
-### No. 146: Cinematografisch Portret van Huilende Oost-Aziatische Vrouw
+### No. 137: Cinematografisch Portret van Huilende Oost-Aziatische Vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4830,7 +4606,7 @@ Een fotorealistisch close-upportret van een jonge vrouw met glanzende, door tran
 A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
 ```
 
-### No. 147: Portret van Vrouw met Gesteent Kant Ooglapje
+### No. 138: Portret van Vrouw met Gesteent Kant Ooglapje
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4855,7 +4631,7 @@ Een close-upportret van een jonge vrouw met een bleke huid en een zwarte bob, é
 A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
 ```
 
-### No. 148: Intens Cinematografisch Portret met Rommelig Haar
+### No. 139: Intens Cinematografisch Portret met Rommelig Haar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4880,7 +4656,7 @@ Een close-up cinematografisch portret van een jonge vrouw met lang zwart haar, d
 Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
 ```
 
-### No. 149: Close-upportret met Glanzend Donker Haar
+### No. 140: Close-upportret met Glanzend Donker Haar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4905,7 +4681,7 @@ Een gedetailleerde prompt voor het genereren van een portret van een jonge vrouw
 A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
 ```
 
-### No. 150: Lachend Portret met Zongebruinde Gloed en Zweetglans
+### No. 141: Lachend Portret met Zongebruinde Gloed en Zweetglans
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4930,32 +4706,7 @@ Een close-upportret van een jonge Oost-Aziatische vrouw met rommelig zwart haar,
 Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
 ```
 
-### No. 151: Intieme Blik Portret met Wispelturige Pony
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `nl`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Een prompt voor het genereren van een close-upportret van een jonge Oost-Aziatische vrouw met donker haar, wispelturige pony en een intieme blik.
-
-#### Prompt
-
-```text
-Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.
-```
-
-### No. 152: Expressief Portret met Vleugelliner
+### No. 142: Expressief Portret met Vleugelliner
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4980,7 +4731,7 @@ Een gedetailleerde prompt voor het genereren van een close-upportret van een jon
 A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
 ```
 
-### No. 153: Selfieportret met Kusexpressie
+### No. 143: Selfieportret met Kusexpressie
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5003,7 +4754,7 @@ Een prompt voor een close-up selfieportret van een jonge Oost-Aziatische vrouw m
 Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
 ```
 
-### No. 154: Portret van Lachende Jonge Vrouw
+### No. 144: Portret van Lachende Jonge Vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5028,7 +4779,7 @@ Een prompt voor het genereren van een portret van een jonge Oost-Aziatische of I
 A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
 ```
 
-### No. 155: Selfie van Vrouw met Half-Opgestoken Haar
+### No. 145: Selfie van Vrouw met Half-Opgestoken Haar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5054,7 +4805,7 @@ ar 9:16 2K
 A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
 ```
 
-### No. 156: Aarde Verzwolgen Door Zwart Gat Fasen
+### No. 146: Aarde Verzwolgen Door Zwart Gat Fasen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5076,7 +4827,7 @@ Een prompt om vier afbeeldingen te genereren die de visuele fasen tonen van de a
 generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
 ```
 
-### No. 157: Cyberpunk Krijger vs. Mechanische Baas Personages
+### No. 147: Cyberpunk Krijger vs. Mechanische Baas Personages
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5101,7 +4852,7 @@ Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybe
 Character 2 (Boss Entity): Massive, heavy-armored mechanical
 ```
 
-### No. 158: Hemelse Godin Daalt neer voor Paleis
+### No. 148: Hemelse Godin Daalt neer voor Paleis
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5123,7 +4874,7 @@ Een afbeelding van een majestueuze Chinese hemelse godin in ceremonieel hanfu, d
 A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
 ```
 
-### No. 159: Hemelse Maagd in Zonovergoten Driekwart Aanzicht
+### No. 149: Hemelse Maagd in Zonovergoten Driekwart Aanzicht
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5146,7 +4897,7 @@ Een afbeelding van een hemelse maagd in ivoor hanfu, verlicht door ochtendlicht 
 A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
 ```
 
-### No. 160: Hemelse Maagd Gezeten bij Jadepoel
+### No. 150: Hemelse Maagd Gezeten bij Jadepoel
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5168,7 +4919,7 @@ Een afbeelding van een serene Chinese hemelse maagd in zijden hanfu die een lotu
 A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
 ```
 
-### No. 161: Hemelse Godin op Jaden Paleistreden
+### No. 151: Hemelse Godin op Jaden Paleistreden
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5190,7 +4941,7 @@ Een afbeelding van een elegante Chinese hemelse godin bovenop witte jaden trappe
 An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
 ```
 
-### No. 162: Portret in Oud Chinees Ritueel Heiligdom
+### No. 152: Portret in Oud Chinees Ritueel Heiligdom
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5215,7 +4966,7 @@ Een fotorealistisch cinematografisch portret van een volwassen Oost-Aziatische v
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
 ```
 
-### No. 163: Portret van Vrouw in Donker Ritueel Heiligdom
+### No. 153: Portret van Vrouw in Donker Ritueel Heiligdom
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5240,7 +4991,7 @@ Een fotorealistisch cinematografisch portret van een Oost-Aziatische vrouw met n
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
 ```
 
-### No. 164: Close-Up Portret tijdens Nachtelijke Nuo-Festival
+### No. 154: Close-Up Portret tijdens Nachtelijke Nuo-Festival
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5265,7 +5016,7 @@ Een close-up portret van een volwassen Oost-Aziatische vrouw naast een verweerd 
 Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
 ```
 
-### No. 165: Bier met Dichte Schuimkroon
+### No. 155: Bier met Dichte Schuimkroon
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5288,7 +5039,7 @@ a dense foam crown spilling in two uneven, heavy cascades while the glass rim st
 The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
 ```
 
-### No. 166: Tofublokje Opgetild uit Stoofpot
+### No. 156: Tofublokje Opgetild uit Stoofpot
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5310,7 +5061,7 @@ Een beschrijvende prompt voor een afbeelding van een poreus tofublokje opgetild 
 Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
 ```
 
-### No. 167: Lepelvol Chili Relish
+### No. 157: Lepelvol Chili Relish
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5332,7 +5083,7 @@ Een afbeelding van een lepelvol chili relish met duidelijke rode chili-blokjes, 
 a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
 ```
 
-### No. 168: Close-Up Portret van Vrouw in Woonkamer
+### No. 158: Close-Up Portret van Vrouw in Woonkamer
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5354,7 +5105,7 @@ Een ultrarrealistisch close-upportret van een jonge vrouw met een speelse uitdru
 Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
 ```
 
-### No. 169: Portret van Vrouw die Achteroverligt in Slaapkamer met Schemerlicht
+### No. 159: Portret van Vrouw die Achteroverligt in Slaapkamer met Schemerlicht
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5377,7 +5128,7 @@ Een prompt voor een fotorealistisch verticaal portret van een jonge vrouw die ac
 A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
 ```
 
-### No. 170: Dromerig Portret van Vrouw in Zomergras
+### No. 160: Dromerig Portret van Vrouw in Zomergras
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5400,7 +5151,7 @@ Een filmisch geïnspireerde afbeelding van een jonge Oost-Aziatische vrouw die r
 Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
 ```
 
-### No. 171: Portret van Vrouw bij Helderblauwe Haven
+### No. 161: Portret van Vrouw bij Helderblauwe Haven
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5423,7 +5174,7 @@ Een portret in filmkorrelstijl van een jonge Oost-Aziatische vrouw die nonchalan
 A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
 ```
 
-### No. 172: Straatportret van Jonge Vrouw in Parijs
+### No. 162: Straatportret van Jonge Vrouw in Parijs
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5445,7 +5196,7 @@ Een prompt voor een hoogwaardig, natuurlijk belicht straatportret van een jonge,
 High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
 ```
 
-### No. 173: Onbewaakt Portret in Metro 's Nachts
+### No. 163: Onbewaakt Portret in Metro 's Nachts
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5470,7 +5221,7 @@ Een fotorealistisch, onbewaakt portret van een volwassen Oost-Aziatische vrouw d
 9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
 ```
 
-### No. 174: Horloge met IJs- en Rook-Schokgolf
+### No. 164: Horloge met IJs- en Rook-Schokgolf
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5492,7 +5243,7 @@ Een afbeelding van een horloge met een cirkelvormige ijs-en-rookschokgolf eracht
 a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
 ```
 
-### No. 175: Gelaagde Bakkerij-Uitstalling met Diepte
+### No. 165: Gelaagde Bakkerij-Uitstalling met Diepte
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5514,7 +5265,7 @@ Een prompt voor het genereren van een afbeelding van een premium bakkerijpresent
 a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
 ```
 
-### No. 176: Zacht Verlicht Slaapkamerportret in Slipjurk
+### No. 166: Zacht Verlicht Slaapkamerportret in Slipjurk
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5538,7 +5289,7 @@ Een fotorealistisch portret van een volwassen Oost-Aziatische vrouw die een ivor
 9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
 ```
 
-### No. 177: Auto met Explosieve Stofpluim Contrast
+### No. 167: Auto met Explosieve Stofpluim Contrast
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5560,7 +5311,7 @@ Een beeld van een krachtige auto die een enorme stofpluim achter zich genereert,
 massive dust plume exploding behind the vehicle while the car stays clean and silent in front
 ```
 
-### No. 178: Heksensilhouet Achterlicht door Hemels Vuur
+### No. 168: Heksensilhouet Achterlicht door Hemels Vuur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5582,7 +5333,7 @@ Een beeld van een heksensilhouet, achterlicht door een enorme oranje-gouden wolk
 one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
 ```
 
-### No. 179: Tomaten Saus Hart Rijzend uit Koshari Kom
+### No. 169: Tomaten Saus Hart Rijzend uit Koshari Kom
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5604,7 +5355,7 @@ Een beeld van glanzende tomatensaus die een hartvorm vormt boven een kom koshari
 thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
 ```
 
-### No. 180: Schaakstukken Gemaakt van Noedeldraden
+### No. 170: Schaakstukken Gemaakt van Noedeldraden
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5626,7 +5377,7 @@ Een prompt om schaakstukken te genereren die zijn gesculpteerd uit handgemaakte 
 chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
 ```
 
-### No. 181: Sesamolie Fles met Boksersarmen in de Ring
+### No. 171: Sesamolie Fles met Boksersarmen in de Ring
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5648,7 +5399,7 @@ Een beeld van een oversized sesamoliefles met gouden boksersarmen, zegevierend i
 oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
 ```
 
-### No. 182: Compacte Moderne Appartementkeuken met Ontbijtblad
+### No. 172: Compacte Moderne Appartementkeuken met Ontbijtblad
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5673,7 +5424,7 @@ Een prompt voor het genereren van een beeld van een compacte moderne appartement
 Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
 ```
 
-### No. 183: Shawarma Wrap Schuin Omhoog als een Raket
+### No. 173: Shawarma Wrap Schuin Omhoog als een Raket
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5695,7 +5446,7 @@ Een prompt om een beeld te genereren van een shawarmawrap die schuin staat als e
 shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
 ```
 
-### No. 184: Banana Mascotte die Oversized Blik Vasthoudt
+### No. 174: Banana Mascotte die Oversized Blik Vasthoudt
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5717,7 +5468,7 @@ Een beeld van een rennende bananenmascotte die een oversized koud aluminium blik
 oversized cold aluminum can held forward toward camera by the running banana mascot
 ```
 
-### No. 185: Oost-Aziatische Vrouw Candid Nachtfoto
+### No. 175: Oost-Aziatische Vrouw Candid Nachtfoto
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5742,7 +5493,7 @@ Een prompt voor het genereren van een realistische, spontane foto van een Oost-A
 9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
 ```
 
-### No. 186: Koekjescroom als Miniatuur Schaatsvlakte
+### No. 176: Koekjescroom als Miniatuur Schaatsvlakte
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5764,7 +5515,7 @@ Een beeld van een koekje waar de vanillecrèmelaag omhoog komt om een gladde min
 vanilla creme layer rising above the cookie as a smooth miniature skating surface
 ```
 
-### No. 187: Achtbaan van Gestapelde Crisps
+### No. 177: Achtbaan van Gestapelde Crisps
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5786,7 +5537,7 @@ Een beeld van een achtbaantrack die is opgebouwd uit perfect uitgelijnde, gestap
 roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
 ```
 
-### No. 188: Rode Spotlight Zones achter Held Emmer
+### No. 178: Rode Spotlight Zones achter Held Emmer
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5808,7 +5559,7 @@ Een beeldprompt die drie schone rode spotlightzones beschrijft met secundaire li
 three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
 ```
 
-### No. 189: Glanzende Noedelstroom als Verticale Bewegingslijn
+### No. 179: Glanzende Noedelstroom als Verticale Bewegingslijn
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5830,7 +5581,7 @@ Een minimalistisch posterconcept met een enkele glanzende noedelstroom als het c
 single glossy noodle stream forming the main vertical motion line from bowl to mouth
 ```
 
-### No. 190: Cinematische 2.5D Gouache Animatie
+### No. 180: Cinematische 2.5D Gouache Animatie
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5853,7 +5604,7 @@ Een prompt voor het creëren van een cinematische 2.5D-animatie in een schildera
 Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
 ```
 
-### No. 191: Sfeervol Cinematografisch Portret in Duisternis
+### No. 181: Sfeervol Cinematografisch Portret in Duisternis
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5875,7 +5626,7 @@ Een cinematografisch portret van een man met warrig haar die uit de schaduwen te
 A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
 ```
 
-### No. 192: Reusachtige Man naast Vrijheidsbeeld
+### No. 182: Reusachtige Man naast Vrijheidsbeeld
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5897,7 +5648,7 @@ Een ultrarealistische cinematografische reisfoto van een knappe jonge man die wo
 Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
 ```
 
-### No. 193: Gouden Uur Portret op Landelijke Veranda
+### No. 183: Gouden Uur Portret op Landelijke Veranda
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5919,7 +5670,7 @@ Een warm, spontaan lifestyleportret van een jonge man die tijdens het gouden uur
 Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
 ```
 
-### No. 194: Cinematografisch Portret in Weide
+### No. 184: Cinematografisch Portret in Weide
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5941,7 +5692,7 @@ Een ultrarealistisch portret van een vrouw met een cowboyhoed in een groene weid
 Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
 ```
 
-### No. 195: Verticaal Spontaan Portret van Vrouw
+### No. 185: Verticaal Spontaan Portret van Vrouw
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5966,7 +5717,7 @@ Een prompt voor het genereren van een verticale spontane foto van een jonge Oost
 Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
 ```
 
-### No. 196: Diagonale Reep met Gescheurde Smaakzone
+### No. 186: Diagonale Reep met Gescheurde Smaakzone
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5988,7 +5739,7 @@ Een prompt voor het genereren van een afbeelding van een diagonaal verpakte dess
 The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
 ```
 
-### No. 197: Vrouwenportret in Ovale Spiegel
+### No. 187: Vrouwenportret in Ovale Spiegel
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -6010,7 +5761,7 @@ Een schoonheidsportret van een vrouw gereflecteerd in een verticale ovale spiege
 reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
 ```
 
-### No. 198: Pintglas Vortex in Woestijn
+### No. 188: Pintglas Vortex in Woestijn
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -6032,7 +5783,7 @@ Een surrealistisch beeld van een torenhoog pintglas dat uit de woestijn oprijst 
 towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
 ```
 
-### No. 199: Bierfles op de Voorgrond
+### No. 189: Bierfles op de Voorgrond
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`

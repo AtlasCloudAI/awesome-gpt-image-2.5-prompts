@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-289%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-279%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **289** |
+| Total Prompts | **279** |
 | Categories | **4** |
-| Preview Images | **289** |
+| Preview Images | **279** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -114,7 +114,7 @@ Every record keeps its category, source, author, source link, input references a
 
 - [`Reference Fidelity`](#category-1): **41**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **199**
+- [`Style & Intelligence`](#category-3): **189**
 - [`Layout & Typography`](#category-4): **39**
 
 <a id="all-prompts"></a>
@@ -1319,7 +1319,7 @@ Sebuah prompt yang menggambarkan potret yang diterangi oleh sinar matahari keras
 
 <a id="category-3"></a>
 
-### Style & Intelligence (199)
+### Style & Intelligence (189)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -2234,29 +2234,7 @@ Sebuah prompt untuk menghasilkan gambar realistis dari satu bunga lili laba-laba
 雨水滴る一輪のヒガンバナ。屋外の川辺。雨上がりの晴天。ハイクオリティ超美麗リアル2K
 ```
 
-### No. 41: Gadis Taiwan dengan Seragam Sekolah dalam Estetika Musim Panas
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** BubbleBrain
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah prompt untuk potret dalam gaya fotografi film musim panas Jepang yang menampilkan seorang gadis Taiwan berambut pendek dan bertahi lalat mengenakan seragam sekolah.
-
-#### Prompt
-
-```text
-Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink
-```
-
-### No. 42: Adegan Jalanan Hujan Setelah Jam Tutup
+### No. 41: Adegan Jalanan Hujan Setelah Jam Tutup
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2280,7 +2258,7 @@ Sebuah prompt untuk gambar atmosferik yang menggambarkan seseorang setelah jam t
 Rain after closing time. Look at the wet wool, the skin, and the light on the street behind her.
 ```
 
-### No. 43: Editorial Fasion dengan Angin dan Sutra
+### No. 42: Editorial Fasion dengan Angin dan Sutra
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2304,7 +2282,7 @@ Sebuah prompt untuk adegan editorial fasion yang menampilkan tiga orang yang dit
 Wind does the styling. A fashion editorial test with three people, hard sunlight, and a lot of silk.
 ```
 
-### No. 44: Foto iPhone Realistis Tesla Model Y
+### No. 43: Foto iPhone Realistis Tesla Model Y
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2326,7 +2304,7 @@ Sebuah prompt untuk menghasilkan foto iPhone realistis dari Tesla Model Y di tem
 realistic iphone photo of a tesla model y from parking lot, done with 0.5x camera
 ```
 
-### No. 45: Kota Ekologi-Masa Depan Senja dengan Bulan
+### No. 44: Kota Ekologi-Masa Depan Senja dengan Bulan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2354,7 +2332,7 @@ Sebuah prompt yang menggambarkan kota ekologi-masa depan senja, kota lunar denga
 氷晶の聖堂に舞う銀髪の女王
 ```
 
-### No. 46: Pasukan Besar dengan Naga dalam Hujan
+### No. 45: Pasukan Besar dengan Naga dalam Hujan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2376,7 +2354,7 @@ Sebuah adegan kompleks yang menampilkan pasukan lebih dari 100 orang, karakter L
 100人以上の軍勢＋ルナ＋白竜＋日本語看板＋複雑な槍の持ち方＋雨天の反射
 ```
 
-### No. 47: Kelinci Kerdil Belanda Abu-Abu Melompat
+### No. 46: Kelinci Kerdil Belanda Abu-Abu Melompat
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2400,7 +2378,7 @@ Sebuah prompt untuk menghasilkan gambar kelinci yang sedang melompat dan kelinci
 グレーのネザーランドドワーフがぴょんぴょん
 ```
 
-### No. 48: Pasangan Anime di Taman Detail Tinggi
+### No. 47: Pasangan Anime di Taman Detail Tinggi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2423,7 +2401,7 @@ Sebuah perintah pembuatan gambar untuk seorang pemuda dan wanita bergaya anime d
 「アニメ風の各々私服姿の少女と青年。大きな公園。2:3の縦長アスペクト比」に「16K超々高解像度で要素を各々具体的に描く。コントラストと彩度を少し高めに」
 ```
 
-### No. 49: Gulungan Panjang Impian di Balik Bata Merah
+### No. 48: Gulungan Panjang Impian di Balik Bata Merah
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2446,7 +2424,7 @@ Sebuah perintah untuk merekonstruksi sebuah adegan dari Impian di Balik Bata Mer
 尝试把古典文学叙事做成中国传统长卷：从荣府门外的仪仗、元春省亲，到园中宴席、宝黛诗会，再一路延伸到冬日街景。
 ```
 
-### No. 50: Seri Arsitektur Brutalisme Gurun
+### No. 49: Seri Arsitektur Brutalisme Gurun
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2478,7 +2456,7 @@ Desert Brutalism & Monolithic Earth Architecture
 4: Tadao
 ```
 
-### No. 51: Foto Jalan-Jalan di Saat Golden Hour
+### No. 50: Foto Jalan-Jalan di Saat Golden Hour
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2501,7 +2479,7 @@ Sebuah perintah untuk foto smartphone fotorealistik seorang wanita berjalan di j
 A highly photorealistic candid smartphone photograph of a young woman walking slowly through a quiet tree-lined residential street during golden hour. She has medium-length dark chestnut hair styled in a slightly messy half-up hairstyle, with soft
 ```
 
-### No. 52: Koleksi Poster Perjalanan Mewah
+### No. 51: Koleksi Poster Perjalanan Mewah
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2525,7 +2503,7 @@ Sebuah perintah untuk membuat koleksi poster perjalanan mewah yang canggih, teri
 Premium sophisticated luxury travel-poster collection inspired by Santorini, Amalfi Coast, and Paris, blended together into one unified, breathtaking editorial composition, 3:4 vertical format. Create an original, luxurious travel-art
 ```
 
-### No. 53: Potret Kasual di Taman Perkotaan
+### No. 52: Potret Kasual di Taman Perkotaan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2548,7 +2526,7 @@ Sebuah potret luar ruangan yang kasual dari seorang wanita muda berambut cokelat
 A photorealistic candid outdoor portrait of a young woman standing in a peaceful urban park on a sunny afternoon. She has long dark-brown hair styled in a loose low ponytail, with wispy face-framing strands gently falling across her face.
 ```
 
-### No. 54: Lembar Referensi Karakter Assasin Gurun
+### No. 53: Lembar Referensi Karakter Assasin Gurun
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2570,7 +2548,7 @@ Sebuah perintah untuk menghasilkan lembar referensi karakter sinematik yang mena
 Professional reference sheet, 16:9 cinematic layout. Left half: DESERT ASSASSIN, woman ~28, lithe and deadly, bronze skin, black kohl eyes, midnight blue wrapped silks revealing mirrored-scale armor underneath, curved scimitar with serpent-coil
 ```
 
-### No. 55: Foto Fesyen Wanita Asia Timur di Lounge
+### No. 54: Foto Fesyen Wanita Asia Timur di Lounge
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2592,7 +2570,7 @@ Sebuah perintah untuk foto fesyen smartphone ultra-fotorealistik seorang wanita 
 Ultra-photorealistic vertical 9:16 smartphone fashion photo of an exceptionally beautiful adult East Asian woman in an elegant private lounge at night. She has a refined small oval face, luminous fair skin with natural texture, large
 ```
 
-### No. 56: Karya Seni Prangko Perjalanan Vintage
+### No. 55: Karya Seni Prangko Perjalanan Vintage
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2616,7 +2594,7 @@ Sebuah perintah untuk membuat prangko bergaya vintage yang menampilkan landmark 
 Create a sophisticated vintage travel postage-stamp artwork representing [COUNTRY]. Feature the country’s most iconic landmark as the main focal point, surrounded by 3–5 carefully chosen elements that instantly represent the country — landscape, traditional
 ```
 
-### No. 57: Poster Perjalanan Vintage Struktur Ikonik
+### No. 56: Poster Perjalanan Vintage Struktur Ikonik
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2640,7 +2618,7 @@ Sebuah perintah untuk membuat poster perjalanan vintage bergaya, dilukis tangan,
 Create a sophisticated vintage-inspired travel poster featuring [ICONIC STRUCTURE] as the main focal point. Keep the architecture highly recognizable with accurate proportions and distinctive details, but reinterpret it as a stylized hand-painted
 ```
 
-### No. 58: Potret Fesyen Kasual di Garasi Parkir
+### No. 57: Potret Fesyen Kasual di Garasi Parkir
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2663,7 +2641,7 @@ Sebuah potret ultra-fotorealistik seorang wanita Eurasia yang cantik di sebuah g
 Ultra-photorealistic vertical 3:4 candid luxury fashion portrait in a modern underground parking garage. An exceptionally beautiful adult Eurasian woman with refined mixed Asian-European features stands beside a
 ```
 
-### No. 59: Adegan Makanan Miniatur Buatan Tangan
+### No. 58: Adegan Makanan Miniatur Buatan Tangan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2687,7 +2665,7 @@ Sebuah prompt untuk menghasilkan adegan miniatur yang menawan yang menampilkan h
 Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden
 ```
 
-### No. 60: Diorama Miniatur Fasad Toko
+### No. 59: Diorama Miniatur Fasad Toko
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2712,7 +2690,7 @@ Sebuah prompt untuk menghasilkan diorama miniatur tanah liat 3D yang fantastis d
 Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors
 ```
 
-### No. 61: Diorama Miniatur Struktur Ikonik
+### No. 60: Diorama Miniatur Struktur Ikonik
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2737,7 +2715,7 @@ Sebuah prompt untuk menciptakan dunia miniatur yang detail dan nyaman dengan men
 Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations
 ```
 
-### No. 62: Potret Studio Mode Tinggi Asimetris
+### No. 61: Potret Studio Mode Tinggi Asimetris
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2759,7 +2737,7 @@ Sebuah prompt untuk potret close-up seorang pria dengan latar belakang studio pu
 Create a high-fashion editorial close-up portrait of an adult man against a seamless pure white studio background. Use an intentionally asymmetric composition:
 ```
 
-### No. 63: Lanskap Labirin Putih yang Terukir Angin
+### No. 62: Lanskap Labirin Putih yang Terukir Angin
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2798,7 +2776,7 @@ Sebuah prompt deskriptif untuk menghasilkan lanskap labirin putih yang terbentuk
 その違いだけで、
 ```
 
-### No. 64: Ksatria Naga Putih dan Batu Kecil
+### No. 63: Ksatria Naga Putih dan Batu Kecil
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2820,7 +2798,7 @@ Sebuah adegan yang menggambarkan Ksatria Naga Putih di malam hari, terhenti buka
 「痛みの正体は、だいたい小さい。」 白竜騎士の夜。 巡回を止めたのは、敵ではなく小石一個だった。
 ```
 
-### No. 65: Potret Editorial Pria Percaya Diri
+### No. 64: Potret Editorial Pria Percaya Diri
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2842,7 +2820,7 @@ Sebuah prompt untuk menghasilkan potret studio bergaya editorial premium seorang
 Create an ultra-realistic close-up studio portrait of an adult man with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style. Give him neatly short black hair.
 ```
 
-### No. 66: Potret Fesyen Studio Seluruh Tubuh
+### No. 65: Potret Fesyen Studio Seluruh Tubuh
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2864,7 +2842,7 @@ Sebuah prompt untuk menghasilkan potret model pria percaya diri seluruh tubuh da
 Create an ultra-realistic full-body studio fashion portrait of an adult man standing confidently against a seamless warm light-beige studio background. Position the man in the
 ```
 
-### No. 67: Masterpiece Kampanye Perjalanan Mewah
+### No. 66: Masterpiece Kampanye Perjalanan Mewah
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2889,7 +2867,7 @@ Sebuah prompt untuk kampanye gaya hidup perjalanan mewah yang canggih yang mengg
 Premium sophisticated luxury lifestyle travel-campaign masterpiece combining an exclusive Alpine lakeside mountain retreat, a breathtaking Dubai waterfront luxury escape, and multiple elegant European lakeside chalet experiences into one
 ```
 
-### No. 68: Rutin Pagi Master Blue Mage
+### No. 67: Rutin Pagi Master Blue Mage
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2911,7 +2889,7 @@ Sebuah adegan yang menggambarkan rutin pagi seorang Master Blue Mage di mana sis
 「朝の支度に、手は要らなかった。」 青魔導士マスターの朝。 報告書を読む間に、櫛も髪紐も靴紐も仕事を終える。
 ```
 
-### No. 69: Kapal Tiba di Pantai Kapur Putih
+### No. 68: Kapal Tiba di Pantai Kapur Putih
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2933,7 +2911,7 @@ Sebuah prompt deskriptif untuk adegan di mana sebuah kapal tiba di pantai dengan
 白い大地に船が着く。海を渡った先に、砂ではなく、白い大地が待っていた。塩と石灰に覆われた岸。風に削られた白い岩。その向こうには、まだ見たことのない土地が続いている。昨日まで白紙だった地図に、
 ```
 
-### No. 70: Potret Karakter Nelayan Elf Laut
+### No. 69: Potret Karakter Nelayan Elf Laut
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2967,7 +2945,7 @@ TRPG人外図鑑 FILE.022｜リゼア
 《潮見浜》で今日も海を見る、ひとりの漁師です。
 ```
 
-### No. 71: Potret Headshot Studio Profesional
+### No. 70: Potret Headshot Studio Profesional
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -2989,7 +2967,7 @@ Sebuah prompt untuk menghasilkan potret headshot studio profesional seorang pria
 Create an ultra-realistic professional studio headshot portrait of an adult man photographed against a
 ```
 
-### No. 72: Pria Percaya Diri di Interior Modern Mewah
+### No. 71: Pria Percaya Diri di Interior Modern Mewah
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3011,7 +2989,7 @@ Potret gaya hidup ultra-realistis seorang pria percaya diri di interior modern y
 Create an ultra-realistic premium lifestyle portrait of an adult man standing confidently inside a luxurious modern interior near a dark wooden doorway and a large floor-to-ceiling mirror.
 ```
 
-### No. 73: Tombak Fantasi Tertidur di Meja
+### No. 72: Tombak Fantasi Tertidur di Meja
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3036,7 +3014,7 @@ Sebuah prompt puitis yang menggambarkan malam seorang prajurit tombak, mengingat
 異世界の地図より先に、机の木目を頬で覚えた。
 ```
 
-### No. 74: Kesatria Naga Beristirahat di Tempat Teduh
+### No. 73: Kesatria Naga Beristirahat di Tempat Teduh
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3058,7 +3036,7 @@ Sebuah adegan yang menggambarkan dua kesatria naga sedang beristirahat di bawah 
 「日陰くらい、借りてもええか。」 双竜騎士の昼。 レシックの右翼の下で、地図と硬いパンをひらく。
 ```
 
-### No. 75: Pria Bergaya di Perpustakaan Malam yang Nyaman
+### No. 74: Pria Bergaya di Perpustakaan Malam yang Nyaman
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3080,7 +3058,7 @@ Potret ultra-realistis seorang pria yang bersantai di lounge perpustakaan mewah 
 Create an ultra-realistic lifestyle portrait of a stylish adult man relaxing in a cozy upscale library lounge during the early evening. Position him seated comfortably in a vintage cognac-brown leather armchair, holding a book, with soft ambient lighting from a nearby floor lamp and a warm fireplace glow. The atmosphere is serene and sophisticated, with rich wood shelves filled with books in the background.
 ```
 
-### No. 76: Kurir Pos Dullahan di Malam Musim Gugur
+### No. 75: Kurir Pos Dullahan di Malam Musim Gugur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3102,7 +3080,7 @@ Seorang kurir pos malam berjalan di jalan musim gugur yang dipenuhi bunga lili l
 秋の夜。彼岸花の咲く街道を歩く、夜間郵便配達人エルネ。街が眠ってからも、届ける手紙があります。エルネ／デュラハン／夜間郵便配達人
 ```
 
-### No. 77: Potret Editorial Seluruh Tubuh dalam Warna Burgundi
+### No. 76: Potret Editorial Seluruh Tubuh dalam Warna Burgundi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3124,7 +3102,7 @@ Potret editorial ultra-realistis seorang pria kulit hitam yang percaya diri deng
 Create an ultra-realistic full-body editorial studio portrait of a stylish adult Black man seated confidently on a minimalist
 ```
 
-### No. 78: Sore Sang Master Mage Biru
+### No. 77: Sore Sang Master Mage Biru
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3146,7 +3124,7 @@ Sebuah adegan yang menggambarkan sore Sang Master Mage Biru di mana sihir member
 「歩ける。でも、歩く理由がなかった。」 青魔導士マスターの午後。 日差しも石畳も、彼女へ届く前に魔法が片づける。
 ```
 
-### No. 79: Matahari Terbenam di Atas Tanah Retak dengan Api
+### No. 78: Matahari Terbenam di Atas Tanah Retak dengan Api
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3168,7 +3146,7 @@ Sebuah prompt deskriptif untuk adegan alam liar senja dengan api tipis yang memb
 夕暮れの荒野で、地面の亀裂から細い炎が静かに揺れていた。噴火でも、焚き火でもない。大地の奥から染み出したものが、ただ燃え続けている。遠くには、夕日に染まるカスピ海。土も、水も、火も、
 ```
 
-### No. 80: Kapal Layar Kayu Vintage di Senja Keemasan
+### No. 79: Kapal Layar Kayu Vintage di Senja Keemasan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3190,7 +3168,7 @@ Gambar ultra-realistis kapal layar kayu vintage dalam adegan senja dramatis di t
 Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a magnificent vintage wooden sailing ship dominating the left foreground. The ship has multiple tall wooden masts, intricate rigging, ropes, detailed weathered wooden textures and large
 ```
 
-### No. 81: Kesatria Naga Putih Memeriksa Cedera Sayap
+### No. 80: Kesatria Naga Putih Memeriksa Cedera Sayap
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3212,7 +3190,7 @@ Adegan Master Kesatria Naga Putih dengan hati-hati memeriksa cedera sayap kiri n
 「眠ってる間に、少しだけ診せてな。」 月夜の竜舎。 白竜騎士マスターは、レシックを起こさないよう左翼の傷を確かめる。
 ```
 
-### No. 82: Pengembara Menambal Kain Biru di Kota Vulkanik
+### No. 81: Pengembara Menambal Kain Biru di Kota Vulkanik
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3234,7 +3212,7 @@ Adegan menambal kain perjalanan berwarna biru di kota vulkanik pada sore hari, d
 「裂けたなら、縫えばええ。」 火山都市の午後。 遠い山を眺める前に、旅を支える青い布を直す。
 ```
 
-### No. 83: Pagi di Dunia Cermin dengan Seorang Prajurit Tombak
+### No. 82: Pagi di Dunia Cermin dengan Seorang Prajurit Tombak
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3256,7 +3234,7 @@ Sebuah petunjuk yang menggambarkan seorang prajurit tombak yang telah kehilangan
 「泥は、歩いた分だけつく。」 ミラ世界の朝。 最強の肩書きを失った槍兵は、濡れた靴紐から一日を始める。
 ```
 
-### No. 84: Master Penyihir Biru Luna Sebelum Fajar
+### No. 83: Master Penyihir Biru Luna Sebelum Fajar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3278,7 +3256,7 @@ Adegan yang menggambarkan Master Penyihir Biru Luna sebelum fajar, dengan buku-b
 「手を伸ばす必要なんて、なかった。」 夜明け前の青魔導士マスター・ルナ。 本も椅子も紅茶も、彼女の身体を必要としていなかった頃。
 ```
 
-### No. 85: Lanskap Tempat Api Bocor dari Bumi
+### No. 84: Lanskap Tempat Api Bocor dari Bumi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3315,7 +3293,7 @@ Petunjuk deskriptif untuk lanskap di mana api bocor dari bumi di padang gurun ya
 その奥ではずっと生きている。
 ```
 
-### No. 86: Kesatria Naga Hitam Luna di Malam Hari
+### No. 85: Kesatria Naga Hitam Luna di Malam Hari
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3337,7 +3315,7 @@ Adegan yang menggambarkan Kesatria Naga Hitam Luna pada malam hari, memeriksa ka
 「今日も、この手で届いた。」 夜の黒竜騎士ルナ。 槍だこを確かめる隣で、エル・ドラゴは先に眠った。
 ```
 
-### No. 87: Frieren dan Fern di Tempat yang Baik
+### No. 86: Frieren dan Fern di Tempat yang Baik
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3359,7 +3337,7 @@ Ilustrasi SFW yang menggambarkan percakapan antara karakter Fern dan Frieren.
 フェルン『良い場所ですねフリーレン様』 フリーレン『…そうだね』 SFW illustration
 ```
 
-### No. 88: Bukit yang Diukir Angin dan Hujan
+### No. 87: Bukit yang Diukir Angin dan Hujan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3381,7 +3359,7 @@ Petunjuk puitis yang menggambarkan lanskap di mana warna hijau memudar, mengungk
 森を抜けると、景色から緑が少しずつ消えていった。代わりに現れたのは、黄土色。錆色。灰白色。淡い緑。風と雨に削られた丘には、大地そのものの時間が幾重にも重なっている。道はその色の間を縫いながら、
 ```
 
-### No. 89: Wanita Kuno dengan Kipas di Depan Bambu
+### No. 88: Wanita Kuno dengan Kipas di Depan Bambu
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3406,7 +3384,7 @@ Sebuah prompt AI untuk menghasilkan wallpaper dengan estetika Timur yang menampi
 主体内容：一位手持圆形团扇的古风女子站在白墙竹影前
 ```
 
-### No. 90: Robot Penyelamat Polisi Menarik Sekoci
+### No. 89: Robot Penyelamat Polisi Menarik Sekoci
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3431,7 +3409,7 @@ Sebuah prompt yang menggambarkan Tim Robot Alat Berat Polisi Tokyo menyelamatkan
 　　避難者を救助します。
 ```
 
-### No. 91: Foto CCD Siang Hari Observatorium Perkotaan
+### No. 90: Foto CCD Siang Hari Observatorium Perkotaan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3458,7 +3436,7 @@ GPT Image 2生成日间高亮CCD生活照。
 服装方向：樱桃红色修身方领无袖针织上衣 + 冷白色高腰修身短裤
 ```
 
-### No. 92: Potret Gaya Hidup Vertikal iPhone
+### No. 91: Potret Gaya Hidup Vertikal iPhone
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3480,7 +3458,7 @@ Sebuah prompt untuk menghasilkan potret realistis dan spontan bergaya iPhone dar
 9:16 竖版，真实 iPhone 手机随手拍摄的生活感女性照片，画面主体是一位视觉年龄约 20–26
 ```
 
-### No. 93: Poster Jendela Bunga Gaya Tionghoa Baru
+### No. 92: Poster Jendela Bunga Gaya Tionghoa Baru
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3507,7 +3485,7 @@ Sebuah prompt pembuatan gambar untuk poster oriental elegan dan minimalis yang m
 构图与空间：9:16
 ```
 
-### No. 94: Potret Editorial Fotorealistik Wanita Asia Timur
+### No. 93: Potret Editorial Fotorealistik Wanita Asia Timur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3536,7 +3514,7 @@ Knee-up cowboy shot, eye-level view.
 A 20-year-old adult East Asian woman, small near-round oval face with full low cheeks, large level warm gray-brown round eyes, short low-bridge nose, small even rose-pink lips, luminous
 ```
 
-### No. 95: Robot Unit Alat Berat Polisi Membersihkan Sungai
+### No. 94: Robot Unit Alat Berat Polisi Membersihkan Sungai
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3561,7 +3539,7 @@ Sebuah prompt yang menggambarkan regu robot dari unit alat berat polisi membersi
 　　ゴミを片付けています。
 ```
 
-### No. 96: Potret Editorial Fotorealistik dengan Wajah Hati-Oval
+### No. 95: Potret Editorial Fotorealistik dengan Wajah Hati-Oval
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3590,7 +3568,7 @@ Knee-up cowboy shot, eye-level view.
 A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, warm hazel almond eyes with lifted corners, slim medium-bridge nose, full coral-rose lips with a plush lower lip,
 ```
 
-### No. 97: Potret iPhone seorang Wanita Muda
+### No. 96: Potret iPhone seorang Wanita Muda
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3612,7 +3590,7 @@ Sebuah prompt untuk menghasilkan foto vertikal 9:16 yang realistis dan kasual da
 9:16 竖版，真实 iPhone 手机普通主摄随手拍摄的生活感女性照片，一位视觉年龄约 20–26
 ```
 
-### No. 98: Wanita Zen di Sisi Air di Musim Panas
+### No. 97: Wanita Zen di Sisi Air di Musim Panas
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3639,7 +3617,7 @@ Sebuah prompt untuk menghasilkan wallpaper dengan estetika Timur yang menampilka
 构图与空间：9:16
 ```
 
-### No. 99: Potret Cowboy Shot Wanita Asia Timur
+### No. 98: Potret Cowboy Shot Wanita Asia Timur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3666,7 +3644,7 @@ Knee-up cowboy shot, waist-level view.
 A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed chin, wide-set gray-hazel almond eyes with lifted corners, narrow-bridge rounded-tip nose, full coral-brick
 ```
 
-### No. 100: Foto Faksi Kafe Buku Atap Perkotaan
+### No. 99: Foto Faksi Kafe Buku Atap Perkotaan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3691,7 +3669,7 @@ Sebuah prompt untuk menghasilkan foto gaya hidup cerah bergaya CCD siang hari de
 服装方向：蓝莓紫色修身方领短袖针织上衣 + 奶油白高腰A字短裙
 ```
 
-### No. 101: Potret Editorial Fotorealistik Wanita Asia Timur
+### No. 100: Potret Editorial Fotorealistik Wanita Asia Timur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3715,36 +3693,7 @@ Sebuah prompt detail untuk menghasilkan potret editorial setinggi pinggang dan s
 Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, waist-level view. A 20-year-old adult East Asian woman, petite oval face with full cheeks, large slightly close-set round gray-brown eyes, tiny beauty mark near the outer cheek, cushioned slightly parted rose
 ```
 
-### No. 102: Potret Editorial Wanita Menggoda dengan Kacamata
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah prompt untuk menghasilkan potret editorial fotorealistik seorang wanita Jepang atau Korea yang menggoda di usia 20-an, mengenakan kacamata dan anting rantai.
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait.
-
-Knee-up cowboy shot, waist-level view.
-
-A 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along
-```
-
-### No. 103: Poster Sampul Minimalis Zen Oriental
+### No. 101: Poster Sampul Minimalis Zen Oriental
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3771,57 +3720,7 @@ Sebuah prompt untuk menghasilkan wallpaper minimalis oriental yang menampilkan s
 构图与空间：9:16
 ```
 
-### No. 104: Potret Editorial Penuh Badan dari Depan
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah prompt untuk menghasilkan potret editorial fotorealistik penuh badan dari seorang wanita menggoda berusia 20-an, diambil dari sudut pandang depan.
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive
-```
-
-### No. 105: Potret Cowboy Shot Lutut ke Atas dari Depan
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah prompt untuk potret lutut ke atas, miring, dari depan seorang wanita muda Jepang yang menggoda dalam gaya editorial fotorealistik.
-
-#### Prompt
-
-```text
-Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese
-```
-
-### No. 106: Tim Robot Unit Alat Berat Polisi
+### No. 102: Tim Robot Unit Alat Berat Polisi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3846,7 +3745,7 @@ Sebuah gambar tim robot polisi dari Unit Penanggulangan Alat Berat yang memindah
 　　道路からの車両の移動
 ```
 
-### No. 107: Foto Kehidupan Olahraga Urban Gaya CCD Terang Siang Hari
+### No. 103: Foto Kehidupan Olahraga Urban Gaya CCD Terang Siang Hari
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3872,7 +3771,7 @@ Sebuah prompt untuk menghasilkan foto gaya hidup bergaya CCD yang terang di sian
 气质标签：活力、明亮、健康、甜酷、自然
 ```
 
-### No. 108: Poster Sampul Vertikal Minimalis Zen
+### No. 104: Poster Sampul Vertikal Minimalis Zen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3894,7 +3793,7 @@ Sebuah prompt untuk membuat sampul vertikal 9:16 yang minimalis, terang, dan ber
 东方禅意极简封面海报，女性审美明亮型，新中式清晨感高颜值封面。9:16 竖版构图，整体画面轻盈、清透、干净、明亮，具有现代东方女性审美与小红书封面感。
 ```
 
-### No. 109: Wanita Duduk di Samping Jendela Bundar
+### No. 105: Wanita Duduk di Samping Jendela Bundar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3920,7 +3819,7 @@ Sebuah prompt untuk menghasilkan poster minimalis Zen Timur yang menampilkan seo
 场景与意象：圆窗、蜜瓜绿色窗外植物、樱花粉小花、白色坐垫、女子
 ```
 
-### No. 110: Regu Robot Polisi Menghentikan Truk yang Melaju Kencang
+### No. 106: Regu Robot Polisi Menghentikan Truk yang Melaju Kencang
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3945,7 +3844,7 @@ Sebuah gambar regu robot polisi dari Unit Penanggulangan Alat Berat yang berusah
 　　なんとか停止させる
 ```
 
-### No. 111: Potret Editorial Penuh Badan Wanita Muda
+### No. 107: Potret Editorial Penuh Badan Wanita Muda
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -3970,32 +3869,7 @@ Sebuah prompt untuk potret editorial penuh badan, setinggi mata, seorang wanita 
 Create a photorealistic editorial portrait. Full-body portrait, eye-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with medium smooth hoop earrings, clean polished metal circular silhouette.
 ```
 
-### No. 112: Potret Cowboy Shot Editorial Fotorealistik
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Nailai7981
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah prompt untuk menghasilkan potret editorial fotorealistik seorang wanita muda Jepang atau Korea dengan perhiasan dan framing spesifik.
-
-#### Prompt
-
-```text
-Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck
-```
-
-### No. 113: Potret Pinggang ke Atas Fotorealistik dengan Kacamata
+### No. 108: Potret Pinggang ke Atas Fotorealistik dengan Kacamata
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4020,7 +3894,7 @@ Sebuah potret pandangan pinggang ke atas, setinggi lutut, seorang wanita muda Je
 Create a photorealistic editorial portrait. Waist-up portrait, knee-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with white frame, bold thick-frame glasses, worn normally on the face, lenses aligned
 ```
 
-### No. 114: Poster Sampul Minimalis Zen dengan Wanita dan Angin Lonceng
+### No. 109: Poster Sampul Minimalis Zen dengan Wanita dan Angin Lonceng
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4046,7 +3920,7 @@ Sebuah prompt untuk menghasilkan gambar seorang wanita menyentuh angin lonceng d
 场景与意象：海盐蓝窗外色块、珊瑚粉花影、白色窗框、风铃、女子
 ```
 
-### No. 115: Kota Pasca-Apokaliptik dengan Vegetasi Hijau
+### No. 110: Kota Pasca-Apokaliptik dengan Vegetasi Hijau
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4068,30 +3942,7 @@ Sebuah foto detail kota pasca-apokaliptik di Shenzhen, China, yang ditumbuhi veg
 废土风：一张废土城市的照片，画面中充满了绿色的植被，细节非常丰富，地址为中国深圳。
 ```
 
-### No. 116: Selfie Ponsel Pintar di Atap pada Golden Hour
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Mr Das
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_1.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah prompt untuk selfie ponsel pintar seorang wanita muda di atas atap saat matahari terbenam.
-
-#### Prompt
-
-```text
-Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.
-```
-
-### No. 117: Wanita Jepang dengan Wajah Mirip Tanuki di Malam Hari
+### No. 111: Wanita Jepang dengan Wajah Mirip Tanuki di Malam Hari
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4113,7 +3964,7 @@ Sebuah prompt untuk menghasilkan gambar fotorealistik seorang wanita muda Jepang
 Photorealistic natural photo of a completely fictional 20-year-old adult Japanese woman. She has an extremely cute tanuki-like face, a soft round face and cheeks, gentle round eyes, and dark brown hair. At night on a quiet
 ```
 
-### No. 118: Pandangan Lumba-lumba terhadap Wanita di Akuarium Kaca
+### No. 112: Pandangan Lumba-lumba terhadap Wanita di Akuarium Kaca
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4138,7 +3989,7 @@ Sebuah gambar realistis dari perspektif lumba-lumba yang melihat melalui tangki 
 女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
 ```
 
-### No. 119: Setel Lingerie di Manekin Torso Putih
+### No. 113: Setel Lingerie di Manekin Torso Putih
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4160,7 +4011,7 @@ Sebuah perintah untuk menghasilkan gambar referensi bergaya produk dari setel li
 A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
 ```
 
-### No. 120: Adegan Toko Merek Miniatur dari Tanah Liat Polimer
+### No. 114: Adegan Toko Merek Miniatur dari Tanah Liat Polimer
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4185,7 +4036,7 @@ Sebuah perintah untuk membuat model tanah liat miniatur dari toko merek dengan d
 Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
 ```
 
-### No. 121: Iklan Fesyen dengan Pengambilan Gambar Tanah Miring
+### No. 115: Iklan Fesyen dengan Pengambilan Gambar Tanah Miring
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4208,7 +4059,7 @@ Kampanye iklan fesyen untuk merek fiktif yang menampilkan enam orang dengan paka
 这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
 ```
 
-### No. 122: Duel Anime Gambar Tangan dengan Kelopak Sakura
+### No. 116: Duel Anime Gambar Tangan dengan Kelopak Sakura
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4231,32 +4082,7 @@ Sebuah adegan dari film animasi gambar tangan Jepang akhir 1990-an, menampilkan 
 来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
 ```
 
-### No. 123: Fesyen Gothic Lolita dengan Blus Marmer
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** towa💎AIart
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah perintah untuk menghasilkan gambar pakaian fesyen gothic lolita dengan blus marmer ungu dan oranye neon.
-
-#### Prompt
-
-```text
-［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black
-```
-
-### No. 124: Gaun Pengantin Gothic Pengantin Berhantu Hitam
+### No. 117: Gaun Pengantin Gothic Pengantin Berhantu Hitam
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4280,7 +4106,7 @@ Sebuah perintah untuk kostum pengantin horor Halloween gothic dengan elegan roma
 [concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
 ```
 
-### No. 125: Potret Sinematik Suram Wanita Asia Timur
+### No. 118: Potret Sinematik Suram Wanita Asia Timur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4305,7 +4131,7 @@ Sebuah perintah untuk potret close-up sinematik kontras tinggi dari seorang wani
 A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
 ```
 
-### No. 126: Potret Jalan Malam Sinematik di Zebra Cross Basah
+### No. 119: Potret Jalan Malam Sinematik di Zebra Cross Basah
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4330,7 +4156,7 @@ Sebuah perintah untuk potret sinematik seorang wanita muda Asia Timur di zebra c
 A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
 ```
 
-### No. 127: Potret Close-Up dengan Mata Emas Bercahaya
+### No. 120: Potret Close-Up dengan Mata Emas Bercahaya
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4355,7 +4181,7 @@ Sebuah perintah untuk potret close-up sinematik seorang wanita muda Asia Timur d
 Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
 ```
 
-### No. 128: Potret Fotorealistik dengan Kacamata dan Kedipan Mata
+### No. 121: Potret Fotorealistik dengan Kacamata dan Kedipan Mata
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4380,7 +4206,7 @@ Potret fotorealistik seorang wanita muda Asia Timur berkacamata dengan rambut be
 Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
 ```
 
-### No. 129: Potret Gaya Analog-Film dengan Rambut Acak-acakan
+### No. 122: Potret Gaya Analog-Film dengan Rambut Acak-acakan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4405,7 +4231,7 @@ Potret gaya analog-film fotorealistik seorang wanita muda Asia Timur dengan ramb
 A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
 ```
 
-### No. 130: Potret Sinematik Mengambang di Air Gelap
+### No. 123: Potret Sinematik Mengambang di Air Gelap
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4430,7 +4256,7 @@ Potret sinematik seorang wanita muda yang tenang mengambang di air yang tenang d
 Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
 ```
 
-### No. 131: Potret Kecantikan Studio dengan Kepang Samping
+### No. 124: Potret Kecantikan Studio dengan Kepang Samping
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4455,7 +4281,7 @@ Potret kecantikan studio fotorealistik seorang wanita muda Asia Timur dengan kul
 A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
 ```
 
-### No. 132: Potret Wanita di Dalam Mobil dengan Hijab
+### No. 125: Potret Wanita di Dalam Mobil dengan Hijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4480,7 +4306,7 @@ Potret close-up fotorealistik seorang wanita muda Asia Timur di dalam mobil, men
 Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
 ```
 
-### No. 133: Wanita Berfoto Selfie dengan Hijab
+### No. 126: Wanita Berfoto Selfie dengan Hijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4505,7 +4331,7 @@ Sebuah perintah untuk menghasilkan gambar seorang wanita muda berhijab muda seda
 A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
 ```
 
-### No. 134: Potret Wanita Melihat ke Belakang Bahu
+### No. 127: Potret Wanita Melihat ke Belakang Bahu
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4530,7 +4356,7 @@ Sebuah perintah detail untuk menghasilkan potret fotorealistik seorang wanita mu
 A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
 ```
 
-### No. 135: Potret Wanita dengan Kacamata
+### No. 128: Potret Wanita dengan Kacamata
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4555,32 +4381,7 @@ Potret seorang wanita muda Asia Timur berkacamata, berambut bergelombang, dengan
 Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
 ```
 
-### No. 136: Potret Close-Up Gadis Muda
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah perintah detail untuk menghasilkan potret close-up seorang gadis muda Asia Timur dengan fitur wajah dan ekspresi tertentu.
-
-#### Prompt
-
-```text
-A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly
-```
-
-### No. 137: Potret Close-Up dengan Lipstik Cerah
+### No. 129: Potret Close-Up dengan Lipstik Cerah
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4605,7 +4406,7 @@ Potret fotorealistik seorang wanita muda Asia Timur dengan kulit porselen, mata 
 Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
 ```
 
-### No. 138: Potret dengan Rambut Basah dan Bahu Terbuka
+### No. 130: Potret dengan Rambut Basah dan Bahu Terbuka
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4630,7 +4431,7 @@ Potret fotorealistik seorang wanita muda dengan kulit berembun dan rambut hitam 
 photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
 ```
 
-### No. 139: Potret Sinematik Wanita Asia Timur
+### No. 131: Potret Sinematik Wanita Asia Timur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4655,7 +4456,7 @@ Potret close-up seorang wanita muda Asia Timur dengan rambut gelap bergelombang 
 A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
 ```
 
-### No. 140: Potret Fotorealistik dengan Kacamata
+### No. 132: Potret Fotorealistik dengan Kacamata
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4680,7 +4481,7 @@ Potret fotorealistik seorang wanita muda Asia Timur dengan rambut panjang bergel
 A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
 ```
 
-### No. 141: Potret Sinematik dengan Highlight Madu
+### No. 133: Potret Sinematik dengan Highlight Madu
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4705,7 +4506,7 @@ Sebuah perintah untuk potret close-up sinematik seorang wanita muda Asia Timur d
 Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
 ```
 
-### No. 142: Potret Fotorealistik dengan Potongan Rambut Bob
+### No. 134: Potret Fotorealistik dengan Potongan Rambut Bob
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4730,7 +4531,7 @@ Potret close-up fotorealistik seorang wanita muda Asia Timur dengan potongan bob
 Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
 ```
 
-### No. 143: Potret Wanita Berhijab dan Topi
+### No. 135: Potret Wanita Berhijab dan Topi
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4755,7 +4556,7 @@ Potret close-up seorang wanita muda berkulit cerah dengan ekspresi tenang, menge
 A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
 ```
 
-### No. 144: Selfie Potret dengan Hijab Sifon
+### No. 136: Selfie Potret dengan Hijab Sifon
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4780,32 +4581,7 @@ Potret selfie close-up seorang wanita muda Asia Timur berkulit cerah dengan fitu
 Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
 ```
 
-### No. 145: Potret Wanita Indonesia
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah prompt untuk menghasilkan potret seorang wanita muda Indonesia yang cantik, berkulit cerah, dengan riasan lembut dan rambut hitam yang acak-acakan.
-
-#### Prompt
-
-```text
-A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.
-```
-
-### No. 146: Potret Sinematik Wanita Asia Timur yang Menangis
+### No. 137: Potret Sinematik Wanita Asia Timur yang Menangis
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4830,7 +4606,7 @@ Potret close-up fotorealistik seorang wanita muda dengan kulit berkilau dan basa
 A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
 ```
 
-### No. 147: Potret Wanita dengan Penutup Mata Renda Berhias Permata
+### No. 138: Potret Wanita dengan Penutup Mata Renda Berhias Permata
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4855,7 +4631,7 @@ Potret close-up seorang wanita muda berkulit pucat dengan rambut bob hitam, satu
 A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
 ```
 
-### No. 148: Potret Sinematik Intens dengan Rambut Acak-acakan
+### No. 139: Potret Sinematik Intens dengan Rambut Acak-acakan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4880,7 +4656,7 @@ Potret sinematik close-up seorang wanita muda dengan rambut hitam panjang, menat
 Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
 ```
 
-### No. 149: Potret Close-Up dengan Rambut Hitam Berkilau
+### No. 140: Potret Close-Up dengan Rambut Hitam Berkilau
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4905,7 +4681,7 @@ Sebuah prompt detail untuk menghasilkan potret seorang wanita muda berkulit cera
 A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
 ```
 
-### No. 150: Potret Tersenyum dengan Kilau Keringat dan Cahaya Matahari
+### No. 141: Potret Tersenyum dengan Kilau Keringat dan Cahaya Matahari
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4930,32 +4706,7 @@ Potret close-up seorang wanita muda Asia Timur dengan rambut hitam acak-acakan, 
 Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
 ```
 
-### No. 151: Potret Tatapan Intim dengan Poni Tipis
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** Feyber
-- **Language:** `id`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Sebuah prompt untuk menghasilkan potret close-up seorang wanita muda Asia Timur dengan rambut hitam, poni tipis, dan tatapan yang intim.
-
-#### Prompt
-
-```text
-Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.
-```
-
-### No. 152: Potret Ekspresif dengan Eyeliner Sayap
+### No. 142: Potret Ekspresif dengan Eyeliner Sayap
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4980,7 +4731,7 @@ Sebuah prompt detail untuk menghasilkan potret close-up seorang wanita muda Asia
 A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
 ```
 
-### No. 153: Selfie Potret dengan Ekspresi Mencium
+### No. 143: Selfie Potret dengan Ekspresi Mencium
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5003,7 +4754,7 @@ Sebuah prompt untuk potret selfie close-up seorang wanita muda Asia Timur dengan
 Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
 ```
 
-### No. 154: Potret Wanita Muda yang Tersenyum
+### No. 144: Potret Wanita Muda yang Tersenyum
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5028,7 +4779,7 @@ Sebuah prompt untuk menghasilkan potret seorang wanita muda Asia Timur atau Indo
 A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
 ```
 
-### No. 155: Selfie Wanita dengan Rambut Setengah Diikat
+### No. 145: Selfie Wanita dengan Rambut Setengah Diikat
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5054,7 +4805,7 @@ ar 9:16 2K
 A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
 ```
 
-### No. 156: Fase Bumi Ditelan Lubang Hitam
+### No. 146: Fase Bumi Ditelan Lubang Hitam
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5076,7 +4827,7 @@ Sebuah prompt untuk menghasilkan empat gambar yang menggambarkan fase visual Bum
 generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
 ```
 
-### No. 157: Karakter Prajurit Cyberpunk vs Bos Mekanis
+### No. 147: Karakter Prajurit Cyberpunk vs Bos Mekanis
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5101,7 +4852,7 @@ Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybe
 Character 2 (Boss Entity): Massive, heavy-armored mechanical
 ```
 
-### No. 158: Dewi Surgawi Turun di Depan Istana
+### No. 148: Dewi Surgawi Turun di Depan Istana
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5123,7 +4874,7 @@ Sebuah gambar dewi surgawi Tiongkok yang megah dalam hanfu upacara turun melalui
 A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
 ```
 
-### No. 159: Gadis Surgawi dalam Tampilan Tiga-Perempat yang Diterangi Matahari
+### No. 149: Gadis Surgawi dalam Tampilan Tiga-Perempat yang Diterangi Matahari
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5146,7 +4897,7 @@ Sebuah gambar gadis surgawi dalam hanfu gading, diterangi cahaya pagi dengan pit
 A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
 ```
 
-### No. 160: Gadis Surgawi Duduk di Tepi Kolam Giok
+### No. 150: Gadis Surgawi Duduk di Tepi Kolam Giok
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5168,7 +4919,7 @@ Sebuah gambar gadis surgawi Tiongkok yang tenang dalam hanfu sutra menyentuh bun
 A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
 ```
 
-### No. 161: Dewi Surgawi di Tangga Istana Giok
+### No. 151: Dewi Surgawi di Tangga Istana Giok
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5190,7 +4941,7 @@ Sebuah gambar dewi surgawi Tiongkok yang anggun di atas tangga giok putih, menge
 An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
 ```
 
-### No. 162: Potret di Kuil Ritual Tiongkok Kuno
+### No. 152: Potret di Kuil Ritual Tiongkok Kuno
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5215,7 +4966,7 @@ Potret sinematik fotorealistik seorang wanita Asia Timur dewasa di dalam kuil ri
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
 ```
 
-### No. 163: Potret Wanita di Kuil Ritual Gelap
+### No. 153: Potret Wanita di Kuil Ritual Gelap
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5240,7 +4991,7 @@ Potret sinematik fotorealistik seorang wanita Asia Timur dengan rambut hitam bas
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
 ```
 
-### No. 164: Potret Close-Up pada Festival Nuo Malam Hari
+### No. 154: Potret Close-Up pada Festival Nuo Malam Hari
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5265,7 +5016,7 @@ Potret close-up seorang wanita Asia Timur dewasa di samping topeng Nuo yang lapu
 Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
 ```
 
-### No. 165: Bir dengan Mahkota Busa yang Padat
+### No. 155: Bir dengan Mahkota Busa yang Padat
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5288,7 +5039,7 @@ a dense foam crown spilling in two uneven, heavy cascades while the glass rim st
 The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
 ```
 
-### No. 166: Potongan Tahu Diangkat dari Rebusan
+### No. 156: Potongan Tahu Diangkat dari Rebusan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5310,7 +5061,7 @@ Sebuah prompt deskriptif untuk gambar potongan tahu berpori yang diangkat di ata
 Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
 ```
 
-### No. 167: Sendok Penuh Sambal Pedas
+### No. 157: Sendok Penuh Sambal Pedas
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5332,7 +5083,7 @@ Sebuah gambar sendok penuh sambal pedas dengan potongan cabai merah yang jelas, 
 a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
 ```
 
-### No. 168: Potret Close-Up Wanita di Ruang Keluarga
+### No. 158: Potret Close-Up Wanita di Ruang Keluarga
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5354,7 +5105,7 @@ Potret close-up ultra-realistis seorang wanita muda dengan ekspresi ceria di rua
 Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
 ```
 
-### No. 169: Potret Wanita Bersandar di Kamar Tidur Remang
+### No. 159: Potret Wanita Bersandar di Kamar Tidur Remang
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5377,7 +5128,7 @@ Sebuah prompt untuk potret vertikal fotorealistik seorang wanita muda bersandar 
 A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
 ```
 
-### No. 170: Potret Wanita yang Impresif di Padang Rumput Musim Panas
+### No. 160: Potret Wanita yang Impresif di Padang Rumput Musim Panas
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5400,7 +5151,7 @@ Gambar bergaya film seorang wanita muda Asia Timur beristirahat di rumput tinggi
 Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
 ```
 
-### No. 171: Potret Wanita di Pelabuhan Biru Cerah
+### No. 161: Potret Wanita di Pelabuhan Biru Cerah
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5423,7 +5174,7 @@ Potret bergaya grain film seorang wanita muda Asia Timur jongkok santai di pelab
 A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
 ```
 
-### No. 172: Potret Wanita Muda di Jalanan Paris
+### No. 162: Potret Wanita Muda di Jalanan Paris
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5445,7 +5196,7 @@ Sebuah prompt untuk potret jalanan resolusi tinggi dengan cahaya alami seorang w
 High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
 ```
 
-### No. 173: Potrat Spontan di Kereta Bawah Tanah Malam Hari
+### No. 163: Potrat Spontan di Kereta Bawah Tanah Malam Hari
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5470,7 +5221,7 @@ Potret spontan fotorealistik seorang wanita dewasa Asia Timur duduk di dekat jen
 9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
 ```
 
-### No. 174: Jam Tangan dengan Gelombang Kejut Es dan Asap
+### No. 164: Jam Tangan dengan Gelombang Kejut Es dan Asap
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5492,7 +5243,7 @@ Gambar jam tangan dengan gelombang kejut melingkar es dan asap di belakangnya, m
 a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
 ```
 
-### No. 175: Tampilan Toko Roti Berlapis dengan Kedalaman
+### No. 165: Tampilan Toko Roti Berlapis dengan Kedalaman
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5514,7 +5265,7 @@ Sebuah prompt untuk menghasilkan gambar tampilan toko roti premium dengan barang
 a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
 ```
 
-### No. 176: Potret Kamar Tidur dengan Pencahayaan Lembut dalam Gaun Slip
+### No. 166: Potret Kamar Tidur dengan Pencahayaan Lembut dalam Gaun Slip
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5538,7 +5289,7 @@ Potret fotorealistik seorang wanita dewasa Asia Timur mengenakan gaun slip satin
 9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
 ```
 
-### No. 177: Mobil dengan Kontras Awan Debu Ledakan
+### No. 167: Mobil dengan Kontras Awan Debu Ledakan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5560,7 +5311,7 @@ Sebuah gambar mobil bertenaga yang menghasilkan awan debu besar di belakangnya s
 massive dust plume exploding behind the vehicle while the car stays clean and silent in front
 ```
 
-### No. 178: Siluet Penyihir yang Diterangi Api Langit
+### No. 168: Siluet Penyihir yang Diterangi Api Langit
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5582,7 +5333,7 @@ Sebuah gambar siluet penyihir yang diterangi dari belakang oleh awan api langit 
 one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
 ```
 
-### No. 179: Hati Saus Tomat Terangkat dari Mangkuk Koshari
+### No. 169: Hati Saus Tomat Terangkat dari Mangkuk Koshari
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5604,7 +5355,7 @@ Sebuah gambar saus tomat mengilat yang membentuk bentuk hati di atas mangkuk kos
 thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
 ```
 
-### No. 180: Bidak Catur yang Dipahat dari Untaian Mie
+### No. 170: Bidak Catur yang Dipahat dari Untaian Mie
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5626,7 +5377,7 @@ Sebuah perintah untuk menghasilkan bidak catur yang dipahat dari untaian mie bua
 chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
 ```
 
-### No. 181: Botol Minyak Wijen dengan Lengan Petinju di Ring
+### No. 171: Botol Minyak Wijen dengan Lengan Petinju di Ring
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5648,7 +5399,7 @@ Sebuah gambar botol minyak wijen berukuran besar dengan lengan petinju berwarna 
 oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
 ```
 
-### No. 182: Adegan Konter Dapur Apartemen Modern Kompak
+### No. 172: Adegan Konter Dapur Apartemen Modern Kompak
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5673,7 +5424,7 @@ Sebuah perintah untuk menghasilkan gambar dapur apartemen modern yang kompak den
 Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
 ```
 
-### No. 183: Shawarma Wrap Miring ke Atas Seperti Roket
+### No. 173: Shawarma Wrap Miring ke Atas Seperti Roket
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5695,7 +5446,7 @@ Sebuah perintah untuk menghasilkan gambar shawarma wrap yang dimiringkan seperti
 shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
 ```
 
-### No. 184: Maskot Pisang Memegang Kaleng Raksasa
+### No. 174: Maskot Pisang Memegang Kaleng Raksasa
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5717,7 +5468,7 @@ Sebuah gambar maskot pisang yang sedang berlari memegang kaleng aluminium dingin
 oversized cold aluminum can held forward toward camera by the running banana mascot
 ```
 
-### No. 185: Foto Malam Kandidat Wanita Asia Timur
+### No. 175: Foto Malam Kandidat Wanita Asia Timur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5742,7 +5493,7 @@ Sebuah perintah untuk menghasilkan foto kandidat realistis seorang wanita Asia T
 9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
 ```
 
-### No. 186: Krim Kue Sebagai Permukaan Seluncur Miniatur
+### No. 176: Krim Kue Sebagai Permukaan Seluncur Miniatur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5764,7 +5515,7 @@ Sebuah gambar kue di mana lapisan krim vanila naik membentuk permukaan seluncur 
 vanilla creme layer rising above the cookie as a smooth miniature skating surface
 ```
 
-### No. 187: Rel Roller Coaster Terbuat dari Keripik yang Ditumpuk
+### No. 177: Rel Roller Coaster Terbuat dari Keripik yang Ditumpuk
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5786,7 +5537,7 @@ Sebuah gambar rel roller coaster yang dibangun dari keripik yang ditumpuk dengan
 roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
 ```
 
-### No. 188: Zona Sorotan Merah di Balik Ember Utama
+### No. 178: Zona Sorotan Merah di Balik Ember Utama
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5808,7 +5559,7 @@ Sebuah perintah gambar yang menggambarkan tiga zona sorotan merah bersih dengan 
 three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
 ```
 
-### No. 189: Aliran Mie Mengilat sebagai Garis Gerak Vertikal
+### No. 179: Aliran Mie Mengilat sebagai Garis Gerak Vertikal
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5830,7 +5581,7 @@ Konsep poster minimalis yang menampilkan satu aliran mie mengilat sebagai elemen
 single glossy noodle stream forming the main vertical motion line from bowl to mouth
 ```
 
-### No. 190: Animasi Gouache Sinematik 2.5D
+### No. 180: Animasi Gouache Sinematik 2.5D
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5853,7 +5604,7 @@ Sebuah perintah untuk membuat animasi sinematik 2.5D dengan gaya konsep seni luk
 Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
 ```
 
-### No. 191: Potret Sinematik Suram dalam Kegelapan
+### No. 181: Potret Sinematik Suram dalam Kegelapan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5875,7 +5626,7 @@ Potret sinematik seorang pria dengan rambut acak-acakan muncul dari bayangan, me
 A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
 ```
 
-### No. 192: Pria Raksasa di Samping Patung Liberty
+### No. 182: Pria Raksasa di Samping Patung Liberty
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5897,7 +5648,7 @@ Foto perjalanan sinematik ultra-realistis seorang pria muda tampan yang digambar
 Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
 ```
 
-### No. 193: Potret Jam Emas di Beranda Rustik
+### No. 183: Potret Jam Emas di Beranda Rustik
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5919,7 +5670,7 @@ Potret gaya hidup hangat dan spontan seorang pria muda menikmati teh di beranda 
 Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
 ```
 
-### No. 194: Potret Sinematik di Padang Rumput
+### No. 184: Potret Sinematik di Padang Rumput
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5941,7 +5692,7 @@ Potret ultra-realistis seorang wanita bertopi koboi berdiri di padang rumput hij
 Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
 ```
 
-### No. 195: Potret Spontan Vertikal Wanita
+### No. 185: Potret Spontan Vertikal Wanita
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5966,7 +5717,7 @@ Sebuah prompt untuk menghasilkan foto spontan vertikal seorang wanita muda Asia 
 Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
 ```
 
-### No. 196: Batang Diagonal dengan Zona Rasa Robek
+### No. 186: Batang Diagonal dengan Zona Rasa Robek
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5988,7 +5739,7 @@ Sebuah prompt untuk menghasilkan gambar batang makanan penutup kemasan diagonal 
 The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
 ```
 
-### No. 197: Potret Wanita di Cermin Oval
+### No. 187: Potret Wanita di Cermin Oval
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -6010,7 +5761,7 @@ Potret kecantikan seorang wanita yang terpantul dalam cermin oval vertikal, mena
 reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
 ```
 
-### No. 198: Vortex Gelas Pint di Gurun
+### No. 188: Vortex Gelas Pint di Gurun
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -6032,7 +5783,7 @@ Gambar sureal sebuah gelas pint menjulang muncul dari gurun sebagai vortex berpu
 towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
 ```
 
-### No. 199: Botol Bir di Latar Depan
+### No. 189: Botol Bir di Latar Depan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
