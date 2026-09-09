@@ -1,0 +1,15 @@
+{
+  "name": "awesome-gpt-image-2.5-prompts",
+  "version": "1.0.0",
+  "description": "Prompts for GPT Image 2.5, each shipped with the image it produced",
+  "type": "module",
+  "scripts": {
+    "generate": "tsx scripts/generate-readmes.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "npm@10.8.2"
+}
