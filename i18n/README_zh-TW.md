@@ -103,7 +103,7 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 | 指標 | 數量 |
 |--------|-------|
 | 提示詞總數 | **19** |
-| 分類數 | **5** |
+| 分類數 | **4** |
 | 預覽圖數 | **19** |
 | 最後更新 | **2026-09-09** |
 
@@ -112,11 +112,10 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 ## 🏷️ 按分類瀏覽
 
 
-- [`參考圖保真`](#category-1): **2**
-- [`undefined`](#category-2): **6**
-- [`精準編輯`](#category-3): **1**
-- [`風格與理解力`](#category-4): **5**
-- [`複雜版式與文字`](#category-5): **5**
+- [`參考圖保真`](#category-1): **3**
+- [`精準編輯`](#category-2): **1**
+- [`風格與理解力`](#category-3): **9**
+- [`複雜版式與文字`](#category-4): **6**
 
 <a id="all-prompts"></a>
 
@@ -125,7 +124,7 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 <a id="category-1"></a>
 
-### 參考圖保真 (2)
+### 參考圖保真 (3)
 
 ### No. 1: 復古八〇年代商場肖像
 
@@ -183,130 +182,9 @@ Change the boy's red sweater with a black collar into a formal white tuxedo with
 A physical photograph being held by a hand with green fingernails, showing a young Black boy posing for a school portrait. He is wearing a red pullover sweater with a black collar and has a neutral expression, seated against a mottled blue studio background.
 ```
 
-<a id="category-2"></a>
+### No. 3: 池畔嬌小西班牙女子肖像
 
-### undefined (6)
-
-### No. 1: 次世代戀愛角色扮演遊戲的寫實截圖
-
-- **分類:** `undefined`
-- **來源:** `x`
-- **作者:** underwood
-- **語言:** `zh-TW`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_1.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-一個用於生成虛構次世代3D開放世界戀愛角色扮演遊戲中，從主角視角出發的寫實遊戲截圖的提示。
-
-#### 提示詞
-
-```text
-Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist's
-```
-
-### No. 2: 地標建築的精品微型立體模型
-
-- **分類:** `undefined`
-- **來源:** `x`
-- **作者:** simeon-sanai
-- **語言:** `zh-TW`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-一個用於生成可愛、優雅的3D立體模型，描繪一座著名建築，採用柔和的粉彩色調和手工細節的提示。
-
-#### 提示詞
-
-```text
-Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined
-```
-
-### No. 3: 苗條女子的垂直植物紙藝作品
-
-- **分類:** `undefined`
-- **來源:** `x`
-- **作者:** Ralph Nas
-- **語言:** `zh-TW`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-一幅垂直的植物紙藝作品，描繪一位苗條女子的側影，身著葉片長裙，手持象牙色陽傘。
-
-#### 提示詞
-
-```text
-A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves
-```
-
-### No. 4: 白金配色聖騎士機器人的寫實模型套件
-
-- **分類:** `undefined`
-- **來源:** `x`
-- **作者:** 四季橘/Shikikitsu@AIイラストとTRPG(希望)
-- **語言:** `zh-TW`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-一個用於生成白金配色聖騎士機器人模型套件的寫實圖像提示，展示於電子產品商店中，周圍有許多統一包裝盒。
-
-#### 提示詞
-
-```text
-このロボットを聖騎士にふさわしい白と金の色合いでフォトリアルにプラモデルとして描いてください。電気店の売り場にこの完成品が飾られており、近くにこのプラモデルの箱が大量に並んでいます。箱の大きさはそろえてください。
-```
-
-### No. 5: 金與海軍藍色的裝飾藝術海報
-
-- **分類:** `undefined`
-- **來源:** `x`
-- **作者:** Mr Das
-- **語言:** `zh-TW`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-一幅方形格式的裝飾藝術海報插圖，在奶油色紙張上呈現優雅的金色與海軍藍色線條。
-
-#### 提示詞
-
-```text
-Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal
-```
-
-### No. 6: 池畔嬌小西班牙女子肖像
-
-- **分類:** `undefined`
+- **分類:** `參考圖保真`
 - **來源:** `x`
 - **作者:** John
 - **語言:** `zh-TW`
@@ -326,7 +204,7 @@ Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on
 A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80
 ```
 
-<a id="category-3"></a>
+<a id="category-2"></a>
 
 ### 精準編輯 (1)
 
@@ -364,9 +242,9 @@ Modify the messy bed to be neatly made with a smoothed-out white comforter. Arra
 A wide-angle photo of an unmade bed with a messy white comforter and scattered pillows in a bedroom with sloped ceilings. Bedside tables with glowing lamps flank the bed, with a couple of extra pillows on the floor, an open door on the left, and a window on the right.
 ```
 
-<a id="category-4"></a>
+<a id="category-3"></a>
 
-### 風格與理解力 (5)
+### 風格與理解力 (9)
 
 ### No. 1: 夜間賽博龐克大都會
 
@@ -478,9 +356,101 @@ Cinematic wide-angle film still of a man in a dark suit floating horizontally, s
 A detailed mosaic tile artwork depicting Earth from space. The lower half features the curved Earth crafted from blue, green, brown, and white tesserae. The upper half shows a deep blue cosmos filled with golden-yellow stars, a ringed planet, the moon, and a swirling spiral galaxy. Handcrafted ceramic or glass tile texture with visible grout. Vibrant, saturated colors with a glossy, reflective glaze finish.
 ```
 
-<a id="category-5"></a>
+### No. 6: 次世代戀愛角色扮演遊戲的寫實截圖
 
-### 複雜版式與文字 (5)
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** underwood
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成虛構次世代3D開放世界戀愛角色扮演遊戲中，從主角視角出發的寫實遊戲截圖的提示。
+
+#### 提示詞
+
+```text
+Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist's
+```
+
+### No. 7: 地標建築的精品微型立體模型
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成可愛、優雅的3D立體模型，描繪一座著名建築，採用柔和的粉彩色調和手工細節的提示。
+
+#### 提示詞
+
+```text
+Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined
+```
+
+### No. 8: 苗條女子的垂直植物紙藝作品
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Ralph Nas
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅垂直的植物紙藝作品，描繪一位苗條女子的側影，身著葉片長裙，手持象牙色陽傘。
+
+#### 提示詞
+
+```text
+A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves
+```
+
+### No. 9: 白金配色聖騎士機器人的寫實模型套件
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** 四季橘/Shikikitsu@AIイラストとTRPG(希望)
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成白金配色聖騎士機器人模型套件的寫實圖像提示，展示於電子產品商店中，周圍有許多統一包裝盒。
+
+#### 提示詞
+
+```text
+このロボットを聖騎士にふさわしい白と金の色合いでフォトリアルにプラモデルとして描いてください。電気店の売り場にこの完成品が飾られており、近くにこのプラモデルの箱が大量に並んでいます。箱の大きさはそろえてください。
+```
+
+<a id="category-4"></a>
+
+### 複雜版式與文字 (6)
 
 ### No. 1: 復古極簡勵志海報網格
 
@@ -590,6 +560,31 @@ A vintage advertising poster featuring a cute black cat with large golden eyes s
 
 ```text
 A UI screenshot of a Google Slides presentation open in a macOS Chrome browser window. The Chrome tab is labeled "Our Dynamic Sun - Google Slides". The active slide is dark-themed and titled "What Causes Solar Flares?" in large serif font with white and orange colors. On the right, a highly detailed graphic of the sun erupts with a bright orange solar flare. Beneath the header "THE SUN'S ENERGY IN ACTION", a horizontal process chart details four steps with circular minimalist icons, labeled "1. MAGNETIC FIELD TWISTING", "2. SUNSPOT ACTIVITY", "3. MAGNETIC RECONNECTION", and "4. ENERGY RELEASE" alongside brief paragraphs. The left sidebar displays six slide thumbnails. The overall design is professional, featuring deep black, orange, and white tones.
+```
+
+### No. 6: 金與海軍藍色的裝飾藝術海報
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** Mr Das
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅方形格式的裝飾藝術海報插圖，在奶油色紙張上呈現優雅的金色與海軍藍色線條。
+
+#### 提示詞
+
+```text
+Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal
 ```
 
 <a id="featured-prompts"></a>

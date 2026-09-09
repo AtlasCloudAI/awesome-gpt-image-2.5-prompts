@@ -309,7 +309,9 @@
     "likes": 2,
     "results_count": 0,
     "need_reference_images": false,
-    "prompt_categories": [],
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
     "remote_images": [
       "https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg",
       "https://static.atlascloud.ai/prompt/gpt-image-2-5/1_1.jpg"
@@ -319,14 +321,15 @@
       "confidence": "medium",
       "prompt_kind": "keyword"
     },
-    "sort_order": 1,
+    "sort_order": 14,
     "local_media": {
       "images": [
         "media/gpt-image-2-5/1_0.jpg",
         "media/gpt-image-2-5/1_1.jpg"
       ],
       "video": ""
-    }
+    },
+    "category": "Style & Intelligence"
   },
   {
     "id": 2,
@@ -344,7 +347,9 @@
     "likes": 21,
     "results_count": 0,
     "need_reference_images": false,
-    "prompt_categories": [],
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
     "remote_images": [
       "https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg",
       "https://static.atlascloud.ai/prompt/gpt-image-2-5/2_1.jpg",
@@ -356,7 +361,7 @@
       "confidence": "medium",
       "prompt_kind": "keyword"
     },
-    "sort_order": 2,
+    "sort_order": 15,
     "local_media": {
       "images": [
         "media/gpt-image-2-5/2_0.jpg",
@@ -365,7 +370,8 @@
         "media/gpt-image-2-5/2_3.jpg"
       ],
       "video": ""
-    }
+    },
+    "category": "Style & Intelligence"
   },
   {
     "id": 6,
@@ -383,7 +389,9 @@
     "likes": 0,
     "results_count": 0,
     "need_reference_images": false,
-    "prompt_categories": [],
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
     "remote_images": [
       "https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg"
     ],
@@ -392,13 +400,14 @@
       "confidence": "medium",
       "prompt_kind": "keyword"
     },
-    "sort_order": 3,
+    "sort_order": 16,
     "local_media": {
       "images": [
         "media/gpt-image-2-5/6_0.jpg"
       ],
       "video": ""
-    }
+    },
+    "category": "Style & Intelligence"
   },
   {
     "id": 10,
@@ -416,7 +425,9 @@
     "likes": 4,
     "results_count": 0,
     "need_reference_images": false,
-    "prompt_categories": [],
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
     "remote_images": [
       "https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg"
     ],
@@ -425,13 +436,14 @@
       "confidence": "medium",
       "prompt_kind": "keyword"
     },
-    "sort_order": 5,
+    "sort_order": 17,
     "local_media": {
       "images": [
         "media/gpt-image-2-5/10_0.jpg"
       ],
       "video": ""
-    }
+    },
+    "category": "Style & Intelligence"
   },
   {
     "id": 11,
@@ -449,7 +461,9 @@
     "likes": 8,
     "results_count": 0,
     "need_reference_images": false,
-    "prompt_categories": [],
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
     "remote_images": [
       "https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg",
       "https://static.atlascloud.ai/prompt/gpt-image-2-5/11_1.jpg",
@@ -461,7 +475,7 @@
       "confidence": "medium",
       "prompt_kind": "keyword"
     },
-    "sort_order": 6,
+    "sort_order": 18,
     "local_media": {
       "images": [
         "media/gpt-image-2-5/11_0.jpg",
@@ -470,7 +484,8 @@
         "media/gpt-image-2-5/11_3.jpg"
       ],
       "video": ""
-    }
+    },
+    "category": "Layout & Typography"
   },
   {
     "id": 12,
@@ -488,7 +503,9 @@
     "likes": 18,
     "results_count": 0,
     "need_reference_images": false,
-    "prompt_categories": [],
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
     "remote_images": [
       "https://static.atlascloud.ai/prompt/gpt-image-2-5/12_0.jpg"
     ],
@@ -497,12 +514,13 @@
       "confidence": "low",
       "prompt_kind": "raw"
     },
-    "sort_order": 7,
+    "sort_order": 19,
     "local_media": {
       "images": [
         "media/gpt-image-2-5/12_0.jpg"
       ],
       "video": ""
-    }
+    },
+    "category": "Reference Fidelity"
   }
 ]

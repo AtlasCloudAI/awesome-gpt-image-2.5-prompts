@@ -103,7 +103,7 @@ Every record keeps its category, source, author, source link, input references a
 | Metric | Count |
 |--------|-------|
 | Total Prompts | **19** |
-| Categories | **5** |
+| Categories | **4** |
 | Preview Images | **19** |
 | Last Updated | **2026-09-09** |
 
@@ -112,11 +112,10 @@ Every record keeps its category, source, author, source link, input references a
 ## 🏷️ Browse by Category
 
 
-- [`Reference Fidelity`](#category-1): **2**
-- [`undefined`](#category-2): **6**
-- [`Precision Editing`](#category-3): **1**
-- [`Style & Intelligence`](#category-4): **5**
-- [`Layout & Typography`](#category-5): **5**
+- [`Reference Fidelity`](#category-1): **3**
+- [`Precision Editing`](#category-2): **1**
+- [`Style & Intelligence`](#category-3): **9**
+- [`Layout & Typography`](#category-4): **6**
 
 <a id="all-prompts"></a>
 
@@ -125,7 +124,7 @@ Every record keeps its category, source, author, source link, input references a
 
 <a id="category-1"></a>
 
-### Reference Fidelity (2)
+### Reference Fidelity (3)
 
 ### No. 1: Retro Eighties Mall Portrait
 
@@ -183,130 +182,9 @@ Change the boy's red sweater with a black collar into a formal white tuxedo with
 A physical photograph being held by a hand with green fingernails, showing a young Black boy posing for a school portrait. He is wearing a red pullover sweater with a black collar and has a neutral expression, seated against a mottled blue studio background.
 ```
 
-<a id="category-2"></a>
+### No. 3: Havuz Başında Küçük Yapılı İspanyol Kadının Portresi
 
-### undefined (6)
-
-### No. 1: Yeni Nesil Romantik RPG'nin Gerçekçi Ekran Görüntüsü
-
-- **Category:** `undefined`
-- **Source:** `x`
-- **Author:** underwood
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_1.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Protagonistin bakış açısından, kurgusal bir yeni nesil 3D açık dünya romantik RPG'den gerçekçi bir ekran görüntüsü oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist's
-```
-
-### No. 2: Bir Simgenin Premium Minyatür Dioraması
-
-- **Category:** `undefined`
-- **Source:** `x`
-- **Author:** simeon-sanai
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Yumuşak pastel tonlar ve el yapımı detaylarla, ünlü bir yapının sevimli ve zarif bir 3D dioramasını oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined
-```
-
-### No. 3: İnce Yapılı Kadının Dikey Botanik Kağıt Sanatı
-
-- **Category:** `undefined`
-- **Source:** `x`
-- **Author:** Ralph Nas
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Yaprak elbise ve fildişi şemsiyeli, profilden görünen ince yapılı bir kadını betimleyen dikey bir botanik kağıt sanatı.
-
-#### Prompt
-
-```text
-A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves
-```
-
-### No. 4: Beyaz ve Altın Paladin'in Foto-Gerçekçi Model Kiti
-
-- **Category:** `undefined`
-- **Source:** `x`
-- **Author:** 四季橘/Shikikitsu@AIイラストとTRPG(希望)
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Bir elektronik mağazasında, çok sayıda düzenli kutu içinde sergilenen, beyaz ve altın bir paladin robotunun foto-gerçekçi model kiti görüntüsünü oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-このロボットを聖騎士にふさわしい白と金の色合いでフォトリアルにプラモデルとして描いてください。電気店の売り場にこの完成品が飾られており、近くにこのプラモデルの箱が大量に並んでいます。箱の大きさはそろえてください。
-```
-
-### No. 5: Altın ve Lacivert Art Deco Afişi
-
-- **Category:** `undefined`
-- **Source:** `x`
-- **Author:** Mr Das
-- **Language:** `tr`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_1.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_2.jpg" width="480" referrerpolicy="no-referrer">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_3.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Kare formatta, krem kağıt üzerinde zarif altın ve lacivert çizgi işçiliğiyle bir Art Deco poster illüstrasyonu.
-
-#### Prompt
-
-```text
-Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal
-```
-
-### No. 6: Havuz Başında Küçük Yapılı İspanyol Kadının Portresi
-
-- **Category:** `undefined`
+- **Category:** `Reference Fidelity`
 - **Source:** `x`
 - **Author:** John
 - **Language:** `tr`
@@ -326,7 +204,7 @@ Nane yeşili bir kapalı havuzun yanında oturan, küçük yapılı bir İspanyo
 A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80
 ```
 
-<a id="category-3"></a>
+<a id="category-2"></a>
 
 ### Precision Editing (1)
 
@@ -364,9 +242,9 @@ Modify the messy bed to be neatly made with a smoothed-out white comforter. Arra
 A wide-angle photo of an unmade bed with a messy white comforter and scattered pillows in a bedroom with sloped ceilings. Bedside tables with glowing lamps flank the bed, with a couple of extra pillows on the floor, an open door on the left, and a window on the right.
 ```
 
-<a id="category-4"></a>
+<a id="category-3"></a>
 
-### Style & Intelligence (5)
+### Style & Intelligence (9)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -478,9 +356,101 @@ A vibrant mosaic artwork depicting the planet Earth beneath a starry night sky w
 A detailed mosaic tile artwork depicting Earth from space. The lower half features the curved Earth crafted from blue, green, brown, and white tesserae. The upper half shows a deep blue cosmos filled with golden-yellow stars, a ringed planet, the moon, and a swirling spiral galaxy. Handcrafted ceramic or glass tile texture with visible grout. Vibrant, saturated colors with a glossy, reflective glaze finish.
 ```
 
-<a id="category-5"></a>
+### No. 6: Yeni Nesil Romantik RPG'nin Gerçekçi Ekran Görüntüsü
 
-### Layout & Typography (5)
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** underwood
+- **Language:** `tr`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Protagonistin bakış açısından, kurgusal bir yeni nesil 3D açık dünya romantik RPG'den gerçekçi bir ekran görüntüsü oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist's
+```
+
+### No. 7: Bir Simgenin Premium Minyatür Dioraması
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `tr`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Yumuşak pastel tonlar ve el yapımı detaylarla, ünlü bir yapının sevimli ve zarif bir 3D dioramasını oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined
+```
+
+### No. 8: İnce Yapılı Kadının Dikey Botanik Kağıt Sanatı
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Ralph Nas
+- **Language:** `tr`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Yaprak elbise ve fildişi şemsiyeli, profilden görünen ince yapılı bir kadını betimleyen dikey bir botanik kağıt sanatı.
+
+#### Prompt
+
+```text
+A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves
+```
+
+### No. 9: Beyaz ve Altın Paladin'in Foto-Gerçekçi Model Kiti
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 四季橘/Shikikitsu@AIイラストとTRPG(希望)
+- **Language:** `tr`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Bir elektronik mağazasında, çok sayıda düzenli kutu içinde sergilenen, beyaz ve altın bir paladin robotunun foto-gerçekçi model kiti görüntüsünü oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+このロボットを聖騎士にふさわしい白と金の色合いでフォトリアルにプラモデルとして描いてください。電気店の売り場にこの完成品が飾られており、近くにこのプラモデルの箱が大量に並んでいます。箱の大きさはそろえてください。
+```
+
+<a id="category-4"></a>
+
+### Layout & Typography (6)
 
 ### No. 1: Retro Minimalist Motivational Poster Grid
 
@@ -590,6 +560,31 @@ A screenshot of a dark-themed Google Slides presentation in a Mac Chrome browser
 
 ```text
 A UI screenshot of a Google Slides presentation open in a macOS Chrome browser window. The Chrome tab is labeled "Our Dynamic Sun - Google Slides". The active slide is dark-themed and titled "What Causes Solar Flares?" in large serif font with white and orange colors. On the right, a highly detailed graphic of the sun erupts with a bright orange solar flare. Beneath the header "THE SUN'S ENERGY IN ACTION", a horizontal process chart details four steps with circular minimalist icons, labeled "1. MAGNETIC FIELD TWISTING", "2. SUNSPOT ACTIVITY", "3. MAGNETIC RECONNECTION", and "4. ENERGY RELEASE" alongside brief paragraphs. The left sidebar displays six slide thumbnails. The overall design is professional, featuring deep black, orange, and white tones.
+```
+
+### No. 6: Altın ve Lacivert Art Deco Afişi
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Mr Das
+- **Language:** `tr`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Kare formatta, krem kağıt üzerinde zarif altın ve lacivert çizgi işçiliğiyle bir Art Deco poster illüstrasyonu.
+
+#### Prompt
+
+```text
+Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal
 ```
 
 <a id="featured-prompts"></a>

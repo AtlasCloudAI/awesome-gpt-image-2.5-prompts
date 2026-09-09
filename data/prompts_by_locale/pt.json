@@ -292,5 +292,235 @@
     "source_link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
     "language": "en",
     "featured": false
+  },
+  {
+    "id": 1,
+    "title": "Captura de Tela Realista de RPG de Romance de Próxima Geração",
+    "description": "Um prompt para gerar uma captura de tela realista de um fictício RPG de romance em mundo aberto 3D de próxima geração, a partir da perspectiva do protagonista.",
+    "prompt": "Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist's",
+    "original_prompt": "Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist's",
+    "translated_prompt": "",
+    "source_link": "https://x.com/underwoodxie96/status/2097587863139537262",
+    "source_published_at": "2026-09-09T07:28:12.000Z",
+    "source_platform": "x",
+    "author_name": "underwood",
+    "author_link": "https://x.com/underwoodxie96",
+    "language": "pt",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097587863139537262",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "sort_order": 14,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1_0.jpg",
+        "media/gpt-image-2-5/1_1.jpg"
+      ],
+      "video": ""
+    },
+    "category": "Style & Intelligence"
+  },
+  {
+    "id": 2,
+    "title": "Diorama em Miniatura Premium de um Marco",
+    "description": "Um prompt para gerar um diorama 3D fofo e elegante de uma estrutura famosa, com tons pastéis suaves e detalhes artesanais.",
+    "prompt": "Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined",
+    "original_prompt": "Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2097580884098764800",
+    "source_published_at": "2026-09-09T07:00:28.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "pt",
+    "likes": 21,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/2_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/2_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/2_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097580884098764800",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "sort_order": 15,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/2_0.jpg",
+        "media/gpt-image-2-5/2_1.jpg",
+        "media/gpt-image-2-5/2_2.jpg",
+        "media/gpt-image-2-5/2_3.jpg"
+      ],
+      "video": ""
+    },
+    "category": "Style & Intelligence"
+  },
+  {
+    "id": 6,
+    "title": "Arte Botânica em Papel Vertical de Mulher Esguia",
+    "description": "Uma obra de arte botânica vertical em papel, retratando uma mulher esguia de perfil com um vestido de folhas e um guarda-sol marfim.",
+    "prompt": "A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves",
+    "original_prompt": "A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves",
+    "translated_prompt": "",
+    "source_link": "https://x.com/unrealpixels/status/2097564822984626347",
+    "source_published_at": "2026-09-09T05:56:39.000Z",
+    "source_platform": "x",
+    "author_name": "Ralph Nas",
+    "author_link": "https://x.com/unrealpixels",
+    "language": "pt",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097564822984626347",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "sort_order": 16,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/6_0.jpg"
+      ],
+      "video": ""
+    },
+    "category": "Style & Intelligence"
+  },
+  {
+    "id": 10,
+    "title": "Kit de Modelo Fotorrealista de Paladino Branco e Dourado",
+    "description": "Um prompt para gerar uma imagem fotorrealista de um robô paladino branco e dourado como um kit de modelo, exibido em uma loja de eletrônicos com muitas caixas uniformes.",
+    "prompt": "このロボットを聖騎士にふさわしい白と金の色合いでフォトリアルにプラモデルとして描いてください。電気店の売り場にこの完成品が飾られており、近くにこのプラモデルの箱が大量に並んでいます。箱の大きさはそろえてください。",
+    "original_prompt": "このロボットを聖騎士にふさわしい白と金の色合いでフォトリアルにプラモデルとして描いてください。電気店の売り場にこの完成品が飾られており、近くにこのプラモデルの箱が大量に並んでいます。箱の大きさはそろえてください。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/getkomusen/status/2097554072559870011",
+    "source_published_at": "2026-09-09T05:13:56.000Z",
+    "source_platform": "x",
+    "author_name": "四季橘/Shikikitsu@AIイラストとTRPG(希望)",
+    "author_link": "https://x.com/getkomusen",
+    "language": "pt",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097554072559870011",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "sort_order": 17,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/10_0.jpg"
+      ],
+      "video": ""
+    },
+    "category": "Style & Intelligence"
+  },
+  {
+    "id": 11,
+    "title": "Pôster Art Déco em Dourado e Azul Marinho",
+    "description": "Uma ilustração de pôster Art Déco em formato quadrado, com elegantes linhas douradas e azul-marinho sobre papel creme.",
+    "prompt": "Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal",
+    "original_prompt": "Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal",
+    "translated_prompt": "",
+    "source_link": "https://x.com/MrDasOnX/status/2097550067213504848",
+    "source_published_at": "2026-09-09T04:58:01.000Z",
+    "source_platform": "x",
+    "author_name": "Mr Das",
+    "author_link": "https://x.com/MrDasOnX",
+    "language": "pt",
+    "likes": 8,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/11_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/11_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/11_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097550067213504848",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "sort_order": 18,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/11_0.jpg",
+        "media/gpt-image-2-5/11_1.jpg",
+        "media/gpt-image-2-5/11_2.jpg",
+        "media/gpt-image-2-5/11_3.jpg"
+      ],
+      "video": ""
+    },
+    "category": "Layout & Typography"
+  },
+  {
+    "id": 12,
+    "title": "Retrato de Mulher Espanhola Pequena ao Lado da Piscina",
+    "description": "Um retrato de beleza vertical polido de uma mulher espanhola pequena sentada ao lado de uma piscina interna verde-menta.",
+    "prompt": "A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80",
+    "original_prompt": "A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80",
+    "translated_prompt": "",
+    "source_link": "https://x.com/johnAGI168/status/2097548765389258913",
+    "source_published_at": "2026-09-09T04:52:50.000Z",
+    "source_platform": "x",
+    "author_name": "John",
+    "author_link": "https://x.com/johnAGI168",
+    "language": "pt",
+    "likes": 18,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/12_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097548765389258913",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "sort_order": 19,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/12_0.jpg"
+      ],
+      "video": ""
+    },
+    "category": "Reference Fidelity"
   }
 ]
