@@ -1,6 +1,6 @@
 # 🎬 GPT Image 2.5 提示詞大全
 
-> 依 OpenAI 官方公告點明的能力面撰寫的 GPT Image 2.5 提示詞——參考圖保真、精準編輯、多輪一致性、複雜版式、透明背景，每條都附實際跑出的成品圖。
+> OpenAI 官方公告裡的 GPT Image 2.5 範例輸出，每張都配上從圖裡反推出的提示詞——參考圖保真、精準編輯、風格、複雜版式與文字。圖是真 2.5 的，提示詞是還原的。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

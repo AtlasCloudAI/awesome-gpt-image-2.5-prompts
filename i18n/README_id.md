@@ -1,6 +1,6 @@
 # 🎬 Awesome GPT Image 2.5 Prompts
 
-> Prompts for GPT Image 2.5, written against the capability areas in OpenAI's own announcement — reference fidelity, precision editing, multi-turn consistency, complex typography, transparent backgrounds — each shipped with the image it actually produced.
+> OpenAI's own GPT Image 2.5 example outputs, each paired with the prompt recovered from it — reference fidelity, precision editing, style, and complex layout and typography. Reconstructed prompts, genuine 2.5 images.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

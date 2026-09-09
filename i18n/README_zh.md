@@ -1,6 +1,6 @@
 # 🎬 GPT Image 2.5 提示词大全
 
-> 按 OpenAI 官方公告点明的能力面编写的 GPT Image 2.5 提示词——参考图保真、精准编辑、多轮一致性、复杂版式、透明背景,每条都附真跑出来的成品图。
+> OpenAI 官方公告里的 GPT Image 2.5 示例输出，每张都配上从图里反推出的提示词——参考图保真、精准编辑、风格、复杂版式与文字。图是真 2.5 的，提示词是还原的。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

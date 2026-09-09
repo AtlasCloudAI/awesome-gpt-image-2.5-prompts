@@ -62,7 +62,7 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
 
 const en: Translation = {
   title: "Awesome GPT Image 2.5 Prompts",
-  subtitle: "Prompts for GPT Image 2.5, written against the capability areas in OpenAI's own announcement — reference fidelity, precision editing, multi-turn consistency, complex typography, transparent backgrounds — each shipped with the image it actually produced.",
+  subtitle: "OpenAI's own GPT Image 2.5 example outputs, each paired with the prompt recovered from it — reference fidelity, precision editing, style, and complex layout and typography. Reconstructed prompts, genuine 2.5 images.",
   copyright: "All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.",
   current: "Current",
   view: "View",
@@ -95,7 +95,7 @@ const en: Translation = {
 const zh: Translation = {
   ...en,
   title: "GPT Image 2.5 提示词大全",
-  subtitle: "按 OpenAI 官方公告点明的能力面编写的 GPT Image 2.5 提示词——参考图保真、精准编辑、多轮一致性、复杂版式、透明背景,每条都附真跑出来的成品图。",
+  subtitle: "OpenAI 官方公告里的 GPT Image 2.5 示例输出，每张都配上从图里反推出的提示词——参考图保真、精准编辑、风格、复杂版式与文字。图是真 2.5 的，提示词是还原的。",
   copyright: "所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。",
   current: "当前",
   view: "查看",
@@ -128,7 +128,7 @@ const zh: Translation = {
 const zhTW: Translation = {
   ...zh,
   title: "GPT Image 2.5 提示詞大全",
-  subtitle: "依 OpenAI 官方公告點明的能力面撰寫的 GPT Image 2.5 提示詞——參考圖保真、精準編輯、多輪一致性、複雜版式、透明背景，每條都附實際跑出的成品圖。",
+  subtitle: "OpenAI 官方公告裡的 GPT Image 2.5 範例輸出，每張都配上從圖裡反推出的提示詞——參考圖保真、精準編輯、風格、複雜版式與文字。圖是真 2.5 的，提示詞是還原的。",
   copyright: "所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。",
   current: "目前",
   view: "查看",
