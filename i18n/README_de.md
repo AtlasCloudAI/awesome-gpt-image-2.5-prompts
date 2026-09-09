@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-279%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-278%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **279** |
+| Total Prompts | **278** |
 | Categories | **4** |
-| Preview Images | **279** |
+| Preview Images | **278** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -114,7 +114,7 @@ Every record keeps its category, source, author, source link, input references a
 
 - [`Reference Fidelity`](#category-1): **41**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **189**
+- [`Style & Intelligence`](#category-3): **188**
 - [`Layout & Typography`](#category-4): **39**
 
 <a id="all-prompts"></a>
@@ -1319,7 +1319,7 @@ Ein Prompt, der ein Porträt beschreibt, das von hartem, ungefiltertem Sonnenlic
 
 <a id="category-3"></a>
 
-### Style & Intelligence (189)
+### Style & Intelligence (188)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -3989,29 +3989,7 @@ Ein realistisches Bild aus der Perspektive eines Delfins, der durch ein 360-Grad
 女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
 ```
 
-### No. 113: Lingerie-Set auf weißem Torsomannequin
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** こやす69＠AIプロンプト屋
-- **Language:** `de`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-Ein Prompt zur Erzeugung eines produktstilartigen Referenzbildes eines hellrosa Spitzen-Lingerie-Sets auf einem sauberen weißen Mannequin.
-
-#### Prompt
-
-```text
-A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
-```
-
-### No. 114: Polymerknetmasse-Miniatur einer Markenfiliale
+### No. 113: Polymerknetmasse-Miniatur einer Markenfiliale
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4036,7 +4014,7 @@ Ein Prompt zur Erstellung einer Miniatur-Knetmodell-Szene einer Markenfiliale mi
 Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
 ```
 
-### No. 115: Mode-Werbung mit geneigter Bodenaufnahme
+### No. 114: Mode-Werbung mit geneigter Bodenaufnahme
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4059,7 +4037,7 @@ Eine Modekampagne für eine fiktive Marke mit sechs Personen in lebhafter Kleidu
 这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
 ```
 
-### No. 116: Handgezeichnetes Anime-Duell mit Kirschblüten
+### No. 115: Handgezeichnetes Anime-Duell mit Kirschblüten
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4082,7 +4060,7 @@ Eine Szene aus einem späten 1990er Jahre handgezeichneten japanischen Animation
 来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
 ```
 
-### No. 117: Schwarzes Spukbraut-Gothic-Hochzeitskleid
+### No. 116: Schwarzes Spukbraut-Gothic-Hochzeitskleid
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4106,7 +4084,7 @@ Ein Prompt für ein Gothic-Halloween-Horror-Brautkostüm mit dunkler romantische
 [concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
 ```
 
-### No. 118: Düsteres cinematisches Porträt einer ostasiatischen Frau
+### No. 117: Düsteres cinematisches Porträt einer ostasiatischen Frau
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4131,7 +4109,7 @@ Ein Prompt für ein kontrastreiches, cinematisches Nahporträt einer jungen osta
 A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
 ```
 
-### No. 119: Cinematisches Nachtstraßenporträt auf nassem Zebrastreifen
+### No. 118: Cinematisches Nachtstraßenporträt auf nassem Zebrastreifen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4156,7 +4134,7 @@ Ein Prompt für ein cinematisches Porträt einer jungen ostasiatischen Frau auf 
 A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
 ```
 
-### No. 120: Nahporträt mit leuchtenden goldenen Augen
+### No. 119: Nahporträt mit leuchtenden goldenen Augen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4181,7 +4159,7 @@ Ein Prompt für ein cinematisches Nahporträt einer jungen ostasiatischen Frau m
 Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
 ```
 
-### No. 121: Fotorealistisches Porträt mit Brille und Zwinkern
+### No. 120: Fotorealistisches Porträt mit Brille und Zwinkern
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4206,7 +4184,7 @@ Ein fotorealistisches Porträt einer jungen ostasiatischen Frau mit Brille und w
 Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
 ```
 
-### No. 122: Analog-Film-Stil Porträt mit zerzaustem Haar
+### No. 121: Analog-Film-Stil Porträt mit zerzaustem Haar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4231,7 +4209,7 @@ Ein fotorealistisches Analog-Film-Stil-Porträt einer jungen ostasiatischen Frau
 A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
 ```
 
-### No. 123: Filmisches Porträt im dunklen Wasser schwebend
+### No. 122: Filmisches Porträt im dunklen Wasser schwebend
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4256,7 +4234,7 @@ Ein filmisches Porträt einer ruhigen jungen Frau, die mit nassem Haar in stills
 Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
 ```
 
-### No. 124: Studio-Schönheitsporträt mit Seitenzopf
+### No. 123: Studio-Schönheitsporträt mit Seitenzopf
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4281,7 +4259,7 @@ Ein fotorealistisches Studio-Schönheitsporträt einer jungen ostasiatischen Fra
 A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
 ```
 
-### No. 125: Porträt einer Frau mit Hijab im Auto
+### No. 124: Porträt einer Frau mit Hijab im Auto
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4306,7 +4284,7 @@ Ein fotorealistisches Nahaufnahme-Porträt einer jungen ostasiatischen Frau in e
 Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
 ```
 
-### No. 126: Frau macht ein Selfie mit Hijab
+### No. 125: Frau macht ein Selfie mit Hijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4331,7 +4309,7 @@ Eine Prompt zur Erzeugung eines Bildes einer jungen Frau in einem hellen Hijab, 
 A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
 ```
 
-### No. 127: Porträt einer Frau, die über die Schulter blickt
+### No. 126: Porträt einer Frau, die über die Schulter blickt
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4356,7 +4334,7 @@ Eine detaillierte Prompt zur Erzeugung eines fotorealistischen Porträts einer j
 A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
 ```
 
-### No. 128: Porträt einer Frau mit Brille
+### No. 127: Porträt einer Frau mit Brille
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4381,7 +4359,7 @@ Ein Porträt einer jungen ostasiatischen Frau mit Brille, welligem Haar und eine
 Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
 ```
 
-### No. 129: Nahaufnahme-Porträt mit lebhaftem Lippenstift
+### No. 128: Nahaufnahme-Porträt mit lebhaftem Lippenstift
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4406,7 +4384,7 @@ Ein fotorealistisches Porträt einer jungen ostasiatischen Frau mit porzellanart
 Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
 ```
 
-### No. 130: Porträt mit nassem Haar und entblößter Schulter
+### No. 129: Porträt mit nassem Haar und entblößter Schulter
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4431,7 +4409,7 @@ Ein fotorealistisches Porträt einer jungen Frau mit feuchter Haut und nassem sc
 photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
 ```
 
-### No. 131: Filmisches Porträt einer ostasiatischen Frau
+### No. 130: Filmisches Porträt einer ostasiatischen Frau
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4456,7 +4434,7 @@ Ein Nahaufnahme-Porträt einer jungen ostasiatischen Frau mit langem dunklem wel
 A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
 ```
 
-### No. 132: Fotorealistisches Porträt mit Brille
+### No. 131: Fotorealistisches Porträt mit Brille
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4481,7 +4459,7 @@ Ein fotorealistisches Porträt einer jungen ostasiatischen Frau mit langem welli
 A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
 ```
 
-### No. 133: Filmisches Porträt mit Honig-Highlights
+### No. 132: Filmisches Porträt mit Honig-Highlights
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4506,7 +4484,7 @@ Eine Prompt für ein filmisches Nahaufnahme-Porträt einer jungen ostasiatischen
 Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
 ```
 
-### No. 134: Fotorealistisches Porträt mit Bob-Frisur
+### No. 133: Fotorealistisches Porträt mit Bob-Frisur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4531,7 +4509,7 @@ Ein fotorealistisches Nahaufnahme-Porträt einer jungen ostasiatischen Frau mit 
 Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
 ```
 
-### No. 135: Porträt einer Frau mit Hijab und Kappe
+### No. 134: Porträt einer Frau mit Hijab und Kappe
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4556,7 +4534,7 @@ Eine Nahaufnahme-Porträt einer jungen Frau mit heller Haut und einem ruhigen Ge
 A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
 ```
 
-### No. 136: Selfie-Porträt mit Chiffon-Hijab
+### No. 135: Selfie-Porträt mit Chiffon-Hijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4581,7 +4559,7 @@ Eine Nahaufnahme-Selfie-Porträt einer jungen ostasiatischen Frau mit heller Hau
 Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
 ```
 
-### No. 137: Filmisches Porträt einer weinenden ostasiatischen Frau
+### No. 136: Filmisches Porträt einer weinenden ostasiatischen Frau
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4606,7 +4584,7 @@ Ein fotorealistisches Nahaufnahme-Porträt einer jungen Frau mit glänzender, vo
 A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
 ```
 
-### No. 138: Porträt einer Frau mit juwelenbesetztem Spitzen-Augenklappe
+### No. 137: Porträt einer Frau mit juwelenbesetztem Spitzen-Augenklappe
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4631,7 +4609,7 @@ Eine Nahaufnahme-Porträt einer jungen Frau mit blasser Haut und schwarzem Bob, 
 A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
 ```
 
-### No. 139: Intensives filmisches Porträt mit zerzaustem Haar
+### No. 138: Intensives filmisches Porträt mit zerzaustem Haar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4656,7 +4634,7 @@ Eine Nahaufnahme-filmisches Porträt einer jungen Frau mit langen schwarzen Haar
 Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
 ```
 
-### No. 140: Nahaufnahme-Porträt mit glänzendem dunklem Haar
+### No. 139: Nahaufnahme-Porträt mit glänzendem dunklem Haar
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4681,7 +4659,7 @@ Eine detaillierte Vorlage zur Erstellung eines Porträts einer jungen Frau mit h
 A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
 ```
 
-### No. 141: Lächelndes sonnenverwöhntes Porträt mit Schweißglanz
+### No. 140: Lächelndes sonnenverwöhntes Porträt mit Schweißglanz
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4706,7 +4684,7 @@ Eine Nahaufnahme-Porträt einer jungen ostasiatischen Frau mit zerzaustem schwar
 Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
 ```
 
-### No. 142: Ausdrucksstarkes Porträt mit Flügel-Eyeliner
+### No. 141: Ausdrucksstarkes Porträt mit Flügel-Eyeliner
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4731,7 +4709,7 @@ Eine detaillierte Vorlage zur Erstellung eines Nahaufnahme-Porträts einer junge
 A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
 ```
 
-### No. 143: Selfie-Porträt mit Kuss-Gesichtsausdruck
+### No. 142: Selfie-Porträt mit Kuss-Gesichtsausdruck
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4754,7 +4732,7 @@ Eine Vorlage für ein Nahaufnahme-Selfie-Porträt einer jungen ostasiatischen Fr
 Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
 ```
 
-### No. 144: Porträt einer lächelnden jungen Frau
+### No. 143: Porträt einer lächelnden jungen Frau
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4779,7 +4757,7 @@ Eine Vorlage zur Erstellung eines Porträts einer jungen ostasiatischen oder ind
 A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
 ```
 
-### No. 145: Selfie einer Frau mit halboffener Frisur
+### No. 144: Selfie einer Frau mit halboffener Frisur
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4805,7 +4783,7 @@ ar 9:16 2K
 A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
 ```
 
-### No. 146: Erde wird von Schwarzem Loch verschlungen - Phasen
+### No. 145: Erde wird von Schwarzem Loch verschlungen - Phasen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4827,7 +4805,7 @@ Eine Vorlage zur Erstellung von vier Bildern, die die visuellen Phasen darstelle
 generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
 ```
 
-### No. 147: Cyberpunk-Krieger gegen mechanischen Boss-Charakter
+### No. 146: Cyberpunk-Krieger gegen mechanischen Boss-Charakter
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4852,7 +4830,7 @@ Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybe
 Character 2 (Boss Entity): Massive, heavy-armored mechanical
 ```
 
-### No. 148: Himmlische Göttin, die vor einem Palast herabsteigt
+### No. 147: Himmlische Göttin, die vor einem Palast herabsteigt
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4874,7 +4852,7 @@ Ein Bild einer majestätischen chinesischen himmlischen Göttin in zeremoniellem
 A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
 ```
 
-### No. 149: Himmlische Jungfrau in sonnenbeschienener Dreiviertelansicht
+### No. 148: Himmlische Jungfrau in sonnenbeschienener Dreiviertelansicht
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4897,7 +4875,7 @@ Ein Bild einer himmlischen Jungfrau in elfenbeinfarbenem Hanfu, von Morgenlicht 
 A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
 ```
 
-### No. 150: Himmlische Jungfrau, sitzend an einem Jadeteich
+### No. 149: Himmlische Jungfrau, sitzend an einem Jadeteich
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4919,7 +4897,7 @@ Ein Bild einer friedlichen chinesischen himmlischen Jungfrau in Seiden-Hanfu, di
 A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
 ```
 
-### No. 151: Himmlische Göttin auf Jadepalast-Stufen
+### No. 150: Himmlische Göttin auf Jadepalast-Stufen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4941,7 +4919,7 @@ Ein Bild einer eleganten chinesischen himmlischen Göttin auf weißen Jadestufen
 An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
 ```
 
-### No. 152: Porträt in einem antiken chinesischen Ritualschrein
+### No. 151: Porträt in einem antiken chinesischen Ritualschrein
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4966,7 +4944,7 @@ Ein fotorealistisches, filmisches Porträt einer erwachsenen ostasiatischen Frau
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
 ```
 
-### No. 153: Porträt einer Frau in einem dunklen Ritualschrein
+### No. 152: Porträt einer Frau in einem dunklen Ritualschrein
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4991,7 +4969,7 @@ Ein fotorealistisches, filmisches Porträt einer ostasiatischen Frau mit nassem 
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
 ```
 
-### No. 154: Nahaufnahme-Porträt bei einem nächtlichen Nuo-Fest
+### No. 153: Nahaufnahme-Porträt bei einem nächtlichen Nuo-Fest
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5016,7 +4994,7 @@ Eine Nahaufnahme-Porträt einer erwachsenen ostasiatischen Frau neben einer verw
 Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
 ```
 
-### No. 155: Bier mit dichter Schaumkrone
+### No. 154: Bier mit dichter Schaumkrone
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5039,7 +5017,7 @@ a dense foam crown spilling in two uneven, heavy cascades while the glass rim st
 The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
 ```
 
-### No. 156: Tofuwürfel, der aus einem Eintopf gehoben wird
+### No. 155: Tofuwürfel, der aus einem Eintopf gehoben wird
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5061,7 +5039,7 @@ Ein beschreibender Prompt für ein Bild eines porösen Tofuwürfels, der über e
 Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
 ```
 
-### No. 157: Löffel Chili-Relish
+### No. 156: Löffel Chili-Relish
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5083,7 +5061,7 @@ Ein Bild eines Löffels Chili-Relish mit deutlichen roten Chili-Würfeln, tee-du
 a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
 ```
 
-### No. 158: Nahporträt einer Frau im Wohnzimmer
+### No. 157: Nahporträt einer Frau im Wohnzimmer
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5105,7 +5083,7 @@ Ein ultrarealistisches Nahporträt einer jungen Frau mit einem verspielten Ausdr
 Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
 ```
 
-### No. 159: Porträt einer ruhenden Frau im dunklen Schlafzimmer
+### No. 158: Porträt einer ruhenden Frau im dunklen Schlafzimmer
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5128,7 +5106,7 @@ Ein Prompt für ein fotorealistisches, vertikales Porträt einer jungen Frau, di
 A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
 ```
 
-### No. 160: Träumerisches Porträt einer Frau im Sommergras
+### No. 159: Träumerisches Porträt einer Frau im Sommergras
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5151,7 +5129,7 @@ Ein filmisch inspiriertes Bild einer jungen ostasiatischen Frau, die in hohem Gr
 Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
 ```
 
-### No. 161: Porträt einer Frau am hellblauen Hafen
+### No. 160: Porträt einer Frau am hellblauen Hafen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5174,7 +5152,7 @@ Ein Porträt im Filmkorn-Stil einer jungen ostasiatischen Frau, die lässig an e
 A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
 ```
 
-### No. 162: Straßenporträt einer jungen Frau in Paris
+### No. 161: Straßenporträt einer jungen Frau in Paris
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5196,7 +5174,7 @@ Ein Prompt für ein hochauflösendes, natürliches Straßenporträt einer jungen
 High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
 ```
 
-### No. 163: Ungezwungenes U-Bahn-Porträt bei Nacht
+### No. 162: Ungezwungenes U-Bahn-Porträt bei Nacht
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5221,7 +5199,7 @@ Ein fotorealistisches, ungezwungenes Porträt einer erwachsenen ostasiatischen F
 9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
 ```
 
-### No. 164: Uhr mit Eis- und Rauch-Schockwelle
+### No. 163: Uhr mit Eis- und Rauch-Schockwelle
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5243,7 +5221,7 @@ Ein Bild einer Uhr mit einer kreisförmigen Eis- und Rauch-Schockwelle dahinter,
 a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
 ```
 
-### No. 165: Geschichtete Bäckerei-Auslage mit Tiefe
+### No. 164: Geschichtete Bäckerei-Auslage mit Tiefe
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5265,7 +5243,7 @@ Ein Prompt für die Erzeugung eines Bildes einer hochwertigen Bäckereiauslage, 
 a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
 ```
 
-### No. 166: Sanft beleuchtetes Schlafzimmerporträt im Slipkleid
+### No. 165: Sanft beleuchtetes Schlafzimmerporträt im Slipkleid
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5289,7 +5267,7 @@ Ein fotorealistisches Porträt einer erwachsenen ostasiatischen Frau in einem el
 9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
 ```
 
-### No. 167: Auto mit kontrastierender Staubexplosionswolke
+### No. 166: Auto mit kontrastierender Staubexplosionswolke
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5311,7 +5289,7 @@ Ein Bild eines kraftvollen Autos, das eine massive Staubwolke hinter sich erzeug
 massive dust plume exploding behind the vehicle while the car stays clean and silent in front
 ```
 
-### No. 168: Hexen-Silhouette, von himmlischem Feuer hinterleuchtet
+### No. 167: Hexen-Silhouette, von himmlischem Feuer hinterleuchtet
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5333,7 +5311,7 @@ Ein Bild einer Hexen-Silhouette, die von einer massiven orange-goldenen himmlisc
 one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
 ```
 
-### No. 169: Tomaten-Sauce-Herz, das aus einer Koshari-Schüssel aufsteigt
+### No. 168: Tomaten-Sauce-Herz, das aus einer Koshari-Schüssel aufsteigt
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5355,7 +5333,7 @@ Ein Bild von glänzender Tomatensauce, die über einer Schüssel Koshari eine He
 thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
 ```
 
-### No. 170: Schachfiguren, aus Nudelsträngen geformt
+### No. 169: Schachfiguren, aus Nudelsträngen geformt
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5377,7 +5355,7 @@ Eine Aufforderung, Schachfiguren zu generieren, die aus handgefertigten Nudelstr
 chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
 ```
 
-### No. 171: Sesamöl-Flasche mit Boxerarmen im Ring
+### No. 170: Sesamöl-Flasche mit Boxerarmen im Ring
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5399,7 +5377,7 @@ Ein Bild einer überdimensionalen Sesamöl-Flasche mit goldenen Boxerarmen, die 
 oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
 ```
 
-### No. 172: Szene an der Theke einer kompakten modernen Apartmentküche
+### No. 171: Szene an der Theke einer kompakten modernen Apartmentküche
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5424,7 +5402,7 @@ Eine Aufforderung, ein Bild einer kompakten modernen Apartmentküche mit einer F
 Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
 ```
 
-### No. 173: Schawarma-Wrap, wie eine Rakete nach oben gerichtet
+### No. 172: Schawarma-Wrap, wie eine Rakete nach oben gerichtet
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5446,7 +5424,7 @@ Eine Aufforderung, ein Bild eines Schawarma-Wraps zu generieren, der wie eine Ra
 shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
 ```
 
-### No. 174: Bananen-Maskottchen hält überdimensionale Dose
+### No. 173: Bananen-Maskottchen hält überdimensionale Dose
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5468,7 +5446,7 @@ Ein Bild eines laufenden Bananen-Maskottchens, das eine überdimensionale kalte 
 oversized cold aluminum can held forward toward camera by the running banana mascot
 ```
 
-### No. 175: Ostasiatische Frau, ungestelltes Nachtfoto
+### No. 174: Ostasiatische Frau, ungestelltes Nachtfoto
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5493,7 +5471,7 @@ Eine Aufforderung, ein realistisches, ungestelltes Foto einer ostasiatischen Fra
 9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
 ```
 
-### No. 176: Kekscreme als Miniatur-Eisfläche
+### No. 175: Kekscreme als Miniatur-Eisfläche
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5515,7 +5493,7 @@ Ein Bild eines Kekses, bei dem die Vanillecremeschicht sich zu einer glatten Min
 vanilla creme layer rising above the cookie as a smooth miniature skating surface
 ```
 
-### No. 177: Achterbahnschiene aus gestapelten Chips
+### No. 176: Achterbahnschiene aus gestapelten Chips
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5537,7 +5515,7 @@ Ein Bild einer Achterbahnschiene, die aus perfekt ausgerichteten, gestapelten Ch
 roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
 ```
 
-### No. 178: Rote Spotlight-Zonen hinter einem Haupt-Eimer
+### No. 177: Rote Spotlight-Zonen hinter einem Haupt-Eimer
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5559,7 +5537,7 @@ Eine Bildbeschreibung mit drei sauberen roten Spotlight-Zonen mit sekundären Li
 three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
 ```
 
-### No. 179: Glänzender Nudelstrom als vertikale Bewegungslinie
+### No. 178: Glänzender Nudelstrom als vertikale Bewegungslinie
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5581,7 +5559,7 @@ Ein minimalistisches Poster-Konzept mit einem einzelnen glänzenden Nudelstrom a
 single glossy noodle stream forming the main vertical motion line from bowl to mouth
 ```
 
-### No. 180: Cinematische 2,5D-Gouache-Animation
+### No. 179: Cinematische 2,5D-Gouache-Animation
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5604,7 +5582,7 @@ Eine Aufforderung, eine cinematische 2,5D-Animation mit einem malerischen Gouach
 Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
 ```
 
-### No. 181: Stimmungsvolles Cinematic-Porträt im Dunkeln
+### No. 180: Stimmungsvolles Cinematic-Porträt im Dunkeln
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5626,7 +5604,7 @@ Ein cinematografisches Porträt eines Mannes mit zerzausten Haaren, der aus den 
 A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
 ```
 
-### No. 182: Riesenmann neben der Freiheitsstatue
+### No. 181: Riesenmann neben der Freiheitsstatue
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5648,7 +5626,7 @@ Ein ultrarealistisches, cinematografisches Reisefoto eines gutaussehenden jungen
 Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
 ```
 
-### No. 183: Porträt zur Goldenen Stunde auf rustikaler Veranda
+### No. 182: Porträt zur Goldenen Stunde auf rustikaler Veranda
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5670,7 +5648,7 @@ Ein warmes, ungekünsteltes Lifestyle-Porträt eines jungen Mannes, der zur Gold
 Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
 ```
 
-### No. 184: Cinematografisches Porträt auf einer Wiese
+### No. 183: Cinematografisches Porträt auf einer Wiese
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5692,7 +5670,7 @@ Ein ultrarealistisches Porträt einer Frau mit Cowboyhut, die auf einer grünen 
 Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
 ```
 
-### No. 185: Vertikales ungekünsteltes Porträt einer Frau
+### No. 184: Vertikales ungekünsteltes Porträt einer Frau
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5717,7 +5695,7 @@ Ein Prompt zur Erzeugung eines vertikalen, ungekünstelten Fotos einer jungen os
 Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
 ```
 
-### No. 186: Diagonaler Riegel mit aufgerissenem Geschmacksbereich
+### No. 185: Diagonaler Riegel mit aufgerissenem Geschmacksbereich
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5739,7 +5717,7 @@ Ein Prompt zur Erzeugung eines Bildes eines diagonal verpackten Dessertriegels m
 The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
 ```
 
-### No. 187: Frauenporträt in ovalem Spiegel
+### No. 186: Frauenporträt in ovalem Spiegel
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5761,7 +5739,7 @@ Ein Schönheitsporträt einer Frau, die sich in einem vertikalen, ovalen Spiegel
 reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
 ```
 
-### No. 188: Bierglas-Vortex in der Wüste
+### No. 187: Bierglas-Vortex in der Wüste
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5783,7 +5761,7 @@ Ein surrealistisches Bild eines aufragenden Bierglases, das aus der Wüste als s
 towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
 ```
 
-### No. 189: Bierflasche im Vordergrund
+### No. 188: Bierflasche im Vordergrund
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`

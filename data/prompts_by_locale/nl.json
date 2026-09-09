@@ -6500,42 +6500,6 @@
     }
   },
   {
-    "id": 427,
-    "title": "Lingerieset op Witte Torso Paspop",
-    "description": "Een prompt voor het genereren van een productstijl referentiebeeld van een lichtroze kantjes lingerieset op een schone witte paspop.",
-    "prompt": "A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine",
-    "original_prompt": "A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine",
-    "translated_prompt": "",
-    "source_link": "https://x.com/AI_money_club/status/2096365258965201342",
-    "source_published_at": "2026-09-05T22:30:00.000Z",
-    "source_platform": "x",
-    "author_name": "こやす69＠AIプロンプト屋",
-    "author_link": "https://x.com/AI_money_club",
-    "language": "nl",
-    "likes": 302,
-    "results_count": 0,
-    "need_reference_images": false,
-    "prompt_categories": [
-      "Style & Intelligence"
-    ],
-    "remote_images": [
-      "https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg"
-    ],
-    "x_meta": {
-      "tweet_id": "2096365258965201342",
-      "confidence": "low",
-      "prompt_kind": "raw"
-    },
-    "category": "Style & Intelligence",
-    "sort_order": 217,
-    "local_media": {
-      "images": [
-        "media/gpt-image-2-5/427_0.jpg"
-      ],
-      "video": ""
-    }
-  },
-  {
     "id": 429,
     "title": "Heroïsche Gigantische Robot vanuit Fotorealistische Hoek",
     "description": "Een prompt om een afbeelding te creëren die een heroïsche gigantische robot toont vanuit een dynamische, fotorealistische hoek.",

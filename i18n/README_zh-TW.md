@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-279%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-278%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts&locale=zh-TW) | [提交提示詞](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **279** |
+| 提示詞總數 | **278** |
 | 分類數 | **4** |
-| 預覽圖數 | **279** |
+| 預覽圖數 | **278** |
 | 最後更新 | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -114,7 +114,7 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 - [`參考圖保真`](#category-1): **41**
 - [`精準編輯`](#category-2): **10**
-- [`風格與理解力`](#category-3): **189**
+- [`風格與理解力`](#category-3): **188**
 - [`複雜版式與文字`](#category-4): **39**
 
 <a id="all-prompts"></a>
@@ -1319,7 +1319,7 @@ Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [P
 
 <a id="category-3"></a>
 
-### 風格與理解力 (189)
+### 風格與理解力 (188)
 
 ### No. 1: 夜間賽博龐克大都會
 
@@ -3989,29 +3989,7 @@ Photorealistic natural photo of a completely fictional 20-year-old adult Japanes
 女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
 ```
 
-### No. 113: 白色軀幹人台上的內衣套裝
-
-- **分類:** `風格與理解力`
-- **來源:** `x`
-- **作者:** こやす69＠AIプロンプト屋
-- **語言:** `zh-TW`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-一個用於生成產品風格參考圖像的提示，內容為展示在潔白無瑕人台上的淡粉色蕾絲內衣套裝。
-
-#### 提示詞
-
-```text
-A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
-```
-
-### No. 114: 品牌商店場景的聚合物黏土微縮模型
+### No. 113: 品牌商店場景的聚合物黏土微縮模型
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4036,7 +4014,7 @@ A detailed lingerie outfit asset displayed on a clean white female torso mannequ
 Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
 ```
 
-### No. 115: 傾斜地面拍攝的時尚廣告
+### No. 114: 傾斜地面拍攝的時尚廣告
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4059,7 +4037,7 @@ Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + 
 这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
 ```
 
-### No. 116: 手繪動漫櫻花下的決鬥
+### No. 115: 手繪動漫櫻花下的決鬥
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4082,7 +4060,7 @@ Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + 
 来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
 ```
 
-### No. 117: 黑色幽靈新娘哥德式婚紗
+### No. 116: 黑色幽靈新娘哥德式婚紗
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4106,7 +4084,7 @@ Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + 
 [concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
 ```
 
-### No. 118: 東亞女性的陰鬱電影感肖像
+### No. 117: 東亞女性的陰鬱電影感肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4131,7 +4109,7 @@ Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + 
 A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
 ```
 
-### No. 119: 濕潤斑馬線上的電影感夜間街頭肖像
+### No. 118: 濕潤斑馬線上的電影感夜間街頭肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4156,7 +4134,7 @@ A moody, high-contrast cinematic close-up portrait of a beautiful East Asian wom
 A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
 ```
 
-### No. 120: 特寫肖像與閃耀金色眼眸
+### No. 119: 特寫肖像與閃耀金色眼眸
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4181,7 +4159,7 @@ A cinematic night street portrait of a young East Asian woman standing on a wet 
 Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
 ```
 
-### No. 121: 戴眼鏡眨眼的寫實肖像
+### No. 120: 戴眼鏡眨眼的寫實肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4206,7 +4184,7 @@ Cinematic close-up portrait of a pale-skinned young East Asian woman with straig
 Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
 ```
 
-### No. 122: 模擬底片風格的凌亂髮絲肖像
+### No. 121: 模擬底片風格的凌亂髮絲肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4231,7 +4209,7 @@ Photorealistic close-up portrait of a young East Asian woman in her early 20s, l
 A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
 ```
 
-### No. 123: 漂浮於暗水中的電影感肖像
+### No. 122: 漂浮於暗水中的電影感肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4256,7 +4234,7 @@ A photorealistic analog-film style portrait of a young East Asian woman with pal
 Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
 ```
 
-### No. 124: 側編辮的攝影棚美顏肖像
+### No. 123: 側編辮的攝影棚美顏肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4281,7 +4259,7 @@ Cinematic close-up portrait of a young East Asian woman floating on her back in 
 A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
 ```
 
-### No. 125: 戴頭巾的女子於車內肖像
+### No. 124: 戴頭巾的女子於車內肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4306,7 +4284,7 @@ A photorealistic studio beauty portrait of a young East Asian woman with fair, l
 Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
 ```
 
-### No. 126: 戴頭巾女子自拍
+### No. 125: 戴頭巾女子自拍
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4331,7 +4309,7 @@ Photorealistic close-up portrait of a young East Asian woman sitting in the back
 A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
 ```
 
-### No. 127: 女子回眸肖像
+### No. 126: 女子回眸肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4356,7 +4334,7 @@ A young woman sitting at a wooden table, taking a slightly angled selfie. She we
 A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
 ```
 
-### No. 128: 戴眼鏡的女子肖像
+### No. 127: 戴眼鏡的女子肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4381,7 +4359,7 @@ A photorealistic portrait of a young East Asian woman looking back over her left
 Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
 ```
 
-### No. 129: 鮮豔唇色的特寫肖像
+### No. 128: 鮮豔唇色的特寫肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4406,7 +4384,7 @@ Portrait of a young East Asian woman with long, slightly wavy dark brown hair an
 Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
 ```
 
-### No. 130: 濕髮與裸露肩膀的肖像
+### No. 129: 濕髮與裸露肩膀的肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4431,7 +4409,7 @@ Photorealistic close-up portrait of a young East Asian woman with porcelain-pale
 photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
 ```
 
-### No. 131: 東亞女性電影感肖像
+### No. 130: 東亞女性電影感肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4456,7 +4434,7 @@ photorealistic close-up portrait of a young East Asian woman with pale dewy skin
 A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
 ```
 
-### No. 132: 戴眼鏡的寫實肖像
+### No. 131: 戴眼鏡的寫實肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4481,7 +4459,7 @@ A cinematic close-up portrait of a young East Asian woman against a solid black 
 A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
 ```
 
-### No. 133: 帶有蜂蜜色挑染的電影感肖像
+### No. 132: 帶有蜂蜜色挑染的電影感肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4506,7 +4484,7 @@ A photorealistic portrait of a young East Asian woman with long wavy dark brown 
 Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
 ```
 
-### No. 134: 鮑伯短髮的寫實肖像
+### No. 133: 鮑伯短髮的寫實肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4531,7 +4509,7 @@ Cinematic close-up portrait of a young East Asian woman with shoulder-length wav
 Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
 ```
 
-### No. 135: 戴頭巾與棒球帽的女性肖像
+### No. 134: 戴頭巾與棒球帽的女性肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4556,7 +4534,7 @@ Photorealistic close-up portrait of a young East Asian woman with a short black 
 A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
 ```
 
-### No. 136: 雪紡頭巾自拍肖像
+### No. 135: 雪紡頭巾自拍肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4581,7 +4559,7 @@ A close-up portrait of a young woman with fair, smooth skin and a calm, slightly
 Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
 ```
 
-### No. 137: 流淚東亞女性的電影感肖像
+### No. 136: 流淚東亞女性的電影感肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4606,7 +4584,7 @@ Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / mut
 A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
 ```
 
-### No. 138: 戴鑲珠蕾絲眼罩的女性肖像
+### No. 137: 戴鑲珠蕾絲眼罩的女性肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4631,7 +4609,7 @@ A photorealistic close-up cinematic portrait of a beautiful young East Asian wom
 A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
 ```
 
-### No. 139: 凌亂髮型的強烈電影感肖像
+### No. 138: 凌亂髮型的強烈電影感肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4656,7 +4634,7 @@ A close-up portrait of a pale-skinned young woman with a sleek black bob haircut
 Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
 ```
 
-### No. 140: 深色光澤髮絲特寫肖像
+### No. 139: 深色光澤髮絲特寫肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4681,7 +4659,7 @@ Close-up cinematic portrait of a young East Asian woman with long, slightly mess
 A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
 ```
 
-### No. 141: 陽光親吻般的微笑肖像，帶汗濕光澤
+### No. 140: 陽光親吻般的微笑肖像，帶汗濕光澤
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4706,7 +4684,7 @@ A close-up portrait of a young East Asian woman with fair, smooth skin and a sof
 Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
 ```
 
-### No. 142: 帶翅膀眼線的富表現力肖像
+### No. 141: 帶翅膀眼線的富表現力肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4731,7 +4709,7 @@ Close-up portrait of a young East Asian woman with short messy black hair and wi
 A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
 ```
 
-### No. 143: 親吻表情的自拍肖像
+### No. 142: 親吻表情的自拍肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4754,7 +4732,7 @@ A close-up portrait of a young Southeast Asian woman with fair, smooth skin and 
 Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
 ```
 
-### No. 144: 微笑年輕女性肖像
+### No. 143: 微笑年輕女性肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4779,7 +4757,7 @@ Close-up selfie portrait of a young East Asian woman, fair skin, long straight d
 A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
 ```
 
-### No. 145: 半紮髮女性的自拍
+### No. 144: 半紮髮女性的自拍
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4805,7 +4783,7 @@ ar 9:16 2K
 A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
 ```
 
-### No. 146: 地球被黑洞吞噬階段圖
+### No. 145: 地球被黑洞吞噬階段圖
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4827,7 +4805,7 @@ A photorealistic selfie of a young East Asian woman with fair porcelain skin, la
 generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
 ```
 
-### No. 147: 賽博龐克武士對決機械首領角色
+### No. 146: 賽博龐克武士對決機械首領角色
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4852,7 +4830,7 @@ Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybe
 Character 2 (Boss Entity): Massive, heavy-armored mechanical
 ```
 
-### No. 148: 天界女神降臨宮殿前
+### No. 147: 天界女神降臨宮殿前
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4874,7 +4852,7 @@ Character 2 (Boss Entity): Massive, heavy-armored mechanical
 A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
 ```
 
-### No. 149: 晨光中的天界少女（四分之三側面視角）
+### No. 148: 晨光中的天界少女（四分之三側面視角）
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4897,7 +4875,7 @@ A majestic Chinese celestial goddess descending slowly through rose-gold clouds 
 A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
 ```
 
-### No. 150: 天界少女靜坐碧玉池畔
+### No. 149: 天界少女靜坐碧玉池畔
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4919,7 +4897,7 @@ A Chinese celestial maiden standing in three-quarter view, weight shifted to one
 A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
 ```
 
-### No. 151: 立於白玉階梯上的天界女神
+### No. 150: 立於白玉階梯上的天界女神
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4941,7 +4919,7 @@ A serene Chinese celestial maiden seated beside the turquoise waters of the heav
 An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
 ```
 
-### No. 152: 古中國祭祀神龕中的肖像
+### No. 151: 古中國祭祀神龕中的肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4966,7 +4944,7 @@ An elegant Chinese celestial goddess standing atop the white jade steps of Lingx
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
 ```
 
-### No. 153: 暗黑祭祀神龕中的女子肖像
+### No. 152: 暗黑祭祀神龕中的女子肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -4991,7 +4969,7 @@ An elegant Chinese celestial goddess standing atop the white jade steps of Lingx
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
 ```
 
-### No. 154: 夜間儺祭節慶中的特寫肖像
+### No. 153: 夜間儺祭節慶中的特寫肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5016,7 +4994,7 @@ An elegant Chinese celestial goddess standing atop the white jade steps of Lingx
 Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
 ```
 
-### No. 155: 帶有濃密泡沫冠的啤酒
+### No. 154: 帶有濃密泡沫冠的啤酒
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5039,7 +5017,7 @@ a dense foam crown spilling in two uneven, heavy cascades while the glass rim st
 The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
 ```
 
-### No. 156: 從燉鍋中提起的豆腐塊
+### No. 155: 從燉鍋中提起的豆腐塊
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5061,7 +5039,7 @@ The foam feels pressurized and creamy, but the silhouette still reads as a clean
 Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
 ```
 
-### No. 157: 一勺辣椒醬
+### No. 156: 一勺辣椒醬
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5083,7 +5061,7 @@ Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu 
 a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
 ```
 
-### No. 158: 客廳中女性特寫肖像
+### No. 157: 客廳中女性特寫肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5105,7 +5083,7 @@ a loaded spoon with visibly separate red chili cubes, tea-darkened greens, brigh
 Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
 ```
 
-### No. 159: 昏暗臥室中斜倚的女性肖像
+### No. 158: 昏暗臥室中斜倚的女性肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5128,7 +5106,7 @@ Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casu
 A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
 ```
 
-### No. 160: 夏日草叢中的夢幻女性肖像
+### No. 159: 夏日草叢中的夢幻女性肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5151,7 +5129,7 @@ A highly photorealistic vertical 3:4 indoor portrait of a young adult woman recl
 Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
 ```
 
-### No. 161: 明亮藍色港口旁的女性肖像
+### No. 160: 明亮藍色港口旁的女性肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5174,7 +5152,7 @@ Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting 
 A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
 ```
 
-### No. 162: 巴黎街頭的年輕女性肖像
+### No. 161: 巴黎街頭的年輕女性肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5196,7 +5174,7 @@ A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman cro
 High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
 ```
 
-### No. 163: 夜間地鐵上的自然肖像
+### No. 162: 夜間地鐵上的自然肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5221,7 +5199,7 @@ High-resolution, natural-light street portrait of a young Asian-looking woman on
 9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
 ```
 
-### No. 164: 帶有冰霧衝擊波的手錶
+### No. 163: 帶有冰霧衝擊波的手錶
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5243,7 +5221,7 @@ High-resolution, natural-light street portrait of a young Asian-looking woman on
 a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
 ```
 
-### No. 165: 具有景深感的層疊烘焙點心陳列
+### No. 164: 具有景深感的層疊烘焙點心陳列
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5265,7 +5243,7 @@ a circular ice-and-smoke shockwave originating behind the watch, with a clean un
 a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
 ```
 
-### No. 166: 柔和光線臥室中的絲質吊帶裙肖像
+### No. 165: 柔和光線臥室中的絲質吊帶裙肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5289,7 +5267,7 @@ a layered bakery spread with one oversized sliced loaf and one celebration cake 
 9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
 ```
 
-### No. 167: 揚塵對比的爆炸性汽車
+### No. 166: 揚塵對比的爆炸性汽車
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5311,7 +5289,7 @@ a layered bakery spread with one oversized sliced loaf and one celebration cake 
 massive dust plume exploding behind the vehicle while the car stays clean and silent in front
 ```
 
-### No. 168: 天體火焰背光的女巫剪影
+### No. 167: 天體火焰背光的女巫剪影
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5333,7 +5311,7 @@ massive dust plume exploding behind the vehicle while the car stays clean and si
 one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
 ```
 
-### No. 169: 從庫沙里碗中升起的番茄醬心形
+### No. 168: 從庫沙里碗中升起的番茄醬心形
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5355,7 +5333,7 @@ one immense orange-gold celestial fire cloud backlighting a calm central witch s
 thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
 ```
 
-### No. 170: 麵條雕塑而成的西洋棋棋子
+### No. 169: 麵條雕塑而成的西洋棋棋子
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5377,7 +5355,7 @@ thick glossy tomato sauce rising from the koshari bowl and resolving into a susp
 chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
 ```
 
-### No. 171: 拳擊場上帶有拳擊手手臂的芝麻油瓶
+### No. 170: 拳擊場上帶有拳擊手手臂的芝麻油瓶
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5399,7 +5377,7 @@ chess pieces sculpted entirely from handcrafted noodle strands with recognizable
 oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
 ```
 
-### No. 172: 緊湊現代公寓廚房檯面場景
+### No. 171: 緊湊現代公寓廚房檯面場景
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5424,7 +5402,7 @@ oversized sesame oil bottle standing upright in the ring with raised sculpted go
 Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
 ```
 
-### No. 173: 像火箭般向上傾斜的沙威瑪捲餅
+### No. 172: 像火箭般向上傾斜的沙威瑪捲餅
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5446,7 +5424,7 @@ Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The
 shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
 ```
 
-### No. 174: 手持超大罐的香蕉吉祥物
+### No. 173: 手持超大罐的香蕉吉祥物
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5468,7 +5446,7 @@ shawarma wrap angled upward like a rocket, with the open filling end as the appe
 oversized cold aluminum can held forward toward camera by the running banana mascot
 ```
 
-### No. 175: 東亞女性夜間隨拍照片
+### No. 174: 東亞女性夜間隨拍照片
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5493,7 +5471,7 @@ oversized cold aluminum can held forward toward camera by the running banana mas
 9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
 ```
 
-### No. 176: 餅乾奶油層作為微型溜冰場
+### No. 175: 餅乾奶油層作為微型溜冰場
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5515,7 +5493,7 @@ oversized cold aluminum can held forward toward camera by the running banana mas
 vanilla creme layer rising above the cookie as a smooth miniature skating surface
 ```
 
-### No. 177: 由堆疊洋芋片製成的雲霄飛車軌道
+### No. 176: 由堆疊洋芋片製成的雲霄飛車軌道
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5537,7 +5515,7 @@ vanilla creme layer rising above the cookie as a smooth miniature skating surfac
 roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
 ```
 
-### No. 178: 英雄桶後方的紅色聚光燈區域
+### No. 177: 英雄桶後方的紅色聚光燈區域
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5559,7 +5537,7 @@ roller-coaster track built entirely from perfectly aligned stacked crisps with o
 three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
 ```
 
-### No. 179: 作為垂直動態線的光滑麵條流
+### No. 178: 作為垂直動態線的光滑麵條流
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5581,7 +5559,7 @@ three clean red spotlight zones with secondary lifestyle moments behind the hero
 single glossy noodle stream forming the main vertical motion line from bowl to mouth
 ```
 
-### No. 180: 電影感2.5D水粉動畫
+### No. 179: 電影感2.5D水粉動畫
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5604,7 +5582,7 @@ single glossy noodle stream forming the main vertical motion line from bowl to m
 Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
 ```
 
-### No. 181: 黑暗中的情緒化電影感肖像
+### No. 180: 黑暗中的情緒化電影感肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5626,7 +5604,7 @@ Cinematic 2.5D animation in the style of fully painterly rendering, characters a
 A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
 ```
 
-### No. 182: 自由女神像旁的巨人
+### No. 181: 自由女神像旁的巨人
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5648,7 +5626,7 @@ A mysterious man with messy textured hair emerging from darkness, dramatic side 
 Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
 ```
 
-### No. 183: 質樸門廊上的黃金時刻肖像
+### No. 182: 質樸門廊上的黃金時刻肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5670,7 +5648,7 @@ Ultra-realistic cinematic travel photograph of a strikingly handsome young man i
 Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
 ```
 
-### No. 184: 草原上的電影感肖像
+### No. 183: 草原上的電影感肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5692,7 +5670,7 @@ Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige line
 Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
 ```
 
-### No. 185: 女子垂直側拍肖像
+### No. 184: 女子垂直側拍肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5717,7 +5695,7 @@ Ultra-realistic cinematic portrait of a beautiful young woman standing sideways 
 Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
 ```
 
-### No. 186: 帶有撕裂風味區的斜向產品棒
+### No. 185: 帶有撕裂風味區的斜向產品棒
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5739,7 +5717,7 @@ Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties
 The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
 ```
 
-### No. 187: 橢圓鏡中的女性肖像
+### No. 186: 橢圓鏡中的女性肖像
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5761,7 +5739,7 @@ The product feels dynamic because the dessert world is shaped around its opening
 reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
 ```
 
-### No. 188: 沙漠中的啤酒杯漩渦
+### No. 187: 沙漠中的啤酒杯漩渦
 
 - **分類:** `風格與理解力`
 - **來源:** `x`
@@ -5783,7 +5761,7 @@ reflected female beauty portrait inside a vertical oval mirror, wearing matte co
 towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
 ```
 
-### No. 189: 前景中的啤酒瓶
+### No. 188: 前景中的啤酒瓶
 
 - **分類:** `風格與理解力`
 - **來源:** `x`

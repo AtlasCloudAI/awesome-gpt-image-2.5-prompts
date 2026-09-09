@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-279%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-278%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **279** |
+| Total Prompts | **278** |
 | Categories | **4** |
-| Preview Images | **279** |
+| Preview Images | **278** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -114,7 +114,7 @@ Every record keeps its category, source, author, source link, input references a
 
 - [`Reference Fidelity`](#category-1): **41**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **189**
+- [`Style & Intelligence`](#category-3): **188**
 - [`Layout & Typography`](#category-4): **39**
 
 <a id="all-prompts"></a>
@@ -1319,7 +1319,7 @@ Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [P
 
 <a id="category-3"></a>
 
-### Style & Intelligence (189)
+### Style & Intelligence (188)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -3989,29 +3989,7 @@ Photorealistic natural photo of a completely fictional 20-year-old adult Japanes
 女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
 ```
 
-### No. 113: 화이트 토르소 마네킹에 걸린 팬츠 라이저 세트
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** こやす69＠AIプロンプト屋
-- **Language:** `ko`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-깨끗한 화이트 마네킹에 걸린 연한 핑크 레이스 팬츠 라이저 세트의 제품 스타일 참조 이미지를 생성하기 위한 프롬프트입니다.
-
-#### Prompt
-
-```text
-A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
-```
-
-### No. 114: 폴리머 클레이 미니어처 브랜드 매장 장면
+### No. 113: 폴리머 클레이 미니어처 브랜드 매장 장면
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4036,7 +4014,7 @@ A detailed lingerie outfit asset displayed on a clean white female torso mannequ
 Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
 ```
 
-### No. 115: 기울어진 지면 샷의 패션 광고
+### No. 114: 기울어진 지면 샷의 패션 광고
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4059,7 +4037,7 @@ Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + 
 这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
 ```
 
-### No. 116: 벚꽃 비 내리는 손으로 그린 애니메이션 결투 장면
+### No. 115: 벚꽃 비 내리는 손으로 그린 애니메이션 결투 장면
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4082,7 +4060,7 @@ Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + 
 来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
 ```
 
-### No. 117: 검은 유령 신부 고딕 웨딩 드레스
+### No. 116: 검은 유령 신부 고딕 웨딩 드레스
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4106,7 +4084,7 @@ Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + 
 [concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
 ```
 
-### No. 118: 동아시아 여성의 무드 있는 시네마틱 초상화
+### No. 117: 동아시아 여성의 무드 있는 시네마틱 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4131,7 +4109,7 @@ Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + 
 A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
 ```
 
-### No. 119: 젖은 횡단보도 위의 시네마틱 야간 거리 초상화
+### No. 118: 젖은 횡단보도 위의 시네마틱 야간 거리 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4156,7 +4134,7 @@ A moody, high-contrast cinematic close-up portrait of a beautiful East Asian wom
 A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
 ```
 
-### No. 120: 빛나는 황금색 눈을 가진 클로즈업 초상화
+### No. 119: 빛나는 황금색 눈을 가진 클로즈업 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4181,7 +4159,7 @@ A cinematic night street portrait of a young East Asian woman standing on a wet 
 Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
 ```
 
-### No. 121: 안경을 쓴 윙크하는 포토리얼리즘 초상화
+### No. 120: 안경을 쓴 윙크하는 포토리얼리즘 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4206,7 +4184,7 @@ Cinematic close-up portrait of a pale-skinned young East Asian woman with straig
 Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
 ```
 
-### No. 122: 뒤엉킨 머리의 아날로그 필름 스타일 초상화
+### No. 121: 뒤엉킨 머리의 아날로그 필름 스타일 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4231,7 +4209,7 @@ Photorealistic close-up portrait of a young East Asian woman in her early 20s, l
 A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
 ```
 
-### No. 123: 어두운 물속에 떠 있는 시네마틱 초상화
+### No. 122: 어두운 물속에 떠 있는 시네마틱 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4256,7 +4234,7 @@ A photorealistic analog-film style portrait of a young East Asian woman with pal
 Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
 ```
 
-### No. 124: 옆으로 땋은 머리의 스튜디오 뷰티 초상화
+### No. 123: 옆으로 땋은 머리의 스튜디오 뷰티 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4281,7 +4259,7 @@ Cinematic close-up portrait of a young East Asian woman floating on her back in 
 A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
 ```
 
-### No. 125: 히잡을 쓴 차 안의 여성 초상화
+### No. 124: 히잡을 쓴 차 안의 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4306,7 +4284,7 @@ A photorealistic studio beauty portrait of a young East Asian woman with fair, l
 Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
 ```
 
-### No. 126: 히잡을 쓴 여성의 셀카 촬영
+### No. 125: 히잡을 쓴 여성의 셀카 촬영
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4331,7 +4309,7 @@ Photorealistic close-up portrait of a young East Asian woman sitting in the back
 A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
 ```
 
-### No. 127: 어깨 너머를 바라보는 여성 초상화
+### No. 126: 어깨 너머를 바라보는 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4356,7 +4334,7 @@ A young woman sitting at a wooden table, taking a slightly angled selfie. She we
 A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
 ```
 
-### No. 128: 안경을 쓴 여성 초상화
+### No. 127: 안경을 쓴 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4381,7 +4359,7 @@ A photorealistic portrait of a young East Asian woman looking back over her left
 Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
 ```
 
-### No. 129: 선명한 립스틱의 클로즈업 초상화
+### No. 128: 선명한 립스틱의 클로즈업 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4406,7 +4384,7 @@ Portrait of a young East Asian woman with long, slightly wavy dark brown hair an
 Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
 ```
 
-### No. 130: 젖은 머리와 맨 어깨의 초상화
+### No. 129: 젖은 머리와 맨 어깨의 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4431,7 +4409,7 @@ Photorealistic close-up portrait of a young East Asian woman with porcelain-pale
 photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
 ```
 
-### No. 131: 동아시아 여성의 시네마틱 초상화
+### No. 130: 동아시아 여성의 시네마틱 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4456,7 +4434,7 @@ photorealistic close-up portrait of a young East Asian woman with pale dewy skin
 A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
 ```
 
-### No. 132: 안경을 쓴 포토리얼리즘 초상화
+### No. 131: 안경을 쓴 포토리얼리즘 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4481,7 +4459,7 @@ A cinematic close-up portrait of a young East Asian woman against a solid black 
 A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
 ```
 
-### No. 133: 허니 하이라이트의 시네마틱 초상화
+### No. 132: 허니 하이라이트의 시네마틱 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4506,7 +4484,7 @@ A photorealistic portrait of a young East Asian woman with long wavy dark brown 
 Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
 ```
 
-### No. 134: 단발 머리의 포토리얼리즘 초상화
+### No. 133: 단발 머리의 포토리얼리즘 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4531,7 +4509,7 @@ Cinematic close-up portrait of a young East Asian woman with shoulder-length wav
 Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
 ```
 
-### No. 135: 히잡과 캡을 쓴 여성 초상화
+### No. 134: 히잡과 캡을 쓴 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4556,7 +4534,7 @@ Photorealistic close-up portrait of a young East Asian woman with a short black 
 A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
 ```
 
-### No. 136: 시폰 히잡을 쓴 셀피 초상화
+### No. 135: 시폰 히잡을 쓴 셀피 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4581,7 +4559,7 @@ A close-up portrait of a young woman with fair, smooth skin and a calm, slightly
 Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
 ```
 
-### No. 137: 눈물 흘리는 동아시아 여성의 영화적 초상화
+### No. 136: 눈물 흘리는 동아시아 여성의 영화적 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4606,7 +4584,7 @@ Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / mut
 A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
 ```
 
-### No. 138: 보석 장식 레이스 안대를 쓴 여성 초상화
+### No. 137: 보석 장식 레이스 안대를 쓴 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4631,7 +4609,7 @@ A photorealistic close-up cinematic portrait of a beautiful young East Asian wom
 A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
 ```
 
-### No. 139: 헝클어진 머리를 한 강렬한 영화적 초상화
+### No. 138: 헝클어진 머리를 한 강렬한 영화적 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4656,7 +4634,7 @@ A close-up portrait of a pale-skinned young woman with a sleek black bob haircut
 Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
 ```
 
-### No. 140: 윤기 나는 검은 머리를 한 클로즈업 초상화
+### No. 139: 윤기 나는 검은 머리를 한 클로즈업 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4681,7 +4659,7 @@ Close-up cinematic portrait of a young East Asian woman with long, slightly mess
 A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
 ```
 
-### No. 141: 햇살에 그을리고 땀 반짝임이 있는 미소 짓는 초상화
+### No. 140: 햇살에 그을리고 땀 반짝임이 있는 미소 짓는 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4706,7 +4684,7 @@ A close-up portrait of a young East Asian woman with fair, smooth skin and a sof
 Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
 ```
 
-### No. 142: 윙드 아이라이너가 있는 표현력 풍부한 초상화
+### No. 141: 윙드 아이라이너가 있는 표현력 풍부한 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4731,7 +4709,7 @@ Close-up portrait of a young East Asian woman with short messy black hair and wi
 A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
 ```
 
-### No. 143: 입맞춤 표현을 한 셀피 초상화
+### No. 142: 입맞춤 표현을 한 셀피 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4754,7 +4732,7 @@ A close-up portrait of a young Southeast Asian woman with fair, smooth skin and 
 Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
 ```
 
-### No. 144: 미소 짓는 젊은 여성 초상화
+### No. 143: 미소 짓는 젊은 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4779,7 +4757,7 @@ Close-up selfie portrait of a young East Asian woman, fair skin, long straight d
 A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
 ```
 
-### No. 145: 하프업 머리를 한 여성의 셀피
+### No. 144: 하프업 머리를 한 여성의 셀피
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4805,7 +4783,7 @@ ar 9:16 2K
 A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
 ```
 
-### No. 146: 블랙홀에 삼켜지는 지구의 단계
+### No. 145: 블랙홀에 삼켜지는 지구의 단계
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4827,7 +4805,7 @@ A photorealistic selfie of a young East Asian woman with fair porcelain skin, la
 generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
 ```
 
-### No. 147: 사이버펑크 전사 대 기계 보스 캐릭터
+### No. 146: 사이버펑크 전사 대 기계 보스 캐릭터
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4852,7 +4830,7 @@ Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybe
 Character 2 (Boss Entity): Massive, heavy-armored mechanical
 ```
 
-### No. 148: 궁전 앞에 강림하는 천상의 여신
+### No. 147: 궁전 앞에 강림하는 천상의 여신
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4874,7 +4852,7 @@ Character 2 (Boss Entity): Massive, heavy-armored mechanical
 A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
 ```
 
-### No. 149: 햇살 받는 4분의 3 측면의 선녀
+### No. 148: 햇살 받는 4분의 3 측면의 선녀
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4897,7 +4875,7 @@ A majestic Chinese celestial goddess descending slowly through rose-gold clouds 
 A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
 ```
 
-### No. 150: 옥 연못가에 앉아 있는 선녀
+### No. 149: 옥 연못가에 앉아 있는 선녀
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4919,7 +4897,7 @@ A Chinese celestial maiden standing in three-quarter view, weight shifted to one
 A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
 ```
 
-### No. 151: 옥 궁전 계단 위의 천상의 여신
+### No. 150: 옥 궁전 계단 위의 천상의 여신
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4941,7 +4919,7 @@ A serene Chinese celestial maiden seated beside the turquoise waters of the heav
 An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
 ```
 
-### No. 152: 고대 중국 제사 사당의 초상화
+### No. 151: 고대 중국 제사 사당의 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4966,7 +4944,7 @@ An elegant Chinese celestial goddess standing atop the white jade steps of Lingx
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
 ```
 
-### No. 153: 어두운 제사 사당의 여성 초상화
+### No. 152: 어두운 제사 사당의 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4991,7 +4969,7 @@ An elegant Chinese celestial goddess standing atop the white jade steps of Lingx
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
 ```
 
-### No. 154: 밤의 의례 축제 동안 낡은 노(儺) 가면 옆에 서 있는 성인 동아시아 여성의 근접 초상화입니다.
+### No. 153: 밤의 의례 축제 동안 낡은 노(儺) 가면 옆에 서 있는 성인 동아시아 여성의 근접 초상화입니다.
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5016,7 +4994,7 @@ An elegant Chinese celestial goddess standing atop the white jade steps of Lingx
 Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
 ```
 
-### No. 155: 짙은 거품 크라운이 있는 맥주
+### No. 154: 짙은 거품 크라운이 있는 맥주
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5039,7 +5017,7 @@ a dense foam crown spilling in two uneven, heavy cascades while the glass rim st
 The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
 ```
 
-### No. 156: 찌개에서 들어 올려진 두부 큐브
+### No. 155: 찌개에서 들어 올려진 두부 큐브
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5061,7 +5039,7 @@ The foam feels pressurized and creamy, but the silhouette still reads as a clean
 Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
 ```
 
-### No. 157: 한 숟가락의 고추 릴리시
+### No. 156: 한 숟가락의 고추 릴리시
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5083,7 +5061,7 @@ Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu 
 a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
 ```
 
-### No. 158: 거실에서 찍은 여성 클로즈업 초상화
+### No. 157: 거실에서 찍은 여성 클로즈업 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5105,7 +5083,7 @@ a loaded spoon with visibly separate red chili cubes, tea-darkened greens, brigh
 Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
 ```
 
-### No. 159: 어두운 침실에 누워 있는 여성 초상화
+### No. 158: 어두운 침실에 누워 있는 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5128,7 +5106,7 @@ Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casu
 A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
 ```
 
-### No. 160: 여름 풀밭에서 찍은 몽환적인 여성 초상화
+### No. 159: 여름 풀밭에서 찍은 몽환적인 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5151,7 +5129,7 @@ A highly photorealistic vertical 3:4 indoor portrait of a young adult woman recl
 Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
 ```
 
-### No. 161: 밝은 푸른 항구 옆 여성 초상화
+### No. 160: 밝은 푸른 항구 옆 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5174,7 +5152,7 @@ Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting 
 A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
 ```
 
-### No. 162: 젊은 여성의 파리 거리 초상화
+### No. 161: 젊은 여성의 파리 거리 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5196,7 +5174,7 @@ A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman cro
 High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
 ```
 
-### No. 163: 밤에 찍은 지하철 캔디드 초상화
+### No. 162: 밤에 찍은 지하철 캔디드 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5221,7 +5199,7 @@ High-resolution, natural-light street portrait of a young Asian-looking woman on
 9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
 ```
 
-### No. 164: 얼음과 연기 충격파가 있는 시계
+### No. 163: 얼음과 연기 충격파가 있는 시계
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5243,7 +5221,7 @@ High-resolution, natural-light street portrait of a young Asian-looking woman on
 a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
 ```
 
-### No. 165: 깊이감 있는 층별 베이커리 진열
+### No. 164: 깊이감 있는 층별 베이커리 진열
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5265,7 +5243,7 @@ a circular ice-and-smoke shockwave originating behind the watch, with a clean un
 a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
 ```
 
-### No. 166: 슬립 드레스를 입고 부드럽게 조명된 침실 초상화
+### No. 165: 슬립 드레스를 입고 부드럽게 조명된 침실 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5289,7 +5267,7 @@ a layered bakery spread with one oversized sliced loaf and one celebration cake 
 9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
 ```
 
-### No. 167: 폭발적인 먼지 기둥과 대비되는 자동차
+### No. 166: 폭발적인 먼지 기둥과 대비되는 자동차
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5311,7 +5289,7 @@ a layered bakery spread with one oversized sliced loaf and one celebration cake 
 massive dust plume exploding behind the vehicle while the car stays clean and silent in front
 ```
 
-### No. 168: 천체 불꽃에 배경 조명을 받는 마녀 실루엣
+### No. 167: 천체 불꽃에 배경 조명을 받는 마녀 실루엣
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5333,7 +5311,7 @@ massive dust plume exploding behind the vehicle while the car stays clean and si
 one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
 ```
 
-### No. 169: 코샤리 그릇 위로 떠오르는 토마토 소스 하트
+### No. 168: 코샤리 그릇 위로 떠오르는 토마토 소스 하트
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5355,7 +5333,7 @@ one immense orange-gold celestial fire cloud backlighting a calm central witch s
 thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
 ```
 
-### No. 170: 면발로 조각된 체스 말
+### No. 169: 면발로 조각된 체스 말
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5377,7 +5355,7 @@ thick glossy tomato sauce rising from the koshari bowl and resolving into a susp
 chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
 ```
 
-### No. 171: 복싱 링에서 승리한 황금 복서 팔이 달린 참기름 병
+### No. 170: 복싱 링에서 승리한 황금 복서 팔이 달린 참기름 병
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5399,7 +5377,7 @@ chess pieces sculpted entirely from handcrafted noodle strands with recognizable
 oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
 ```
 
-### No. 172: 소형 모던 아파트 주방 카운터 풍경
+### No. 171: 소형 모던 아파트 주방 카운터 풍경
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5424,7 +5402,7 @@ oversized sesame oil bottle standing upright in the ring with raised sculpted go
 Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
 ```
 
-### No. 173: 로켓처럼 위를 향한 샤워마 랩
+### No. 172: 로켓처럼 위를 향한 샤워마 랩
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5446,7 +5424,7 @@ Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The
 shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
 ```
 
-### No. 174: 거대한 캔을 들고 달리는 바나나 마스코트
+### No. 173: 거대한 캔을 들고 달리는 바나나 마스코트
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5468,7 +5446,7 @@ shawarma wrap angled upward like a rocket, with the open filling end as the appe
 oversized cold aluminum can held forward toward camera by the running banana mascot
 ```
 
-### No. 175: 동아시아 여성의 캔디드 야경 사진
+### No. 174: 동아시아 여성의 캔디드 야경 사진
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5493,7 +5471,7 @@ oversized cold aluminum can held forward toward camera by the running banana mas
 9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
 ```
 
-### No. 176: 미니어처 스케이트장으로 변신한 쿠키 크림
+### No. 175: 미니어처 스케이트장으로 변신한 쿠키 크림
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5515,7 +5493,7 @@ oversized cold aluminum can held forward toward camera by the running banana mas
 vanilla creme layer rising above the cookie as a smooth miniature skating surface
 ```
 
-### No. 177: 겹겹이 쌓인 과자로 만든 롤러코스터 트랙
+### No. 176: 겹겹이 쌓인 과자로 만든 롤러코스터 트랙
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5537,7 +5515,7 @@ vanilla creme layer rising above the cookie as a smooth miniature skating surfac
 roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
 ```
 
-### No. 178: 주요 버킷 뒤의 세 개의 깔끔한 레드 스포트라이트 구역
+### No. 177: 주요 버킷 뒤의 세 개의 깔끔한 레드 스포트라이트 구역
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5559,7 +5537,7 @@ roller-coaster track built entirely from perfectly aligned stacked crisps with o
 three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
 ```
 
-### No. 179: 수직 동선으로서의 윤기나는 면발 흐름
+### No. 178: 수직 동선으로서의 윤기나는 면발 흐름
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5581,7 +5559,7 @@ three clean red spotlight zones with secondary lifestyle moments behind the hero
 single glossy noodle stream forming the main vertical motion line from bowl to mouth
 ```
 
-### No. 180: 시네마틱 2.5D 구아슈 애니메이션
+### No. 179: 시네마틱 2.5D 구아슈 애니메이션
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5604,7 +5582,7 @@ single glossy noodle stream forming the main vertical motion line from bowl to m
 Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
 ```
 
-### No. 181: 어둠 속의 무드 넘치는 시네마틱 초상화
+### No. 180: 어둠 속의 무드 넘치는 시네마틱 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5626,7 +5604,7 @@ Cinematic 2.5D animation in the style of fully painterly rendering, characters a
 A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
 ```
 
-### No. 182: 자유의 여신상 옆의 거인 남자
+### No. 181: 자유의 여신상 옆의 거인 남자
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5648,7 +5626,7 @@ A mysterious man with messy textured hair emerging from darkness, dramatic side 
 Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
 ```
 
-### No. 183: 고풍스러운 현관의 골든아워 초상화
+### No. 182: 고풍스러운 현관의 골든아워 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5670,7 +5648,7 @@ Ultra-realistic cinematic travel photograph of a strikingly handsome young man i
 Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
 ```
 
-### No. 184: 초원의 시네마틱 초상화
+### No. 183: 초원의 시네마틱 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5692,7 +5670,7 @@ Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige line
 Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
 ```
 
-### No. 185: 여성의 수직 캔디드 초상화
+### No. 184: 여성의 수직 캔디드 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5717,7 +5695,7 @@ Ultra-realistic cinematic portrait of a beautiful young woman standing sideways 
 Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
 ```
 
-### No. 186: 찢겨진 플레이버 존이 있는 대각선 바
+### No. 185: 찢겨진 플레이버 존이 있는 대각선 바
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5739,7 +5717,7 @@ Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties
 The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
 ```
 
-### No. 187: 타원형 거울 속 여성 초상화
+### No. 186: 타원형 거울 속 여성 초상화
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5761,7 +5739,7 @@ The product feels dynamic because the dessert world is shaped around its opening
 reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
 ```
 
-### No. 188: 사막 속의 맥주잔 소용돌이
+### No. 187: 사막 속의 맥주잔 소용돌이
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5783,7 +5761,7 @@ reflected female beauty portrait inside a vertical oval mirror, wearing matte co
 towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
 ```
 
-### No. 189: 전경의 맥주병
+### No. 188: 전경의 맥주병
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`

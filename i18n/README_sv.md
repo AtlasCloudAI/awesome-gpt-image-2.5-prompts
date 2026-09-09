@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-279%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-278%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **279** |
+| Total Prompts | **278** |
 | Categories | **4** |
-| Preview Images | **279** |
+| Preview Images | **278** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -114,7 +114,7 @@ Every record keeps its category, source, author, source link, input references a
 
 - [`Reference Fidelity`](#category-1): **41**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **189**
+- [`Style & Intelligence`](#category-3): **188**
 - [`Layout & Typography`](#category-4): **39**
 
 <a id="all-prompts"></a>
@@ -1319,7 +1319,7 @@ En prompt som beskriver ett porträtt belyst av hårt, omildat solljus från ett
 
 <a id="category-3"></a>
 
-### Style & Intelligence (189)
+### Style & Intelligence (188)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -3989,29 +3989,7 @@ En realistisk bild från en delfins perspektiv som tittar genom ett 360-graders 
 女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
 ```
 
-### No. 113: Lingerieset på Vit Torsomannekäng
-
-- **Category:** `Style & Intelligence`
-- **Source:** `x`
-- **Author:** こやす69＠AIプロンプト屋
-- **Language:** `sv`
-- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### Description
-
-En prompt för att generera en produktstilsreferensbild av ett blekrosa spetslingerieset på en ren vit mannekäng.
-
-#### Prompt
-
-```text
-A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
-```
-
-### No. 114: Polymerlerminiatyr av Varumärkesbutiksscen
+### No. 113: Polymerlerminiatyr av Varumärkesbutiksscen
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4036,7 +4014,7 @@ En prompt för att skapa en miniatyrlerfigur av en varumärkesbutik med mysiga t
 Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
 ```
 
-### No. 115: Modeannons med Lutad Markbild
+### No. 114: Modeannons med Lutad Markbild
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4059,7 +4037,7 @@ En modeannonskampanj för ett fiktivt varumärke med sex personer i livliga klä
 这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
 ```
 
-### No. 116: Handtecknad Anime-duell med Körsbärsblommor
+### No. 115: Handtecknad Anime-duell med Körsbärsblommor
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4082,7 +4060,7 @@ En scen från en sen 1990-tals japansk handtecknad animerad film, med en kvinna 
 来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
 ```
 
-### No. 117: Svart Spökbrud i Gotisk Bröllopsklänning
+### No. 116: Svart Spökbrud i Gotisk Bröllopsklänning
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4106,7 +4084,7 @@ En prompt för en gotisk Halloween-spökbrudskostym med mörk romantisk elegans.
 [concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
 ```
 
-### No. 118: Stämningsfull Cinematisk Porträtt av Östasiatisk Kvinna
+### No. 117: Stämningsfull Cinematisk Porträtt av Östasiatisk Kvinna
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4131,7 +4109,7 @@ En prompt för ett högkontrast, cinematiskt närporträtt av en ung östasiatis
 A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
 ```
 
-### No. 119: Cinematisk Nattgataporträtt på Våt Övergångsställe
+### No. 118: Cinematisk Nattgataporträtt på Våt Övergångsställe
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4156,7 +4134,7 @@ En prompt för ett cinematiskt porträtt av en ung östasiatisk kvinna på ett v
 A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
 ```
 
-### No. 120: Närporträtt med Glödande Guldfärgade Ögon
+### No. 119: Närporträtt med Glödande Guldfärgade Ögon
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4181,7 +4159,7 @@ En prompt för ett cinematiskt närporträtt av en ung östasiatisk kvinna med k
 Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
 ```
 
-### No. 121: Fotorealistiskt porträtt med glasögon och blinkning
+### No. 120: Fotorealistiskt porträtt med glasögon och blinkning
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4206,7 +4184,7 @@ Ett fotorealistiskt porträtt av en ung östasiatisk kvinna med glasögon och v�
 Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
 ```
 
-### No. 122: Porträtt i analog-filmstil med rufsigt hår
+### No. 121: Porträtt i analog-filmstil med rufsigt hår
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4231,7 +4209,7 @@ Ett fotorealistiskt porträtt i analog-filmstil av en ung östasiatisk kvinna me
 A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
 ```
 
-### No. 123: Filmiskt porträtt som flyter i mörkt vatten
+### No. 122: Filmiskt porträtt som flyter i mörkt vatten
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4256,7 +4234,7 @@ Ett filmiskt porträtt av en lugn ung kvinna som flyter i stilla vatten med våt
 Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
 ```
 
-### No. 124: Studiobeautyporträtt med sidosvans
+### No. 123: Studiobeautyporträtt med sidosvans
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4281,7 +4259,7 @@ Ett fotorealistiskt studiobeautyporträtt av en ung östasiatisk kvinna med str�
 A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
 ```
 
-### No. 125: Porträtt av kvinna i bil med hijab
+### No. 124: Porträtt av kvinna i bil med hijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4306,7 +4284,7 @@ Ett fotorealistiskt närporträtt av en ung östasiatisk kvinna i en bil, klädd
 Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
 ```
 
-### No. 126: Kvinna som tar selfie i hijab
+### No. 125: Kvinna som tar selfie i hijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4331,7 +4309,7 @@ En prompt för att generera en bild av en ung kvinna i en ljus hijab som tar en 
 A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
 ```
 
-### No. 127: Porträtt av kvinna som tittar över axeln
+### No. 126: Porträtt av kvinna som tittar över axeln
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4356,7 +4334,7 @@ En detaljerad prompt för att generera ett fotorealistiskt porträtt av en ung �
 A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
 ```
 
-### No. 128: Porträtt av kvinna med glasögon
+### No. 127: Porträtt av kvinna med glasögon
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4381,7 +4359,7 @@ Ett porträtt av en ung östasiatisk kvinna med glasögon, vågigt hår och ett 
 Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
 ```
 
-### No. 129: Närporträtt med livfull läppstift
+### No. 128: Närporträtt med livfull läppstift
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4406,7 +4384,7 @@ Ett fotorealistiskt porträtt av en ung östasiatisk kvinna med porslinshy, mand
 Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
 ```
 
-### No. 130: Porträtt med vått hår och bar axel
+### No. 129: Porträtt med vått hår och bar axel
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4431,7 +4409,7 @@ Ett fotorealistiskt porträtt av en ung kvinna med daggig hy och vått svart hå
 photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
 ```
 
-### No. 131: Filmiskt porträtt av östasiatisk kvinna
+### No. 130: Filmiskt porträtt av östasiatisk kvinna
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4456,7 +4434,7 @@ Ett närporträtt av en ung östasiatisk kvinna med långt mörkt vågigt hår m
 A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
 ```
 
-### No. 132: Fotorealistiskt porträtt med glasögon
+### No. 131: Fotorealistiskt porträtt med glasögon
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4481,7 +4459,7 @@ Ett fotorealistiskt porträtt av en ung östasiatisk kvinna med långt vågigt h
 A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
 ```
 
-### No. 133: Filmiskt porträtt med honungshöjdpunkter
+### No. 132: Filmiskt porträtt med honungshöjdpunkter
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4506,7 +4484,7 @@ En prompt för ett filmiskt närporträtt av en ung östasiatisk kvinna med våg
 Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
 ```
 
-### No. 134: Fotorealistiskt porträtt med pagefrisyr
+### No. 133: Fotorealistiskt porträtt med pagefrisyr
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4531,7 +4509,7 @@ Ett fotorealistiskt närporträtt av en ung östasiatisk kvinna med en kort svar
 Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
 ```
 
-### No. 135: Porträtt av kvinna i hijab och keps
+### No. 134: Porträtt av kvinna i hijab och keps
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4556,7 +4534,7 @@ Ett närbildsporträtt av en ung kvinna med ljus hy och ett lugnt uttryck, kläd
 A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
 ```
 
-### No. 136: Selfieporträtt i chiffonghijab
+### No. 135: Selfieporträtt i chiffonghijab
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4581,7 +4559,7 @@ Ett närbildsselfie av en ung östasiatisk kvinna med ljus hy och fina drag, kl�
 Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
 ```
 
-### No. 137: Filmiskt porträtt av gråtande östasiatisk kvinna
+### No. 136: Filmiskt porträtt av gråtande östasiatisk kvinna
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4606,7 +4584,7 @@ Ett fotorealistiskt närbildsporträtt av en ung kvinna med glänsande, tårstri
 A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
 ```
 
-### No. 138: Porträtt av kvinna med juvelprydd spetsögonlapp
+### No. 137: Porträtt av kvinna med juvelprydd spetsögonlapp
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4631,7 +4609,7 @@ Ett närbildsporträtt av en blekhyad ung kvinna med svart page, ett rött öga 
 A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
 ```
 
-### No. 139: Intensivt filmiskt porträtt med rufsigt hår
+### No. 138: Intensivt filmiskt porträtt med rufsigt hår
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4656,7 +4634,7 @@ Ett närbildsfilmiskt porträtt av en ung kvinna med långt svart hår som titta
 Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
 ```
 
-### No. 140: Närbildsporträtt med glänsande mörkt hår
+### No. 139: Närbildsporträtt med glänsande mörkt hår
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4681,7 +4659,7 @@ En detaljerad prompt för att generera ett porträtt av en ung kvinna med ljus h
 A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
 ```
 
-### No. 141: Leende solbränt porträtt med svettglans
+### No. 140: Leende solbränt porträtt med svettglans
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4706,7 +4684,7 @@ Ett närbildsporträtt av en ung östasiatisk kvinna med rufsigt svart hår, som
 Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
 ```
 
-### No. 142: Expressivt porträtt med vingeögonliner
+### No. 141: Expressivt porträtt med vingeögonliner
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4731,7 +4709,7 @@ En detaljerad prompt för att generera ett närbildsporträtt av en ung sydösta
 A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
 ```
 
-### No. 143: Selfieporträtt med kyssexpression
+### No. 142: Selfieporträtt med kyssexpression
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4754,7 +4732,7 @@ En prompt för ett närbildsselfie av en ung östasiatisk kvinna med slutna ögo
 Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
 ```
 
-### No. 144: Porträtt av leende ung kvinna
+### No. 143: Porträtt av leende ung kvinna
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4779,7 +4757,7 @@ En prompt för att generera ett porträtt av en ung östasiatisk eller indonesis
 A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
 ```
 
-### No. 145: Selfie av kvinna med halvuppsatt hår
+### No. 144: Selfie av kvinna med halvuppsatt hår
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4805,7 +4783,7 @@ ar 9:16 2K
 A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
 ```
 
-### No. 146: Jorden uppslukad av svart hål - faser
+### No. 145: Jorden uppslukad av svart hål - faser
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4827,7 +4805,7 @@ En prompt för att generera fyra bilder som visar de visuella faserna när Jorde
 generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
 ```
 
-### No. 147: Cyberpunk-krigare mot Mekaniskt Boss-monster Karaktärer
+### No. 146: Cyberpunk-krigare mot Mekaniskt Boss-monster Karaktärer
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4852,7 +4830,7 @@ Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybe
 Character 2 (Boss Entity): Massive, heavy-armored mechanical
 ```
 
-### No. 148: Himmelsk Gudinna som Stiger ned framför Palats
+### No. 147: Himmelsk Gudinna som Stiger ned framför Palats
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4874,7 +4852,7 @@ En bild av en majestätisk kinesisk himmelsk gudinna i ceremoniell hanfu som sti
 A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
 ```
 
-### No. 149: Himmelsk Mö i Solbelyst Trefjärdedelsvy
+### No. 148: Himmelsk Mö i Solbelyst Trefjärdedelsvy
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4897,7 +4875,7 @@ En bild av en himmelsk mö i elfenbensvit hanfu, belyst av morgonljus med flytan
 A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
 ```
 
-### No. 150: Himmelsk Mö sittande vid Jadepöl
+### No. 149: Himmelsk Mö sittande vid Jadepöl
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4919,7 +4897,7 @@ En bild av en lugn kinesisk himmelsk mö i sidenhanfu som vidrör en lotus vid e
 A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
 ```
 
-### No. 151: Himmelsk Gudinna på Jade-palatsets Trappsteg
+### No. 150: Himmelsk Gudinna på Jade-palatsets Trappsteg
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4941,7 +4919,7 @@ En bild av en elegant kinesisk himmelsk gudinna ovanpå vita jadetrappsteg, klä
 An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
 ```
 
-### No. 152: Porträtt i Forntida Kinesisk Ritualhelgedom
+### No. 151: Porträtt i Forntida Kinesisk Ritualhelgedom
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4966,7 +4944,7 @@ Ett fotorealistiskt filmiskt porträtt av en vuxen östasiatisk kvinna i en mör
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
 ```
 
-### No. 153: Porträtt av Kvinna i Mörk Ritualhelgedom
+### No. 152: Porträtt av Kvinna i Mörk Ritualhelgedom
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -4991,7 +4969,7 @@ Ett fotorealistiskt filmiskt porträtt av en östasiatisk kvinna med vått svart
 9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
 ```
 
-### No. 154: Närbildsporträtt vid Nattetid Nuo-festival
+### No. 153: Närbildsporträtt vid Nattetid Nuo-festival
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5016,7 +4994,7 @@ Ett närbildsporträtt av en vuxen östasiatisk kvinna bredvid en väderbiten Nu
 Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
 ```
 
-### No. 155: Öl med Tät Skumkrona
+### No. 154: Öl med Tät Skumkrona
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5039,7 +5017,7 @@ a dense foam crown spilling in two uneven, heavy cascades while the glass rim st
 The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
 ```
 
-### No. 156: Tofukub Lyfts ur Gryta
+### No. 155: Tofukub Lyfts ur Gryta
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5061,7 +5039,7 @@ En beskrivande prompt för en bild av en porös tofukub som lyfts ovanför en ka
 Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
 ```
 
-### No. 157: Sked med Chili-relish
+### No. 156: Sked med Chili-relish
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5083,7 +5061,7 @@ En bild av en sked med chili-relish med tydliga röda chilikubar, te-mörknade g
 a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
 ```
 
-### No. 158: Närbildsporträtt av Kvinna i Vardagsrum
+### No. 157: Närbildsporträtt av Kvinna i Vardagsrum
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5105,7 +5083,7 @@ Ett ultrarealistiskt närbildsporträtt av en ung kvinna med ett lekfullt uttryc
 Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
 ```
 
-### No. 159: Porträtt av Kvinnlig Person som Vila i Sovrum med Dämpad Belysning
+### No. 158: Porträtt av Kvinnlig Person som Vila i Sovrum med Dämpad Belysning
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5128,7 +5106,7 @@ En prompt för ett fotorealistiskt vertikalt porträtt av en ung kvinna som vila
 A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
 ```
 
-### No. 160: Drömlikt Porträtt av Kvinna i Sommargräs
+### No. 159: Drömlikt Porträtt av Kvinna i Sommargräs
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5151,7 +5129,7 @@ En filminspirerad bild av en ung ostasiatisk kvinna som vilar i högt gräs, mju
 Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
 ```
 
-### No. 161: Porträtt av Kvinna vid Ljusblå Hamn
+### No. 160: Porträtt av Kvinna vid Ljusblå Hamn
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5174,7 +5152,7 @@ Ett porträtt i filmkornsstil av en ung ostasiatisk kvinna som sitter på huk vi
 A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
 ```
 
-### No. 162: Parisiskt Gatporträtt av Ung Kvinna
+### No. 161: Parisiskt Gatporträtt av Ung Kvinna
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5196,7 +5174,7 @@ En prompt för ett högupplöst, naturligt belyst gatporträtt av en ung asiatis
 High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
 ```
 
-### No. 163: Omedvetet Tunnelbaneporträtt på Natten
+### No. 162: Omedvetet Tunnelbaneporträtt på Natten
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5221,7 +5199,7 @@ Ett fotorealistiskt, omedvetet porträtt av en vuxen ostasiatisk kvinna som sitt
 9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
 ```
 
-### No. 164: Klocka med Is- och Röckchockvåg
+### No. 163: Klocka med Is- och Röckchockvåg
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5243,7 +5221,7 @@ En bild av en klocka med en cirkulär chockvåg av is och rök bakom sig, med bi
 a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
 ```
 
-### No. 165: Skiktad Bageridisplay med Djup
+### No. 164: Skiktad Bageridisplay med Djup
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5265,7 +5243,7 @@ En prompt för att generera en bild av en premiumbageridisplay med varor arrange
 a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
 ```
 
-### No. 166: Mjukt Upplyst Sovrumsporträtt i Underklänning
+### No. 165: Mjukt Upplyst Sovrumsporträtt i Underklänning
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5289,7 +5267,7 @@ Ett fotorealistiskt porträtt av en vuxen ostasiatisk kvinna som bär en elfenbe
 9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
 ```
 
-### No. 167: Bil med Explosivt Dammoln i Kontrast
+### No. 166: Bil med Explosivt Dammoln i Kontrast
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5311,7 +5289,7 @@ En bild av en kraftfull bil som genererar ett massivt dammoln bakom sig samtidig
 massive dust plume exploding behind the vehicle while the car stays clean and silent in front
 ```
 
-### No. 168: Häxsilhuett Belyst Bakifrån av Celestial Eld
+### No. 167: Häxsilhuett Belyst Bakifrån av Celestial Eld
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5333,7 +5311,7 @@ En bild av en häxas silhuett belyst bakifrån av ett massivt orangegult moln av
 one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
 ```
 
-### No. 169: Tomatsåshjärta som Stiger ur Koshari-skål
+### No. 168: Tomatsåshjärta som Stiger ur Koshari-skål
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5355,7 +5333,7 @@ En bild av glansig tomatsås som formar ett hjärta ovanför en skål med koshar
 thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
 ```
 
-### No. 170: Schackpjäser Skulpterade av Nudelstrån
+### No. 169: Schackpjäser Skulpterade av Nudelstrån
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5377,7 +5355,7 @@ En prompt för att generera schackpjäser skulpterade av handgjorda nudelstrån 
 chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
 ```
 
-### No. 171: Sesamoljeflaska med Boxararmar i Boxningsring
+### No. 170: Sesamoljeflaska med Boxararmar i Boxningsring
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5399,7 +5377,7 @@ En bild av en förstorad sesamoljeflaska med gyllene boxararmar som står segran
 oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
 ```
 
-### No. 172: Scen från Kompakt Köksbänk i Modern Lägenhet
+### No. 171: Scen från Kompakt Köksbänk i Modern Lägenhet
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5424,7 +5402,7 @@ En prompt för att generera en bild av ett kompakt modernt lägenhetskök med fr
 Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
 ```
 
-### No. 173: Shawarmarulle Vinklad Uppåt som en Raket
+### No. 172: Shawarmarulle Vinklad Uppåt som en Raket
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5446,7 +5424,7 @@ En prompt för att generera en bild av en shawarmarulle vinklad som en raket, me
 shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
 ```
 
-### No. 174: Bananmaskot som Håller Jättestor Burk
+### No. 173: Bananmaskot som Håller Jättestor Burk
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5468,7 +5446,7 @@ En bild av en springande bananmaskot som håller en jättestor kall aluminiumbur
 oversized cold aluminum can held forward toward camera by the running banana mascot
 ```
 
-### No. 175: Östasiatisk Kvinna i Oplanerat Nattfoto
+### No. 174: Östasiatisk Kvinna i Oplanerat Nattfoto
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5493,7 +5471,7 @@ En prompt för att generera ett realistiskt oplanerat foto av en östasiatisk kv
 9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
 ```
 
-### No. 176: Kakgrädde som Miniatyråkeryta
+### No. 175: Kakgrädde som Miniatyråkeryta
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5515,7 +5493,7 @@ En bild av en kaka där vaniljgräddelagret höjer sig och formar en slät minia
 vanilla creme layer rising above the cookie as a smooth miniature skating surface
 ```
 
-### No. 177: Berg- och dalbanespår av Staplade Chips
+### No. 176: Berg- och dalbanespår av Staplade Chips
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5537,7 +5515,7 @@ En bild av ett berg- och dalbanespår konstruerat av perfekt inpassade staplade 
 roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
 ```
 
-### No. 178: Röda Spotlightzoner Bakom Hjältehinken
+### No. 177: Röda Spotlightzoner Bakom Hjältehinken
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5559,7 +5537,7 @@ En bildprompt som beskriver tre rena röda spotlightzoner med sekundära livssti
 three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
 ```
 
-### No. 179: Glansigt Nudelflöde som Vertikal Rörelselinje
+### No. 178: Glansigt Nudelflöde som Vertikal Rörelselinje
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5581,7 +5559,7 @@ Ett minimalistiskt affischkoncept med ett enda glansigt nudelflöde som det cent
 single glossy noodle stream forming the main vertical motion line from bowl to mouth
 ```
 
-### No. 180: Filmisk 2.5D Gouache-animation
+### No. 179: Filmisk 2.5D Gouache-animation
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5604,7 +5582,7 @@ En prompt för att skapa en filmisk 2.5D-animation med en målaktig gouache-kons
 Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
 ```
 
-### No. 181: Stämningsfull Cinematisk Porträtt i Mörker
+### No. 180: Stämningsfull Cinematisk Porträtt i Mörker
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5626,7 +5604,7 @@ Ett cinematiskt porträtt av en man med rufsigt hår som framträder ur skuggorn
 A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
 ```
 
-### No. 182: Jättelik Man Bredvid Frihetsgudinnan
+### No. 181: Jättelik Man Bredvid Frihetsgudinnan
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5648,7 +5626,7 @@ Ett ultrarealistiskt cinematiskt resefoto av en stilig ung man som porträtteras
 Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
 ```
 
-### No. 183: Porträtt i Gyllene Timmen på Rustik Veranda
+### No. 182: Porträtt i Gyllene Timmen på Rustik Veranda
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5670,7 +5648,7 @@ Ett varmt, spontant livsstilsporträtt av en ung man som njuter av te på en rus
 Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
 ```
 
-### No. 184: Cinematiskt Porträtt i Äng
+### No. 183: Cinematiskt Porträtt i Äng
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5692,7 +5670,7 @@ Ett ultrarealistiskt porträtt av en kvinna i cowboyhatt stående i en grön än
 Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
 ```
 
-### No. 185: Vertikalt Spontant Porträtt av Kvinna
+### No. 184: Vertikalt Spontant Porträtt av Kvinna
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5717,7 +5695,7 @@ En prompt för att generera ett vertikalt spontant fotografi av en ung östasiat
 Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
 ```
 
-### No. 186: Diagonal Lista med Rivet Smakzon
+### No. 185: Diagonal Lista med Rivet Smakzon
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5739,7 +5717,7 @@ En prompt för att generera en bild av en diagonalt förpackad efterrättslista 
 The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
 ```
 
-### No. 187: Kvinnoporträtt i Oval Spegel
+### No. 186: Kvinnoporträtt i Oval Spegel
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5761,7 +5739,7 @@ Ett skönhetsporträtt av en kvinna reflekterad i en vertikal oval spegel, med m
 reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
 ```
 
-### No. 188: Ölglasvirvel i Öken
+### No. 187: Ölglasvirvel i Öken
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
@@ -5783,7 +5761,7 @@ En surrealistisk bild av ett högt ölglas som reser sig ur öknen som en virvel
 towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
 ```
 
-### No. 189: Ölflaska i Förgrunden
+### No. 188: Ölflaska i Förgrunden
 
 - **Category:** `Style & Intelligence`
 - **Source:** `x`
