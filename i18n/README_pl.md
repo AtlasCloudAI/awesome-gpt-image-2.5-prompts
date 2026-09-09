@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-13%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-19%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **13** |
-| Categories | **4** |
-| Preview Videos | **13** |
+| Total Prompts | **19** |
+| Categories | **5** |
+| Preview Videos | **19** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -113,9 +113,10 @@ Every record keeps its category, source, author, source link, input references a
 
 
 - [`Reference Fidelity`](#category-1): **2**
-- [`Precision Editing`](#category-2): **1**
-- [`Style & Intelligence`](#category-3): **5**
-- [`Layout & Typography`](#category-4): **5**
+- [`undefined`](#category-2): **6**
+- [`Precision Editing`](#category-3): **1**
+- [`Style & Intelligence`](#category-4): **5**
+- [`Layout & Typography`](#category-5): **5**
 
 <a id="all-prompts"></a>
 
@@ -184,6 +185,149 @@ A physical photograph being held by a hand with green fingernails, showing a you
 
 <a id="category-2"></a>
 
+### undefined (6)
+
+### No. 1: Realistyczne zrzuty ekranu z RPG nowej generacji o tematyce romantycznej
+
+- **Category:** `undefined`
+- **Source:** `x`
+- **Author:** underwood
+- **Language:** `pl`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Prompt do wygenerowania realistycznego zrzutu ekranu z fikcyjnej, nowej generacji, trójwymiarowej gry RPG typu open-world o tematyce romantycznej, z perspektywy protagonisty.
+
+#### Prompt
+
+```text
+Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist's
+```
+
+### No. 2: Elegantyczna miniaturowa diorama przedstawiająca znany zabytek
+
+- **Category:** `undefined`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `pl`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Prompt do wygenerowania uroczej, eleganckiej, trójwymiarowej dioramy słynnej budowli w pastelowych odcieniach, z ręcznie wykonanymi detalami.
+
+#### Prompt
+
+```text
+Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined
+```
+
+### No. 3: Pionowa botaniczna sztuka papierowa przedstawiająca smukłą kobietę
+
+- **Category:** `undefined`
+- **Source:** `x`
+- **Author:** Ralph Nas
+- **Language:** `pl`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Pionowe, botaniczne dzieło sztuki z papieru, przedstawiające smukłą kobietę z profilu, w sukni z liści i z kościanym parasolem.
+
+#### Prompt
+
+```text
+A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves
+```
+
+### No. 4: Fotorealistyczny model do sklejania białego i złotego paladyna
+
+- **Category:** `undefined`
+- **Source:** `x`
+- **Author:** 四季橘/Shikikitsu@AIイラストとTRPG(希望)
+- **Language:** `pl`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Prompt do wygenerowania fotorealistycznego obrazu przedstawiającego białego i złotego robota-paladyna jako model do sklejania, wyeksponowany w sklepie elektronicznym z wieloma jednolitymi pudełkami.
+
+#### Prompt
+
+```text
+このロボットを聖騎士にふさわしい白と金の色合いでフォトリアルにプラモデルとして描いてください。電気店の売り場にこの完成品が飾られており、近くにこのプラモデルの箱が大量に並んでいます。箱の大きさはそろえてください。
+```
+
+### No. 5: Plakat w stylu Art Deco w kolorach złota i granatu
+
+- **Category:** `undefined`
+- **Source:** `x`
+- **Author:** Mr Das
+- **Language:** `pl`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Ilustracja plakatu w stylu Art Deco w formacie kwadratowym, z eleganckimi, złotymi i granatowymi liniami na kremowym papierze.
+
+#### Prompt
+
+```text
+Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal
+```
+
+### No. 6: Portret drobnej Hiszpanki przy basenie
+
+- **Category:** `undefined`
+- **Source:** `x`
+- **Author:** John
+- **Language:** `pl`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/12_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/12_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Wypolerowany, pionowy portret piękna, przedstawiający drobną Hiszpankę siedzącą przy miętowo-zielonym krytym basenie.
+
+#### Prompt
+
+```text
+A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80
+```
+
+<a id="category-3"></a>
+
 ### Precision Editing (1)
 
 ### No. 1: Bed Tidying
@@ -220,7 +364,7 @@ Modify the messy bed to be neatly made with a smoothed-out white comforter. Arra
 A wide-angle photo of an unmade bed with a messy white comforter and scattered pillows in a bedroom with sloped ceilings. Bedside tables with glowing lamps flank the bed, with a couple of extra pillows on the floor, an open door on the left, and a window on the right.
 ```
 
-<a id="category-3"></a>
+<a id="category-4"></a>
 
 ### Style & Intelligence (5)
 
@@ -334,7 +478,7 @@ A vibrant mosaic artwork depicting the planet Earth beneath a starry night sky w
 A detailed mosaic tile artwork depicting Earth from space. The lower half features the curved Earth crafted from blue, green, brown, and white tesserae. The upper half shows a deep blue cosmos filled with golden-yellow stars, a ringed planet, the moon, and a swirling spiral galaxy. Handcrafted ceramic or glass tile texture with visible grout. Vibrant, saturated colors with a glossy, reflective glaze finish.
 ```
 
-<a id="category-4"></a>
+<a id="category-5"></a>
 
 ### Layout & Typography (5)
 

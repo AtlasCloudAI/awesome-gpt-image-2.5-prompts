@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-13%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-19%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts&locale=zh-TW) | [提交提示詞](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **13** |
-| 分類數 | **4** |
-| 預覽影片數 | **13** |
+| 提示詞總數 | **19** |
+| 分類數 | **5** |
+| 預覽影片數 | **19** |
 | 最後更新 | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -113,9 +113,10 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 
 - [`參考圖保真`](#category-1): **2**
-- [`精準編輯`](#category-2): **1**
-- [`風格與理解力`](#category-3): **5**
-- [`複雜版式與文字`](#category-4): **5**
+- [`undefined`](#category-2): **6**
+- [`精準編輯`](#category-3): **1**
+- [`風格與理解力`](#category-4): **5**
+- [`複雜版式與文字`](#category-5): **5**
 
 <a id="all-prompts"></a>
 
@@ -184,6 +185,149 @@ A physical photograph being held by a hand with green fingernails, showing a you
 
 <a id="category-2"></a>
 
+### undefined (6)
+
+### No. 1: 次世代戀愛角色扮演遊戲的寫實截圖
+
+- **分類:** `undefined`
+- **來源:** `x`
+- **作者:** underwood
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成虛構次世代3D開放世界戀愛角色扮演遊戲中，從主角視角出發的寫實遊戲截圖的提示。
+
+#### 提示詞
+
+```text
+Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist's
+```
+
+### No. 2: 地標建築的精品微型立體模型
+
+- **分類:** `undefined`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/2_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成可愛、優雅的3D立體模型，描繪一座著名建築，採用柔和的粉彩色調和手工細節的提示。
+
+#### 提示詞
+
+```text
+Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined
+```
+
+### No. 3: 苗條女子的垂直植物紙藝作品
+
+- **分類:** `undefined`
+- **來源:** `x`
+- **作者:** Ralph Nas
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/6_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅垂直的植物紙藝作品，描繪一位苗條女子的側影，身著葉片長裙，手持象牙色陽傘。
+
+#### 提示詞
+
+```text
+A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves
+```
+
+### No. 4: 白金配色聖騎士機器人的寫實模型套件
+
+- **分類:** `undefined`
+- **來源:** `x`
+- **作者:** 四季橘/Shikikitsu@AIイラストとTRPG(希望)
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/10_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成白金配色聖騎士機器人模型套件的寫實圖像提示，展示於電子產品商店中，周圍有許多統一包裝盒。
+
+#### 提示詞
+
+```text
+このロボットを聖騎士にふさわしい白と金の色合いでフォトリアルにプラモデルとして描いてください。電気店の売り場にこの完成品が飾られており、近くにこのプラモデルの箱が大量に並んでいます。箱の大きさはそろえてください。
+```
+
+### No. 5: 金與海軍藍色的裝飾藝術海報
+
+- **分類:** `undefined`
+- **來源:** `x`
+- **作者:** Mr Das
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/11_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅方形格式的裝飾藝術海報插圖，在奶油色紙張上呈現優雅的金色與海軍藍色線條。
+
+#### 提示詞
+
+```text
+Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal
+```
+
+### No. 6: 池畔嬌小西班牙女子肖像
+
+- **分類:** `undefined`
+- **來源:** `x`
+- **作者:** John
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/12_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/12_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅精緻的垂直美人肖像，描繪一位嬌小的西班牙女子坐在薄荷綠色室內泳池旁。
+
+#### 提示詞
+
+```text
+A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80
+```
+
+<a id="category-3"></a>
+
 ### 精準編輯 (1)
 
 ### No. 1: 整理床鋪
@@ -220,7 +364,7 @@ Modify the messy bed to be neatly made with a smoothed-out white comforter. Arra
 A wide-angle photo of an unmade bed with a messy white comforter and scattered pillows in a bedroom with sloped ceilings. Bedside tables with glowing lamps flank the bed, with a couple of extra pillows on the floor, an open door on the left, and a window on the right.
 ```
 
-<a id="category-3"></a>
+<a id="category-4"></a>
 
 ### 風格與理解力 (5)
 
@@ -334,7 +478,7 @@ Cinematic wide-angle film still of a man in a dark suit floating horizontally, s
 A detailed mosaic tile artwork depicting Earth from space. The lower half features the curved Earth crafted from blue, green, brown, and white tesserae. The upper half shows a deep blue cosmos filled with golden-yellow stars, a ringed planet, the moon, and a swirling spiral galaxy. Handcrafted ceramic or glass tile texture with visible grout. Vibrant, saturated colors with a glossy, reflective glaze finish.
 ```
 
-<a id="category-4"></a>
+<a id="category-5"></a>
 
 ### 複雜版式與文字 (5)
 
