@@ -107,7 +107,7 @@ const homeCopyEn: HomeCopy = {
   constraints: "**Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.",
   curation: "Curation and provenance",
   curationText:
-    "Every record keeps its category, source, author, source link, input references and preview image, and prompt text is never rewritten during README generation. Preview images are OpenAI's Images 2.5 examples, credited to OpenAI and linked back to the announcement they came from; if OpenAI would rather they were not reproduced here, open an issue and they will be removed. Prompts are reconstructions recovered from those images, not official text. Records collected from X keep their original author and post link.",
+    "Every record keeps its category, source, author, source link, input references and preview image, and prompt text is never rewritten during README generation. Most records come from X: the prompt is the author's own wording as they posted it, the preview is the image they posted with it, and both the author and the original post stay credited. Each one was kept only after an automated check that the post attributes the image to GPT Image 2.5 and that the image matches what the prompt asks for. The records labelled `official` are OpenAI's own Images 2.5 examples: their previews are credited to OpenAI and linked back to the announcement, and for those the prompt text is a reconstruction recovered from the image rather than official wording. If a rights holder would rather an image were not reproduced here, open an issue and it will be removed.",
   officialCommunity:
     "The `official` and `community` labels describe where a prompt came from; they are not a guarantee that every prompt has been independently benchmarked across every provider or model version.",
   previewMeaning:
@@ -151,7 +151,7 @@ const homeCopyZh: HomeCopy = {
   constraints: "**约束：** 只保留真正重要的人物身份、产品细节、场景特征和禁止项。",
   curation: "收录标准与来源说明",
   curationText:
-    "每条提示词都会保留分类、来源平台、作者、原始链接、输入参考素材与预览图。README 生成过程不会改写提示词正文。来自 X 的记录保留原作者与原帖链接;为本仓撰写的记录会写明这一点,并标注预览图是在哪个模型上跑出来的。",
+    "每条提示词都会保留分类、来源平台、作者、原始链接、输入参考素材与预览图，README 生成过程不会改写提示词正文。绝大多数记录来自 X：提示词是作者本人发布时的原文，预览图是他随帖发布的成品图，作者与原帖链接都保留。每条都经过自动核验才收录——原帖需把该图归属给 GPT Image 2.5，且图要和提示词描述得对得上。标为 `official` 的是 OpenAI 官方 Images 2.5 示例：预览图署名 OpenAI 并链回公告，这部分的提示词是从示例图反推重建的，不是官方原文。若权利人不希望某张图出现在这里，开 issue 即可移除。",
   officialCommunity:
     "`official` 和 `community` 标签表示提示词的来源性质，并不代表每条提示词都已经在所有服务商和模型版本上完成独立测试。",
   previewMeaning:
@@ -195,7 +195,7 @@ const homeCopyZhTw: HomeCopy = {
   constraints: "**約束：** 只保留真正重要的人物身分、產品細節、場景特徵和禁止項。",
   curation: "收錄標準與來源說明",
   curationText:
-    "每條提示詞都會保留分類、來源平台、作者、原始連結、輸入參考素材與預覽圖。README 生成過程不會改寫提示詞正文。來自 X 的記錄保留原作者與原帖連結;為本倉撰寫的記錄會寫明這點,並標註預覽圖是在哪個模型上跑出來的。",
+    "每條提示詞都會保留分類、來源平台、作者、原始連結、輸入參考素材與預覽圖，README 生成過程不會改寫提示詞正文。絕大多數記錄來自 X：提示詞是作者本人發佈時的原文，預覽圖是他隨帖發佈的成品圖，作者與原帖連結都保留。每條都經過自動核驗才收錄——原帖需把該圖歸屬給 GPT Image 2.5，且圖要和提示詞描述得對得上。標為 `official` 的是 OpenAI 官方 Images 2.5 範例：預覽圖署名 OpenAI 並連回公告，這部分的提示詞是從範例圖反推重建的，不是官方原文。若權利人不希望某張圖出現在這裡，開 issue 即可移除。",
   officialCommunity:
     "`official` 和 `community` 標籤表示提示詞的來源性質，並不代表每條提示詞都已經在所有服務商和模型版本上完成獨立測試。",
   previewMeaning:
