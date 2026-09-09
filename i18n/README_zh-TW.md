@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-26%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-13%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts&locale=zh-TW) | [提交提示詞](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -82,7 +82,7 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 | 草图转成图 | Use Sketch to draw your idea to life | 声明手绘只作版式参考,再描述成品的材质与光线 |
 | 版式模板 | Structure your prompts for better results | 先选定格式(海报/周边),再把每一个信息位填满 |
 
-**Atlas Cloud 现状:** 还没有 `gpt-image-2.5-flare` / `sunburst` 端点,可用的最新一代是 GPT Image 2(文生图 / 图像编辑)。本仓每张预览图都是在它上面跑出来的,所以这些提示词今天就能照跑;2.5 的 `xhigh`/`max` 画质档与任意分辨率要等上线。
+**Atlas Cloud 现状:** 还没有 `gpt-image-2.5-flare` / `sunburst` 端点,可用的最新一代是 GPT Image 2(文生图 / 图像编辑),所以生成按钮先落在它上面。这些提示词在 2.0 上照样能跑,但 2.5 的 `xhigh`/`max` 画质档与任意分辨率要等端点上线。
 
 **[→ 获取 Atlas Cloud API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts)**
 
@@ -102,9 +102,9 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **26** |
-| 分類數 | **13** |
-| 預覽影片數 | **26** |
+| 提示詞總數 | **13** |
+| 分類數 | **4** |
+| 預覽影片數 | **13** |
 | 最後更新 | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -112,19 +112,10 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 ## 🏷️ 按分類瀏覽
 
 
-- [`複雜版面與文字編排`](#category-1): **3**
-- [`透明背景`](#category-2): **2**
-- [`資訊圖表與現實資訊`](#category-3): **3**
-- [`風格指引`](#category-4): **2**
-- [`範本格式`](#category-5): **2**
-- [`產品與商業`](#category-6): **3**
-- [`草圖轉圖像`](#category-7): **2**
-- [`參考保真度`](#category-8): **2**
-- [`風格導向`](#category-9): **1**
-- [`精準編輯`](#category-10): **3**
-- [`多輪一致性`](#category-11): **1**
-- [`多回合一致性`](#category-12): **1**
-- [`參考忠實度`](#category-13): **1**
+- [`參考圖保真`](#category-1): **2**
+- [`精準編輯`](#category-2): **1**
+- [`風格與理解力`](#category-3): **5**
+- [`複雜版式與文字`](#category-4): **5**
 
 <a id="all-prompts"></a>
 
@@ -133,911 +124,509 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 <a id="category-1"></a>
 
-### 複雜版面與文字編排 (3)
+### 參考圖保真 (2)
 
-### No. 1: 復古相機維修店櫥窗
+### No. 1: 復古八〇年代商場肖像
 
-- **分類:** `複雜版面與文字編排`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `參考圖保真`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_001.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/80s-headshot.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_001.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/80s-headshot.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-密集的店面佈局，六個獨立文字元素在不同深度保持清晰可讀。
+一張懷舊的1980年代風格攝影棚肖像，一位微笑的黑人男性留著爆炸頭，身穿彩色防風外套，背景是霓虹雷射光。
 
 #### 提示詞
 
 ```text
-A photorealistic storefront window of a vintage camera repair shop at dusk, shot straight on. Hand-painted gold leaf lettering on the glass reads "HARLOW & SON — CAMERA REPAIR" in an arc, with "EST. 1948" beneath it in smaller serif caps. Behind the glass: three tiers of wooden shelves holding disassembled rangefinders, brass lens elements laid on green felt, and a handwritten cardboard tag that reads "BACK IN 20 MIN". A neon sign in the top right corner glows "OPEN" in warm red. Reflections of a wet street and a passing bus are visible in the glass but never obscure the lettering. Warm tungsten interior light against cool blue exterior light, 35mm lens, deep focus so every label stays readable.
+A 1980s studio portrait of a smiling Black man with an afro and beard. He wears a teal, magenta, and blue retro nylon windbreaker, a white graphic tee, and a gold chain. Medium close-up composition. Background features a classic 80s laser backdrop with neon pink and blue lines, a blurred palm tree, and a retro boombox. Captured with vintage film camera style, soft studio lighting, subtle grain, and a warm, nostalgic color palette.
 ```
 
-### No. 2: 會議名牌樣板
+### No. 2: 服裝風格編輯
 
-- **分類:** `複雜版面與文字編排`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `參考圖保真`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_002.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/baby-portrait-after.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_002.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/baby-portrait-after.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+- **輸入圖（編輯前）:**
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/baby-portrait-before.jpg" width="320" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-印刷就緒的名牌樣板，具嚴格網格、小字體和保持層次的QR碼預留位置。
+此編輯將孩童的休閒紅色套頭衫換成正式的白色燕尾服與領結，同時保留男孩的臉、手、姿勢、背景及手持照片的部分。
 
 #### 提示詞
 
 ```text
-A top-down photograph of an uncut sheet of six conference name badges on a light grey desk. Each badge is 3:2 landscape with the same layout: a thin teal rule across the top, the event name "NORTHFIELD DESIGN SUMMIT" in condensed sans caps, a large attendee name below it, a smaller role line under that, and a square QR-code placeholder in the bottom right corner. The six names read: ELENA VOSS / Speaker, MARCUS HALE / Attendee, PRIYA RAMESH / Organizer, TOM OKADA / Press, LUISA MARTEL / Attendee, DANIEL KIM / Volunteer. Crop marks at the sheet corners. Even soft studio light, no glare, every line of type crisp and correctly spelled.
+Change the boy's red sweater with a black collar into a formal white tuxedo with black lapels, a white dress shirt, and a black bow tie. The boy's face, hands, sitting pose, the blue studio backdrop, the overall lighting, and the hand with green nail polish holding the printed photograph must remain completely identical. Adjust the shadows and clothing folds naturally around his posture.
 ```
 
-### No. 3: 博物館展覽牆面說明板
-
-- **分類:** `複雜版面與文字編排`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_017.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_017.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-混合標題、內文、圖說與出處資訊，以不同尺寸呈現的展覽說明板。
-
-#### 提示詞
+#### 底圖提示詞（用來生成編輯前那張圖）
 
 ```text
-A photograph of a museum exhibition wall panel mounted on a pale limewash wall, lit by a warm track spot from above. The panel is a matte white board with four clearly separated typographic zones: the heading "TIDE AND STONE" in large light-weight serif caps; a subheading "Coastal engineering on the Atlantic edge, 1890-1935"; a three-paragraph body text block in small serif type, justified, roughly 90 words; and at the bottom, a caption in italic reading "Photograph: harbour works at Peniche, 1911" followed by a credit line in tiny caps "COLLECTION OF THE MARITIME ARCHIVE". Slight panel shadow on the wall, faint wall texture, all type crisp and hierarchically correct.
+A physical photograph being held by a hand with green fingernails, showing a young Black boy posing for a school portrait. He is wearing a red pullover sweater with a black collar and has a neutral expression, seated against a mottled blue studio background.
 ```
 
 <a id="category-2"></a>
 
-### 透明背景 (2)
+### 精準編輯 (1)
 
-### No. 1: 黃銅桌燈去背圖
+### No. 1: 整理床鋪
 
-- **分類:** `透明背景`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `精準編輯`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_003.png)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/making-bed-after.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_003.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/making-bed-after.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+- **輸入圖（編輯前）:**
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/making-bed-before.jpg" width="320" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-工作室產品去背圖，具真實透明背景與細金屬邊緣的乾淨切邊。
+一個將未整理、凌亂的床鋪改為整齊鋪好的床的編輯，同時保持臥室其他元素完全相同。
 
 #### 提示詞
 
 ```text
-A single mid-century brass desk lamp with an articulated arm and a perforated dome shade, photographed as a product cutout on a fully transparent background. Three-quarter view, shade tilted slightly toward the camera. Soft top-left key light with a subtle rim highlight along the arm; visible material detail in the brushed brass and the woven cloth cord. Edges must be clean and anti-aliased around the thin arm, the cord and the perforations, with no halo, no drop shadow and no background fill. PNG with alpha.
+Modify the messy bed to be neatly made with a smoothed-out white comforter. Arrange the pillows neatly and symmetrically against the headboard, and remove the pillows on the floor. Keep the room structure, bed frame, bedside tables, lamps, lighting, open door, window, and rug identical.
 ```
 
-### No. 2: 六件廚房工具貼紙包
-
-- **分類:** `透明背景`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_004.png)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_004.png" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-六個在透明通道上的模切風格貼紙素材，每個都有一致的輪廓線粗細。
-
-#### 提示詞
+#### 底圖提示詞（用來生成編輯前那張圖）
 
 ```text
-Six flat-illustration kitchen tool stickers arranged in two rows of three on a fully transparent background: a copper whisk, a wooden rolling pin, a cast-iron skillet, a citrus juicer, a pepper grinder and a stand mixer. Each has the same 6px warm-white die-cut outline and a soft interior shadow, drawn in a limited palette of terracotta, sage and cream with subtle paper-grain texture. Even spacing, consistent scale, no background, no cast shadows outside the outlines. PNG with alpha.
+A wide-angle photo of an unmade bed with a messy white comforter and scattered pillows in a bedroom with sloped ceilings. Bedside tables with glowing lamps flank the bed, with a couple of extra pillows on the floor, an open door on the left, and a window on the right.
 ```
 
 <a id="category-3"></a>
 
-### 資訊圖表與現實資訊 (3)
+### 風格與理解力 (5)
 
-### No. 1: 咖啡沖煮比例牆面圖表
+### No. 1: 夜間賽博龐克大都會
 
-- **分類:** `資訊圖表與現實資訊`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `風格與理解力`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_005.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/cyberpunk.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_005.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/cyberpunk.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-教學圖表，其中數字、單位和步驟順序都必須內部一致。
+一個孤獨的身影凝視著充滿飛行載具與發光全像廣告的未來主義高聳城市景觀。
 
 #### 提示詞
 
 ```text
-A printed kitchen wall chart titled "POUR-OVER RATIOS" in bold slab serif, on warm off-white paper with a thin charcoal border. Three labelled columns compare brew strengths: LIGHT (1:17, 20 g coffee, 340 g water), STANDARD (1:16, 22 g coffee, 352 g water), STRONG (1:15, 24 g coffee, 360 g water). Below the columns, a four-step timeline with small line icons and captions: 0:00 BLOOM 50 g, 0:45 FIRST POUR, 1:30 SECOND POUR, 3:00 DRAWDOWN. A small footnote reads "Water 94-96 C · Medium grind". Flat editorial illustration style, muted terracotta and charcoal on cream, every number legible and consistent with its ratio.
+A wide-angle shot of a futuristic cyberpunk metropolis at night. A lone silhouette stands on a wet, reflective balcony looking out at towering skyscrapers. A massive, pixelated blue hologram of a woman's face is projected on a building to the left. Elevated highways stretch across the chasm with flying vehicles drifting between buildings. Moody lighting with cool blue and warm amber tones, atmospheric haze, and wet textures.
 ```
 
-### No. 2: 三城市鐵路旅程地圖
+### No. 2: 舊金山刮刀油畫
 
-- **分類:** `資訊圖表與現實資訊`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `風格與理解力`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_006.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/impressionist-cityscape.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_006.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/impressionist-cityscape.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-結合路線、時刻表行和圖例且無碰撞的示意性交通圖形。
+一幅印象派油畫，描繪陡峭的舊金山街道，俯瞰海灣與金門大橋。
 
 #### 提示詞
 
 ```text
-A clean schematic rail journey graphic on a pale ivory background. A single horizontal route line runs left to right with three station nodes labelled LISBON, PORTO and BRAGA, each node a ringed dot with a small platform icon. Under each node: departure and arrival times (LISBON 08:15, PORTO 11:02 / 11:20, BRAGA 12:41) and a duration pill on each segment reading 2h 47m and 1h 21m. Along the bottom, a three-item legend with square swatches: EXPRESS (deep blue), REGIONAL (light blue), TRANSFER (dashed grey). Swiss-style typography, generous whitespace, no overlapping labels, all times and durations arithmetically consistent.
+An impressionistic oil painting of a steep San Francisco street looking down towards the bay, featuring the Golden Gate Bridge in the background and Coit Tower on the right hill. The medium is thick impasto oil with visible palette knife textures. A vibrant color palette is used, featuring a bright blue sky and water, an orange-red bridge, pastel-colored houses in pink, yellow, and orange, and lush green trees with pink bougainvillea. A small white sailboat floats in the bay under bright, clear daylight casting defined shadows on the descending street.
 ```
 
-### No. 3: 自行車胎壓參考卡
+### No. 3: 復古未來太空殖民地
 
-- **分類:** `資訊圖表與現實資訊`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `風格與理解力`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_019.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/retrofuturism.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_019.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/retrofuturism.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-每列三種單位數據必須保持內部一致的隨身參考卡。
+一個復古未來風格的家庭從太空站窗口望向鬱鬱蔥蔥、彎曲的奧尼爾圓筒棲息地。
 
 #### 提示詞
 
 ```text
-A pocket-sized reference card titled "TYRE PRESSURE" printed on stiff cream card, photographed flat with a soft shadow. A four-row table with columns TYRE WIDTH / PSI / BAR / SURFACE: 25 mm, 95 psi, 6.5 bar, Road; 32 mm, 70 psi, 4.8 bar, Mixed; 40 mm, 45 psi, 3.1 bar, Gravel; 50 mm, 30 psi, 2.1 bar, Trail. Thin rules between rows, a small pressure-gauge line icon in the header, and a footnote reading "For 75 kg rider · reduce 5 psi front". Two-colour print in ink blue and warm red on cream, condensed grotesque type, every figure legible and each psi-to-bar pair correctly converted.
+Create a retro-futuristic illustration in the style of 1970s NASA space colony concept art. Show a family of three—a man, a woman in a yellow dress, and a young boy—standing on a viewing deck, looking out of large circular windows. Through the left window, depict the dark void of space with a bright sun and a distant planet. Through the main, large window, reveal the interior of a massive O'Neill cylinder, featuring a curving landscape of green hills, a blue lake, scattered trees, and futuristic white architecture. Use a warm, optimistic color palette with soft lighting and the textured, painted quality of a vintage sci-fi matte painting.
+```
+
+### No. 4: 倒置城市天際墜落
+
+- **分類:** `風格與理解力`
+- **來源:** `official`
+- **作者:** OpenAI
+- **語言:** `en`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/sci-fi-surrealism.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/sci-fi-surrealism.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅超現實的電影畫面，一名西裝男子漂浮在星空虛空中，下方是巨大倒置的城市天際線。
+
+#### 提示詞
+
+```text
+Cinematic wide-angle film still of a man in a dark suit floating horizontally, suspended in a deep blue, starry cosmos. Above him, a massive, glowing city skyline is inverted and curved like a canopy, showcasing dense skyscrapers with golden and warm lights, including a red-and-white radio tower. Below the man, the faint curvature of the Earth with wispy clouds is visible. The lighting is dominated by deep indigo space tones, sparkling stars, a prominent glinting star with a lens flare, and the warm, vibrant glow of the cityscape above. Captured on 35mm film, surreal atmosphere, grainy texture, and anamorphic lens distortion.
+```
+
+### No. 5: 地球與星辰的宇宙馬賽克
+
+- **分類:** `風格與理解力`
+- **來源:** `official`
+- **作者:** OpenAI
+- **語言:** `en`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/mosaic.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/mosaic.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅生動的馬賽克藝術作品，描繪了星空下螺旋星系環繞的地球。
+
+#### 提示詞
+
+```text
+A detailed mosaic tile artwork depicting Earth from space. The lower half features the curved Earth crafted from blue, green, brown, and white tesserae. The upper half shows a deep blue cosmos filled with golden-yellow stars, a ringed planet, the moon, and a swirling spiral galaxy. Handcrafted ceramic or glass tile texture with visible grout. Vibrant, saturated colors with a glossy, reflective glaze finish.
 ```
 
 <a id="category-4"></a>
 
-### 風格指引 (2)
+### 複雜版式與文字 (5)
 
-### No. 1: 夜市孔版印刷海報
+### No. 1: 復古極簡勵志海報網格
 
-- **分類:** `風格指引`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `複雜版式與文字`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_007.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/mid-century-modern-posters.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_007.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/mid-century-modern-posters.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-具有刻意錯位和紙張紋理的雙色孔版印刷外觀。
+一個3x3網格，包含九張色彩繽紛的圖形設計海報，結合勵志短語與復古現代幾何藝術。
 
 #### 提示詞
 
 ```text
-A two-colour risograph-style poster of a night market street, printed in fluorescent pink and teal on uncoated cream stock. Stalls recede into the distance under strings of bulbs; a vendor ladles broth into a bowl in the foreground. Deliberate 2mm ink misregistration on the pink plate, visible paper tooth, ink mottling in the solid areas and a slightly starved roller streak across the top third. Hand-lettered title "NIGHT MARKET" runs vertically down the right edge in teal, with "FRI-SUN · 6PM TILL LATE" in small caps at the bottom. Flat shapes, halftone shading, no gradients, no gloss.
+A 3x3 grid of nine minimalist graphic design posters with a mid-century modern aesthetic, set against a cream background. Each poster features bold, clean sans-serif typography and vibrant, flat geometric illustrations in a palette of primary blue, red, orange, yellow, forest green, pink, and black. The first poster shows the text "Travel Farther" above a colorful striped road receding toward a yellow semi-circle sun. The second poster features the word "CREATE" in bubbly blue psychadelic font above wavy colored ribbons. The third poster displays "GROW TOGETHER" with a geometric flower illustration. The fourth poster contains "LISTEN MORE" with layered, colorful silhouette profiles. The fifth poster shows "FIND YOUR BALANCE" above a stack of colorful semi-circles and a black circle. The sixth poster features "DRINK MORE WATER" in bold white letters on a solid blue background with an orange circle. The seventh poster contains "LEARN SOMETHING NEW" next to a pink geometric staircase leading to an archway. The eighth poster displays "SEE THE BEAUTY" over a halftone print of a human eye layered with colorful circles. The ninth poster has "CHOOSE KINDNESS" at the bottom, below a geometric abstract pattern featuring a pink heart shape.
 ```
 
-### No. 2: 摺疊腳踏車技術藍圖
+### No. 2: 復古美國國家公園郵票套組
 
-- **分類:** `風格指引`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `複雜版式與文字`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_008.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/vintage-national-park-stamps.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_008.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/vintage-national-park-stamps.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-具有正視圖、標註和尺寸線的工程圖風格。
+一套八枚復古風格郵票以網格排列，每枚展示不同美國國家公園的復古主題插圖。
 
 #### 提示詞
 
 ```text
-A technical blueprint of a folding commuter bicycle on deep cyanotype blue paper with white line work. Three orthographic views arranged in a grid: side elevation (folded), side elevation (unfolded) and top view. Thin white dimension lines with arrowheads and metric callouts (WHEELBASE 1010 mm, FOLDED 780 x 650 x 320 mm, FRAME 6061-T6). Six numbered leader lines point to components with a matching parts key in the lower right: 1 HINGE CLAMP, 2 SEAT POST, 3 CHAIN TENSIONER, 4 FOLDING PEDAL, 5 REAR RACK, 6 QUICK RELEASE. Title block in the bottom right reads "FOLDING BICYCLE — REV C". Uniform stroke weights, no shading, no perspective.
+A 2x4 grid of eight vintage postage stamps with perforated edges on a black background, designed as mid-century travel illustrations. Top row left to right: Stamp 1 labeled 'Yellowstone' 'NATIONAL PARK' 'WY, MT, ID' with a geyser, captioned 'AMERICA'S FIRST NATIONAL PARK'. Stamp 2 labeled 'Grand Canyon' 'NATIONAL PARK' 'ARIZONA' with canyon views, captioned 'A WORLD OF WONDER'. Stamp 3 labeled 'Acadia' 'NATIONAL PARK' 'MAINE' with a coastal lighthouse, captioned 'WHERE MOUNTAINS MEET THE SEA'. Stamp 4 labeled 'Zion' 'NATIONAL PARK' 'UTAH' showing red cliffs, captioned 'NATURE'S CATHEDRAL'. Bottom row left to right: Stamp 5 labeled 'Glacier' 'NATIONAL PARK' 'MONTANA' with snowy peaks and a lake, captioned 'CROWN OF THE CONTINENT'. Stamp 6 labeled 'Great Smoky Mountains' 'NATIONAL PARK' 'TENNESSEE / NORTH CAROLINA' with misty hills, captioned 'FOREVER WILD'. Stamp 7 labeled 'Denali' 'NATIONAL PARK' 'ALASKA' featuring a snowy mountain and caribou, captioned 'THE GREAT ONE'. Stamp 8 labeled 'Everglades' 'NATIONAL PARK' 'FLORIDA' showing a swamp sunset and a heron, captioned 'RIVER OF GRASS'.
 ```
 
-<a id="category-5"></a>
+### No. 3: 優雅科莫湖婚禮邀請函
 
-### 範本格式 (2)
-
-### No. 1: 農夫市集傳單範本
-
-- **分類:** `範本格式`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `複雜版式與文字`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_009.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/wedding-invitation.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_009.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/wedding-invitation.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-採用範本功能精神的傳單格式，每個資訊欄位皆已填滿。
+一張平鋪擺拍的奢華婚禮邀請函，飾以燙金、鼠尾草綠天鵝絨、白玫瑰與復古配件。
 
 #### 提示詞
 
 ```text
-A portrait A4 flyer for a farmers market, illustrated in warm gouache. Top third: hand-lettered headline "RIVERSIDE FARMERS MARKET" over a loose watercolour banner. Middle: an illustrated basket of leeks, plums, sourdough and a jar of honey. Lower third, arranged as three tidy blocks of text: "EVERY SATURDAY · 7AM-1PM", "MILLBROOK GREEN, RIVERSIDE", and a four-line vendor list reading Fenn Farm Produce, Ashby Bakehouse, Copper Hive Honey, Two Rivers Cheese. A small footer line reads "Free entry · Dogs welcome · Cash and card". Cream paper, terracotta and olive palette, clear typographic hierarchy, all text sharp and correctly spelled.
+An overhead flat lay photo of an elegant wedding invitation on heavy, textured ivory paper with deckled edges. The design features elaborate gold foil baroque framing with cherubs, lions, a crown, and a vintage Lake Como illustration at the bottom. Text on the invitation reads verbatim: 'TOGETHER WITH THEIR FAMILIES', 'Amelia Rose', '&', 'Ethan James', 'REQUEST THE HONOR OF YOUR PRESENCE AT THEIR MARRIAGE', 'SATURDAY, THE FOURTEENTH OF JUNE TWO THOUSAND TWENTY-FIVE AT FIVE O'CLOCK IN THE EVENING', 'Villa Eterna LAKE COMO, ITALY', and 'DINNER, DANCING, AND A LIFETIME OF LOVE TO FOLLOW'. Styled with a sage-green velvet ribbon containing the gold text 'A LOVE MORE BEAUTIFUL THAN TIME', a gold wax seal, white roses, and antique gold accessories. Soft, warm natural lighting emphasizing the rich metallic textures.
 ```
 
-### No. 2: 樂團周邊T恤排版
+### No. 4: ChatGPT 貓咪貼紙海報
 
-- **分類:** `範本格式`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `複雜版式與文字`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_010.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/stickers.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_010.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/stickers.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-周邊商品範本風格排版，具有置中圖形與弧形文字組合。
+一張復古風格宣傳海報，可愛黑貓手持貼紙紙張，背景為做舊藍色。
 
 #### 提示詞
 
 ```text
-A flat-lay photograph of a heather-grey cotton t-shirt on a concrete surface, with a screen-printed graphic centred on the chest. The graphic: a linocut-style crescent moon over a mountain ridge in a single cream ink, encircled by curved text reading "THE LONG QUIET" above and "AUTUMN TOUR 2026" below. A small four-city list is printed on the left sleeve in tiny caps: OSLO, LEEDS, GENT, PORTO. Visible ink texture and slight halftone break-up where the print crosses the fabric weave, soft daylight from the left, gentle fabric wrinkles, no mockup gloss or watermark.
+A vintage advertising poster featuring a cute black cat with large golden eyes sitting and holding a white sticker sheet. The background is a distressed, folded blue paper texture. At the top, bold yellow text reads 'ChatGPT Stickers', with smaller Japanese text 'チャットGPT ステッカー' above it. Below, white text reads 'New sticker pack' flanked by yellow accent lines. On the left side, yellow Japanese text is written vertically: 'つたえよう、もっとたのしく。'. The sticker sheet contains colorful cartoon designs including a goldfish, a heart, a thumbs up, and bubbles with 'Nice!' and 'Wow!'.
 ```
 
-<a id="category-6"></a>
+### No. 5: Google 簡報太陽閃焰畫面截圖
 
-### 產品與商業 (3)
-
-### No. 1: 洞石上的陶瓷手沖咖啡組
-
-- **分類:** `產品與商業`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `複雜版式與文字`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_011.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/presentation-image.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_011.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/presentation-image.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-具有受控反射與材質分離的高級產品靜物照。
+一張Mac Chrome瀏覽器中的深色主題Google簡報截圖，以專業圖解說明太陽閃焰的科學原理。
 
 #### 提示詞
 
 ```text
-A commercial still life of a matte-white ceramic pour-over dripper and carafe set on a honed travertine slab, shot with a 100mm macro at f/8. Single large softbox from the upper right creating a long soft gradient across the ceramic, plus a narrow strip reflector on the left to lift the shadow side. A thin ribbon of steam rises from the carafe. Loose coffee grounds and one whole bean sit in the foreground, slightly out of focus. Background is a seamless warm-grey sweep. Rich material separation between the chalky ceramic glaze, the porous stone and the glossy coffee surface; no clipped highlights, no visible reflector edges.
-```
-
-### No. 2: 帶有水冠的護膚品瓶
-
-- **分類:** `產品與商業`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_012.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_012.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-高速液體產品攝影，需兼顧物理真實性與標籤可讀性。
-
-#### 提示詞
-
-```text
-A frosted glass serum bottle standing in a shallow pool of water, photographed the instant a droplet impact throws a symmetrical water crown around its base. The minimal label reads "AURELE" in thin caps with "HYDRATING SERUM · 30 ML" beneath. Backlit with a hard rim light that catches every droplet, cool blue-green palette, black background, 1/8000s freeze so individual droplets are sharp. Slight caustic light patterns on the surface under the bottle. The label stays perfectly legible and undistorted through the frosted glass.
-```
-
-### No. 3: 烘焙坊包裝組平鋪陳列
-
-- **分類:** `產品與商業`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_020.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_020.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-相同品牌識別需在四種不同材質包裝上重現的家族產品陳列。
-
-#### 提示詞
-
-```text
-An overhead flat lay of a small bakery's packaging family on a flour-dusted steel table: a kraft paper bread bag, a folded pastry box, a round sticker sheet and a ribbed paper cup with a lid. All four carry the same identity: a two-line wordmark reading "MERIDIAN" over "BAKEHOUSE" in a warm ink brown, a wheat-ear monogram, and a thin double rule. The bread bag also shows an ingredient line in small type. Consistent logo scale relative to each surface, correct wrap and distortion on the cup's curve, soft north-facing window light, a scatter of flour and two rye ears as props.
-```
-
-<a id="category-7"></a>
-
-### 草圖轉圖像 (2)
-
-### No. 1: 餐巾草圖到完成室內設計
-
-- **分類:** `草圖轉圖像`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_013.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_013.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-讀取粗略手繪圖作為佈局指引，並渲染出完成的攝影級房間。
-
-#### 提示詞
-
-```text
-Interpret this rough napkin sketch as the layout guide for a finished photograph, keeping the drawn arrangement but rendering it photorealistically: a narrow attic reading nook with a dormer window on the left, a built-in bench under the window with three cushions, floor-to-ceiling bookshelves on the right wall, and a low round table in the centre. Late afternoon sun rakes through the dormer and lands on the bench. Warm oak, off-white plaster, one deep green cushion for accent. Keep the sketched proportions and the position of every element; add realistic materials, contact shadows and dust in the light beam. 35mm, eye level from the doorway.
-```
-
-### No. 2: 塗鴉生物轉為公仔模型
-
-- **分類:** `草圖轉圖像`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_014.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_014.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-將粗糙塗鴉轉變為看起來可製造的收藏品渲染圖。
-
-#### 提示詞
-
-```text
-Treat this crude marker doodle as the character design brief and render it as a photographed vinyl collectible toy: a round-bodied creature with three stubby legs, one oversized eye, a small dorsal fin and a lopsided grin. Soft matte vinyl in mint green with a glossy amber eye and cream belly, visible seam lines and a small copyright stamp under one foot. Standing on a white acrylic riser against a pale grey backdrop, three-point studio lighting with a soft top highlight along the crown. Keep the doodle's proportions and asymmetry exactly, including the uneven legs.
-```
-
-<a id="category-8"></a>
-
-### 參考保真度 (2)
-
-### No. 1: 供參照鏈使用的攝影棚肖像
-
-- **分類:** `參考保真度`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_015.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_015.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-乾淨、光線良好的原始肖像，旨在後續編輯中作為參考圖重複使用。
-
-#### 提示詞
-
-```text
-A studio portrait of a woman in her early thirties with shoulder-length dark curly hair, warm brown eyes, a small mole above her left eyebrow and light freckles across the nose. Neutral expression, head and shoulders, facing the camera straight on. Charcoal crew-neck sweater. Even beauty lighting: large softbox front-left, subtle fill on the right, faint hair light from behind. Seamless light-grey background, 85mm at f/4, natural skin texture with pores and fine lines retained, no retouching, no makeup styling. Sharp, evenly exposed, suitable for use as a reference photograph.
-```
-
-### No. 2: 供系列變體使用的產品主圖
-
-- **分類:** `參考保真度`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_016.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_016.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-中性產品主圖，設計為生成符合品牌調性變體的基礎圖像。
-
-#### 提示詞
-
-```text
-A hero product photograph of a matte black insulated water bottle with a bamboo lid and a thin copper band below the collar, standing dead centre on a seamless mid-grey background. Straight-on eye-level view, bottle perfectly vertical, subtle gradient softbox from above and behind creating a clean vertical highlight down the left side and a soft contact shadow at the base. Brand mark is a small embossed circle, no printed text. Colour-accurate, no colour cast, no props, generous margin around the subject so it can be recomposed later.
-```
-
-<a id="category-9"></a>
-
-### 風格導向 (1)
-
-### No. 1: 貨櫃港浮世繪版畫
-
-- **分類:** `風格導向`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_018.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_018.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-以嚴謹的歷史版畫風格，描繪現代工業主題的作品。
-
-#### 提示詞
-
-```text
-A woodblock print of a modern container port rendered in classical ukiyo-e idiom: flat colour fields, visible woodgrain in the sky, keyblock outlines and a bokashi gradient at the horizon. Gantry cranes stand like torii over stacked containers; a container ship rides a stylised wave with clawed foam crests; Mount Fuji is replaced by a distant cooling tower plume. Palette limited to indigo, ochre, oxidised red and paper cream. A rectangular cartouche in the upper right holds vertical title text, and a small circular publisher's seal sits in the lower left. Aged paper with foxing at the edges, no photographic shading or perspective.
-```
-
-<a id="category-10"></a>
-
-### 精準編輯 (3)
-
-### No. 1: 更換沙發，保留房間
-
-- **分類:** `精準編輯`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_021_after.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_021_after.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-- **輸入圖（編輯前）:**
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_021_before.jpg" width="320" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-僅替換單一物件及其接觸陰影，畫面其餘部分保持原樣。
-
-#### 提示詞
-
-```text
-Replace only the cream boucle sofa with a dark forest-green velvet chesterfield of the same three-seat footprint, matching the original camera angle and perspective. Keep everything else in the frame exactly as it is: the coffee table and the two books, the ceramic vase, the fig tree, the floorboards, the window and the direction and softness of the light. Rebuild the contact shadow and the ambient occlusion under the new sofa so it sits in the same place on the floor, and let the green velvet pick up the same cool light from the window.
-```
-
-#### 底圖提示詞（用來生成編輯前那張圖）
-
-```text
-A photorealistic interior photograph of a bright living room: a boucle cream three-seat sofa against a plastered off-white wall, a low walnut coffee table with a stack of two books and a small ceramic vase in front of it, a tall fiddle-leaf fig in the right corner, wide oak floorboards, and a large window on the left throwing soft morning light and a long window shadow across the floor. Eye level, 35mm, nothing else in the frame.
-```
-
-### No. 2: 僅更改標籤文案
-
-- **分類:** `精準編輯`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_022_after.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_022_after.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-- **輸入圖（編輯前）:**
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_022_before.jpg" width="320" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-在不影響瓶身、光影與構圖下，重寫產品上的印刷文案。
-
-#### 提示詞
-
-```text
-Change only the printed copy on the label: the wordmark should now read "NORTHSIDE" over "CEDAR & LIME · 30 ML", keeping the exact same typeface, weight, letter-spacing, colour and position on the label. Do not alter the bottle, the dropper cap, the label paper texture, the moisture droplets, the slate surface, the shadow direction or the background. The new text must follow the same slight curve of the label around the glass.
-```
-
-#### 底圖提示詞（用來生成編輯前那張圖）
-
-```text
-A commercial photograph of an amber glass dropper bottle on a dark slate surface, lit by a single hard light from the upper left with a crisp shadow to the right. The paper label reads "NORTHSIDE" in bold condensed caps with "BEARD OIL · 50 ML" beneath it in small caps. Slight moisture on the glass, deep charcoal background, 100mm macro, product dead centre.
-```
-
-### No. 3: 乾淨移除旁觀者
-
-- **分類:** `精準編輯`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_023_after.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_023_after.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-- **輸入圖（編輯前）:**
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_023_before.jpg" width="320" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-移除主體並重建其後方場景，包含連續的欄杆結構。
-
-#### 提示詞
-
-```text
-Remove the man in the red windbreaker entirely and reconstruct what was behind him: continue the cast-iron railing with the same rhythm of balusters and the same worn paint, extend the sea and horizon line at the correct height, and complete the granite paving with plausible wear and joint lines. Remove his shadow from the paving as well. Leave the rest of the photograph, the sun direction, the colour grade and the grain untouched.
-```
-
-#### 底圖提示詞（用來生成編輯前那張圖）
-
-```text
-A photograph of an empty seaside promenade at golden hour with a cast-iron railing running left to right across the middle of the frame, the sea and horizon behind it, worn granite paving in the foreground, and a man in a red windbreaker leaning on the railing at the right third looking out to sea. Warm low sun from the left, long shadows on the paving.
-```
-
-<a id="category-11"></a>
-
-### 多輪一致性 (1)
-
-### No. 1: 無偏移添加招牌
-
-- **分類:** `多輪一致性`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_024_after.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_024_after.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-- **輸入圖（編輯前）:**
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_024_before.jpg" width="320" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-在完成的店面外觀上添加單一元素，同時保留所有原有細節。
-
-#### 提示詞
-
-```text
-Add a hand-painted sign board above the windows reading "CORNER & CO" in cream serif caps on the teal facade, with a smaller line beneath reading "COFFEE · PASTRIES". Match the facade's existing paint sheen and the flat overcast lighting, and add the faint shadow the board casts on the wall. Everything already in the photograph must stay pixel-consistent: the brass window frames, the awning, all four chairs and both tables, the bicycle and lamppost, the cobbles and the colour grade.
-```
-
-#### 底圖提示詞（用來生成編輯前那張圖）
-
-```text
-A photorealistic street-level photograph of a narrow corner cafe with a deep teal painted facade, two large windows with brass frames, a black awning, four bentwood chairs and two small round tables on the pavement, a bicycle leaning against a lamppost on the left, and cobbled paving. Overcast soft light, straight-on view, no signage on the facade yet.
-```
-
-<a id="category-12"></a>
-
-### 多回合一致性 (1)
-
-### No. 1: 僅重製季節
-
-- **分類:** `多回合一致性`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_025_after.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_025_after.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-- **輸入圖（編輯前）:**
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_025_before.jpg" width="320" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-改變環境與季節，同時保持建築結構與構圖完全相同。
-
-#### 提示詞
-
-```text
-Change only the season and weather to a still winter morning after fresh snow: snow on the slate roof, the wall copings and the gravel path, bare stems where the climbing rose was, frost on the grass, and a cold overcast sky with a low pale sun. Keep the cottage's architecture, proportions, stonework, the blue door and both sash windows, the dry-stone wall, the iron gate and the exact camera position and framing identical to the original. No new objects, no footprints, no smoke.
-```
-
-#### 底圖提示詞（用來生成編輯前那張圖）
-
-```text
-A photograph of a stone cottage with a slate roof and a blue-painted door at the end of a gravel path, surrounded by summer grass and a low dry-stone wall, under a bright hazy sky. Two sash windows either side of the door, a climbing rose on the left wall, an iron gate in the foreground. Straight-on view, 35mm, midday light.
-```
-
-<a id="category-13"></a>
-
-### 參考忠實度 (1)
-
-### No. 1: 相同主體，全新場景
-
-- **分類:** `參考忠實度`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_026_after.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_026_after.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-- **輸入圖（編輯前）:**
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_026_before.jpg" width="320" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-將肖像主體置入不同的環境與光線中，同時保持其可辨識性。
-
-#### 提示詞
-
-```text
-Place this same man in a new setting without changing who he is: standing at a workbench in a timber workshop at the end of the day, low warm sun coming through a dusty window on the right and rim-lighting the left side of his face, sawdust in the air, hand planes and offcuts softly out of focus behind him. Three-quarter view, waist up, 50mm at f/2. Preserve his facial structure, the beard pattern, the eyebrow scar, the hairline and his skin texture exactly; only the environment, pose, wardrobe wear and lighting change.
-```
-
-#### 底圖提示詞（用來生成編輯前那張圖）
-
-```text
-A studio portrait of a man in his forties with a short salt-and-pepper beard, deep-set brown eyes, a small scar through his right eyebrow and close-cropped grey-flecked hair. Neutral expression, head and shoulders, facing camera. Navy work jacket over a grey tee. Flat even studio lighting on a seamless white background, 85mm, natural skin texture retained.
+A UI screenshot of a Google Slides presentation open in a macOS Chrome browser window. The Chrome tab is labeled "Our Dynamic Sun - Google Slides". The active slide is dark-themed and titled "What Causes Solar Flares?" in large serif font with white and orange colors. On the right, a highly detailed graphic of the sun erupts with a bright orange solar flare. Beneath the header "THE SUN'S ENERGY IN ACTION", a horizontal process chart details four steps with circular minimalist icons, labeled "1. MAGNETIC FIELD TWISTING", "2. SUNSPOT ACTIVITY", "3. MAGNETIC RECONNECTION", and "4. ENERGY RELEASE" alongside brief paragraphs. The left sidebar displays six slide thumbnails. The overall design is professional, featuring deep black, orange, and white tones.
 ```
 
 <a id="featured-prompts"></a>
 
 ## 🔥 精選提示詞
 
-### No. 1: 復古相機維修店櫥窗
+### No. 1: 復古八〇年代商場肖像
 
-- **分類:** `複雜版面與文字編排`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `參考圖保真`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_001.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/80s-headshot.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_001.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/80s-headshot.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-密集的店面佈局，六個獨立文字元素在不同深度保持清晰可讀。
+一張懷舊的1980年代風格攝影棚肖像，一位微笑的黑人男性留著爆炸頭，身穿彩色防風外套，背景是霓虹雷射光。
 
 #### 提示詞
 
 ```text
-A photorealistic storefront window of a vintage camera repair shop at dusk, shot straight on. Hand-painted gold leaf lettering on the glass reads "HARLOW & SON — CAMERA REPAIR" in an arc, with "EST. 1948" beneath it in smaller serif caps. Behind the glass: three tiers of wooden shelves holding disassembled rangefinders, brass lens elements laid on green felt, and a handwritten cardboard tag that reads "BACK IN 20 MIN". A neon sign in the top right corner glows "OPEN" in warm red. Reflections of a wet street and a passing bus are visible in the glass but never obscure the lettering. Warm tungsten interior light against cool blue exterior light, 35mm lens, deep focus so every label stays readable.
+A 1980s studio portrait of a smiling Black man with an afro and beard. He wears a teal, magenta, and blue retro nylon windbreaker, a white graphic tee, and a gold chain. Medium close-up composition. Background features a classic 80s laser backdrop with neon pink and blue lines, a blurred palm tree, and a retro boombox. Captured with vintage film camera style, soft studio lighting, subtle grain, and a warm, nostalgic color palette.
 ```
 
-### No. 2: 三城市鐵路旅程地圖
+### No. 2: 服裝風格編輯
 
-- **分類:** `資訊圖表與現實資訊`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
+- **分類:** `參考圖保真`
+- **來源:** `official`
+- **作者:** OpenAI
 - **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_006.jpg)
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/baby-portrait-after.jpg)
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_006.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-結合路線、時刻表行和圖例且無碰撞的示意性交通圖形。
-
-#### 提示詞
-
-```text
-A clean schematic rail journey graphic on a pale ivory background. A single horizontal route line runs left to right with three station nodes labelled LISBON, PORTO and BRAGA, each node a ringed dot with a small platform icon. Under each node: departure and arrival times (LISBON 08:15, PORTO 11:02 / 11:20, BRAGA 12:41) and a duration pill on each segment reading 2h 47m and 1h 21m. Along the bottom, a three-item legend with square swatches: EXPRESS (deep blue), REGIONAL (light blue), TRANSFER (dashed grey). Swiss-style typography, generous whitespace, no overlapping labels, all times and durations arithmetically consistent.
-```
-
-### No. 3: 摺疊腳踏車技術藍圖
-
-- **分類:** `風格指引`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_008.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_008.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-具有正視圖、標註和尺寸線的工程圖風格。
-
-#### 提示詞
-
-```text
-A technical blueprint of a folding commuter bicycle on deep cyanotype blue paper with white line work. Three orthographic views arranged in a grid: side elevation (folded), side elevation (unfolded) and top view. Thin white dimension lines with arrowheads and metric callouts (WHEELBASE 1010 mm, FOLDED 780 x 650 x 320 mm, FRAME 6061-T6). Six numbered leader lines point to components with a matching parts key in the lower right: 1 HINGE CLAMP, 2 SEAT POST, 3 CHAIN TENSIONER, 4 FOLDING PEDAL, 5 REAR RACK, 6 QUICK RELEASE. Title block in the bottom right reads "FOLDING BICYCLE — REV C". Uniform stroke weights, no shading, no perspective.
-```
-
-### No. 4: 農夫市集傳單範本
-
-- **分類:** `範本格式`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_009.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_009.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-採用範本功能精神的傳單格式，每個資訊欄位皆已填滿。
-
-#### 提示詞
-
-```text
-A portrait A4 flyer for a farmers market, illustrated in warm gouache. Top third: hand-lettered headline "RIVERSIDE FARMERS MARKET" over a loose watercolour banner. Middle: an illustrated basket of leeks, plums, sourdough and a jar of honey. Lower third, arranged as three tidy blocks of text: "EVERY SATURDAY · 7AM-1PM", "MILLBROOK GREEN, RIVERSIDE", and a four-line vendor list reading Fenn Farm Produce, Ashby Bakehouse, Copper Hive Honey, Two Rivers Cheese. A small footer line reads "Free entry · Dogs welcome · Cash and card". Cream paper, terracotta and olive palette, clear typographic hierarchy, all text sharp and correctly spelled.
-```
-
-### No. 5: 洞石上的陶瓷手沖咖啡組
-
-- **分類:** `產品與商業`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_011.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_011.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-具有受控反射與材質分離的高級產品靜物照。
-
-#### 提示詞
-
-```text
-A commercial still life of a matte-white ceramic pour-over dripper and carafe set on a honed travertine slab, shot with a 100mm macro at f/8. Single large softbox from the upper right creating a long soft gradient across the ceramic, plus a narrow strip reflector on the left to lift the shadow side. A thin ribbon of steam rises from the carafe. Loose coffee grounds and one whole bean sit in the foreground, slightly out of focus. Background is a seamless warm-grey sweep. Rich material separation between the chalky ceramic glaze, the porous stone and the glossy coffee surface; no clipped highlights, no visible reflector edges.
-```
-
-### No. 6: 餐巾草圖到完成室內設計
-
-- **分類:** `草圖轉圖像`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_013.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_013.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-讀取粗略手繪圖作為佈局指引，並渲染出完成的攝影級房間。
-
-#### 提示詞
-
-```text
-Interpret this rough napkin sketch as the layout guide for a finished photograph, keeping the drawn arrangement but rendering it photorealistically: a narrow attic reading nook with a dormer window on the left, a built-in bench under the window with three cushions, floor-to-ceiling bookshelves on the right wall, and a low round table in the centre. Late afternoon sun rakes through the dormer and lands on the bench. Warm oak, off-white plaster, one deep green cushion for accent. Keep the sketched proportions and the position of every element; add realistic materials, contact shadows and dust in the light beam. 35mm, eye level from the doorway.
-```
-
-### No. 7: 供參照鏈使用的攝影棚肖像
-
-- **分類:** `參考保真度`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_015.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_015.jpg" width="480" referrerpolicy="no-referrer">
-</p>
-
-#### 描述
-
-乾淨、光線良好的原始肖像，旨在後續編輯中作為參考圖重複使用。
-
-#### 提示詞
-
-```text
-A studio portrait of a woman in her early thirties with shoulder-length dark curly hair, warm brown eyes, a small mole above her left eyebrow and light freckles across the nose. Neutral expression, head and shoulders, facing the camera straight on. Charcoal crew-neck sweater. Even beauty lighting: large softbox front-left, subtle fill on the right, faint hair light from behind. Seamless light-grey background, 85mm at f/4, natural skin texture with pores and fine lines retained, no retouching, no makeup styling. Sharp, evenly exposed, suitable for use as a reference photograph.
-```
-
-### No. 8: 更換沙發，保留房間
-
-- **分類:** `精準編輯`
-- **來源:** `curated`
-- **作者:** Atlas Cloud
-- **語言:** `en`
-- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_021_after.jpg)
-
-<p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_021_after.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/baby-portrait-after.jpg" width="480" referrerpolicy="no-referrer">
 </p>
 
 - **輸入圖（編輯前）:**
 
 <p>
-  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_021_before.jpg" width="320" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/baby-portrait-before.jpg" width="320" referrerpolicy="no-referrer">
 </p>
 
 #### 描述
 
-僅替換單一物件及其接觸陰影，畫面其餘部分保持原樣。
+此編輯將孩童的休閒紅色套頭衫換成正式的白色燕尾服與領結，同時保留男孩的臉、手、姿勢、背景及手持照片的部分。
 
 #### 提示詞
 
 ```text
-Replace only the cream boucle sofa with a dark forest-green velvet chesterfield of the same three-seat footprint, matching the original camera angle and perspective. Keep everything else in the frame exactly as it is: the coffee table and the two books, the ceramic vase, the fig tree, the floorboards, the window and the direction and softness of the light. Rebuild the contact shadow and the ambient occlusion under the new sofa so it sits in the same place on the floor, and let the green velvet pick up the same cool light from the window.
+Change the boy's red sweater with a black collar into a formal white tuxedo with black lapels, a white dress shirt, and a black bow tie. The boy's face, hands, sitting pose, the blue studio backdrop, the overall lighting, and the hand with green nail polish holding the printed photograph must remain completely identical. Adjust the shadows and clothing folds naturally around his posture.
 ```
 
 #### 底圖提示詞（用來生成編輯前那張圖）
 
 ```text
-A photorealistic interior photograph of a bright living room: a boucle cream three-seat sofa against a plastered off-white wall, a low walnut coffee table with a stack of two books and a small ceramic vase in front of it, a tall fiddle-leaf fig in the right corner, wide oak floorboards, and a large window on the left throwing soft morning light and a long window shadow across the floor. Eye level, 35mm, nothing else in the frame.
+A physical photograph being held by a hand with green fingernails, showing a young Black boy posing for a school portrait. He is wearing a red pullover sweater with a black collar and has a neutral expression, seated against a mottled blue studio background.
+```
+
+### No. 3: 整理床鋪
+
+- **分類:** `精準編輯`
+- **來源:** `official`
+- **作者:** OpenAI
+- **語言:** `en`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/making-bed-after.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/making-bed-after.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+- **輸入圖（編輯前）:**
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/making-bed-before.jpg" width="320" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個將未整理、凌亂的床鋪改為整齊鋪好的床的編輯，同時保持臥室其他元素完全相同。
+
+#### 提示詞
+
+```text
+Modify the messy bed to be neatly made with a smoothed-out white comforter. Arrange the pillows neatly and symmetrically against the headboard, and remove the pillows on the floor. Keep the room structure, bed frame, bedside tables, lamps, lighting, open door, window, and rug identical.
+```
+
+#### 底圖提示詞（用來生成編輯前那張圖）
+
+```text
+A wide-angle photo of an unmade bed with a messy white comforter and scattered pillows in a bedroom with sloped ceilings. Bedside tables with glowing lamps flank the bed, with a couple of extra pillows on the floor, an open door on the left, and a window on the right.
+```
+
+### No. 4: 夜間賽博龐克大都會
+
+- **分類:** `風格與理解力`
+- **來源:** `official`
+- **作者:** OpenAI
+- **語言:** `en`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/cyberpunk.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/cyberpunk.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個孤獨的身影凝視著充滿飛行載具與發光全像廣告的未來主義高聳城市景觀。
+
+#### 提示詞
+
+```text
+A wide-angle shot of a futuristic cyberpunk metropolis at night. A lone silhouette stands on a wet, reflective balcony looking out at towering skyscrapers. A massive, pixelated blue hologram of a woman's face is projected on a building to the left. Elevated highways stretch across the chasm with flying vehicles drifting between buildings. Moody lighting with cool blue and warm amber tones, atmospheric haze, and wet textures.
+```
+
+### No. 5: 復古極簡勵志海報網格
+
+- **分類:** `複雜版式與文字`
+- **來源:** `official`
+- **作者:** OpenAI
+- **語言:** `en`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/mid-century-modern-posters.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/mid-century-modern-posters.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個3x3網格，包含九張色彩繽紛的圖形設計海報，結合勵志短語與復古現代幾何藝術。
+
+#### 提示詞
+
+```text
+A 3x3 grid of nine minimalist graphic design posters with a mid-century modern aesthetic, set against a cream background. Each poster features bold, clean sans-serif typography and vibrant, flat geometric illustrations in a palette of primary blue, red, orange, yellow, forest green, pink, and black. The first poster shows the text "Travel Farther" above a colorful striped road receding toward a yellow semi-circle sun. The second poster features the word "CREATE" in bubbly blue psychadelic font above wavy colored ribbons. The third poster displays "GROW TOGETHER" with a geometric flower illustration. The fourth poster contains "LISTEN MORE" with layered, colorful silhouette profiles. The fifth poster shows "FIND YOUR BALANCE" above a stack of colorful semi-circles and a black circle. The sixth poster features "DRINK MORE WATER" in bold white letters on a solid blue background with an orange circle. The seventh poster contains "LEARN SOMETHING NEW" next to a pink geometric staircase leading to an archway. The eighth poster displays "SEE THE BEAUTY" over a halftone print of a human eye layered with colorful circles. The ninth poster has "CHOOSE KINDNESS" at the bottom, below a geometric abstract pattern featuring a pink heart shape.
+```
+
+### No. 6: 復古美國國家公園郵票套組
+
+- **分類:** `複雜版式與文字`
+- **來源:** `official`
+- **作者:** OpenAI
+- **語言:** `en`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-official/vintage-national-park-stamps.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-official/vintage-national-park-stamps.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一套八枚復古風格郵票以網格排列，每枚展示不同美國國家公園的復古主題插圖。
+
+#### 提示詞
+
+```text
+A 2x4 grid of eight vintage postage stamps with perforated edges on a black background, designed as mid-century travel illustrations. Top row left to right: Stamp 1 labeled 'Yellowstone' 'NATIONAL PARK' 'WY, MT, ID' with a geyser, captioned 'AMERICA'S FIRST NATIONAL PARK'. Stamp 2 labeled 'Grand Canyon' 'NATIONAL PARK' 'ARIZONA' with canyon views, captioned 'A WORLD OF WONDER'. Stamp 3 labeled 'Acadia' 'NATIONAL PARK' 'MAINE' with a coastal lighthouse, captioned 'WHERE MOUNTAINS MEET THE SEA'. Stamp 4 labeled 'Zion' 'NATIONAL PARK' 'UTAH' showing red cliffs, captioned 'NATURE'S CATHEDRAL'. Bottom row left to right: Stamp 5 labeled 'Glacier' 'NATIONAL PARK' 'MONTANA' with snowy peaks and a lake, captioned 'CROWN OF THE CONTINENT'. Stamp 6 labeled 'Great Smoky Mountains' 'NATIONAL PARK' 'TENNESSEE / NORTH CAROLINA' with misty hills, captioned 'FOREVER WILD'. Stamp 7 labeled 'Denali' 'NATIONAL PARK' 'ALASKA' featuring a snowy mountain and caribou, captioned 'THE GREAT ONE'. Stamp 8 labeled 'Everglades' 'NATIONAL PARK' 'FLORIDA' showing a swamp sunset and a heron, captioned 'RIVER OF GRASS'.
 ```
 
 <a id="faq"></a>
 
 ## ❓ 常見問題
 
-### 这些提示词能直接用吗?
-
-可以,复制即用。每条旁边那张图就是这段提示词真跑出来的结果,不是配图。
-
 ### 预览图是 2.5 生成的吗?
 
-不是,如实说:Atlas Cloud 还没上 2.5,所以预览是用它自己在官方公告里对标的 `openai/gpt-image-2` 跑的。提示词是按 2.5 官方公告点明的能力面写的,2.5 上线后同一批提示词可以直接重跑对比。
+是。每张预览都是 OpenAI 在官方公告里发布的 Images 2.5 输出,署名 OpenAI 并链回公告出处。
+
+### 那提示词从哪来?
+
+官方公布了示例但没公布提示词。本仓每条提示词都是用视觉模型看图反推出来的,属于忠实还原而非官方原文——它能复现创意和构图,不保证像素一致。
+
+### 这些提示词能直接用吗?
+
+可以,复制即用。它们是写给模型的指令,所以你的服务商提供哪一代 GPT Image 都能跑。
 
 ### 编辑类条目怎么用?
 
-这类条目有两张图:「输入图(编辑前)」和成品图。先用记录里的底图提示词生成输入图(或换成你自己的图),再把编辑指令发给 edit 端点。
-
-### 为什么提示词里写了那么多「不要改什么」?
-
-官方公告里精准编辑与多轮一致性正是主打改进项,而这两件事靠的就是显式列出不变量。删掉那些句子,模型就会顺手重画整张图。
+这类条目有两张图:OpenAI 展示的输入图和编辑后的结果。先用记录里的底图提示词生成输入图(或换成你自己的图),再把编辑指令发给 edit 端点。那些「不要改什么」的长句子正是重点:精准编辑与多轮一致性是 2.5 的主打改进,而这两件事靠的就是显式列出不变量。
 
 <details><summary>倉庫開發</summary>
 

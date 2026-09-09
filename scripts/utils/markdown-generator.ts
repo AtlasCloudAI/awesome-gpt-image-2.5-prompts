@@ -80,20 +80,20 @@ const homeCopyEn: HomeCopy = {
     "**Generate:** run it on the newest GPT Image generation your provider exposes (Atlas Cloud currently serves GPT Image 2), then edit one element at a time instead of re-prompting from scratch.",
   execution: "Generation modes in the official handbook",
   executionIntro:
-    "Every prompt here ships with the image it actually produced, so you can see what the wording does before you spend a generation of your own.",
+    "Every entry pairs a genuine Images 2.5 output with the prompt recovered from it, so you can see what 2.5 actually produces before you spend a generation of your own.",
   executionMcp: "**Atlas MCP:** used when the user explicitly selects MCP and its generation tools are available.",
   executionCliRest: "**Atlas CLI / REST:** used for explicit terminal, script, CI, or batch workflows.",
   polling:
     "All asynchronous jobs are polled every 2 seconds using the same prediction ID. A timeout or delayed output is not permission to submit a duplicate paid generation.",
   modelDefaults: "Model defaults",
   modelDefaultText:
-    "**Prompts:** written against the capability areas OpenAI names in the Images 2.5 announcement. **Previews:** rendered through Atlas Cloud on `openai/gpt-image-2` — Atlas does not serve 2.5 yet — and re-hosted on the Atlas CDN. Each record states its own provenance.",
+    "**Previews:** OpenAI's own Images 2.5 example outputs, taken from the announcement and re-hosted on the Atlas CDN, credited to OpenAI. **Prompts:** OpenAI published the examples but not the prompts behind them, so each prompt here was recovered from the image by a vision model. Treat them as faithful reconstructions, not official wording.",
   modelIntro: "What is GPT Image 2.5?",
   modelDescription:
     "GPT Image 2.5 (announced as ChatGPT Images 2.5 on September 8, 2026) is OpenAI's image model for generation and editing. The announcement leads with four claims: sharper details with more natural lighting and richer textures, better preservation of the subjects in your reference photos, editing instructions followed more reliably across multiple turns, and image generation latency reduced by up to 50% compared with Images 2.0.",
   promptGuide: "GPT Image 2.5 prompt guide",
   launchStatus:
-    "**Availability:** Images 2.5 rolled out on September 8, 2026 to all ChatGPT, ChatGPT Work and Codex tiers on desktop, mobile and web. In the API OpenAI released two models: `gpt-image-2.5-flare`, the default choice, with the same quality and editing gains at 50% lower latency than GPT Image 2, and `gpt-image-2.5-sunburst` for premium workflows that want tighter control across edits, at longer generation times. **Atlas Cloud does not serve either one yet** — the newest GPT Image generation there is [GPT Image 2 text-to-image](https://www.atlascloud.ai/models/openai/gpt-image-2/text-to-image) and [edit](https://www.atlascloud.ai/models/openai/gpt-image-2/edit), which is what every preview in this repo was rendered on.",
+    "**Availability:** Images 2.5 rolled out on September 8, 2026 to all ChatGPT, ChatGPT Work and Codex tiers on desktop, mobile and web. In the API OpenAI released two models: `gpt-image-2.5-flare`, the default choice, with the same quality and editing gains at 50% lower latency than GPT Image 2, and `gpt-image-2.5-sunburst` for premium workflows that want tighter control across edits, at longer generation times. **Atlas Cloud does not serve either one yet**; the newest GPT Image generation there is [GPT Image 2 text-to-image](https://www.atlascloud.ai/models/openai/gpt-image-2/text-to-image) and [edit](https://www.atlascloud.ai/models/openai/gpt-image-2/edit), so that is where the Generate button lands until the 2.5 endpoints arrive.",
   capabilityIntro:
     "**From the official announcement:** reference fidelity, so subjects from your own photos stay recognisable across new settings, styles and compositions; precision editing, changing one element while the rest of the frame holds; multi-turn consistency, where earlier edits survive later ones without quality decay; better handling of complex visual instructions, real-world information, complex layouts and transparent backgrounds; and stronger adherence to a named visual style. In ChatGPT it also ships Sketch (draw a reference with `@Sketch`), Templates for formats like Poster and Merch, comments placed directly on an image for focused edits, and prompt sharing. Outputs carry C2PA metadata and invisible watermarking. The API adds `xhigh` and `max` quality levels and arbitrary output resolutions within documented constraints.",
   availability:
@@ -107,7 +107,7 @@ const homeCopyEn: HomeCopy = {
   constraints: "**Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.",
   curation: "Curation and provenance",
   curationText:
-    "Every prompt record keeps its category, source platform, author, source link, input references and preview image. Prompt text is never rewritten during README generation. Records sourced from X keep the original author and a link to the post; records written for this repo say so and name the model their preview was rendered on.",
+    "Every record keeps its category, source, author, source link, input references and preview image, and prompt text is never rewritten during README generation. Preview images are OpenAI's Images 2.5 examples, credited to OpenAI and linked back to the announcement they came from; if OpenAI would rather they were not reproduced here, open an issue and they will be removed. Prompts are reconstructions recovered from those images, not official text. Records collected from X keep their original author and post link.",
   officialCommunity:
     "The `official` and `community` labels describe where a prompt came from; they are not a guarantee that every prompt has been independently benchmarked across every provider or model version.",
   previewMeaning:
@@ -133,7 +133,7 @@ const homeCopyZh: HomeCopy = {
     "所有异步任务都使用同一个 prediction ID 每 2 秒轮询一次。超时或暂时没有输出，不代表可以重复提交付费生成任务。",
   modelDefaults: "默认模型",
   modelDefaultText:
-    "**提示词：** 按 OpenAI 在 Images 2.5 公告里点明的能力面逐条编写。**预览：** 通过 Atlas Cloud 用 `openai/gpt-image-2` 真跑出来（Atlas 尚未上 2.5），转存 Atlas CDN。每条记录都标注自己的来源。",
+    "**预览：** OpenAI 官方公告里的 Images 2.5 示例输出，署名 OpenAI、转存 Atlas CDN。**提示词：** 官方公布了示例但没公布提示词，所以每条都是用视觉模型看图反推的——请当作忠实还原，不是官方原文。",
   modelIntro: "GPT Image 2.5 是什么？",
   modelDescription:
     "GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 发布)是 OpenAI 的图像生成与编辑模型。官方公告主打四点:细节更锐、光影与质感更自然;更好地保留参考照片里的主体;多轮编辑时更可靠地照做指令;生成延迟相比 Images 2.0 降低最多 50%。",
@@ -177,7 +177,7 @@ const homeCopyZhTw: HomeCopy = {
     "所有非同步任務都使用同一個 prediction ID 每 2 秒輪詢一次。逾時或暫時沒有輸出，不代表可以重複提交付費生成任務。",
   modelDefaults: "預設模型",
   modelDefaultText:
-    "**提示詞：** 依 OpenAI 在 Images 2.5 公告裡點明的能力面逐條撰寫。**預覽：** 透過 Atlas Cloud 用 `openai/gpt-image-2` 實際跑出（Atlas 尚未上 2.5），轉存 Atlas CDN。每條記錄都標註自己的來源。",
+    "**預覽：** OpenAI 官方公告裡的 Images 2.5 範例輸出，署名 OpenAI、轉存 Atlas CDN。**提示詞：** 官方公布了範例但沒公布提示詞，所以每條都是用視覺模型看圖反推的——請當作忠實還原，不是官方原文。",
   modelIntro: "GPT Image 2.5 是什麼？",
   modelDescription:
     "GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖像生成與編輯模型。官方公告主打四點:細節更銳、光影與質感更自然;更好地保留參考照片裡的主體;多輪編輯時更可靠地照做指令;生成延遲相比 Images 2.0 降低最多 50%。",
@@ -290,8 +290,8 @@ function renderExecution(locale: string): string {
     ...rows.map((r) => `| ${r[0]} | ${r[1]} | ${r[2]} |`),
     "",
     zh
-      ? "**Atlas Cloud 现状:** 还没有 `gpt-image-2.5-flare` / `sunburst` 端点,可用的最新一代是 GPT Image 2(文生图 / 图像编辑)。本仓每张预览图都是在它上面跑出来的,所以这些提示词今天就能照跑;2.5 的 `xhigh`/`max` 画质档与任意分辨率要等上线。"
-      : "**On Atlas Cloud today:** no `gpt-image-2.5-flare` / `sunburst` endpoints yet; the newest GPT Image generation available is GPT Image 2 (text-to-image / edit). Every preview in this repo was rendered on it, so these prompts run today as-is — 2.5's `xhigh`/`max` quality levels and arbitrary resolutions have to wait for it to land.",
+      ? "**Atlas Cloud 现状:** 还没有 `gpt-image-2.5-flare` / `sunburst` 端点,可用的最新一代是 GPT Image 2(文生图 / 图像编辑),所以生成按钮先落在它上面。这些提示词在 2.0 上照样能跑,但 2.5 的 `xhigh`/`max` 画质档与任意分辨率要等端点上线。"
+      : "**On Atlas Cloud today:** no `gpt-image-2.5-flare` / `sunburst` endpoints yet; the newest GPT Image generation available is GPT Image 2 (text-to-image / edit), which is where the Generate button lands for now. The prompts still run there, but 2.5's `xhigh`/`max` quality levels and arbitrary resolutions have to wait for the endpoints.",
     "",
     `**[→ ${zh ? "获取 Atlas Cloud API Key" : "Get an Atlas Cloud API key"}](https://www.atlascloud.ai/console/api-keys${UTM})**`,
     "",
@@ -450,16 +450,16 @@ function renderFaq(locale: string): string {
   const zh = locale === "zh" || locale === "zh-TW";
   const items = zh
     ? [
-        ["这些提示词能直接用吗?", "可以,复制即用。每条旁边那张图就是这段提示词真跑出来的结果,不是配图。"],
-        ["预览图是 2.5 生成的吗?", "不是,如实说:Atlas Cloud 还没上 2.5,所以预览是用它自己在官方公告里对标的 `openai/gpt-image-2` 跑的。提示词是按 2.5 官方公告点明的能力面写的,2.5 上线后同一批提示词可以直接重跑对比。"],
-        ["编辑类条目怎么用?", "这类条目有两张图:「输入图(编辑前)」和成品图。先用记录里的底图提示词生成输入图(或换成你自己的图),再把编辑指令发给 edit 端点。"],
-        ["为什么提示词里写了那么多「不要改什么」?", "官方公告里精准编辑与多轮一致性正是主打改进项,而这两件事靠的就是显式列出不变量。删掉那些句子,模型就会顺手重画整张图。"],
+        ["预览图是 2.5 生成的吗?", "是。每张预览都是 OpenAI 在官方公告里发布的 Images 2.5 输出,署名 OpenAI 并链回公告出处。"],
+        ["那提示词从哪来?", "官方公布了示例但没公布提示词。本仓每条提示词都是用视觉模型看图反推出来的,属于忠实还原而非官方原文——它能复现创意和构图,不保证像素一致。"],
+        ["这些提示词能直接用吗?", "可以,复制即用。它们是写给模型的指令,所以你的服务商提供哪一代 GPT Image 都能跑。"],
+        ["编辑类条目怎么用?", "这类条目有两张图:OpenAI 展示的输入图和编辑后的结果。先用记录里的底图提示词生成输入图(或换成你自己的图),再把编辑指令发给 edit 端点。那些「不要改什么」的长句子正是重点:精准编辑与多轮一致性是 2.5 的主打改进,而这两件事靠的就是显式列出不变量。"],
       ]
     : [
-        ["Can I use these prompts as-is?", "Yes, copy and run. The image next to each entry is what that exact prompt produced — it is not decoration."],
-        ["Were the previews made with 2.5?", "No, and we would rather say so: Atlas Cloud does not serve 2.5 yet, so previews were rendered on `openai/gpt-image-2` — the model OpenAI's own announcement benchmarks 2.5 against. The prompts are written for the capability areas named in that announcement, so the same set can be re-run for comparison the day 2.5 lands."],
-        ["How do the editing entries work?", "Those carry two images: the input (before the edit) and the result. Generate the input with the base prompt in the record — or drop in your own photo — then send the edit instruction to the edit endpoint."],
-        ["Why do the prompts spend so many words on what NOT to change?", "Because precision editing and multi-turn consistency are the headline improvements in the announcement, and both depend on the invariants being stated explicitly. Drop those sentences and the model happily repaints the whole frame."],
+        ["Were the previews made with 2.5?", "Yes. Every preview is an Images 2.5 output published by OpenAI in the announcement, credited to OpenAI and linked back to it."],
+        ["Then where do the prompts come from?", "OpenAI published the examples but not the prompts behind them. Each prompt here was recovered from the image by a vision model, so it is a faithful reconstruction rather than official wording — expect it to reproduce the idea and the composition, not the exact pixels."],
+        ["Can I use these prompts as-is?", "Yes, copy and run. They are written as instructions, so they transfer to whichever GPT Image generation your provider exposes."],
+        ["How do the editing entries work?", "Those carry two images: the input OpenAI showed and the edited result. Generate the input with the base prompt in the record — or drop in your own photo — then send the edit instruction to the edit endpoint. The long preserve-list in those prompts is the point: precision editing and multi-turn consistency are the headline 2.5 improvements, and both depend on stating the invariants explicitly."],
       ];
   const lines = [renderHeading("faq", `❓ ${copy.faq}`)];
   for (const [question, answer] of items) {
