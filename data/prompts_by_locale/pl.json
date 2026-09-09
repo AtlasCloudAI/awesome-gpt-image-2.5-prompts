@@ -3,7 +3,7 @@
     "id": "gi25_001",
     "sort_order": 1,
     "title": "Vintage Camera Repair Shop Window",
-    "description": "A dense storefront layout where six separate text elements stay legible at different depths. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A dense storefront layout where six separate text elements stay legible at different depths.",
     "prompt": "A photorealistic storefront window of a vintage camera repair shop at dusk, shot straight on. Hand-painted gold leaf lettering on the glass reads \"HARLOW & SON — CAMERA REPAIR\" in an arc, with \"EST. 1948\" beneath it in smaller serif caps. Behind the glass: three tiers of wooden shelves holding disassembled rangefinders, brass lens elements laid on green felt, and a handwritten cardboard tag that reads \"BACK IN 20 MIN\". A neon sign in the top right corner glows \"OPEN\" in warm red. Reflections of a wet street and a passing bus are visible in the glass but never obscure the lettering. Warm tungsten interior light against cool blue exterior light, 35mm lens, deep focus so every label stays readable.",
     "category": "Complex Layout & Typography",
     "prompt_categories": [
@@ -25,7 +25,7 @@
     "id": "gi25_002",
     "sort_order": 2,
     "title": "Conference Badge Sheet Mockup",
-    "description": "A print-ready badge sheet with a strict grid, small type and QR placeholders that hold their hierarchy. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A print-ready badge sheet with a strict grid, small type and QR placeholders that hold their hierarchy.",
     "prompt": "A top-down photograph of an uncut sheet of six conference name badges on a light grey desk. Each badge is 3:2 landscape with the same layout: a thin teal rule across the top, the event name \"NORTHFIELD DESIGN SUMMIT\" in condensed sans caps, a large attendee name below it, a smaller role line under that, and a square QR-code placeholder in the bottom right corner. The six names read: ELENA VOSS / Speaker, MARCUS HALE / Attendee, PRIYA RAMESH / Organizer, TOM OKADA / Press, LUISA MARTEL / Attendee, DANIEL KIM / Volunteer. Crop marks at the sheet corners. Even soft studio light, no glare, every line of type crisp and correctly spelled.",
     "category": "Complex Layout & Typography",
     "prompt_categories": [
@@ -47,7 +47,7 @@
     "id": "gi25_003",
     "sort_order": 3,
     "title": "Isolated Brass Desk Lamp Cutout",
-    "description": "A studio product cutout with a genuinely transparent background and clean edges around thin metal. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A studio product cutout with a genuinely transparent background and clean edges around thin metal.",
     "prompt": "A single mid-century brass desk lamp with an articulated arm and a perforated dome shade, photographed as a product cutout on a fully transparent background. Three-quarter view, shade tilted slightly toward the camera. Soft top-left key light with a subtle rim highlight along the arm; visible material detail in the brushed brass and the woven cloth cord. Edges must be clean and anti-aliased around the thin arm, the cord and the perforations, with no halo, no drop shadow and no background fill. PNG with alpha.",
     "category": "Transparent Background",
     "prompt_categories": [
@@ -69,7 +69,7 @@
     "id": "gi25_004",
     "sort_order": 4,
     "title": "Sticker Pack Of Six Kitchen Tools",
-    "description": "Six die-cut style sticker assets on alpha, each with a consistent outline weight. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Six die-cut style sticker assets on alpha, each with a consistent outline weight.",
     "prompt": "Six flat-illustration kitchen tool stickers arranged in two rows of three on a fully transparent background: a copper whisk, a wooden rolling pin, a cast-iron skillet, a citrus juicer, a pepper grinder and a stand mixer. Each has the same 6px warm-white die-cut outline and a soft interior shadow, drawn in a limited palette of terracotta, sage and cream with subtle paper-grain texture. Even spacing, consistent scale, no background, no cast shadows outside the outlines. PNG with alpha.",
     "category": "Transparent Background",
     "prompt_categories": [
@@ -91,7 +91,7 @@
     "id": "gi25_005",
     "sort_order": 5,
     "title": "Coffee Brewing Ratio Wall Chart",
-    "description": "An instructional chart where numbers, units and step order all have to be internally consistent. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "An instructional chart where numbers, units and step order all have to be internally consistent.",
     "prompt": "A printed kitchen wall chart titled \"POUR-OVER RATIOS\" in bold slab serif, on warm off-white paper with a thin charcoal border. Three labelled columns compare brew strengths: LIGHT (1:17, 20 g coffee, 340 g water), STANDARD (1:16, 22 g coffee, 352 g water), STRONG (1:15, 24 g coffee, 360 g water). Below the columns, a four-step timeline with small line icons and captions: 0:00 BLOOM 50 g, 0:45 FIRST POUR, 1:30 SECOND POUR, 3:00 DRAWDOWN. A small footnote reads \"Water 94-96 C · Medium grind\". Flat editorial illustration style, muted terracotta and charcoal on cream, every number legible and consistent with its ratio.",
     "category": "Infographic & Real-World Info",
     "prompt_categories": [
@@ -113,7 +113,7 @@
     "id": "gi25_006",
     "sort_order": 6,
     "title": "Three-City Rail Journey Map",
-    "description": "A schematic transit graphic combining a route line, timetable rows and a legend without collision. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A schematic transit graphic combining a route line, timetable rows and a legend without collision.",
     "prompt": "A clean schematic rail journey graphic on a pale ivory background. A single horizontal route line runs left to right with three station nodes labelled LISBON, PORTO and BRAGA, each node a ringed dot with a small platform icon. Under each node: departure and arrival times (LISBON 08:15, PORTO 11:02 / 11:20, BRAGA 12:41) and a duration pill on each segment reading 2h 47m and 1h 21m. Along the bottom, a three-item legend with square swatches: EXPRESS (deep blue), REGIONAL (light blue), TRANSFER (dashed grey). Swiss-style typography, generous whitespace, no overlapping labels, all times and durations arithmetically consistent.",
     "category": "Infographic & Real-World Info",
     "prompt_categories": [
@@ -135,7 +135,7 @@
     "id": "gi25_007",
     "sort_order": 7,
     "title": "Risograph Poster Of A Night Market",
-    "description": "A two-ink risograph look with deliberate misregistration and paper texture. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A two-ink risograph look with deliberate misregistration and paper texture.",
     "prompt": "A two-colour risograph-style poster of a night market street, printed in fluorescent pink and teal on uncoated cream stock. Stalls recede into the distance under strings of bulbs; a vendor ladles broth into a bowl in the foreground. Deliberate 2mm ink misregistration on the pink plate, visible paper tooth, ink mottling in the solid areas and a slightly starved roller streak across the top third. Hand-lettered title \"NIGHT MARKET\" runs vertically down the right edge in teal, with \"FRI-SUN · 6PM TILL LATE\" in small caps at the bottom. Flat shapes, halftone shading, no gradients, no gloss.",
     "category": "Style Direction",
     "prompt_categories": [
@@ -157,7 +157,7 @@
     "id": "gi25_008",
     "sort_order": 8,
     "title": "Technical Blueprint Of A Folding Bicycle",
-    "description": "An engineering drawing style with orthographic views, callouts and dimension lines. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "An engineering drawing style with orthographic views, callouts and dimension lines.",
     "prompt": "A technical blueprint of a folding commuter bicycle on deep cyanotype blue paper with white line work. Three orthographic views arranged in a grid: side elevation (folded), side elevation (unfolded) and top view. Thin white dimension lines with arrowheads and metric callouts (WHEELBASE 1010 mm, FOLDED 780 x 650 x 320 mm, FRAME 6061-T6). Six numbered leader lines point to components with a matching parts key in the lower right: 1 HINGE CLAMP, 2 SEAT POST, 3 CHAIN TENSIONER, 4 FOLDING PEDAL, 5 REAR RACK, 6 QUICK RELEASE. Title block in the bottom right reads \"FOLDING BICYCLE — REV C\". Uniform stroke weights, no shading, no perspective.",
     "category": "Style Direction",
     "prompt_categories": [
@@ -179,7 +179,7 @@
     "id": "gi25_009",
     "sort_order": 9,
     "title": "Farmers Market Flyer Template",
-    "description": "A flyer format in the spirit of the Templates feature, with every information slot filled. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A flyer format in the spirit of the Templates feature, with every information slot filled.",
     "prompt": "A portrait A4 flyer for a farmers market, illustrated in warm gouache. Top third: hand-lettered headline \"RIVERSIDE FARMERS MARKET\" over a loose watercolour banner. Middle: an illustrated basket of leeks, plums, sourdough and a jar of honey. Lower third, arranged as three tidy blocks of text: \"EVERY SATURDAY · 7AM-1PM\", \"MILLBROOK GREEN, RIVERSIDE\", and a four-line vendor list reading Fenn Farm Produce, Ashby Bakehouse, Copper Hive Honey, Two Rivers Cheese. A small footer line reads \"Free entry · Dogs welcome · Cash and card\". Cream paper, terracotta and olive palette, clear typographic hierarchy, all text sharp and correctly spelled.",
     "category": "Template Formats",
     "prompt_categories": [
@@ -201,7 +201,7 @@
     "id": "gi25_010",
     "sort_order": 10,
     "title": "Band Merch Tee Layout",
-    "description": "A merch-template style layout with a centred graphic and curved lockup type. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A merch-template style layout with a centred graphic and curved lockup type.",
     "prompt": "A flat-lay photograph of a heather-grey cotton t-shirt on a concrete surface, with a screen-printed graphic centred on the chest. The graphic: a linocut-style crescent moon over a mountain ridge in a single cream ink, encircled by curved text reading \"THE LONG QUIET\" above and \"AUTUMN TOUR 2026\" below. A small four-city list is printed on the left sleeve in tiny caps: OSLO, LEEDS, GENT, PORTO. Visible ink texture and slight halftone break-up where the print crosses the fabric weave, soft daylight from the left, gentle fabric wrinkles, no mockup gloss or watermark.",
     "category": "Template Formats",
     "prompt_categories": [
@@ -223,7 +223,7 @@
     "id": "gi25_011",
     "sort_order": 11,
     "title": "Ceramic Pour-Over Set On Travertine",
-    "description": "A premium product still life with controlled reflections and material separation. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A premium product still life with controlled reflections and material separation.",
     "prompt": "A commercial still life of a matte-white ceramic pour-over dripper and carafe set on a honed travertine slab, shot with a 100mm macro at f/8. Single large softbox from the upper right creating a long soft gradient across the ceramic, plus a narrow strip reflector on the left to lift the shadow side. A thin ribbon of steam rises from the carafe. Loose coffee grounds and one whole bean sit in the foreground, slightly out of focus. Background is a seamless warm-grey sweep. Rich material separation between the chalky ceramic glaze, the porous stone and the glossy coffee surface; no clipped highlights, no visible reflector edges.",
     "category": "Product & Commercial",
     "prompt_categories": [
@@ -245,7 +245,7 @@
     "id": "gi25_012",
     "sort_order": 12,
     "title": "Skincare Bottle With Water Crown",
-    "description": "A high-speed liquid product shot where physics and label legibility both have to hold. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A high-speed liquid product shot where physics and label legibility both have to hold.",
     "prompt": "A frosted glass serum bottle standing in a shallow pool of water, photographed the instant a droplet impact throws a symmetrical water crown around its base. The minimal label reads \"AURELE\" in thin caps with \"HYDRATING SERUM · 30 ML\" beneath. Backlit with a hard rim light that catches every droplet, cool blue-green palette, black background, 1/8000s freeze so individual droplets are sharp. Slight caustic light patterns on the surface under the bottle. The label stays perfectly legible and undistorted through the frosted glass.",
     "category": "Product & Commercial",
     "prompt_categories": [
@@ -267,7 +267,7 @@
     "id": "gi25_013",
     "sort_order": 13,
     "title": "Napkin Sketch To Finished Interior",
-    "description": "Reads a rough hand drawing as layout guidance and renders a finished photographic room. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Reads a rough hand drawing as layout guidance and renders a finished photographic room.",
     "prompt": "Interpret this rough napkin sketch as the layout guide for a finished photograph, keeping the drawn arrangement but rendering it photorealistically: a narrow attic reading nook with a dormer window on the left, a built-in bench under the window with three cushions, floor-to-ceiling bookshelves on the right wall, and a low round table in the centre. Late afternoon sun rakes through the dormer and lands on the bench. Warm oak, off-white plaster, one deep green cushion for accent. Keep the sketched proportions and the position of every element; add realistic materials, contact shadows and dust in the light beam. 35mm, eye level from the doorway.",
     "category": "Sketch to Image",
     "prompt_categories": [
@@ -289,7 +289,7 @@
     "id": "gi25_014",
     "sort_order": 14,
     "title": "Doodle Creature As Vinyl Toy",
-    "description": "Turns a crude doodle into a manufacturable-looking collectible render. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Turns a crude doodle into a manufacturable-looking collectible render.",
     "prompt": "Treat this crude marker doodle as the character design brief and render it as a photographed vinyl collectible toy: a round-bodied creature with three stubby legs, one oversized eye, a small dorsal fin and a lopsided grin. Soft matte vinyl in mint green with a glossy amber eye and cream belly, visible seam lines and a small copyright stamp under one foot. Standing on a white acrylic riser against a pale grey backdrop, three-point studio lighting with a soft top highlight along the crown. Keep the doodle's proportions and asymmetry exactly, including the uneven legs.",
     "category": "Sketch to Image",
     "prompt_categories": [
@@ -311,7 +311,7 @@
     "id": "gi25_015",
     "sort_order": 15,
     "title": "Studio Portrait For Reference Chains",
-    "description": "A clean, well-lit source portrait built to be reused as a reference image in later edits. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A clean, well-lit source portrait built to be reused as a reference image in later edits.",
     "prompt": "A studio portrait of a woman in her early thirties with shoulder-length dark curly hair, warm brown eyes, a small mole above her left eyebrow and light freckles across the nose. Neutral expression, head and shoulders, facing the camera straight on. Charcoal crew-neck sweater. Even beauty lighting: large softbox front-left, subtle fill on the right, faint hair light from behind. Seamless light-grey background, 85mm at f/4, natural skin texture with pores and fine lines retained, no retouching, no makeup styling. Sharp, evenly exposed, suitable for use as a reference photograph.",
     "category": "Reference Fidelity",
     "prompt_categories": [
@@ -333,7 +333,7 @@
     "id": "gi25_016",
     "sort_order": 16,
     "title": "Product Hero For Variant Sets",
-    "description": "A neutral product hero designed as the anchor image for generating on-brand variations. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A neutral product hero designed as the anchor image for generating on-brand variations.",
     "prompt": "A hero product photograph of a matte black insulated water bottle with a bamboo lid and a thin copper band below the collar, standing dead centre on a seamless mid-grey background. Straight-on eye-level view, bottle perfectly vertical, subtle gradient softbox from above and behind creating a clean vertical highlight down the left side and a soft contact shadow at the base. Brand mark is a small embossed circle, no printed text. Colour-accurate, no colour cast, no props, generous margin around the subject so it can be recomposed later.",
     "category": "Reference Fidelity",
     "prompt_categories": [
@@ -355,7 +355,7 @@
     "id": "gi25_017",
     "sort_order": 17,
     "title": "Museum Exhibition Wall Panel",
-    "description": "An exhibition panel that mixes a heading, body copy, a caption and a credit line at different sizes. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "An exhibition panel that mixes a heading, body copy, a caption and a credit line at different sizes.",
     "prompt": "A photograph of a museum exhibition wall panel mounted on a pale limewash wall, lit by a warm track spot from above. The panel is a matte white board with four clearly separated typographic zones: the heading \"TIDE AND STONE\" in large light-weight serif caps; a subheading \"Coastal engineering on the Atlantic edge, 1890-1935\"; a three-paragraph body text block in small serif type, justified, roughly 90 words; and at the bottom, a caption in italic reading \"Photograph: harbour works at Peniche, 1911\" followed by a credit line in tiny caps \"COLLECTION OF THE MARITIME ARCHIVE\". Slight panel shadow on the wall, faint wall texture, all type crisp and hierarchically correct.",
     "category": "Complex Layout & Typography",
     "prompt_categories": [
@@ -377,7 +377,7 @@
     "id": "gi25_018",
     "sort_order": 18,
     "title": "Ukiyo-e Print Of A Container Port",
-    "description": "Holds a strict historical print idiom while depicting a modern industrial subject. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Holds a strict historical print idiom while depicting a modern industrial subject.",
     "prompt": "A woodblock print of a modern container port rendered in classical ukiyo-e idiom: flat colour fields, visible woodgrain in the sky, keyblock outlines and a bokashi gradient at the horizon. Gantry cranes stand like torii over stacked containers; a container ship rides a stylised wave with clawed foam crests; Mount Fuji is replaced by a distant cooling tower plume. Palette limited to indigo, ochre, oxidised red and paper cream. A rectangular cartouche in the upper right holds vertical title text, and a small circular publisher's seal sits in the lower left. Aged paper with foxing at the edges, no photographic shading or perspective.",
     "category": "Style Direction",
     "prompt_categories": [
@@ -399,7 +399,7 @@
     "id": "gi25_019",
     "sort_order": 19,
     "title": "Bicycle Tyre Pressure Reference Card",
-    "description": "A pocket reference where every row must stay internally consistent across three units. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A pocket reference where every row must stay internally consistent across three units.",
     "prompt": "A pocket-sized reference card titled \"TYRE PRESSURE\" printed on stiff cream card, photographed flat with a soft shadow. A four-row table with columns TYRE WIDTH / PSI / BAR / SURFACE: 25 mm, 95 psi, 6.5 bar, Road; 32 mm, 70 psi, 4.8 bar, Mixed; 40 mm, 45 psi, 3.1 bar, Gravel; 50 mm, 30 psi, 2.1 bar, Trail. Thin rules between rows, a small pressure-gauge line icon in the header, and a footnote reading \"For 75 kg rider · reduce 5 psi front\". Two-colour print in ink blue and warm red on cream, condensed grotesque type, every figure legible and each psi-to-bar pair correctly converted.",
     "category": "Infographic & Real-World Info",
     "prompt_categories": [
@@ -421,7 +421,7 @@
     "id": "gi25_020",
     "sort_order": 20,
     "title": "Bakery Packaging Set Flat Lay",
-    "description": "A packaging family shot where the same identity has to repeat across four different substrates. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "A packaging family shot where the same identity has to repeat across four different substrates.",
     "prompt": "An overhead flat lay of a small bakery's packaging family on a flour-dusted steel table: a kraft paper bread bag, a folded pastry box, a round sticker sheet and a ribbed paper cup with a lid. All four carry the same identity: a two-line wordmark reading \"MERIDIAN\" over \"BAKEHOUSE\" in a warm ink brown, a wheat-ear monogram, and a thin double rule. The bread bag also shows an ingredient line in small type. Consistent logo scale relative to each surface, correct wrap and distortion on the cup's curve, soft north-facing window light, a scatter of flour and two rye ears as props.",
     "category": "Product & Commercial",
     "prompt_categories": [
@@ -443,7 +443,7 @@
     "id": "gi25_021",
     "sort_order": 21,
     "title": "Swap The Sofa, Keep The Room",
-    "description": "Replaces one object and its contact shadow while leaving the rest of the frame untouched. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Replaces one object and its contact shadow while leaving the rest of the frame untouched.",
     "prompt": "Replace only the cream boucle sofa with a dark forest-green velvet chesterfield of the same three-seat footprint, matching the original camera angle and perspective. Keep everything else in the frame exactly as it is: the coffee table and the two books, the ceramic vase, the fig tree, the floorboards, the window and the direction and softness of the light. Rebuild the contact shadow and the ambient occlusion under the new sofa so it sits in the same place on the floor, and let the green velvet pick up the same cool light from the window.",
     "category": "Precision Editing",
     "prompt_categories": [
@@ -468,7 +468,7 @@
     "id": "gi25_022",
     "sort_order": 22,
     "title": "Change The Label Copy Only",
-    "description": "Rewrites printed copy on a product without disturbing the bottle, lighting or composition. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Rewrites printed copy on a product without disturbing the bottle, lighting or composition.",
     "prompt": "Change only the printed copy on the label: the wordmark should now read \"NORTHSIDE\" over \"CEDAR & LIME · 30 ML\", keeping the exact same typeface, weight, letter-spacing, colour and position on the label. Do not alter the bottle, the dropper cap, the label paper texture, the moisture droplets, the slate surface, the shadow direction or the background. The new text must follow the same slight curve of the label around the glass.",
     "category": "Precision Editing",
     "prompt_categories": [
@@ -493,7 +493,7 @@
     "id": "gi25_023",
     "sort_order": 23,
     "title": "Remove The Bystander Cleanly",
-    "description": "Removes a subject and reconstructs what was behind it, including a continuous railing. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Removes a subject and reconstructs what was behind it, including a continuous railing.",
     "prompt": "Remove the man in the red windbreaker entirely and reconstruct what was behind him: continue the cast-iron railing with the same rhythm of balusters and the same worn paint, extend the sea and horizon line at the correct height, and complete the granite paving with plausible wear and joint lines. Remove his shadow from the paving as well. Leave the rest of the photograph, the sun direction, the colour grade and the grain untouched.",
     "category": "Precision Editing",
     "prompt_categories": [
@@ -518,7 +518,7 @@
     "id": "gi25_024",
     "sort_order": 24,
     "title": "Add Signage Without Drift",
-    "description": "Adds one element to a finished storefront while preserving every earlier detail. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Adds one element to a finished storefront while preserving every earlier detail.",
     "prompt": "Add a hand-painted sign board above the windows reading \"CORNER & CO\" in cream serif caps on the teal facade, with a smaller line beneath reading \"COFFEE · PASTRIES\". Match the facade's existing paint sheen and the flat overcast lighting, and add the faint shadow the board casts on the wall. Everything already in the photograph must stay pixel-consistent: the brass window frames, the awning, all four chairs and both tables, the bicycle and lamppost, the cobbles and the colour grade.",
     "category": "Multi-Turn Consistency",
     "prompt_categories": [
@@ -543,7 +543,7 @@
     "id": "gi25_025",
     "sort_order": 25,
     "title": "Restyle The Season Only",
-    "description": "Changes environment and season while keeping architecture and framing identical. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Changes environment and season while keeping architecture and framing identical.",
     "prompt": "Change only the season and weather to a still winter morning after fresh snow: snow on the slate roof, the wall copings and the gravel path, bare stems where the climbing rose was, frost on the grass, and a cold overcast sky with a low pale sun. Keep the cottage's architecture, proportions, stonework, the blue door and both sash windows, the dry-stone wall, the iron gate and the exact camera position and framing identical to the original. No new objects, no footprints, no smoke.",
     "category": "Multi-Turn Consistency",
     "prompt_categories": [
@@ -568,7 +568,7 @@
     "id": "gi25_026",
     "sort_order": 26,
     "title": "Same Subject, New Setting",
-    "description": "Carries a portrait subject into a different environment and light while keeping them recognisable. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.",
+    "description": "Carries a portrait subject into a different environment and light while keeping them recognisable.",
     "prompt": "Place this same man in a new setting without changing who he is: standing at a workbench in a timber workshop at the end of the day, low warm sun coming through a dusty window on the right and rim-lighting the left side of his face, sawdust in the air, hand planes and offcuts softly out of focus behind him. Three-quarter view, waist up, 50mm at f/2. Preserve his facial structure, the beard pattern, the eyebrow scar, the hairline and his skin texture exactly; only the environment, pose, wardrobe wear and lighting change.",
     "category": "Reference Fidelity",
     "prompt_categories": [

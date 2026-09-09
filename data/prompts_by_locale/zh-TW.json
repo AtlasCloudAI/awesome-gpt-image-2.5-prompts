@@ -3,7 +3,7 @@
     "id": "gi25_001",
     "sort_order": 1,
     "title": "復古相機維修店櫥窗",
-    "description": "密集的店面佈局，六個獨立文字元素在不同深度保持清晰可讀。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "密集的店面佈局，六個獨立文字元素在不同深度保持清晰可讀。",
     "prompt": "A photorealistic storefront window of a vintage camera repair shop at dusk, shot straight on. Hand-painted gold leaf lettering on the glass reads \"HARLOW & SON — CAMERA REPAIR\" in an arc, with \"EST. 1948\" beneath it in smaller serif caps. Behind the glass: three tiers of wooden shelves holding disassembled rangefinders, brass lens elements laid on green felt, and a handwritten cardboard tag that reads \"BACK IN 20 MIN\". A neon sign in the top right corner glows \"OPEN\" in warm red. Reflections of a wet street and a passing bus are visible in the glass but never obscure the lettering. Warm tungsten interior light against cool blue exterior light, 35mm lens, deep focus so every label stays readable.",
     "category": "複雜版面與文字編排",
     "prompt_categories": [
@@ -25,7 +25,7 @@
     "id": "gi25_002",
     "sort_order": 2,
     "title": "會議名牌樣板",
-    "description": "印刷就緒的名牌樣板，具嚴格網格、小字體和保持層次的QR碼預留位置。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "印刷就緒的名牌樣板，具嚴格網格、小字體和保持層次的QR碼預留位置。",
     "prompt": "A top-down photograph of an uncut sheet of six conference name badges on a light grey desk. Each badge is 3:2 landscape with the same layout: a thin teal rule across the top, the event name \"NORTHFIELD DESIGN SUMMIT\" in condensed sans caps, a large attendee name below it, a smaller role line under that, and a square QR-code placeholder in the bottom right corner. The six names read: ELENA VOSS / Speaker, MARCUS HALE / Attendee, PRIYA RAMESH / Organizer, TOM OKADA / Press, LUISA MARTEL / Attendee, DANIEL KIM / Volunteer. Crop marks at the sheet corners. Even soft studio light, no glare, every line of type crisp and correctly spelled.",
     "category": "複雜版面與文字編排",
     "prompt_categories": [
@@ -47,7 +47,7 @@
     "id": "gi25_003",
     "sort_order": 3,
     "title": "黃銅桌燈去背圖",
-    "description": "工作室產品去背圖，具真實透明背景與細金屬邊緣的乾淨切邊。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "工作室產品去背圖，具真實透明背景與細金屬邊緣的乾淨切邊。",
     "prompt": "A single mid-century brass desk lamp with an articulated arm and a perforated dome shade, photographed as a product cutout on a fully transparent background. Three-quarter view, shade tilted slightly toward the camera. Soft top-left key light with a subtle rim highlight along the arm; visible material detail in the brushed brass and the woven cloth cord. Edges must be clean and anti-aliased around the thin arm, the cord and the perforations, with no halo, no drop shadow and no background fill. PNG with alpha.",
     "category": "透明背景",
     "prompt_categories": [
@@ -69,7 +69,7 @@
     "id": "gi25_004",
     "sort_order": 4,
     "title": "六件廚房工具貼紙包",
-    "description": "六個在透明通道上的模切風格貼紙素材，每個都有一致的輪廓線粗細。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "六個在透明通道上的模切風格貼紙素材，每個都有一致的輪廓線粗細。",
     "prompt": "Six flat-illustration kitchen tool stickers arranged in two rows of three on a fully transparent background: a copper whisk, a wooden rolling pin, a cast-iron skillet, a citrus juicer, a pepper grinder and a stand mixer. Each has the same 6px warm-white die-cut outline and a soft interior shadow, drawn in a limited palette of terracotta, sage and cream with subtle paper-grain texture. Even spacing, consistent scale, no background, no cast shadows outside the outlines. PNG with alpha.",
     "category": "透明背景",
     "prompt_categories": [
@@ -91,7 +91,7 @@
     "id": "gi25_005",
     "sort_order": 5,
     "title": "咖啡沖煮比例牆面圖表",
-    "description": "教學圖表，其中數字、單位和步驟順序都必須內部一致。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "教學圖表，其中數字、單位和步驟順序都必須內部一致。",
     "prompt": "A printed kitchen wall chart titled \"POUR-OVER RATIOS\" in bold slab serif, on warm off-white paper with a thin charcoal border. Three labelled columns compare brew strengths: LIGHT (1:17, 20 g coffee, 340 g water), STANDARD (1:16, 22 g coffee, 352 g water), STRONG (1:15, 24 g coffee, 360 g water). Below the columns, a four-step timeline with small line icons and captions: 0:00 BLOOM 50 g, 0:45 FIRST POUR, 1:30 SECOND POUR, 3:00 DRAWDOWN. A small footnote reads \"Water 94-96 C · Medium grind\". Flat editorial illustration style, muted terracotta and charcoal on cream, every number legible and consistent with its ratio.",
     "category": "資訊圖表與現實資訊",
     "prompt_categories": [
@@ -113,7 +113,7 @@
     "id": "gi25_006",
     "sort_order": 6,
     "title": "三城市鐵路旅程地圖",
-    "description": "結合路線、時刻表行和圖例且無碰撞的示意性交通圖形。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "結合路線、時刻表行和圖例且無碰撞的示意性交通圖形。",
     "prompt": "A clean schematic rail journey graphic on a pale ivory background. A single horizontal route line runs left to right with three station nodes labelled LISBON, PORTO and BRAGA, each node a ringed dot with a small platform icon. Under each node: departure and arrival times (LISBON 08:15, PORTO 11:02 / 11:20, BRAGA 12:41) and a duration pill on each segment reading 2h 47m and 1h 21m. Along the bottom, a three-item legend with square swatches: EXPRESS (deep blue), REGIONAL (light blue), TRANSFER (dashed grey). Swiss-style typography, generous whitespace, no overlapping labels, all times and durations arithmetically consistent.",
     "category": "資訊圖表與現實資訊",
     "prompt_categories": [
@@ -135,7 +135,7 @@
     "id": "gi25_007",
     "sort_order": 7,
     "title": "夜市孔版印刷海報",
-    "description": "具有刻意錯位和紙張紋理的雙色孔版印刷外觀。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "具有刻意錯位和紙張紋理的雙色孔版印刷外觀。",
     "prompt": "A two-colour risograph-style poster of a night market street, printed in fluorescent pink and teal on uncoated cream stock. Stalls recede into the distance under strings of bulbs; a vendor ladles broth into a bowl in the foreground. Deliberate 2mm ink misregistration on the pink plate, visible paper tooth, ink mottling in the solid areas and a slightly starved roller streak across the top third. Hand-lettered title \"NIGHT MARKET\" runs vertically down the right edge in teal, with \"FRI-SUN · 6PM TILL LATE\" in small caps at the bottom. Flat shapes, halftone shading, no gradients, no gloss.",
     "category": "風格指引",
     "prompt_categories": [
@@ -157,7 +157,7 @@
     "id": "gi25_008",
     "sort_order": 8,
     "title": "摺疊腳踏車技術藍圖",
-    "description": "具有正視圖、標註和尺寸線的工程圖風格。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "具有正視圖、標註和尺寸線的工程圖風格。",
     "prompt": "A technical blueprint of a folding commuter bicycle on deep cyanotype blue paper with white line work. Three orthographic views arranged in a grid: side elevation (folded), side elevation (unfolded) and top view. Thin white dimension lines with arrowheads and metric callouts (WHEELBASE 1010 mm, FOLDED 780 x 650 x 320 mm, FRAME 6061-T6). Six numbered leader lines point to components with a matching parts key in the lower right: 1 HINGE CLAMP, 2 SEAT POST, 3 CHAIN TENSIONER, 4 FOLDING PEDAL, 5 REAR RACK, 6 QUICK RELEASE. Title block in the bottom right reads \"FOLDING BICYCLE — REV C\". Uniform stroke weights, no shading, no perspective.",
     "category": "風格指引",
     "prompt_categories": [
@@ -179,7 +179,7 @@
     "id": "gi25_009",
     "sort_order": 9,
     "title": "農夫市集傳單範本",
-    "description": "採用範本功能精神的傳單格式，每個資訊欄位皆已填滿。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "採用範本功能精神的傳單格式，每個資訊欄位皆已填滿。",
     "prompt": "A portrait A4 flyer for a farmers market, illustrated in warm gouache. Top third: hand-lettered headline \"RIVERSIDE FARMERS MARKET\" over a loose watercolour banner. Middle: an illustrated basket of leeks, plums, sourdough and a jar of honey. Lower third, arranged as three tidy blocks of text: \"EVERY SATURDAY · 7AM-1PM\", \"MILLBROOK GREEN, RIVERSIDE\", and a four-line vendor list reading Fenn Farm Produce, Ashby Bakehouse, Copper Hive Honey, Two Rivers Cheese. A small footer line reads \"Free entry · Dogs welcome · Cash and card\". Cream paper, terracotta and olive palette, clear typographic hierarchy, all text sharp and correctly spelled.",
     "category": "範本格式",
     "prompt_categories": [
@@ -201,7 +201,7 @@
     "id": "gi25_010",
     "sort_order": 10,
     "title": "樂團周邊T恤排版",
-    "description": "周邊商品範本風格排版，具有置中圖形與弧形文字組合。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "周邊商品範本風格排版，具有置中圖形與弧形文字組合。",
     "prompt": "A flat-lay photograph of a heather-grey cotton t-shirt on a concrete surface, with a screen-printed graphic centred on the chest. The graphic: a linocut-style crescent moon over a mountain ridge in a single cream ink, encircled by curved text reading \"THE LONG QUIET\" above and \"AUTUMN TOUR 2026\" below. A small four-city list is printed on the left sleeve in tiny caps: OSLO, LEEDS, GENT, PORTO. Visible ink texture and slight halftone break-up where the print crosses the fabric weave, soft daylight from the left, gentle fabric wrinkles, no mockup gloss or watermark.",
     "category": "範本格式",
     "prompt_categories": [
@@ -223,7 +223,7 @@
     "id": "gi25_011",
     "sort_order": 11,
     "title": "洞石上的陶瓷手沖咖啡組",
-    "description": "具有受控反射與材質分離的高級產品靜物照。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "具有受控反射與材質分離的高級產品靜物照。",
     "prompt": "A commercial still life of a matte-white ceramic pour-over dripper and carafe set on a honed travertine slab, shot with a 100mm macro at f/8. Single large softbox from the upper right creating a long soft gradient across the ceramic, plus a narrow strip reflector on the left to lift the shadow side. A thin ribbon of steam rises from the carafe. Loose coffee grounds and one whole bean sit in the foreground, slightly out of focus. Background is a seamless warm-grey sweep. Rich material separation between the chalky ceramic glaze, the porous stone and the glossy coffee surface; no clipped highlights, no visible reflector edges.",
     "category": "產品與商業",
     "prompt_categories": [
@@ -245,7 +245,7 @@
     "id": "gi25_012",
     "sort_order": 12,
     "title": "帶有水冠的護膚品瓶",
-    "description": "高速液體產品攝影，需兼顧物理真實性與標籤可讀性。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "高速液體產品攝影，需兼顧物理真實性與標籤可讀性。",
     "prompt": "A frosted glass serum bottle standing in a shallow pool of water, photographed the instant a droplet impact throws a symmetrical water crown around its base. The minimal label reads \"AURELE\" in thin caps with \"HYDRATING SERUM · 30 ML\" beneath. Backlit with a hard rim light that catches every droplet, cool blue-green palette, black background, 1/8000s freeze so individual droplets are sharp. Slight caustic light patterns on the surface under the bottle. The label stays perfectly legible and undistorted through the frosted glass.",
     "category": "產品與商業",
     "prompt_categories": [
@@ -267,7 +267,7 @@
     "id": "gi25_013",
     "sort_order": 13,
     "title": "餐巾草圖到完成室內設計",
-    "description": "讀取粗略手繪圖作為佈局指引，並渲染出完成的攝影級房間。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "讀取粗略手繪圖作為佈局指引，並渲染出完成的攝影級房間。",
     "prompt": "Interpret this rough napkin sketch as the layout guide for a finished photograph, keeping the drawn arrangement but rendering it photorealistically: a narrow attic reading nook with a dormer window on the left, a built-in bench under the window with three cushions, floor-to-ceiling bookshelves on the right wall, and a low round table in the centre. Late afternoon sun rakes through the dormer and lands on the bench. Warm oak, off-white plaster, one deep green cushion for accent. Keep the sketched proportions and the position of every element; add realistic materials, contact shadows and dust in the light beam. 35mm, eye level from the doorway.",
     "category": "草圖轉圖像",
     "prompt_categories": [
@@ -289,7 +289,7 @@
     "id": "gi25_014",
     "sort_order": 14,
     "title": "塗鴉生物轉為公仔模型",
-    "description": "將粗糙塗鴉轉變為看起來可製造的收藏品渲染圖。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "將粗糙塗鴉轉變為看起來可製造的收藏品渲染圖。",
     "prompt": "Treat this crude marker doodle as the character design brief and render it as a photographed vinyl collectible toy: a round-bodied creature with three stubby legs, one oversized eye, a small dorsal fin and a lopsided grin. Soft matte vinyl in mint green with a glossy amber eye and cream belly, visible seam lines and a small copyright stamp under one foot. Standing on a white acrylic riser against a pale grey backdrop, three-point studio lighting with a soft top highlight along the crown. Keep the doodle's proportions and asymmetry exactly, including the uneven legs.",
     "category": "草圖轉圖像",
     "prompt_categories": [
@@ -311,7 +311,7 @@
     "id": "gi25_015",
     "sort_order": 15,
     "title": "供參照鏈使用的攝影棚肖像",
-    "description": "乾淨、光線良好的原始肖像，旨在後續編輯中作為參考圖重複使用。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "乾淨、光線良好的原始肖像，旨在後續編輯中作為參考圖重複使用。",
     "prompt": "A studio portrait of a woman in her early thirties with shoulder-length dark curly hair, warm brown eyes, a small mole above her left eyebrow and light freckles across the nose. Neutral expression, head and shoulders, facing the camera straight on. Charcoal crew-neck sweater. Even beauty lighting: large softbox front-left, subtle fill on the right, faint hair light from behind. Seamless light-grey background, 85mm at f/4, natural skin texture with pores and fine lines retained, no retouching, no makeup styling. Sharp, evenly exposed, suitable for use as a reference photograph.",
     "category": "參考保真度",
     "prompt_categories": [
@@ -333,7 +333,7 @@
     "id": "gi25_016",
     "sort_order": 16,
     "title": "供系列變體使用的產品主圖",
-    "description": "中性產品主圖，設計為生成符合品牌調性變體的基礎圖像。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "中性產品主圖，設計為生成符合品牌調性變體的基礎圖像。",
     "prompt": "A hero product photograph of a matte black insulated water bottle with a bamboo lid and a thin copper band below the collar, standing dead centre on a seamless mid-grey background. Straight-on eye-level view, bottle perfectly vertical, subtle gradient softbox from above and behind creating a clean vertical highlight down the left side and a soft contact shadow at the base. Brand mark is a small embossed circle, no printed text. Colour-accurate, no colour cast, no props, generous margin around the subject so it can be recomposed later.",
     "category": "參考保真度",
     "prompt_categories": [
@@ -355,7 +355,7 @@
     "id": "gi25_017",
     "sort_order": 17,
     "title": "博物館展覽牆面說明板",
-    "description": "混合標題、內文、圖說與出處資訊，以不同尺寸呈現的展覽說明板。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "混合標題、內文、圖說與出處資訊，以不同尺寸呈現的展覽說明板。",
     "prompt": "A photograph of a museum exhibition wall panel mounted on a pale limewash wall, lit by a warm track spot from above. The panel is a matte white board with four clearly separated typographic zones: the heading \"TIDE AND STONE\" in large light-weight serif caps; a subheading \"Coastal engineering on the Atlantic edge, 1890-1935\"; a three-paragraph body text block in small serif type, justified, roughly 90 words; and at the bottom, a caption in italic reading \"Photograph: harbour works at Peniche, 1911\" followed by a credit line in tiny caps \"COLLECTION OF THE MARITIME ARCHIVE\". Slight panel shadow on the wall, faint wall texture, all type crisp and hierarchically correct.",
     "category": "複雜版面與文字編排",
     "prompt_categories": [
@@ -377,7 +377,7 @@
     "id": "gi25_018",
     "sort_order": 18,
     "title": "貨櫃港浮世繪版畫",
-    "description": "以嚴謹的歷史版畫風格，描繪現代工業主題的作品。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "以嚴謹的歷史版畫風格，描繪現代工業主題的作品。",
     "prompt": "A woodblock print of a modern container port rendered in classical ukiyo-e idiom: flat colour fields, visible woodgrain in the sky, keyblock outlines and a bokashi gradient at the horizon. Gantry cranes stand like torii over stacked containers; a container ship rides a stylised wave with clawed foam crests; Mount Fuji is replaced by a distant cooling tower plume. Palette limited to indigo, ochre, oxidised red and paper cream. A rectangular cartouche in the upper right holds vertical title text, and a small circular publisher's seal sits in the lower left. Aged paper with foxing at the edges, no photographic shading or perspective.",
     "category": "風格導向",
     "prompt_categories": [
@@ -399,7 +399,7 @@
     "id": "gi25_019",
     "sort_order": 19,
     "title": "自行車胎壓參考卡",
-    "description": "每列三種單位數據必須保持內部一致的隨身參考卡。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "每列三種單位數據必須保持內部一致的隨身參考卡。",
     "prompt": "A pocket-sized reference card titled \"TYRE PRESSURE\" printed on stiff cream card, photographed flat with a soft shadow. A four-row table with columns TYRE WIDTH / PSI / BAR / SURFACE: 25 mm, 95 psi, 6.5 bar, Road; 32 mm, 70 psi, 4.8 bar, Mixed; 40 mm, 45 psi, 3.1 bar, Gravel; 50 mm, 30 psi, 2.1 bar, Trail. Thin rules between rows, a small pressure-gauge line icon in the header, and a footnote reading \"For 75 kg rider · reduce 5 psi front\". Two-colour print in ink blue and warm red on cream, condensed grotesque type, every figure legible and each psi-to-bar pair correctly converted.",
     "category": "資訊圖表與現實資訊",
     "prompt_categories": [
@@ -421,7 +421,7 @@
     "id": "gi25_020",
     "sort_order": 20,
     "title": "烘焙坊包裝組平鋪陳列",
-    "description": "相同品牌識別需在四種不同材質包裝上重現的家族產品陳列。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "相同品牌識別需在四種不同材質包裝上重現的家族產品陳列。",
     "prompt": "An overhead flat lay of a small bakery's packaging family on a flour-dusted steel table: a kraft paper bread bag, a folded pastry box, a round sticker sheet and a ribbed paper cup with a lid. All four carry the same identity: a two-line wordmark reading \"MERIDIAN\" over \"BAKEHOUSE\" in a warm ink brown, a wheat-ear monogram, and a thin double rule. The bread bag also shows an ingredient line in small type. Consistent logo scale relative to each surface, correct wrap and distortion on the cup's curve, soft north-facing window light, a scatter of flour and two rye ears as props.",
     "category": "產品與商業",
     "prompt_categories": [
@@ -443,7 +443,7 @@
     "id": "gi25_021",
     "sort_order": 21,
     "title": "更換沙發，保留房間",
-    "description": "僅替換單一物件及其接觸陰影，畫面其餘部分保持原樣。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "僅替換單一物件及其接觸陰影，畫面其餘部分保持原樣。",
     "prompt": "Replace only the cream boucle sofa with a dark forest-green velvet chesterfield of the same three-seat footprint, matching the original camera angle and perspective. Keep everything else in the frame exactly as it is: the coffee table and the two books, the ceramic vase, the fig tree, the floorboards, the window and the direction and softness of the light. Rebuild the contact shadow and the ambient occlusion under the new sofa so it sits in the same place on the floor, and let the green velvet pick up the same cool light from the window.",
     "category": "精準編輯",
     "prompt_categories": [
@@ -468,7 +468,7 @@
     "id": "gi25_022",
     "sort_order": 22,
     "title": "僅更改標籤文案",
-    "description": "在不影響瓶身、光影與構圖下，重寫產品上的印刷文案。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "在不影響瓶身、光影與構圖下，重寫產品上的印刷文案。",
     "prompt": "Change only the printed copy on the label: the wordmark should now read \"NORTHSIDE\" over \"CEDAR & LIME · 30 ML\", keeping the exact same typeface, weight, letter-spacing, colour and position on the label. Do not alter the bottle, the dropper cap, the label paper texture, the moisture droplets, the slate surface, the shadow direction or the background. The new text must follow the same slight curve of the label around the glass.",
     "category": "精準編輯",
     "prompt_categories": [
@@ -493,7 +493,7 @@
     "id": "gi25_023",
     "sort_order": 23,
     "title": "乾淨移除旁觀者",
-    "description": "移除主體並重建其後方場景，包含連續的欄杆結構。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "移除主體並重建其後方場景，包含連續的欄杆結構。",
     "prompt": "Remove the man in the red windbreaker entirely and reconstruct what was behind him: continue the cast-iron railing with the same rhythm of balusters and the same worn paint, extend the sea and horizon line at the correct height, and complete the granite paving with plausible wear and joint lines. Remove his shadow from the paving as well. Leave the rest of the photograph, the sun direction, the colour grade and the grain untouched.",
     "category": "精準編輯",
     "prompt_categories": [
@@ -518,7 +518,7 @@
     "id": "gi25_024",
     "sort_order": 24,
     "title": "無偏移添加招牌",
-    "description": "在完成的店面外觀上添加單一元素，同時保留所有原有細節。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "在完成的店面外觀上添加單一元素，同時保留所有原有細節。",
     "prompt": "Add a hand-painted sign board above the windows reading \"CORNER & CO\" in cream serif caps on the teal facade, with a smaller line beneath reading \"COFFEE · PASTRIES\". Match the facade's existing paint sheen and the flat overcast lighting, and add the faint shadow the board casts on the wall. Everything already in the photograph must stay pixel-consistent: the brass window frames, the awning, all four chairs and both tables, the bicycle and lamppost, the cobbles and the colour grade.",
     "category": "多輪一致性",
     "prompt_categories": [
@@ -543,7 +543,7 @@
     "id": "gi25_025",
     "sort_order": 25,
     "title": "僅重製季節",
-    "description": "改變環境與季節，同時保持建築結構與構圖完全相同。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "改變環境與季節，同時保持建築結構與構圖完全相同。",
     "prompt": "Change only the season and weather to a still winter morning after fresh snow: snow on the slate roof, the wall copings and the gravel path, bare stems where the climbing rose was, frost on the grass, and a cold overcast sky with a low pale sun. Keep the cottage's architecture, proportions, stonework, the blue door and both sash windows, the dry-stone wall, the iron gate and the exact camera position and framing identical to the original. No new objects, no footprints, no smoke.",
     "category": "多回合一致性",
     "prompt_categories": [
@@ -568,7 +568,7 @@
     "id": "gi25_026",
     "sort_order": 26,
     "title": "相同主體，全新場景",
-    "description": "將肖像主體置入不同的環境與光線中，同時保持其可辨識性。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。",
+    "description": "將肖像主體置入不同的環境與光線中，同時保持其可辨識性。",
     "prompt": "Place this same man in a new setting without changing who he is: standing at a workbench in a timber workshop at the end of the day, low warm sun coming through a dusty window on the right and rim-lighting the left side of his face, sawdust in the air, hand planes and offcuts softly out of focus behind him. Three-quarter view, waist up, 50mm at f/2. Preserve his facial structure, the beard pattern, the eyebrow scar, the hairline and his skin texture exactly; only the environment, pose, wardrobe wear and lighting change.",
     "category": "參考忠實度",
     "prompt_categories": [

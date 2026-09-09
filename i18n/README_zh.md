@@ -149,7 +149,7 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 发布)是 OpenAI 的图�
 
 #### 描述
 
-密集的店面布局，六个独立文本元素在不同深度保持清晰可读。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+密集的店面布局，六个独立文本元素在不同深度保持清晰可读。
 
 #### 提示词
 
@@ -171,7 +171,7 @@ A photorealistic storefront window of a vintage camera repair shop at dusk, shot
 
 #### 描述
 
-印刷就绪的胸牌样张，具有严格网格、小字体和保持层级的二维码占位符。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+印刷就绪的胸牌样张，具有严格网格、小字体和保持层级的二维码占位符。
 
 #### 提示词
 
@@ -197,7 +197,7 @@ A top-down photograph of an uncut sheet of six conference name badges on a light
 
 #### 描述
 
-工作室产品抠图，背景真实透明，细金属边缘干净利落。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+工作室产品抠图，背景真实透明，细金属边缘干净利落。
 
 #### 提示词
 
@@ -219,7 +219,7 @@ A single mid-century brass desk lamp with an articulated arm and a perforated do
 
 #### 描述
 
-六个模切风格贴纸素材，带透明通道，轮廓线粗细一致。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+六个模切风格贴纸素材，带透明通道，轮廓线粗细一致。
 
 #### 提示词
 
@@ -245,7 +245,7 @@ Six flat-illustration kitchen tool stickers arranged in two rows of three on a f
 
 #### 描述
 
-教学图表，其中数字、单位和步骤顺序均需保持内部一致。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+教学图表，其中数字、单位和步骤顺序均需保持内部一致。
 
 #### 提示词
 
@@ -267,7 +267,7 @@ A printed kitchen wall chart titled "POUR-OVER RATIOS" in bold slab serif, on wa
 
 #### 描述
 
-示意性交通图，结合路线、时刻表行和图例，互不冲突。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+示意性交通图，结合路线、时刻表行和图例，互不冲突。
 
 #### 提示词
 
@@ -293,7 +293,7 @@ A clean schematic rail journey graphic on a pale ivory background. A single hori
 
 #### 描述
 
-双色孔版印刷效果，带有刻意错位和纸张纹理。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+双色孔版印刷效果，带有刻意错位和纸张纹理。
 
 #### 提示词
 
@@ -315,7 +315,7 @@ A two-colour risograph-style poster of a night market street, printed in fluores
 
 #### 描述
 
-工程制图风格，包含正交视图、标注线和尺寸线。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+工程制图风格，包含正交视图、标注线和尺寸线。
 
 #### 提示词
 
@@ -341,7 +341,7 @@ A technical blueprint of a folding commuter bicycle on deep cyanotype blue paper
 
 #### 描述
 
-模板风格传单格式，每个信息栏位均已填充内容。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+模板风格传单格式，每个信息栏位均已填充内容。
 
 #### 提示词
 
@@ -363,7 +363,7 @@ A portrait A4 flyer for a farmers market, illustrated in warm gouache. Top third
 
 #### 描述
 
-周边商品模板风格布局，含居中图形与弧形组合文字。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+周边商品模板风格布局，含居中图形与弧形组合文字。
 
 #### 提示词
 
@@ -389,7 +389,7 @@ A flat-lay photograph of a heather-grey cotton t-shirt on a concrete surface, wi
 
 #### 描述
 
-高端产品静物，具有受控反射与材质分离效果。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+高端产品静物，具有受控反射与材质分离效果。
 
 #### 提示词
 
@@ -411,7 +411,7 @@ A commercial still life of a matte-white ceramic pour-over dripper and carafe se
 
 #### 描述
 
-高速液体产品摄影，需兼顾物理真实性与标签可读性。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+高速液体产品摄影，需兼顾物理真实性与标签可读性。
 
 #### 提示词
 
@@ -433,7 +433,7 @@ A frosted glass serum bottle standing in a shallow pool of water, photographed t
 
 #### 描述
 
-同一品牌标识在四种不同材质上重复呈现的包装家族照。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+同一品牌标识在四种不同材质上重复呈现的包装家族照。
 
 #### 提示词
 
@@ -459,7 +459,7 @@ An overhead flat lay of a small bakery's packaging family on a flour-dusted stee
 
 #### 描述
 
-读取粗略手绘作为布局指导，渲染出完整的摄影级房间。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+读取粗略手绘作为布局指导，渲染出完整的摄影级房间。
 
 #### 提示词
 
@@ -481,7 +481,7 @@ Interpret this rough napkin sketch as the layout guide for a finished photograph
 
 #### 描述
 
-将粗糙涂鸦转化为具有可制造感的收藏品渲染图。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+将粗糙涂鸦转化为具有可制造感的收藏品渲染图。
 
 #### 提示词
 
@@ -507,7 +507,7 @@ Treat this crude marker doodle as the character design brief and render it as a 
 
 #### 描述
 
-干净、光线良好的源肖像，专为后续编辑中作为参考图复用而设计。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+干净、光线良好的源肖像，专为后续编辑中作为参考图复用而设计。
 
 #### 提示词
 
@@ -529,7 +529,7 @@ A studio portrait of a woman in her early thirties with shoulder-length dark cur
 
 #### 描述
 
-中性产品主图，设计为生成品牌一致变体的锚点图像。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+中性产品主图，设计为生成品牌一致变体的锚点图像。
 
 #### 提示词
 
@@ -557,7 +557,7 @@ A hero product photograph of a matte black insulated water bottle with a bamboo 
 
 #### 描述
 
-将人像主体置于不同环境和光照下，同时保持其可识别性。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+将人像主体置于不同环境和光照下，同时保持其可识别性。
 
 #### 提示词
 
@@ -589,7 +589,7 @@ A studio portrait of a man in his forties with a short salt-and-pepper beard, de
 
 #### 描述
 
-混合标题、正文、图注和署名行，并以不同尺寸呈现的展览面板。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+混合标题、正文、图注和署名行，并以不同尺寸呈现的展览面板。
 
 #### 提示词
 
@@ -615,7 +615,7 @@ A photograph of a museum exhibition wall panel mounted on a pale limewash wall, 
 
 #### 描述
 
-以严格的历史版画风格描绘现代工业主题。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+以严格的历史版画风格描绘现代工业主题。
 
 #### 提示词
 
@@ -641,7 +641,7 @@ A woodblock print of a modern container port rendered in classical ukiyo-e idiom
 
 #### 描述
 
-每行数据在三个单位间保持一致的袖珍参考卡。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+每行数据在三个单位间保持一致的袖珍参考卡。
 
 #### 提示词
 
@@ -673,7 +673,7 @@ A pocket-sized reference card titled "TYRE PRESSURE" printed on stiff cream card
 
 #### 描述
 
-替换一个物体及其接触阴影，同时保持画面其余部分不变。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+替换一个物体及其接触阴影，同时保持画面其余部分不变。
 
 #### 提示词
 
@@ -707,7 +707,7 @@ A photorealistic interior photograph of a bright living room: a boucle cream thr
 
 #### 描述
 
-重写产品上的印刷文案，不干扰瓶子、光照或构图。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+重写产品上的印刷文案，不干扰瓶子、光照或构图。
 
 #### 提示词
 
@@ -741,7 +741,7 @@ A commercial photograph of an amber glass dropper bottle on a dark slate surface
 
 #### 描述
 
-移除主体并重建其后的背景，包括连续的栏杆。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+移除主体并重建其后的背景，包括连续的栏杆。
 
 #### 提示词
 
@@ -779,7 +779,7 @@ A photograph of an empty seaside promenade at golden hour with a cast-iron raili
 
 #### 描述
 
-向完成的店面添加一个元素，同时保留所有先前细节。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+向完成的店面添加一个元素，同时保留所有先前细节。
 
 #### 提示词
 
@@ -813,7 +813,7 @@ A photorealistic street-level photograph of a narrow corner cafe with a deep tea
 
 #### 描述
 
-在保持建筑结构和构图不变的前提下，改变环境与季节。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+在保持建筑结构和构图不变的前提下，改变环境与季节。
 
 #### 提示词
 
@@ -845,7 +845,7 @@ A photograph of a stone cottage with a slate roof and a blue-painted door at the
 
 #### 描述
 
-密集的店面布局，六个独立文本元素在不同深度保持清晰可读。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+密集的店面布局，六个独立文本元素在不同深度保持清晰可读。
 
 #### 提示词
 
@@ -867,7 +867,7 @@ A photorealistic storefront window of a vintage camera repair shop at dusk, shot
 
 #### 描述
 
-示意性交通图，结合路线、时刻表行和图例，互不冲突。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+示意性交通图，结合路线、时刻表行和图例，互不冲突。
 
 #### 提示词
 
@@ -889,7 +889,7 @@ A clean schematic rail journey graphic on a pale ivory background. A single hori
 
 #### 描述
 
-工程制图风格，包含正交视图、标注线和尺寸线。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+工程制图风格，包含正交视图、标注线和尺寸线。
 
 #### 提示词
 
@@ -911,7 +911,7 @@ A technical blueprint of a folding commuter bicycle on deep cyanotype blue paper
 
 #### 描述
 
-模板风格传单格式，每个信息栏位均已填充内容。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+模板风格传单格式，每个信息栏位均已填充内容。
 
 #### 提示词
 
@@ -933,7 +933,7 @@ A portrait A4 flyer for a farmers market, illustrated in warm gouache. Top third
 
 #### 描述
 
-高端产品静物，具有受控反射与材质分离效果。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+高端产品静物，具有受控反射与材质分离效果。
 
 #### 提示词
 
@@ -955,7 +955,7 @@ A commercial still life of a matte-white ceramic pour-over dripper and carafe se
 
 #### 描述
 
-读取粗略手绘作为布局指导，渲染出完整的摄影级房间。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+读取粗略手绘作为布局指导，渲染出完整的摄影级房间。
 
 #### 提示词
 
@@ -977,7 +977,7 @@ Interpret this rough napkin sketch as the layout guide for a finished photograph
 
 #### 描述
 
-干净、光线良好的源肖像，专为后续编辑中作为参考图复用而设计。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+干净、光线良好的源肖像，专为后续编辑中作为参考图复用而设计。
 
 #### 提示词
 
@@ -1005,7 +1005,7 @@ A studio portrait of a woman in her early thirties with shoulder-length dark cur
 
 #### 描述
 
-替换一个物体及其接触阴影，同时保持画面其余部分不变。 本仓按 OpenAI Images 2.5 官方公告的能力面编写;预览图经 Atlas Cloud 用 openai/gpt-image-2 渲染(Atlas 尚未上 2.5)。
+替换一个物体及其接触阴影，同时保持画面其余部分不变。
 
 #### 提示词
 

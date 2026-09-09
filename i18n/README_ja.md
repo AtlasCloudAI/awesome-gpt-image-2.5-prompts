@@ -146,7 +146,7 @@ Every prompt record keeps its category, source platform, author, source link, in
 
 #### Description
 
-A dense storefront layout where six separate text elements stay legible at different depths. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A dense storefront layout where six separate text elements stay legible at different depths.
 
 #### Prompt
 
@@ -168,7 +168,7 @@ A photorealistic storefront window of a vintage camera repair shop at dusk, shot
 
 #### Description
 
-A print-ready badge sheet with a strict grid, small type and QR placeholders that hold their hierarchy. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A print-ready badge sheet with a strict grid, small type and QR placeholders that hold their hierarchy.
 
 #### Prompt
 
@@ -190,7 +190,7 @@ A top-down photograph of an uncut sheet of six conference name badges on a light
 
 #### Description
 
-An exhibition panel that mixes a heading, body copy, a caption and a credit line at different sizes. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+An exhibition panel that mixes a heading, body copy, a caption and a credit line at different sizes.
 
 #### Prompt
 
@@ -216,7 +216,7 @@ A photograph of a museum exhibition wall panel mounted on a pale limewash wall, 
 
 #### Description
 
-A studio product cutout with a genuinely transparent background and clean edges around thin metal. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A studio product cutout with a genuinely transparent background and clean edges around thin metal.
 
 #### Prompt
 
@@ -238,7 +238,7 @@ A single mid-century brass desk lamp with an articulated arm and a perforated do
 
 #### Description
 
-Six die-cut style sticker assets on alpha, each with a consistent outline weight. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Six die-cut style sticker assets on alpha, each with a consistent outline weight.
 
 #### Prompt
 
@@ -264,7 +264,7 @@ Six flat-illustration kitchen tool stickers arranged in two rows of three on a f
 
 #### Description
 
-An instructional chart where numbers, units and step order all have to be internally consistent. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+An instructional chart where numbers, units and step order all have to be internally consistent.
 
 #### Prompt
 
@@ -286,7 +286,7 @@ A printed kitchen wall chart titled "POUR-OVER RATIOS" in bold slab serif, on wa
 
 #### Description
 
-A schematic transit graphic combining a route line, timetable rows and a legend without collision. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A schematic transit graphic combining a route line, timetable rows and a legend without collision.
 
 #### Prompt
 
@@ -308,7 +308,7 @@ A clean schematic rail journey graphic on a pale ivory background. A single hori
 
 #### Description
 
-A pocket reference where every row must stay internally consistent across three units. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A pocket reference where every row must stay internally consistent across three units.
 
 #### Prompt
 
@@ -334,7 +334,7 @@ A pocket-sized reference card titled "TYRE PRESSURE" printed on stiff cream card
 
 #### Description
 
-A two-ink risograph look with deliberate misregistration and paper texture. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A two-ink risograph look with deliberate misregistration and paper texture.
 
 #### Prompt
 
@@ -356,7 +356,7 @@ A two-colour risograph-style poster of a night market street, printed in fluores
 
 #### Description
 
-An engineering drawing style with orthographic views, callouts and dimension lines. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+An engineering drawing style with orthographic views, callouts and dimension lines.
 
 #### Prompt
 
@@ -378,7 +378,7 @@ A technical blueprint of a folding commuter bicycle on deep cyanotype blue paper
 
 #### Description
 
-Holds a strict historical print idiom while depicting a modern industrial subject. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Holds a strict historical print idiom while depicting a modern industrial subject.
 
 #### Prompt
 
@@ -404,7 +404,7 @@ A woodblock print of a modern container port rendered in classical ukiyo-e idiom
 
 #### Description
 
-A flyer format in the spirit of the Templates feature, with every information slot filled. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A flyer format in the spirit of the Templates feature, with every information slot filled.
 
 #### Prompt
 
@@ -426,7 +426,7 @@ A portrait A4 flyer for a farmers market, illustrated in warm gouache. Top third
 
 #### Description
 
-A merch-template style layout with a centred graphic and curved lockup type. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A merch-template style layout with a centred graphic and curved lockup type.
 
 #### Prompt
 
@@ -452,7 +452,7 @@ A flat-lay photograph of a heather-grey cotton t-shirt on a concrete surface, wi
 
 #### Description
 
-A premium product still life with controlled reflections and material separation. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A premium product still life with controlled reflections and material separation.
 
 #### Prompt
 
@@ -474,7 +474,7 @@ A commercial still life of a matte-white ceramic pour-over dripper and carafe se
 
 #### Description
 
-A high-speed liquid product shot where physics and label legibility both have to hold. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A high-speed liquid product shot where physics and label legibility both have to hold.
 
 #### Prompt
 
@@ -496,7 +496,7 @@ A frosted glass serum bottle standing in a shallow pool of water, photographed t
 
 #### Description
 
-A packaging family shot where the same identity has to repeat across four different substrates. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A packaging family shot where the same identity has to repeat across four different substrates.
 
 #### Prompt
 
@@ -522,7 +522,7 @@ An overhead flat lay of a small bakery's packaging family on a flour-dusted stee
 
 #### Description
 
-Reads a rough hand drawing as layout guidance and renders a finished photographic room. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Reads a rough hand drawing as layout guidance and renders a finished photographic room.
 
 #### Prompt
 
@@ -544,7 +544,7 @@ Interpret this rough napkin sketch as the layout guide for a finished photograph
 
 #### Description
 
-Turns a crude doodle into a manufacturable-looking collectible render. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Turns a crude doodle into a manufacturable-looking collectible render.
 
 #### Prompt
 
@@ -570,7 +570,7 @@ Treat this crude marker doodle as the character design brief and render it as a 
 
 #### Description
 
-A clean, well-lit source portrait built to be reused as a reference image in later edits. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A clean, well-lit source portrait built to be reused as a reference image in later edits.
 
 #### Prompt
 
@@ -592,7 +592,7 @@ A studio portrait of a woman in her early thirties with shoulder-length dark cur
 
 #### Description
 
-A neutral product hero designed as the anchor image for generating on-brand variations. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A neutral product hero designed as the anchor image for generating on-brand variations.
 
 #### Prompt
 
@@ -620,7 +620,7 @@ A hero product photograph of a matte black insulated water bottle with a bamboo 
 
 #### Description
 
-Carries a portrait subject into a different environment and light while keeping them recognisable. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Carries a portrait subject into a different environment and light while keeping them recognisable.
 
 #### Prompt
 
@@ -658,7 +658,7 @@ A studio portrait of a man in his forties with a short salt-and-pepper beard, de
 
 #### Description
 
-Replaces one object and its contact shadow while leaving the rest of the frame untouched. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Replaces one object and its contact shadow while leaving the rest of the frame untouched.
 
 #### Prompt
 
@@ -692,7 +692,7 @@ A photorealistic interior photograph of a bright living room: a boucle cream thr
 
 #### Description
 
-Rewrites printed copy on a product without disturbing the bottle, lighting or composition. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Rewrites printed copy on a product without disturbing the bottle, lighting or composition.
 
 #### Prompt
 
@@ -726,7 +726,7 @@ A commercial photograph of an amber glass dropper bottle on a dark slate surface
 
 #### Description
 
-Removes a subject and reconstructs what was behind it, including a continuous railing. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Removes a subject and reconstructs what was behind it, including a continuous railing.
 
 #### Prompt
 
@@ -764,7 +764,7 @@ A photograph of an empty seaside promenade at golden hour with a cast-iron raili
 
 #### Description
 
-Adds one element to a finished storefront while preserving every earlier detail. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Adds one element to a finished storefront while preserving every earlier detail.
 
 #### Prompt
 
@@ -798,7 +798,7 @@ A photorealistic street-level photograph of a narrow corner cafe with a deep tea
 
 #### Description
 
-Changes environment and season while keeping architecture and framing identical. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Changes environment and season while keeping architecture and framing identical.
 
 #### Prompt
 
@@ -830,7 +830,7 @@ A photograph of a stone cottage with a slate roof and a blue-painted door at the
 
 #### Description
 
-A dense storefront layout where six separate text elements stay legible at different depths. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A dense storefront layout where six separate text elements stay legible at different depths.
 
 #### Prompt
 
@@ -852,7 +852,7 @@ A photorealistic storefront window of a vintage camera repair shop at dusk, shot
 
 #### Description
 
-A schematic transit graphic combining a route line, timetable rows and a legend without collision. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A schematic transit graphic combining a route line, timetable rows and a legend without collision.
 
 #### Prompt
 
@@ -874,7 +874,7 @@ A clean schematic rail journey graphic on a pale ivory background. A single hori
 
 #### Description
 
-An engineering drawing style with orthographic views, callouts and dimension lines. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+An engineering drawing style with orthographic views, callouts and dimension lines.
 
 #### Prompt
 
@@ -896,7 +896,7 @@ A technical blueprint of a folding commuter bicycle on deep cyanotype blue paper
 
 #### Description
 
-A flyer format in the spirit of the Templates feature, with every information slot filled. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A flyer format in the spirit of the Templates feature, with every information slot filled.
 
 #### Prompt
 
@@ -918,7 +918,7 @@ A portrait A4 flyer for a farmers market, illustrated in warm gouache. Top third
 
 #### Description
 
-A premium product still life with controlled reflections and material separation. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A premium product still life with controlled reflections and material separation.
 
 #### Prompt
 
@@ -940,7 +940,7 @@ A commercial still life of a matte-white ceramic pour-over dripper and carafe se
 
 #### Description
 
-Reads a rough hand drawing as layout guidance and renders a finished photographic room. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Reads a rough hand drawing as layout guidance and renders a finished photographic room.
 
 #### Prompt
 
@@ -962,7 +962,7 @@ Interpret this rough napkin sketch as the layout guide for a finished photograph
 
 #### Description
 
-A clean, well-lit source portrait built to be reused as a reference image in later edits. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+A clean, well-lit source portrait built to be reused as a reference image in later edits.
 
 #### Prompt
 
@@ -990,7 +990,7 @@ A studio portrait of a woman in her early thirties with shoulder-length dark cur
 
 #### Description
 
-Replaces one object and its contact shadow while leaving the rest of the frame untouched. Prompt written for this repository against the capability areas in OpenAI's Images 2.5 announcement; preview rendered through Atlas Cloud on openai/gpt-image-2 because Atlas does not serve GPT Image 2.5 yet.
+Replaces one object and its contact shadow while leaving the rest of the frame untouched.
 
 #### Prompt
 
