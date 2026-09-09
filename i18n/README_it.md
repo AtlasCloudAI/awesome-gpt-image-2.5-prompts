@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-19%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-289%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **19** |
+| Total Prompts | **289** |
 | Categories | **4** |
-| Preview Images | **19** |
+| Preview Images | **289** |
 | Last Updated | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -112,10 +112,10 @@ Every record keeps its category, source, author, source link, input references a
 ## 🏷️ Browse by Category
 
 
-- [`Reference Fidelity`](#category-1): **3**
-- [`Precision Editing`](#category-2): **1**
-- [`Style & Intelligence`](#category-3): **9**
-- [`Layout & Typography`](#category-4): **6**
+- [`Reference Fidelity`](#category-1): **41**
+- [`Precision Editing`](#category-2): **10**
+- [`Style & Intelligence`](#category-3): **199**
+- [`Layout & Typography`](#category-4): **39**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ Every record keeps its category, source, author, source link, input references a
 
 <a id="category-1"></a>
 
-### Reference Fidelity (3)
+### Reference Fidelity (41)
 
 ### No. 1: Retro Eighties Mall Portrait
 
@@ -204,9 +204,880 @@ Un ritratto di bellezza verticale raffinato di una donna spagnola minuta seduta 
 A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80
 ```
 
+### No. 4: Due Donne in un'Arco di Pietra
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abdul Shakoor
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/14_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/14_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un'immagine di due donne incorniciate da un arco di pietra sbiadito dal sole.
+
+#### Prompt
+
+```text
+Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman
+```
+
+### No. 5: Ritratto su Scheda Personaggio a Pannelli Multipli
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abdul Shakoor
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/15_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/15_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una scheda personaggio con quattro fotografie in studio della stessa donna da diverse angolazioni.
+
+#### Prompt
+
+```text
+Multi-panel studio photographs of the same real woman across four panels: front-facing, three-quarter turn, full profile, and a rear view, all on a seamless neutral studio backdrop with soft even lighting. She has long
+```
+
+### No. 6: Nove Adesivi Emoji con Testo
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** DeepBlue深藍
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/44_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/44_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/44_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/44_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/44_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una griglia 3x3 di diversi adesivi emoji basati su un personaggio di riferimento, con testo in cinese e inglese su uno sfondo a gradiente chiaro.
+
+#### Prompt
+
+```text
+参考图片人物，生成3*3共9种不同表情包，可以出现中文和英文，浅色渐变背景
+```
+
+### No. 7: Sprite Sheet di Quattro Movimenti a Puntinato
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** 布留川英一 / Hidekazu Furukawa
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/50_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/50_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/50_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare uno sprite sheet con quattro tipi di animazioni di personaggi in stile puntinato, ciascuna fino a 4 fotogrammi, mantenendo un design coerente.
+
+#### Prompt
+
+```text
+添付キャラクターの顔・髪型・衣装・配色・体格を統一し、ゲームで映える4種類のドット絵モーションを、各最大4フレームで1枚のスプライトシート画像に生成して。1フレームのサイズは256x256px。
+・走る：体を前傾させ、手足を大きく交互に動かす。
+```
+
+### No. 8: Opera d'Arte Ispirata da uno Schizzo
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** DeepBlue深藍
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/63_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/63_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/63_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un'opera d'arte originale basata su uno schizzo, preservandone il soggetto principale, l'emozione e il gesto mentre si reimmaginano i dettagli.
+
+#### Prompt
+
+```text
+Create an original artwork inspired by the attached sketch. Preserve its subject, emotion, and gesture—not its exact strokes or shapes. Boldly reimagine its
+```
+
+### No. 9: Foto di Stile di Vita Mattutino di una Donna
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** ANKIT PATEL 🇮🇳 | AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/68_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/68_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto fotorealistico di stile di vita mattutino di una giovane donna con capelli rosso mogano.
+
+#### Prompt
+
+```text
+Photorealistic 4:5 morning lifestyle photograph of the same young adult woman, preserving her recognizable facial features and overall appearance. She has long, naturally wavy auburn-red hair, realistic individual hair strands, natural skin
+```
+
+### No. 10: Donna Sdraiata in un Ufficio Domestico
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** ANKIT PATEL 🇮🇳 | AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/70_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/70_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una foto fotorealistica da smartphone di una giovane donna che si rilassa su un divano in un ufficio domestico moderno.
+
+#### Prompt
+
+```text
+Create an ultra-photorealistic high-definition smartphone photograph of the same young adult woman in the cozy modern home-office setting, reclining naturally on the sofa with her face clearly visible and looking toward the camera. Prioritize an exceptionally
+```
+
+### No. 11: Ritratto iPhone di una Giovane Donna
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TSUBAKI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/74_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/74_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto realistico da iPhone di una giovane donna in interni con uno sfondo riflettente.
+
+#### Prompt
+
+```text
+Ultra-realistic iPhone creative portrait, identity preserved exactly from reference image.  Young woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle.
+```
+
+### No. 12: Sprite Sheet in Pixel Art per Personaggio
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** 睿奇Re7
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/131_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/131_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una sprite sheet semplificata in pixel art da 128px con sfondo trasparente e layout 4x4 per le azioni di battaglia di un personaggio.
+
+#### Prompt
+
+```text
+为这个角色制作一个128px的简化像素艺术战斗动作的精灵图集。请做到透明。以4x4的格式排列 (战斗动作可按需替换，比如：挥剑、蓄力、闪避)
+```
+
+### No. 13: Campeggio Diurno da Schizzo
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** EZOLOG
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/159_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/159_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una serie di prompt per trasformare il disegno di un bambino in un campeggio notturno d'atmosfera, poi in una versione diurna, e infine per cambiare i vestiti del personaggio con una tuta.
+
+#### Prompt
+
+```text
+この手書きの絵をもとにムードのある夜のキャンプ場の画像を作って
+構図は変えずに昼にして
+人物の服装をオーバーオールにして
+```
+
+### No. 14: Arte Minimalista di una Nazione a Linea Continua
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/221_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/221_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/221_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/221_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/221_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare una stampa d'arte verticale minimalista di una nazione utilizzando una singola linea continua.
+
+#### Prompt
+
+```text
+Use the uploaded reference as the primary inspiration. Create a 4:5 vertical minimalist collectible art print representing [COUNTRY] through one continuous elegant line. Draw a single uninterrupted hand-drawn line that begins as the recognizable silhouette
+```
+
+### No. 15: Trasformazione Ritratto Storico 1985
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mira
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/225_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/225_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/225_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/225_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per reimmaginare l'aspetto di una persona negli anni '80, preservandone l'identità e le caratteristiche fondamentali.
+
+#### Prompt
+
+```text
+Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably
+```
+
+### No. 16: Mockup 3D di Magliette Oversize per Branding
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/228_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/228_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un mockup 3D di due magliette oversize fluttuanti che mostrano le viste frontale e posteriore.
+
+#### Prompt
+
+```text
+Create a premium 3D oversized T-shirt branding mockup inspired by the reference image. Display two floating T-shirts, one showing the front view and the other showing the back view
+```
+
+### No. 17: Collage Editoriale di Abbigliamento Maschile di Lusso
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/230_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/230_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un collage editoriale di abbigliamento maschile di lusso utilizzando una foto caricata come riferimento facciale.
+
+#### Prompt
+
+```text
+Use upload photo as a facial identity reference.
+Create a premium luxury menswear editorial collage featuring the
+```
+
+### No. 18: Riferimento per Identità Facciale e Composizione
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/237_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/237_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt che istruisce a utilizzare un'immagine caricata per preservare i tratti facciali e l'aspetto naturale di un soggetto.
+
+#### Prompt
+
+```text
+Use the uploaded image as the facial identity and composition reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and natural appearance
+```
+
+### No. 19: Ritratto in Studio Professionale Realistico
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/239_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/239_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un ritratto in studio professionale utilizzando una foto caricata per l'identità facciale e la composizione.
+
+#### Prompt
+
+```text
+Use the uploaded image as the facial identity and composition reference. Create a highly realistic professional studio portrait
+```
+
+### No. 20: Collage Editoriale di Moda con Modello Coerente
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/246_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/246_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un collage di moda con un modello maschile coerente utilizzando un riferimento per l'identità facciale.
+
+#### Prompt
+
+```text
+Use the uploaded image only as the facial identity reference.
+
+Create a premium men’s fashion editorial collage featuring the same adult male model consistently across every panel. Keep his facial features, skin tone, hairstyle, body
+```
+
+### No. 21: Ritratto di Astronauta in Cockpit Futuristico
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** KrishnaG
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/247_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/247_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto fotorealistico di un'astronauta sicura di sé in un cockpit futuristico di un'astronave.
+
+#### Prompt
+
+```text
+Create a premium cinematic photorealistic space portrait inspired by the uploaded image: a confident female astronaut inside a futuristic spacecraft cockpit, wearing a highly detailed white, silver and orange EVA spacesuit with a transparent advanced helmet
+```
+
+### No. 22: Ritratto di Moda in Studio Ultra-Realistico
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/264_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/264_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un ritratto di moda in studio a corpo intero e ultra-realistico utilizzando un'immagine caricata come riferimento facciale.
+
+#### Prompt
+
+```text
+Use the uploaded image as the facial identity reference
+Create an ultra-realistic full-body studio fashion portrait of a
+```
+
+### No. 23: Ritratto Cinematografico di Lifestyle con Motocicletta
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/265_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/265_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ultra-realistico di un uomo seduto all'aperto accanto a una motocicletta sportiva premium.
+
+#### Prompt
+
+```text
+Use the uploaded photo as the facial identity reference. Create an ultra-realistic cinematic lifestyle portrait of an adult man seated outdoors beside a premium sport motorcycle at a rustic
+```
+
+### No. 24: Ritratto Editoriale Ultra-Realistico
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/267_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/267_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt AI per creare un ritratto editoriale ultra-realistico di un uomo utilizzando un riferimento di identità facciale.
+
+#### Prompt
+
+```text
+Use the uploaded photo as the facial identity reference.
+
+Create an ultra-realistic editorial portrait of an adult man seated on a dark polished wooden chair against a simple light-gray textured
+```
+
+### No. 25: Ritratto di Moda Premium da Riferimento
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/271_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/271_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un ritratto di moda premium di un uomo adulto elegante utilizzando un riferimento di identità facciale.
+
+#### Prompt
+
+```text
+Use the subject photo as a facial identity reference.
+Create an ultra-realistic premium fashion portrait of a stylish adult man photographed from
+```
+
+### No. 26: Ritratto di Lifestyle Candido da Riferimento
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Meem
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/275_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/275_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/275_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto di lifestyle candido, di alta qualità e ultra-fotorealistico di una donna basato su un'immagine di riferimento.
+
+#### Prompt
+
+```text
+Create a high-quality, ultra-photorealistic candid lifestyle portrait of the same adult woman from the uploaded reference image. Use the reference as the single source of truth for her identity. Preserve her facial structure, proportions, natural
+```
+
+### No. 27: Ritratto di Moda Invernale da Foto
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/276_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/276_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt AI per creare un ritratto di moda invernale all'aperto realistico utilizzando una foto del soggetto come riferimento facciale.
+
+#### Prompt
+
+```text
+Use the subject photo as a facial identity reference.
+Create an ultra-realistic outdoor winter fashion portrait of an
+```
+
+### No. 28: Ritratto in Studio di Lusso Ultra-Realistico
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/282_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/282_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt AI per generare un ritratto in studio di lusso ultra-realistico di un uomo adulto elegante.
+
+#### Prompt
+
+```text
+Create an ultra-realistic luxury studio portrait of a stylish adult man photographed
+```
+
+### No. 29: Collage Ritratto Cinematografico con Pioggia
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/283_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/283_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un collage ritratto cinematografico con pioggia, utilizzando un'immagine caricata come riferimento per composizione e atmosfera.
+
+#### Prompt
+
+```text
+Use the uploaded image as the composition, framing, lighting, rainy atmosphere, facial-expression
+```
+
+### No. 30: Selfie da Smartphone con Conservazione dell'Identità
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Meem
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/291_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/291_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/291_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un selfie da smartphone verticale 3:4 ultra-realistico che preservi fedelmente i tratti del viso e l'aspetto di una specifica donna.
+
+#### Prompt
+
+```text
+3:4 vertical ultra-realistic smartphone selfie of the same adult woman from the reference image. Preserve her facial identity, facial structure, skin tone, hairstyle, and overall appearance so she remains unmistakably the same person.
+```
+
+### No. 31: Ritratto di Moda Cinematografico con Identità
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Meem
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/294_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/294_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/294_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto di moda ravvicinato che preservi l'identità e l'aspetto del soggetto.
+
+#### Prompt
+
+```text
+Create an ultra-photorealistic, cinematic close-up fashion portrait of the same adult woman from the reference image. Preserve her facial identity, facial structure, skin tone, hairstyle, and overall appearance so she remains unmistakably the same
+```
+
+### No. 32: Ritratto in Studio Formale Ravvicinato
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/295_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/295_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un ritratto in studio ravvicinato di un giovane uomo in abito formale utilizzando un riferimento facciale.
+
+#### Prompt
+
+```text
+Use the subject photo as a facial identity reference
+
+Create an ultra-realistic close-up studio portrait of a stylish young man wearing an elegant formal outfit against a
+```
+
+### No. 33: Foto Cinematografica di Stile di Vita con Conservazione dell'Identità
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Meem
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/315_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/315_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/315_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare un'immagine cinematografica fotorealistica di una specifica donna dell'Asia orientale, preservandone l'identità e le caratteristiche.
+
+#### Prompt
+
+```text
+Create an ultra-photorealistic cinematic lifestyle photograph using the same young East Asian woman from the reference image. Preserve her facial identity, facial structure, hairstyle, skin tone, and overall appearance so she remains unmistakably
+```
+
+### No. 34: Editoriale di Moda Cinematografico con Riferimento all'Identità
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Meem
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/323_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/323_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/323_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare una fotografia di moda cinematografica di una donna in un'ambientazione scura, preservandone l'identità da un'immagine di riferimento.
+
+#### Prompt
+
+```text
+Create an ultra-photorealistic cinematic fashion editorial photograph using image as the identity reference. The woman must remain unmistakably the same person as in the reference image. SUBJECT & POSE Place the woman alone inside a massive, dark
+```
+
+### No. 35: Ritratto Editoriale Ultrarealistico da Riferimento
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/331_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/331_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per la generazione di un'immagine per creare un ritratto editoriale ultrarealistico di un uomo adulto, utilizzando un'immagine caricata come riferimento per l'identità facciale.
+
+#### Prompt
+
+```text
+Use the uploaded image as the facial identity reference
+
+Create an ultra-realistic editorial portrait of an adult man seated
+```
+
+### No. 36: Battaglia di Drago con Traditore Branditore d'Ascia
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** NEKA
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/421_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/421_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine di una battaglia contro un drago con un traditore branditore d'ascia, utilizzando ChatGPT Astra.
+
+#### Prompt
+
+```text
+ChatGTP Astra、【ドラゴンとの戦闘】、前の画像からそのまま生成、斧使い裏切った！！？みたいな構図になった
+```
+
+### No. 37: Angolo Fotorealistico di Robot Gigante Eroico
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** 四季橘/Shikikitsu@AIイラストとTRPG(希望)
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/429_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/429_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare un'immagine che mostri un robot gigante eroico da un angolo dinamico e fotorealistico.
+
+#### Prompt
+
+```text
+迫力のあるフォトリアルなアングルでこの巨大ロボットのヒロイックな姿を見せる画像を制作してください
+```
+
+### No. 38: Stile Anime da Soggetto Caricato
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mr Das
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/432_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/432_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/432_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare un'immagine in stile anime con tratti di linea sicuri, ombreggiature cel minimali e colori brillanti e saturi.
+
+#### Prompt
+
+```text
+Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting.
+```
+
+### No. 39: Ripresa Frontale Piatta di Prodotto con Etichetta Chiara
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** 三个三
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/473_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/473_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare due immagini di prodotto con etichette chiare e leggibili in uno stile frontale a disposizione piatta.
+
+#### Prompt
+
+```text
+2️⃣ 产品镜头
+
+二张图必须是产品正面平拍。
+
+标签必须在参考图里清晰可读，不然模型会自己瞎编标签文字
+```
+
+### No. 40: Scena Fantasy con Aquila e Riferimento
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** AI Qoro
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/645_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/645_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per una scena fantasy cinematografica con una donna al centro davanti a un'aquila calva gigantesca e maestosa con le ali spiegate.
+
+#### Prompt
+
+```text
+A powerful cinematic fantasy scene of the woman from the reference image standing in the center, surrounded by a gigantic majestic bald eagle spreading its enormous wings behind her.
+```
+
+### No. 41: Annuncio Alta Moda con Identità del Modello
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** AI Qoro
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/658_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/658_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare un'immagine pubblicitaria di alta moda premium e iper-realistica che preservi l'identità facciale specifica di un modello.
+
+#### Prompt
+
+```text
+Create a premium, hyper-realistic high-fashion advertising campaign image using my uploaded female model as the ONLY identity reference for the main female subject. Preserve her exact facial identity and natural appearance — facial structure, skin
+```
+
 <a id="category-2"></a>
 
-### Precision Editing (1)
+### Precision Editing (10)
 
 ### No. 1: Bed Tidying
 
@@ -242,9 +1113,213 @@ Modify the messy bed to be neatly made with a smoothed-out white comforter. Arra
 A wide-angle photo of an unmade bed with a messy white comforter and scattered pillows in a bedroom with sloped ceilings. Bedside tables with glowing lamps flank the bed, with a couple of extra pillows on the floor, an open door on the left, and a window on the right.
 ```
 
+### No. 2: Trasforma le Foto in Poster Premium Individuali
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** SaaS Junction ✦ Daily AI News & Prompts
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/86_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/86_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/86_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'istruzione JSON per convertire ogni fotografia caricata in un poster separato e di alta qualità, senza unirle.
+
+#### Prompt
+
+```text
+{
+  "instruction": "Transform every uploaded photograph into its own independent, premium-quality poster. Never merge multiple photographs into a collage. Each uploaded image must result in a separate individual output."
+}
+```
+
+### No. 3: Ufficio Notturno con Schermo a Diagramma di Flusso
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** KAIROS｜Claude Code / CODEXで業務を全自動化
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/160_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/160_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una stanza studio notturna e poi sostituire solo il contenuto dello schermo del portatile con un diagramma di flusso di automazione.
+
+#### Prompt
+
+```text
+夜の作業部屋を1枚生成してから、ノートPCの画面に点を打って「表計算を自動化フロー図に。机・付箋・照明・窓の夜景は変えないで」とだけ指示。
+```
+
+### No. 4: Redisegno Manga a Due Pagine
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** 布留川英一 / Hidekazu Furukawa
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/171_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/171_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/171_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per ridisegnare un'immagine in stile manga a due pagine, preservando dialoghi, storia e impostazioni dei personaggi.
+
+#### Prompt
+
+```text
+セリフ・物語・キャラクター設定を保ち、構図やポーズ、余白を整えた2ページのストーリー漫画風に描き直して
+```
+
+### No. 5: Modifica Ambiente in Stile Pittorico
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** Abdul Shakoor
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/203_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/203_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per modificare una scena ambientale in uno stile pittorico più libero, preservando specifici elementi compositivi.
+
+#### Prompt
+
+```text
+Edit this environment plate to match a looser painterly illustration medium. Keep the exact composition, ring platform, rope boundary, corner lantern posts, stone steps, mist, distant pagodas and banners unchanged. Loosen the brushwork throughout:
+```
+
+### No. 6: Ripristina Ritratto Vintage Danneggiato
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/244_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/244_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per ripristinare un vecchio ritratto gravemente danneggiato in una foto pulita e dall'aspetto moderno, utilizzando un'immagine caricata come riferimento.
+
+#### Prompt
+
+```text
+Use the uploaded image as the main restoration and identity reference. Convert this severely damaged old portrait into a clean, fully restored modern-looking photo
+```
+
+### No. 7: Ricampiona Auto in Nero Neon
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/300_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/300_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per cambiare il colore di un oggetto in nero neon preservandone la forma originale, la trama e il materiale.
+
+#### Prompt
+
+```text
+Change the color of the car from its current color to Neon Black. Preserve the object’s original shape, texture, material.
+```
+
+### No. 8: Immagine Verticale a Due Pannelli Originale e Modificata
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** Mahnoor Fatima
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/316_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/316_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/316_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare una singola immagine verticale con due pannelli impilati, mantenendo il pannello superiore come fotografia di riferimento originale.
+
+#### Prompt
+
+```text
+Use the uploaded reference photograph as the exact visual source. Create one single vertical 4:5 image containing two clearly separated panels stacked vertically. TOP PANEL — ORIGINAL: Keep the uploaded photograph completely unchanged
+```
+
+### No. 9: Riquadra Fotografia in un Rapporto d'Aspetto Specifico
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/332_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/332_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per ridimensionare una fotografia a un rapporto d'aspetto scelto mantenendo il soggetto principale posizionato in modo naturale.
+
+#### Prompt
+
+```text
+Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [PLATFORM]. Keep the main subject naturally positioned
+```
+
+### No. 10: Ritratto con Luce Dura e Ombre Nette
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** 韦小宝
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/576_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/576_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/576_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta che descrive un ritratto illuminato da luce solare dura, non ammorbidita, proveniente da una finestra a un angolo specifico, creando ombre nette sul viso.
+
+#### Prompt
+
+```text
+主光从画面右上方约 2 点钟方向窗户射入，高度角 15 至 20 度，未柔化硬质直射阳光，从右前方斜擦面部。仅照亮鼻梁右侧、右颧骨、上唇、下巴及局部肩颈，受光区与阴影区形成清晰锐利硬边界。左半张脸保持深暖褐阴影并保留完整细节，明暗比约
+```
+
 <a id="category-3"></a>
 
-### Style & Intelligence (9)
+### Style & Intelligence (199)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -448,9 +1523,4540 @@ Un prompt per generare un'immagine fotorealistica di un robot paladino bianco e 
 このロボットを聖騎士にふさわしい白と金の色合いでフォトリアルにプラモデルとして描いてください。電気店の売り場にこの完成品が飾られており、近くにこのプラモデルの箱が大量に並んでいます。箱の大きさはそろえてください。
 ```
 
+### No. 10: Foto di Viaggio Candidata presso una Mura Storica
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Aqsa
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/17_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/17_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una realistica foto di viaggio candidata di una giovane donna vicino a una storica cinta muraria cittadina di notte, con un edificio tradizionale cinese illuminato.
+
+#### Prompt
+
+```text
+A realistic candid travel photo of a young East Asian woman standing on an old stone walkway beside a historic city wall at night. Behind her is a beautiful traditional Chinese-style building glowing with warm golden lights and deep red accents
+```
+
+### No. 11: Poster di Viaggio Vintage per una Località
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/22_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/22_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/22_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/22_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/22_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un poster di viaggio ispirato agli anni '20-'30, con uno stile di illustrazione a rilievo cartaceo stratificato e impresso, in una palette di colori tenui.
+
+#### Prompt
+
+```text
+Create a premium vintage travel poster for [LOCATION], inspired by the 1920s–1930s, with a refined layered paper-relief and embossed illustration style. Use warm parchment, muted terracotta, olive, dusty blue and sepia tones, combined with subtle paper
+```
+
+### No. 12: Foto Macro di Occhio di Farfalla, Vibrisse di Gatto
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 赤城（あかぎ）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/23_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/23_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/23_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/23_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un primo piano macro fotorealistico di una vibrisse di gatto, degli occhi composti di una farfalla e della pelle di una ragazza.
+
+#### Prompt
+
+```text
+蝶の複眼、猫のヒゲ、女の子の肌 フォトリアル、写真、猫のヒゲのクローズアップ、マクロレンズ
+```
+
+### No. 13: Mockup di Orologio di Lusso su Marmo
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** PoYo AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/26_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/26_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un mockup fotorealistico per annuncio su rivista di un cronografo di lusso in titanio con testo sul quadrante chiaramente leggibile.
+
+#### Prompt
+
+```text
+Luxury titanium chronograph watch on black marble, dial text POYO ATELIER crystal clear, studio spotlight, magazine ad photoreal mockup
+```
+
+### No. 14: Mockup Prodotto per Sacchetto di Caffè Premium
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** PoYo AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/28_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/28_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un mockup commerciale fotorealistico di un sacchetto di caffè nero opaco con illustrazione lineare di montagne su legno rustico.
+
+#### Prompt
+
+```text
+A premium product photo of a matte black coffee bag labeled SUMMIT ROAST with mountain line-art on rustic wood, soft window light, sharp readable packaging typography, photoreal commercial mockup
+```
+
+### No. 15: Poster Lookbook per E-commerce di Moda
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 诗泳研AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/29_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/29_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/29_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un poster lookbook di moda pulito, con una giovane modella in abbigliamento autunnale, utilizzando colori pastello tenui.
+
+#### Prompt
+
+```text
+Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit. Use a soft pastel
+```
+
+### No. 16: Scena di Viaggio in Miniatura con Monumento Iconico
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/32_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/32_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/32_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/32_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/32_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un'incantevole scena in miniatura artigianale, con un piccolo modello 3D di un monumento iconico.
+
+#### Prompt
+
+```text
+Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point. Show the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a
+```
+
+### No. 17: Ritratto Editoriale di Donna che Osserva la Città
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** leolee
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/34_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/34_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto editoriale fotorealistico di una donna adulta dell'Asia orientale che osserva una città al crepuscolo.
+
+#### Prompt
+
+```text
+Create one photorealistic atmospheric editorial portrait, vertical 2:3, featuring a clearly adult East Asian woman, age 21, overlooking a city at dusk. Place her on the left
+```
+
+### No. 18: Ritratto Cinematografico di Donna in un Caffè al Sole
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** leolee
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/35_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/35_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un ritratto cinematografico fotorealistico di una donna adulta dell'Asia orientale in un caffè di quartiere illuminato dal sole.
+
+#### Prompt
+
+```text
+Create one photorealistic cinematic editorial portrait, vertical 2:3, featuring a clearly adult East Asian woman, age 21, in a sunlit neighborhood cafe. She has a softly elongated
+```
+
+### No. 19: Ritratto Editoriale Asimmetrico a Mezzo Volto
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/45_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/45_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/45_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/45_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/45_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un ritratto in stile editoriale con il soggetto posizionato contro il bordo sinistro dell'inquadratura.
+
+#### Prompt
+
+```text
+Create a photorealistic editorial portrait. Asymmetrical off-center half-face portrait, subject placed flush against the far left frame edge, left vertical frame boundary
+```
+
+### No. 20: Poster Artistico Editoriale Premium per una Località
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/46_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/46_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/46_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/46_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/46_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un poster di alta qualità in stile moderno da libro d'arte per una località specificata.
+
+#### Prompt
+
+```text
+Create a premium contemporary editorial art poster for [LOCATION].
+
+FORMAT: Vertical 3:4 | High resolution | Fine-art print quality | Modern art-book aesthetic
+
+Create a visually striking, instantly recognizable interpretation of [LOCATION].
+```
+
+### No. 21: Scena Notturna Calda di una Donna che Legge a Casa
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/51_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/51_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una foto orizzontale realistica 16:9 di una donna in un ambiente domestico caldo e ordinario di notte.
+
+#### Prompt
+
+```text
+16:9 横版，真实生活感女性居家照片，夜晚温暖室内氛围，普通公寓客厅书架角落与落地灯旁的真实生活场景。画面主体是一位视觉年龄约 20–26
+```
+
+### No. 22: Parfait di Lusso di Cibi Non Graditi
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** とらの
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/52_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/52_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un parfait di lusso composto solo da cibi comunemente non graditi, con 30 tipi di ingredienti e annotazioni.
+
+#### Prompt
+
+```text
+一般的に嫌いと言われがちな食べ物のみで構成されたデラックスパフェ、30種類の具と注釈、食べ物なら何でもOK
+```
+
+### No. 23: Poster di Viaggio Vintage Giapponese dell'Era Showa
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/53_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/53_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/53_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/53_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/53_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un poster di viaggio verticale premium nello stile del turismo ferroviario giapponese di metà secolo.
+
+#### Prompt
+
+```text
+Create a premium, ultra-refined Showa-era Japanese vintage travel poster for [LOCATION].
+
+FORMAT: Vertical 3:4 | Collector’s travel poster | Mid-century Japanese railway tourism aesthetic
+
+CORE CONCEPT
+
+Create a beautifully composed, instantly
+```
+
+### No. 24: Ritratto Cinematografico su una Banchina della Metropolitana
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Weinberg
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/54_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/54_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ad alta fedeltà di una giovane donna con capelli castani che rimane immobile mentre un treno sfreccia accanto.
+
+#### Prompt
+
+```text
+cinematic, high-fidelity portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her. She has warm brown hair with soft bangs and a few loose strands blowing in the wind created by the passing train.
+```
+
+### No. 25: Ritratto dall'Alto in Qipao
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** BubbleBrain
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/60_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/60_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto dall'alto di una modella alta e slanciata con trucco raffinato e un viso volpino, che indossa un qipao in una luce morbida e onirica.
+
+#### Prompt
+
+```text
+9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face
+```
+
+### No. 26: Piana Allagata con Riflesso Non Corrispondente
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Johnny Wang
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/73_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/73_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un fotogramma cinematografico che raffigura una piana allagata al crepuscolo con una fattoria e pioppi, caratterizzato da un riflesso non corrispondente nell'acqua.
+
+#### Prompt
+
+```text
+A film still, 2.39:1. A flooded plain at civil twilight, water 20 cm deep and mirror-still to the horizon, a farmhouse and three poplars standing in it. Ordinary, terrestrial, quiet. The reflection does not match: in the water lies not this sky but a
+```
+
+### No. 27: Griglia 3x3 in Stile MV Vocaloid
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 兔妹_兔子
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/76_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/76_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare una griglia 3x3 di varie inquadrature in stile MV Vocaloid con un rapporto d'aspetto 16:9.
+
+#### Prompt
+
+```text
+请用这个角色制作 Vocaloid（ボカロ）MV 风格的各种不同镜头，以 3×3 九宫格形式输出，画面比例为 16:9。
+```
+
+### No. 28: Foglio di Sprite in Stile 16-Bit per Cornacchia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** CharlesUChi
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/79_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/79_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un foglio di sprite in stile 16-bit di una cornacchia in volo, decollo e atterraggio.
+
+#### Prompt
+
+```text
+Make a sprite sheet, 16-bit style, 32X32 per image, of a crow flying, taking off, and then landing.
+```
+
+### No. 29: Gladiatore a Cavallo da Angolazione Bassa
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Jay Sensei👾
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/80_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/80_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'inquadratura estrema dal basso verso l'alto di un gladiatore su un destriero da guerra, visto da un sentiero roccioso di montagna.
+
+#### Prompt
+
+```text
+Extreme low-angle shot from the dusty rocky path on the mountainside, camera positioned close to the ground looking steeply upward as a gladiator in worn bronze armor and a faded red cloak rides a strong chestnut warhorse
+```
+
+### No. 30: Primo Piano della Barriera Corallina con Polpo
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Ivana
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/84_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/84_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta che istruisce di zoommare su una barriera corallina, osservare la luce sulla roccia e includere esattamente otto braccia.
+
+#### Prompt
+
+```text
+Zoom in on the reef, then look at the light on the stone. Oh and I asked for exactly eight arms.
+```
+
+### No. 31: Fotogramma Cinematografico Anamorfico di Donne nella Peonia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** John
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/94_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/94_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una fotografia anamorfica ampia di cinque donne cinesi in miniatura sedute all'interno di una grande peonia rosa pallido.
+
+#### Prompt
+
+```text
+A cinematic wide anamorphic still photograph capturing an intimate floral interior — five miniature young adult Chinese women seated together inside the hollow of an enormous blooming pale-pink peony, its broad curved
+```
+
+### No. 32: Donna tra Rami Fioriti Rosa Fitti
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** dreamy digital arts
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/95_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/95_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una fotografia di una donna circondata da densi rami fioriti rosa che riempiono il primo piano e lo sfondo.
+
+#### Prompt
+
+```text
+A photograph of a woman among dense branches with pink flowers. The woman stands surrounded by flowering branches that fill the foreground and background. The composition is arranged so that the flowers partially overlap the edges of the
+```
+
+### No. 33: Robot sulla Spiaggia al Tramonto
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** LOWREZZ
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/108_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/108_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena cinematografica realistica di un robot seduto su una spiaggia al tramonto, che guarda la sabbia nella sua mano.
+
+#### Prompt
+
+```text
+A robot sitting on a beach at sunset, looking down at sand in its hand. Realistic and cinematic.
+```
+
+### No. 34: Outfit Cyberpunk con Orecchie da Lupo Soffici
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** towa💎AIart
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/109_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/109_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un costume in stile cyberpunk con orecchie da lupo soffici al neon rosa e verde e un collare.
+
+#### Prompt
+
+```text
+サイバーパンクもふもふ衣装
+Headwear: Headwear: neon pink and neon green fur wolf ears headband, cyberpunk hair clips, Neckwear: neon pink and neon green fur choker
+```
+
+### No. 35: Selfie in Primo Piano di Giovane Donna
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Kaan
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/115_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/115_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per una foto grezza scattata con iPhone di una giovane donna con lentiggini e capelli scompigliati dal vento.
+
+#### Prompt
+
+```text
+Raw iPhone 15 Pro Max photo, extreme close-up selfie of a 22-year-old woman with piercing blue-green eyes, light dusting of freckles across the nose and cheeks, messy hair with visible flyaways caught in the wind
+```
+
+### No. 36: Presidente Anni '80 Accoglie Alieno sul Prato della Casa Bianca
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Tech2Wild
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/117_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/117_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine che raffigura una foto in stile anni '80 di un Presidente che saluta un alieno sul prato della Casa Bianca.
+
+#### Prompt
+
+```text
+Create image of a 1980s photo of a President welcoming an alien on the white house grass.
+```
+
+### No. 37: Fotogramma da Film sul Banchetto Reale della Dinastia Tang
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 波妞PONYO
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/121_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/121_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un fotogramma storico in formato widescreen che raffigura un immaginario e sontuoso banchetto reale notturno della Dinastia Tang.
+
+#### Prompt
+
+```text
+横版16:9，真人古装历史电影剧照。虚构唐代皇族夜宴，奢华、温暖，热闹之中藏着微妙的试探。
+```
+
+### No. 38: Foto di Moda Realistica di Donna dell'Asia Orientale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** T 1 to 9
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/126_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/126_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per una foto di moda realistica che ritrae una donna adulta dell'Asia orientale con capelli lunghi neri, luce calda e ombre sul viso e texture della pelle naturale.
+
+#### Prompt
+
+```text
+真实时装照片，抓眼。不复刻海报上的字，也不出现按钮。没有文字、标志、水印或界面。成年东亚女性，黑长发，脸上有一条暖的亮带和一条暗影落在额前。皮肤修得顺，纹理还在，不塑料。
+```
+
+### No. 39: Ritratto di Donna Taiwanese con Filtro Black Mist
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** BubbleBrain
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/127_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/127_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un ritratto che utilizza un filtro black mist, una maschera di sovrapposizione e una fotografia CCD a luce soffusa con luci sottili.
+
+#### Prompt
+
+```text
+Black mist filter, overlay mask, soft-light CCD portrait photography, subtle highlight bloom on the face, Taiwanese woman, medium-short hair, soft Wu-dialect speaking manner, precise
+```
+
+### No. 40: Giglio Ragno Rosso Vicino al Fiume Dopo la Pioggia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** NOMANIX
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/130_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/130_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un'immagine realistica di un singolo giglio ragno rosso con gocce di pioggia, ambientato vicino a un fiume dopo un temporale.
+
+#### Prompt
+
+```text
+雨水滴る一輪のヒガンバナ。屋外の川辺。雨上がりの晴天。ハイクオリティ超美麗リアル2K
+```
+
+### No. 41: Ragazza Taiwanese in Uniforme Scolastica Estetica Estiva
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** BubbleBrain
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un ritratto nello stile della fotografia cinematografica estiva giapponese, che ritrae una ragazza taiwanese con capelli corti e lentiggini che indossa un'uniforme scolastica.
+
+#### Prompt
+
+```text
+Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink
+```
+
+### No. 42: Scena di Strada Piovosa Dopo la Chiusura
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Morphed
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/143_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/143_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/143_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/143_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un'immagine atmosferica che raffigura una persona dopo l'orario di chiusura, concentrandosi su lana bagnata, pelle e luce del lampione.
+
+#### Prompt
+
+```text
+Rain after closing time. Look at the wet wool, the skin, and the light on the street behind her.
+```
+
+### No. 43: Editoriale di Moda con Vento e Seta
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Morphed
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/144_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/144_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/144_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/144_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per una scena di editoriale di moda con tre persone modellate dal vento, luce solare intensa e abbondante seta.
+
+#### Prompt
+
+```text
+Wind does the styling. A fashion editorial test with three people, hard sunlight, and a lot of silk.
+```
+
+### No. 44: Foto Realistica da iPhone della Tesla Model Y
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** bluedev
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/152_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/152_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una foto realistica da iPhone di una Tesla Model Y in un parcheggio, scattata con una fotocamera 0.5x.
+
+#### Prompt
+
+```text
+realistic iphone photo of a tesla model y from parking lot, done with 0.5x camera
+```
+
+### No. 45: Città Eco-Futuristica al Crepuscolo con Luna
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AndromedaAlien
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/165_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/165_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/165_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/165_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/165_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt che descrive una città eco-futuristica al crepuscolo, una città lunare con una Terra gigante, un cavaliere guardiano serafino della galassia e una regina dai capelli argento che danza in una cattedrale di cristallo di ghiaccio.
+
+#### Prompt
+
+```text
+黄昏のエコ未来都市眺望
+月面都市と巨大な地球
+セラフィム・銀河の守護騎士
+氷晶の聖堂に舞う銀髪の女王
+```
+
+### No. 46: Grande Esercito con Drago nella Pioggia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/166_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/166_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena complessa con un esercito di oltre 100 persone, il personaggio Luna, un drago bianco, un cartello giapponese, maneggio intricato di lance e riflessi piovosi.
+
+#### Prompt
+
+```text
+100人以上の軍勢＋ルナ＋白竜＋日本語看板＋複雑な槍の持ち方＋雨天の反射
+```
+
+### No. 47: Coniglio Nano Olandese Grigio che Salta
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** LapinBijou（ラパンビジュー）@AIイラスト＆AI漫画
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/169_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/169_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/169_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare immagini di un coniglio che salta e di un coniglio nano olandese grigio che salta.
+
+#### Prompt
+
+```text
+うさぎがぴょんぴょん
+グレーのネザーランドドワーフがぴょんぴょん
+```
+
+### No. 48: Coppia Anime nel Parco ad Alto Dettaglio
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** cvrdnppls
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/172_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/172_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/172_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine di un giovane uomo e una donna in stile anime, vestiti casualmente in un grande parco, resa in ultra-alta risoluzione 16K con contrasto e saturazione potenziati.
+
+#### Prompt
+
+```text
+「アニメ風の各々私服姿の少女と青年。大きな公園。2:3の縦長アスペクト比」に「16K超々高解像度で要素を各々具体的に描く。コントラストと彩度を少し高めに」
+```
+
+### No. 49: Il Sogno della Camera Rossa su Rotolo Lungo
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 拾安SHI AN
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/176_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/176_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per ricostruire una scena de Il Sogno della Camera Rossa come un tradizionale dipinto cinese su rotolo lungo.
+
+#### Prompt
+
+```text
+用 AIGC 重构《红楼梦》“大观园元宵省亲”
+尝试把古典文学叙事做成中国传统长卷：从荣府门外的仪仗、元春省亲，到园中宴席、宝黛诗会，再一路延伸到冬日街景。
+```
+
+### No. 50: Serie Architettonica Brutalista nel Deserto
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Pan
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/182_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/182_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/182_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/182_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/182_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare immagini di architettura monolitica in terra in stile brutalista desertico, con mashup di architetti celebri.
+
+#### Prompt
+
+```text
+Desert Brutalism & Monolithic Earth Architecture
+
+1:Rick Owens Architectural × Pedro Pascal "MONOLITH OCHRE"
+2: Axel Vervoordt Sanctuaries × Cate Blanchett 
+"WABI MONOLITH
+3: Studio KO Marrakech × Timothée Chalamet 
+ "TERRA BRUTALIS"
+4: Tadao
+```
+
+### No. 51: Fotografia di Passeggiata in Strada all'Ora d'Oro
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nicole
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/193_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/193_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/193_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per una foto fotorealistica scattata con smartphone di una donna che cammina su una strada alberata all'ora d'oro.
+
+#### Prompt
+
+```text
+A highly photorealistic candid smartphone photograph of a young woman walking slowly through a quiet tree-lined residential street during golden hour. She has medium-length dark chestnut hair styled in a slightly messy half-up hairstyle, with soft
+```
+
+### No. 52: Collezione di Poster di Viaggio di Lusso
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** KrishnaG
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/200_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/200_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/200_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/200_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare una sofisticata collezione di poster di viaggio di lusso ispirata a Santorini, Costiera Amalfitana e Parigi.
+
+#### Prompt
+
+```text
+Premium sophisticated luxury travel-poster collection inspired by Santorini, Amalfi Coast, and Paris, blended together into one unified, breathtaking editorial composition, 3:4 vertical format. Create an original, luxurious travel-art
+```
+
+### No. 53: Ritratto Candidato in Parco Urbano
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Aqsa
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/201_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/201_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/201_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto all'aperto candidato di una giovane donna con lunghi capelli castano scuri in un pacifico parco urbano in un pomeriggio soleggiato.
+
+#### Prompt
+
+```text
+A photorealistic candid outdoor portrait of a young woman standing in a peaceful urban park on a sunny afternoon. She has long dark-brown hair styled in a loose low ponytail, with wispy face-framing strands gently falling across her face.
+```
+
+### No. 54: Scheda di Riferimento per Personaggio Assassino del Deserto
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Pan
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/212_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/212_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare una scheda di riferimento cinematografica per un personaggio che presenta un letale assassino del deserto.
+
+#### Prompt
+
+```text
+Professional reference sheet, 16:9 cinematic layout. Left half: DESERT ASSASSIN, woman ~28, lithe and deadly, bronze skin, black kohl eyes, midnight blue wrapped silks revealing mirrored-scale armor underneath, curved scimitar with serpent-coil
+```
+
+### No. 55: Foto di Moda di Donna dell'Asia Orientale in Lounge
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** John
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/213_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/213_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per una foto di moda ultra-fotorealistica scattata con smartphone di una bellissima donna dell'Asia orientale in una lounge privata di notte.
+
+#### Prompt
+
+```text
+Ultra-photorealistic vertical 9:16 smartphone fashion photo of an exceptionally beautiful adult East Asian woman in an elegant private lounge at night. She has a refined small oval face, luminous fair skin with natural texture, large
+```
+
+### No. 56: Opera d'Arte di Francobollo Postale Viaggi Vintage
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/214_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/214_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/214_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/214_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare un francobollo in stile vintage che presenta un'iconica attrazione di un paese e i suoi elementi culturali.
+
+#### Prompt
+
+```text
+Create a sophisticated vintage travel postage-stamp artwork representing [COUNTRY]. Feature the country’s most iconic landmark as the main focal point, surrounded by 3–5 carefully chosen elements that instantly represent the country — landscape, traditional
+```
+
+### No. 57: Poster di Viaggio Vintage di Struttura Iconica
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/216_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/216_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/216_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/216_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare un poster di viaggio vintage stilizzato e dipinto a mano, che presenta un riconoscibile punto di riferimento architettonico.
+
+#### Prompt
+
+```text
+Create a sophisticated vintage-inspired travel poster featuring [ICONIC STRUCTURE] as the main focal point. Keep the architecture highly recognizable with accurate proportions and distinctive details, but reinterpret it as a stylized hand-painted
+```
+
+### No. 58: Ritratto di Moda Candidato in Autorimessa
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** John
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/217_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/217_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/217_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ultra-fotorealistico di una bellissima donna eurasiatica in una moderna autorimessa sotterranea.
+
+#### Prompt
+
+```text
+Ultra-photorealistic vertical 3:4 candid luxury fashion portrait in a modern underground parking garage. An exceptionally beautiful adult Eurasian woman with refined mixed Asian-European features stands beside a
+```
+
+### No. 59: Scena Miniaturizzata di Cibo Artigianale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/218_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/218_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/218_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/218_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un'incantevole scena in miniatura che raffigura un piatto di cibo specifico su un piatto di ceramica.
+
+#### Prompt
+
+```text
+Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden
+```
+
+### No. 60: Diorama Miniaturizzato di Fronte Negozio
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/220_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/220_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/220_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/220_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/220_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un fantasioso diorama in miniatura 3D in argilla di un negozio o marchio riconoscibile.
+
+#### Prompt
+
+```text
+Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors
+```
+
+### No. 61: Diorama Miniaturizzato di Struttura Iconica
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/223_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/223_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/223_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/223_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/223_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un mondo in miniatura dettagliato e accogliente con al centro una struttura iconica.
+
+#### Prompt
+
+```text
+Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations
+```
+
+### No. 62: Ritratto in Studio Asimmetrico di Alta Moda
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/231_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/231_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un ritratto ravvicinato di un uomo su sfondo bianco da studio, con una composizione asimmetrica.
+
+#### Prompt
+
+```text
+Create a high-fashion editorial close-up portrait of an adult man against a seamless pure white studio background. Use an intentionally asymmetric composition:
+```
+
+### No. 63: Paesaggio di Labirinto Bianco Scolpito dal Vento
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/240_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/240_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt descrittivo per generare un paesaggio di un labirinto bianco formato dall'erosione del vento nel tempo.
+
+#### Prompt
+
+```text
+テーマ
+「風が削った白い迷路」
+
+白い大地の奥へ進むと、
+
+岩は壁になり、
+柱になり、
+細い回廊のように続いていた。
+
+誰かが造ったわけではない。
+
+長い時間、
+同じ場所を風が通り続けた結果。
+
+削られたところと、
+残ったところ。
+
+その違いだけで、
+```
+
+### No. 64: Il Cavaliere del Drago Bianco e la Piccola Pietra
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/245_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/245_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena che raffigura un Cavaliere del Drago Bianco di notte, fermato non da un nemico ma da una singola piccola pietra, con una didascalia filosofica.
+
+#### Prompt
+
+```text
+「痛みの正体は、だいたい小さい。」 白竜騎士の夜。 巡回を止めたのは、敵ではなく小石一個だった。
+```
+
+### No. 65: Ritratto Editoriale di Uomo Sicuro di Sé
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/249_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/249_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto in studio di stile editoriale premium di un uomo sicuro di sé con capelli neri corti.
+
+#### Prompt
+
+```text
+Create an ultra-realistic close-up studio portrait of an adult man with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style. Give him neatly short black hair.
+```
+
+### No. 66: Ritratto di Moda in Studio a Corpo Intero
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/255_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/255_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto a corpo intero di un modello maschile sicuro di sé in un ambiente da studio senza soluzione di continuità e caldo.
+
+#### Prompt
+
+```text
+Create an ultra-realistic full-body studio fashion portrait of an adult man standing confidently against a seamless warm light-beige studio background. Position the man in the
+```
+
+### No. 67: Capolavoro per Campagna di Viaggio di Lusso
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** KrishnaG
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/258_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/258_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/258_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/258_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/258_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per una sofisticata campagna di lifestyle di viaggio di lusso che combina esperienze alpine, di Dubai e di chalet europei.
+
+#### Prompt
+
+```text
+Premium sophisticated luxury lifestyle travel-campaign masterpiece combining an exclusive Alpine lakeside mountain retreat, a breathtaking Dubai waterfront luxury escape, and multiple elegant European lakeside chalet experiences into one
+```
+
+### No. 68: Routine Mattutina del Maestro Mago Blu
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/260_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/260_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena che raffigura la mattina di un Maestro Mago Blu, dove pettini, elastici per capelli e lacci delle scarpe finiscono il loro lavoro mentre lui legge i rapporti.
+
+#### Prompt
+
+```text
+「朝の支度に、手は要らなかった。」 青魔導士マスターの朝。 報告書を読む間に、櫛も髪紐も靴紐も仕事を終える。
+```
+
+### No. 69: Nave in Arrivo alla Costa di Gesso Bianco
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/262_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/262_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt descrittivo per una scena in cui una nave arriva a una riva di terra bianca, sale e calcare, con terre invisibili oltre.
+
+#### Prompt
+
+```text
+白い大地に船が着く。海を渡った先に、砂ではなく、白い大地が待っていた。塩と石灰に覆われた岸。風に削られた白い岩。その向こうには、まだ見たことのない土地が続いている。昨日まで白紙だった地図に、
+```
+
+### No. 70: Ritratto del Personaggio Pescatore Elfo del Mare
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/273_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/273_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt che descrive un elfo che vive vicino al mare, un pescatore costiero che legge i segni dell'oceano.
+
+#### Prompt
+
+```text
+森じゃなくて、海で生きるエルフ。
+
+TRPG人外図鑑 FILE.022｜リゼア
+種族：エルフ
+職業：沿岸漁師／潮目読み
+
+132年ぶんの記憶を頼りに、
+海面の色、風、鳥、波、匂いを読む。
+
+「魚を探すんじゃない。
+　海が変わるところを見るの。」
+
+《潮見浜》で今日も海を見る、ひとりの漁師です。
+```
+
+### No. 71: Ritratto Professionale in Studio
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/278_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/278_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto professionale in studio di un uomo adulto.
+
+#### Prompt
+
+```text
+Create an ultra-realistic professional studio headshot portrait of an adult man photographed against a
+```
+
+### No. 72: Uomo Sicuro di Sé in Interno Moderno e Lussuoso
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/279_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/279_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto di lifestyle ultra-realistico di un uomo sicuro di sé in un interno moderno e lussuoso con una porta in legno scuro e un grande specchio.
+
+#### Prompt
+
+```text
+Create an ultra-realistic premium lifestyle portrait of an adult man standing confidently inside a luxurious modern interior near a dark wooden doorway and a large floor-to-ceiling mirror.
+```
+
+### No. 73: Fantasy: Lanciere Addormentato alla Scrivania
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/284_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/284_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt poetico che descrive la notte di un lanciere, che ricorda la venatura del legno di una scrivania davanti a una mappa di un altro mondo.
+
+#### Prompt
+
+```text
+「眠る予定は、書いてへんかった。」
+
+槍兵の夜。
+異世界の地図より先に、机の木目を頬で覚えた。
+```
+
+### No. 74: Cavaliere del Drago in Riposo all'Ombra
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/289_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/289_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena che raffigura due cavalieri del drago che fanno una pausa sotto l'ala di un drago, con una mappa e del pane duro.
+
+#### Prompt
+
+```text
+「日陰くらい、借りてもええか。」 双竜騎士の昼。 レシックの右翼の下で、地図と硬いパンをひらく。
+```
+
+### No. 75: Uomo Elegante in una Libreria Accogliente alla Sera
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/298_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/298_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ultra-realistico di un uomo che si rilassa in un salotto di una libreria di lusso durante il primo serale.
+
+#### Prompt
+
+```text
+Create an ultra-realistic lifestyle portrait of a stylish adult man relaxing in a cozy upscale library lounge during the early evening. Position him seated comfortably in a vintage cognac-brown leather armchair, holding a book, with soft ambient lighting from a nearby floor lamp and a warm fireplace glow. The atmosphere is serene and sophisticated, with rich wood shelves filled with books in the background.
+```
+
+### No. 76: Postino Dullahan in una Notte d'Autunno
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/299_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/299_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un portalettere notturno percorre una strada autunnale costeggiata da ragni rossi sotto un cielo notturno.
+
+#### Prompt
+
+```text
+秋の夜。彼岸花の咲く街道を歩く、夜間郵便配達人エルネ。街が眠ってからも、届ける手紙があります。エルネ／デュラハン／夜間郵便配達人
+```
+
+### No. 77: Ritratto Editoriale a Corpo Intero in Borgogna
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/303_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/303_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto editoriale ultra-realistico di un uomo nero sicuro di sé in un abito elegante, seduto in un ambiente studio minimalista.
+
+#### Prompt
+
+```text
+Create an ultra-realistic full-body editorial studio portrait of a stylish adult Black man seated confidently on a minimalist
+```
+
+### No. 78: Pomeriggio della Maestra Mago Blu
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/304_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/304_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena che raffigura il pomeriggio di una Maestra Mago Blu, in cui la magia cancella la luce del sole e i ciottoli prima che la raggiungano.
+
+#### Prompt
+
+```text
+「歩ける。でも、歩く理由がなかった。」 青魔導士マスターの午後。 日差しも石畳も、彼女へ届く前に魔法が片づける。
+```
+
+### No. 79: Tramonto su Terra Spaccata con Fiamme
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/306_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/306_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt descrittivo per una scena di una landa selvaggia al crepuscolo con sottili fiamme che si levano da fessure del terreno e il Mar Caspio in lontananza.
+
+#### Prompt
+
+```text
+夕暮れの荒野で、地面の亀裂から細い炎が静かに揺れていた。噴火でも、焚き火でもない。大地の奥から染み出したものが、ただ燃え続けている。遠くには、夕日に染まるカスピ海。土も、水も、火も、
+```
+
+### No. 80: Vascello a Vela Antico al Tramonto Dorato
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** KrishnaG
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/308_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/308_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine ultrarealistica di un antico vascello in legno a vela in una drammatica scena oceanica al tramonto.
+
+#### Prompt
+
+```text
+Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a magnificent vintage wooden sailing ship dominating the left foreground. The ship has multiple tall wooden masts, intricate rigging, ropes, detailed weathered wooden textures and large
+```
+
+### No. 81: Cavaliere del Drago Bianco Controlla la Ferita all'Ala
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/313_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/313_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena del Maestro Cavaliere del Drago Bianco che controlla con cura la ferita all'ala sinistra di un drago addormentato in una stalla per draghi illuminata dalla luna.
+
+#### Prompt
+
+```text
+「眠ってる間に、少しだけ診せてな。」 月夜の竜舎。 白竜騎士マスターは、レシックを起こさないよう左翼の傷を確かめる。
+```
+
+### No. 82: Viaggiatore Rammenda un Drappo Blu in una Città Vulcanica
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/314_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/314_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena di un viaggiatore che rammenda un drappo da viaggio blu in una città vulcanica nel pomeriggio, con montagne in lontananza.
+
+#### Prompt
+
+```text
+「裂けたなら、縫えばええ。」 火山都市の午後。 遠い山を眺める前に、旅を支える青い布を直す。
+```
+
+### No. 83: Mattina in un Mondo Specchio con un Lanciere
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/317_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/317_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta che raffigura un lanciere che ha perso il suo titolo più importante, che inizia la sua giornata dai lacci delle scarpe bagnati nella mattina di un mondo specchio.
+
+#### Prompt
+
+```text
+「泥は、歩いた分だけつく。」 ミラ世界の朝。 最強の肩書きを失った槍兵は、濡れた靴紐から一日を始める。
+```
+
+### No. 84: La Maestra Mago Blu Luna Prima dell'Alba
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/318_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/318_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena che raffigura la Maestra Mago Blu Luna prima dell'alba, con libri, una sedia e del tè, di un tempo in cui non avevano bisogno del suo corpo.
+
+#### Prompt
+
+```text
+「手を伸ばす必要なんて、なかった。」 夜明け前の青魔導士マスター・ルナ。 本も椅子も紅茶も、彼女の身体を必要としていなかった頃。
+```
+
+### No. 85: Paesaggio Dove il Fuoco Sfugge dalla Terra
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/319_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/319_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta descrittiva per un paesaggio in cui il fuoco fuoriesce dal terreno in una landa arida, con fango grigio che scorre e il Mar Caspio in lontananza.
+
+#### Prompt
+
+```text
+テーマ
+「大地から火が漏れる」
+
+乾いた荒野のあちこちで、
+
+大地が静かに脈打っていた。
+
+灰色の泥が湧き、
+ゆっくりと斜面を流れ、
+また新しい形をつくっていく。
+
+遠くには、
+カスピ海の青い帯。
+
+動かないように見える大地も、
+その奥ではずっと生きている。
+```
+
+### No. 86: Cavaliere del Drago Nero Luna di Notte
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/325_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/325_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena che raffigura la Cavaliere del Drago Nero Luna di notte, mentre controlla i calli sulla sua lancia mentre El Drago dorme accanto a lei.
+
+#### Prompt
+
+```text
+「今日も、この手で届いた。」 夜の黒竜騎士ルナ。 槍だこを確かめる隣で、エル・ドラゴは先に眠った。
+```
+
+### No. 87: Frieren e Fern in un Posto Sereno
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** TOMATO🍅トマト
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/327_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/327_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'illustrazione SFW che raffigura una conversazione tra i personaggi Fern e Frieren.
+
+#### Prompt
+
+```text
+フェルン『良い場所ですねフリーレン様』 フリーレン『…そうだね』 SFW illustration
+```
+
+### No. 88: Colline Scolpite dal Vento e dalla Pioggia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ぬる（温）
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/329_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/329_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta poetica che descrive un paesaggio in cui il verde svanisce, rivelando strati di ocra, ruggine, grigio-bianco e verde pallido su colline scolpite dal vento e dalla pioggia.
+
+#### Prompt
+
+```text
+森を抜けると、景色から緑が少しずつ消えていった。代わりに現れたのは、黄土色。錆色。灰白色。淡い緑。風と雨に削られた丘には、大地そのものの時間が幾重にも重なっている。道はその色の間を縫いながら、
+```
+
+### No. 89: Antica Signora con Ventaglio Davanti al Bambù
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/339_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/339_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/339_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt di IA per generare uno sfondo con estetica orientale, raffigurante una donna classica con un ventaglio rotondo contro un muro bianco e ombre di bambù.
+
+#### Prompt
+
+```text
+主题方向：东方禅意极简插画
+风格分支：女性审美明快型
+主体内容：一位手持圆形团扇的古风女子站在白墙竹影前
+```
+
+### No. 90: Robot della Polizia che Trainano una Scialuppa di Salvataggio
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** カーブミラー
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/342_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/342_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt che raffigura una Squadra Robot di Macchinari Pesanti della Polizia di Tokyo mentre soccorre gli evacuati trainando una scialuppa di salvataggio.
+
+#### Prompt
+
+```text
+『警視庁重機対策課ロボット隊』
+
+　救命ボートの牽引で
+　　避難者を救助します。
+```
+
+### No. 91: Foto CCD Diurna di un Osservatorio Urbano
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/346_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/346_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una foto di vita quotidiana in stile CCD, luminosa e diurna, che ritrae esplorazione urbana su una terrazza per osservazione astronomica.
+
+#### Prompt
+
+```text
+GPT Image 2生成日间高亮CCD生活照。
+
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市探索生活写真
+场景方向：城市天文观景平台 / 白色圆形护栏 / 小型观测望远镜 / 开阔蓝天 / 远处城市天际线
+服装方向：樱桃红色修身方领无袖针织上衣 + 冷白色高腰修身短裤
+```
+
+### No. 92: Ritratto di Vita Verticale in Stile iPhone
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/347_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/347_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto realistico e spontaneo in stile iPhone di una giovane donna.
+
+#### Prompt
+
+```text
+9:16 竖版，真实 iPhone 手机随手拍摄的生活感女性照片，画面主体是一位视觉年龄约 20–26
+```
+
+### No. 93: Poster in Stile Cinese Nuovo con Finestra Fiorita
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/348_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/348_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per la generazione di immagini di un poster orientale elegante e minimalista, raffigurante una donna classica accanto a una finestra fiorita verde giada.
+
+#### Prompt
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美新中式型
+主体内容：一位古风女子站在花窗前，姿态安静含蓄
+情绪母题：雅致、柔美、轻奢感
+场景与意象：玉青色花窗、玫红花影、暖白墙面、女子、少量浅金细节
+构图与空间：9:16
+```
+
+### No. 94: Ritratto Editoriale Fotorealistico di una Donna dell'Asia Orientale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/354_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/354_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/354_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/354_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/354_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt dettagliato per generare un ritratto fotorealistico a mezza figura, a livello degli occhi, di una giovane donna dell'Asia orientale con specifici tratti facciali.
+
+#### Prompt
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, eye-level view.
+
+A 20-year-old adult East Asian woman, small near-round oval face with full low cheeks, large level warm gray-brown round eyes, short low-bridge nose, small even rose-pink lips, luminous
+```
+
+### No. 95: Robot dell'Unità Macchinari Pesanti della Polizia che Puliscono il Fiume
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** カーブミラー
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/358_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/358_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt che descrive una squadra di robot dell'unità macchinari pesanti della polizia mentre ripuliscono i rifiuti che stanno ostruendo un fiume.
+
+#### Prompt
+
+```text
+『警視庁重機対策課ロボット隊』
+
+　川を堰き止めている
+　　ゴミを片付けています。
+```
+
+### No. 96: Ritratto Editoriale Fotorealistico con Viso a Forma di Cuore-Ovale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/359_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/359_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/359_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/359_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/359_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt dettagliato per generare un ritratto editoriale a mezza figura, a livello degli occhi, di una giovane donna dell'Asia orientale con specifici tratti facciali.
+
+#### Prompt
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, eye-level view.
+
+A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, warm hazel almond eyes with lifted corners, slim medium-bridge nose, full coral-rose lips with a plush lower lip,
+```
+
+### No. 97: Ritratto iPhone di una Giovane Donna
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/363_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/363_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una foto verticale 9:16 realistica e casual di una donna di età compresa tra 20 e 26 anni, come se fosse scattata con la fotocamera principale di un iPhone.
+
+#### Prompt
+
+```text
+9:16 竖版，真实 iPhone 手机普通主摄随手拍摄的生活感女性照片，一位视觉年龄约 20–26
+```
+
+### No. 98: Donna Zen Vicino all'Acqua in Estate
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/364_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/364_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare uno sfondo con estetica orientale, raffigurante una donna vicino all'acqua in uno stile minimalista e rinfrescante.
+
+#### Prompt
+
+```text
+主题方向：东方禅意极简插画
+风格分支：女性审美清爽型
+主体内容：一位女子坐在水边石阶上，低头看向水面
+情绪母题：清新、夏日、松弛感
+场景与意象：青瓷蓝水面、白色石阶、柠檬黄色圆形日光、少量竹影、人物
+构图与空间：9:16
+```
+
+### No. 99: Ritratto a Mezza Figura di una Donna dell'Asia Orientale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/369_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/369_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/369_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt dettagliato per un ritratto editoriale fotorealistico di una giovane donna dell'Asia orientale con specifici tratti facciali.
+
+#### Prompt
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, waist-level view.
+
+A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed chin, wide-set gray-hazel almond eyes with lifted corners, narrow-bridge rounded-tip nose, full coral-brick
+```
+
+### No. 100: Scatto di Moda in un Caffè-Libreria sul Tetto Urbano
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/371_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/371_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una foto di vita quotidiana in stile CCD, luminosa e diurna, con un'ambientazione urbana e artistica e abbigliamento specifico.
+
+#### Prompt
+
+```text
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市文艺生活写真
+场景方向：商业建筑开放式露台书吧 / 白色书架 / 浅木桌面 / 城市绿植与天空
+服装方向：蓝莓紫色修身方领短袖针织上衣 + 奶油白高腰A字短裙
+```
+
+### No. 101: Ritratto Editoriale Fotorealistico di una Donna dell'Asia Orientale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/372_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/372_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/372_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/372_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt dettagliato per generare un ritratto editoriale a mezza figura, a livello della vita, di una giovane donna dell'Asia orientale con specifici tratti facciali.
+
+#### Prompt
+
+```text
+Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, waist-level view. A 20-year-old adult East Asian woman, petite oval face with full cheeks, large slightly close-set round gray-brown eyes, tiny beauty mark near the outer cheek, cushioned slightly parted rose
+```
+
+### No. 102: Ritratto Editoriale di una Donna Seducente con Occhiali
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto editoriale fotorealistico di una donna giapponese o coreana seducente sui vent'anni, che indossa occhiali e un orecchino a clip.
+
+#### Prompt
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, waist-level view.
+
+A 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along
+```
+
+### No. 103: Poster di Copertina Minimalista Zen Orientale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/374_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/374_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare uno sfondo minimalista orientale, raffigurante una donna aggraziata in stile antico che passa attraverso un portale blu con fiori di ciliegio.
+
+#### Prompt
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美清透型
+主体内容：一位古风女子从门洞前缓步经过，姿态轻盈
+情绪母题：明净、轻快、春日呼吸感
+场景与意象：白墙、晴空蓝门洞、樱花粉花影、少量叶片、人物
+构图与空间：9:16
+```
+
+### No. 104: Ritratto Editoriale Frontale a Corpo Intero
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto editoriale fotorealistico a corpo intero di una donna seducente sulla ventina, ripresa da una vista frontale.
+
+#### Prompt
+
+```text
+Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive
+```
+
+### No. 105: Ritratto Frontale Cowboy Shot fino alle Ginocchia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un ritratto frontale, inclinato, fino alle ginocchia di una giovane donna giapponese seducente, in stile editoriale fotorealistico.
+
+#### Prompt
+
+```text
+Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese
+```
+
+### No. 106: Squadra Robotica dell'Unità Macchinari Pesanti della Polizia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** カーブミラー
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/378_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/378_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di una squadra robotica della polizia dell'Unità di Contromisure con Macchinari Pesanti che sposta veicoli da una strada allagata da un forte temporale.
+
+#### Prompt
+
+```text
+『警視庁重機対策課ロボット隊』
+
+　大雨で冠水した
+　　道路からの車両の移動
+```
+
+### No. 107: Foto di Vita Sportiva Urbana di Giorno, Luminosa in Stile CCD
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/381_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/381_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una foto di vita luminosa diurna in stile CCD in un ambiente sportivo urbano.
+
+#### Prompt
+
+```text
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市轻运动生活照
+场景方向：现代城市篮球公园外围休息区 / 蓝橙球场 / 白色长椅 / 金属围栏
+服装方向：葡萄柚橙修身无袖运动上衣 + 冷白色高腰运动百褶短裙
+气质标签：活力、明亮、健康、甜酷、自然
+```
+
+### No. 108: Copertina Verticale Poster Minimalista Zen
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/382_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/382_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare una copertina verticale 9:16 minimalista, luminosa e pulita con estetica femminile orientale moderna e un'atmosfera mattutina.
+
+#### Prompt
+
+```text
+东方禅意极简封面海报，女性审美明亮型，新中式清晨感高颜值封面。9:16 竖版构图，整体画面轻盈、清透、干净、明亮，具有现代东方女性审美与小红书封面感。
+```
+
+### No. 109: Donna Seduta Accanto a una Finestra Rotonda
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/391_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/391_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un poster minimalista Zen orientale che raffigura una donna che si rilassa accanto a una finestra rotonda.
+
+#### Prompt
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美柔亮型
+主体内容：一位女子坐在圆窗前安静发呆，姿态放松
+情绪母题：坐忘、松弛、温柔内观
+场景与意象：圆窗、蜜瓜绿色窗外植物、樱花粉小花、白色坐垫、女子
+```
+
+### No. 110: Squadra Robotica della Polizia che Ferma un Camion in Fuga
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** カーブミラー
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/396_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/396_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di una squadra robotica della polizia dell'Unità di Contromisure con Macchinari Pesanti che tenta di fermare un camion in fuga.
+
+#### Prompt
+
+```text
+『警視庁重機対策課ロボット隊』
+
+　暴走トラックを
+　　なんとか停止させる
+```
+
+### No. 111: Ritratto Editoriale a Corpo Intero di Giovane Donna
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/400_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/400_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/400_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/400_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/400_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un ritratto editoriale a corpo intero, a livello degli occhi, di una giovane donna giapponese o coreana che indossa orecchini a cerchio.
+
+#### Prompt
+
+```text
+Create a photorealistic editorial portrait. Full-body portrait, eye-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with medium smooth hoop earrings, clean polished metal circular silhouette.
+```
+
+### No. 112: Ritratto Cowboy Shot Editoriale Fotorealistico
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un ritratto editoriale fotorealistico di una giovane donna giapponese o coreana con gioielli specifici e un'inquadratura definita.
+
+#### Prompt
+
+```text
+Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck
+```
+
+### No. 113: Ritratto Fotorealistico fino alla Vita con Occhiali
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nailai7981
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/406_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/406_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/406_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/406_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/406_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto fino alla vita, vista a livello delle ginocchia, di una giovane donna giapponese o coreana che indossa occhiali audaci dalla montatura spessa bianca.
+
+#### Prompt
+
+```text
+Create a photorealistic editorial portrait. Waist-up portrait, knee-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with white frame, bold thick-frame glasses, worn normally on the face, lenses aligned
+```
+
+### No. 114: Copertina Poster Minimalista Zen con Donna e Cicalino da Vento
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 李岳
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/407_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/407_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un'immagine di una donna che tocca un cicalino da vento vicino a una finestra, in stile minimalista Zen orientale.
+
+#### Prompt
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美轻盈型
+主体内容：一位女子站在窗边，抬手轻碰一枚风铃
+情绪母题：治愈、轻盈、微风感
+场景与意象：海盐蓝窗外色块、珊瑚粉花影、白色窗框、风铃、女子
+```
+
+### No. 115: Città Post-Apocalittica con Vegetazione Verde
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 兔妹_兔子
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/408_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/408_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una foto dettagliata di una città post-apocalittica a Shenzhen, in Cina, ricoperta da vegetazione verde.
+
+#### Prompt
+
+```text
+废土风：一张废土城市的照片，画面中充满了绿色的植被，细节非常丰富，地址为中国深圳。
+```
+
+### No. 116: Selfie con Smartphone sul Tetto all'Ora d'Oro
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Mr Das
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un selfie con smartphone di una giovane donna su un tetto al tramonto.
+
+#### Prompt
+
+```text
+Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.
+```
+
+### No. 117: Donna Giapponese con Viso da Tanuki di Notte
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** こやす69＠AIプロンプト屋
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/418_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/418_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un'immagine fotorealistica di una giovane donna giapponese fittizia con un viso simile a quello di un tanuki in un ambiente notturno tranquillo.
+
+#### Prompt
+
+```text
+Photorealistic natural photo of a completely fictional 20-year-old adult Japanese woman. She has an extremely cute tanuki-like face, a soft round face and cheeks, gentle round eyes, and dark brown hair. At night on a quiet
+```
+
+### No. 118: Vista del Delfino su Donne in Acquario di Vetro
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** こやす69＠AIプロンプト屋
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/425_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/425_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/425_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/425_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/425_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine realistica dalla prospettiva di un delfino che guarda attraverso una vasca di vetro a 360 gradi donne che visitano un affollato acquario riservato alle sole donne.
+
+#### Prompt
+
+```text
+女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
+```
+
+### No. 119: Set di Lingerie su Manichino Bianco a Torso
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** こやす69＠AIプロンプト屋
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine di riferimento in stile prodotto di un set di lingerie in pizzo rosa pallido su un manichino bianco pulito.
+
+#### Prompt
+
+```text
+A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
+```
+
+### No. 120: Scena Miniaturizzata in Argilla Polimerica di Negozio di Marca
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Mr Das
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/430_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/430_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/430_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/430_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/430_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare un modellino in argilla di un negozio di marca con dettagli accoglienti sul marciapiede.
+
+#### Prompt
+
+```text
+Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
+```
+
+### No. 121: Annuncio di Moda con Ripresa a Terra Inclinata
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 三个三
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/437_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/437_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/437_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una campagna pubblicitaria di moda per un marchio fittizio con sei persone in abiti vivaci contro un cielo blu cobalto, ripresa da un'angolazione bassa.
+
+#### Prompt
+
+```text
+这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
+```
+
+### No. 122: Duello Anime Disegnato a Mano con Ciliegi in Fiore
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 三个三
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/438_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/438_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/438_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una scena di un film d'animazione giapponese disegnato a mano della fine degli anni '90, con una donna con una katana di fronte a un spadaccino sotto ciliegi in fiore che perdono petali.
+
+#### Prompt
+
+```text
+来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
+```
+
+### No. 123: Moda Gothic Lolita con Camicetta Marmorizzata
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** towa💎AIart
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine di un outfit di moda gothic lolita con una camicetta marmorizzata viola neon e arancione.
+
+#### Prompt
+
+```text
+［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black
+```
+
+### No. 124: Abito da Sposa Gotico Nero da Sposa Infestata
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** towa💎AIart
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/479_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/479_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/479_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/479_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un costume da sposa horror gotico per Halloween con eleganza romantica oscura.
+
+#### Prompt
+
+```text
+[concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
+```
+
+### No. 125: Ritratto Cinematografico Malinconico di Donna dell'Asia Orientale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/489_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/489_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/489_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/489_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/489_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un ritratto ravvicinato cinematografico ad alto contrasto di una giovane donna dell'Asia orientale con pelle pallida e lunghi capelli neri.
+
+#### Prompt
+
+```text
+A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
+```
+
+### No. 126: Ritratto Cinematografico Notturno su Attraversamento Pedonale Bagnato
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/490_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/490_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/490_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/490_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/490_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un ritratto cinematografico di una giovane donna dell'Asia orientale su un attraversamento pedonale bagnato di notte.
+
+#### Prompt
+
+```text
+A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
+```
+
+### No. 127: Ritratto Ravvicinato con Occhi Dorati Luminosi
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/491_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/491_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/491_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/491_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/491_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un ritratto ravvicinato cinematografico di una giovane donna dell'Asia orientale con capelli corvini e occhi dorati luminosi.
+
+#### Prompt
+
+```text
+Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
+```
+
+### No. 128: Ritratto Fotorealistico con Occhiali e Occhiolino
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/492_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/492_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/492_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/492_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/492_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto fotorealistico di una giovane donna dell'Asia orientale con occhiali e capelli mossi, che fa un tenero occhiolino.
+
+#### Prompt
+
+```text
+Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
+```
+
+### No. 129: Ritratto in Stile Pellicola Analogica con Capelli Scomposti
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/494_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/494_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/494_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/494_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/494_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto fotorealistico in stile pellicola analogica di una giovane donna dell'Asia orientale con capelli neri disordinati che guarda la fotocamera.
+
+#### Prompt
+
+```text
+A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
+```
+
+### No. 130: Ritratto Cinematografico che Galleggia in Acque Scure
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/495_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/495_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/495_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/495_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/495_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto cinematografico di una giovane donna serena che galleggia in acqua ferma con i capelli bagnati.
+
+#### Prompt
+
+```text
+Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
+```
+
+### No. 131: Ritratto di Bellezza in Studio con Treccia Laterale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/496_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/496_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/496_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/496_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/496_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto di bellezza fotorealistico in studio di una giovane donna dell'Asia orientale con pelle luminosa, lunghi capelli neri e occhi chiusi.
+
+#### Prompt
+
+```text
+A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
+```
+
+### No. 132: Ritratto di Donna in Auto con Hijab
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/497_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/497_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/497_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/497_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/497_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ravvicinato fotorealistico di una giovane donna dell'Asia orientale in auto, che indossa un hijab color beige chiaro.
+
+#### Prompt
+
+```text
+Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
+```
+
+### No. 133: Donna che si Scatta un Selfie con l'Hijab
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/499_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/499_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/499_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/499_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/499_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine di una giovane donna con un hijab chiaro che si scatta un selfie a un tavolo di legno.
+
+#### Prompt
+
+```text
+A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
+```
+
+### No. 134: Ritratto di Donna che Guarda oltre la Spalla
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/500_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/500_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/500_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/500_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/500_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta dettagliata per generare un ritratto fotorealistico di una giovane donna dell'Asia orientale che guarda oltre la propria spalla.
+
+#### Prompt
+
+```text
+A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
+```
+
+### No. 135: Ritratto di Donna con Occhiali
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/501_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/501_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/501_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/501_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/501_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto di una giovane donna dell'Asia orientale con occhiali, capelli mossi e un'espressione calma.
+
+#### Prompt
+
+```text
+Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
+```
+
+### No. 136: Ritratto Ravvicinato di Giovane Ragazza
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta dettagliata per generare un ritratto ravvicinato di una giovane ragazza dell'Asia orientale con specifici tratti del viso ed espressione.
+
+#### Prompt
+
+```text
+A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly
+```
+
+### No. 137: Ritratto Ravvicinato con Rossetto Vivido
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/503_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/503_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/503_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/503_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/503_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto fotorealistico di una giovane donna dell'Asia orientale con pelle porcellanata, occhi a mandorla e rossetto vivido.
+
+#### Prompt
+
+```text
+Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
+```
+
+### No. 138: Ritratto con Capelli Bagnati e Spalla Scoperta
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/504_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/504_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/504_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/504_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/504_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto fotorealistico di una giovane donna con pelle rugiada e capelli neri bagnati che guarda oltre la spalla.
+
+#### Prompt
+
+```text
+photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
+```
+
+### No. 139: Ritratto Cinematografico di Donna dell'Asia Orientale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/505_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/505_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/505_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/505_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/505_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ravvicinato di una giovane donna dell'Asia orientale con lunghi capelli scuri mossi su uno sfondo nero.
+
+#### Prompt
+
+```text
+A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
+```
+
+### No. 140: Ritratto Fotorealistico con Occhiali
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/506_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/506_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/506_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/506_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/506_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto fotorealistico di una giovane donna dell'Asia orientale con lunghi capelli mossi, occhiali rotondi e un'espressione dolce.
+
+#### Prompt
+
+```text
+A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
+```
+
+### No. 141: Ritratto Cinematografico con Riflessi Miele
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/507_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/507_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/507_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/507_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/507_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un ritratto ravvicinato cinematografico di una giovane donna dell'Asia orientale con capelli mossi castano chiaro e un'espressione calma.
+
+#### Prompt
+
+```text
+Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
+```
+
+### No. 142: Ritratto Fotorealistico con Taglio alla Paggetto
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/508_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/508_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/508_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/508_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/508_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ravvicinato fotorealistico di una giovane donna dell'Asia orientale con un corto taglio alla paggetto nero, ombretto fumé e pelle luminosa.
+
+#### Prompt
+
+```text
+Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
+```
+
+### No. 143: Ritratto di Donna in Hijab e Cappellino
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/510_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/510_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/510_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/510_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/510_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ravvicinato di una giovane donna dalla pelle chiara e un'espressione calma, che indossa un hijab bianco e un cappellino da baseball nero.
+
+#### Prompt
+
+```text
+A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
+```
+
+### No. 144: Selfie Ritratto in Hijab di Chiffon
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/511_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/511_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/511_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/511_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/511_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto selfie ravvicinato di una giovane donna dell'Asia orientale dalla pelle chiara e lineamenti delicati, che indossa un hijab di chiffon color taupe polveroso.
+
+#### Prompt
+
+```text
+Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
+```
+
+### No. 145: Ritratto di Donna Indonesiana
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un ritratto di una bella giovane donna indonesiana dalla pelle chiara, con un trucco leggero e capelli scuri scompigliati.
+
+#### Prompt
+
+```text
+A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.
+```
+
+### No. 146: Ritratto Cinematografico di Donna dell'Asia Orientale in Lacrime
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/513_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/513_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/513_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/513_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/513_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ravvicinato fotorealistico di una giovane donna con pelle lucida e segnata dalle lacrime e frangia sfilacciata.
+
+#### Prompt
+
+```text
+A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
+```
+
+### No. 147: Ritratto di Donna con Benda Oculare in Pizzo Ingioiellata
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/514_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/514_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/514_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/514_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/514_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ravvicinato di una giovane donna dalla pelle pallida con un caschetto nero, un occhio rosso visibile e l'altro coperto da una benda oculare nera in pizzo con gioielli.
+
+#### Prompt
+
+```text
+A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
+```
+
+### No. 148: Intenso Ritratto Cinematografico con Capelli Spettinati
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/515_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/515_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/515_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/515_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/515_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto cinematografico ravvicinato di una giovane donna con lunghi capelli neri, che guarda direttamente la fotocamera.
+
+#### Prompt
+
+```text
+Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
+```
+
+### No. 149: Ritratto Ravvicinato con Capelli Scuri Lucidi
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/516_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/516_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/516_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/516_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/516_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta dettagliata per generare un ritratto di una giovane donna dalla pelle chiara e lunghi capelli scuri.
+
+#### Prompt
+
+```text
+A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
+```
+
+### No. 150: Ritratto Sorridente Abbronzato con Lucidità di Sudore
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/517_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/517_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/517_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/517_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/517_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ravvicinato di una giovane donna dell'Asia orientale con capelli neri spettinati, che strizza gli occhi e sorride con la pelle arrossata e umida.
+
+#### Prompt
+
+```text
+Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
+```
+
+### No. 151: Ritratto con Sguardo Intimo e Frangia Sfilacciata
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un ritratto ravvicinato di una giovane donna dell'Asia orientale con capelli scuri, frangia sfilacciata e uno sguardo intimo.
+
+#### Prompt
+
+```text
+Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.
+```
+
+### No. 152: Ritratto Espressivo con Eyeliner ad Ala
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/519_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/519_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/519_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/519_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/519_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta dettagliata per generare un ritratto ravvicinato di una giovane donna del Sud-est asiatico con specifici tratti del viso e trucco.
+
+#### Prompt
+
+```text
+A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
+```
+
+### No. 153: Selfie Ritratto con Espressione di Bacio
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/520_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/520_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/520_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un ritratto selfie ravvicinato di una giovane donna dell'Asia orientale con gli occhi chiusi e un'espressione rilassata.
+
+#### Prompt
+
+```text
+Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
+```
+
+### No. 154: Ritratto di Giovane Donna Sorridente
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/522_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/522_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/522_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/522_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/522_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un ritratto di una giovane donna dell'Asia orientale o indonesiana con carnagione chiara, trucco leggero e un'espressione gentile e amichevole.
+
+#### Prompt
+
+```text
+A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
+```
+
+### No. 155: Selfie di Donna con Capelli Mezza Acconciatura
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Feyber
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/523_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/523_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/523_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/523_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un ritratto selfie fotorealistico di una giovane donna dell'Asia orientale con caratteristiche e styling specifici.
+
+#### Prompt
+
+```text
+ar 9:16 2K
+
+A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
+```
+
+### No. 156: Fasi della Terra Inghiottita da un Buco Nero
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Phenryx (LY:CO5) × ROCCO / CARI (≈C×Si fam)
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/553_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/553_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare quattro immagini che raffigurano le fasi visive della Terra inghiottita da un buco nero dal punto di vista di un osservatore umano.
+
+#### Prompt
+
+```text
+generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
+```
+
+### No. 157: Personaggi: Guerriero Cyberpunk contro Boss Meccanico
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Gilbert Odera | Your AI Plug
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/556_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/556_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/556_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta che descrive due personaggi: un guerriero cyberpunk con katana e un'entità boss meccanica di grandi dimensioni.
+
+#### Prompt
+
+```text
+Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybernetic tactical jacket, sleek black visor mask, and dual short katanas on back.
+
+Character 2 (Boss Entity): Massive, heavy-armored mechanical
+```
+
+### No. 158: Dea Celeste che Discende Davanti al Palazzo
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 韦小宝
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/566_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/566_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di una maestosa dea celeste cinese in hanfu cerimoniale che discende attraverso nuvole rosa-oro davanti a un palazzo paradisiaco.
+
+#### Prompt
+
+```text
+A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
+```
+
+### No. 159: Fanciulla Celeste in Vista Tre Quarti Illuminata dal Sole
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 韦小宝
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/567_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/567_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/567_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di una fanciulla celeste in hanfu avorio, illuminata dalla luce del mattino, con nastri fluttuanti e fermacapelli dorati.
+
+#### Prompt
+
+```text
+A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
+```
+
+### No. 160: Fanciulla Celeste Seduta Accanto alla Piscina di Giada
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 韦小宝
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/568_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/568_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di una serena fanciulla celeste cinese in hanfu di seta che tocca un loto accanto a una piscina turchese.
+
+#### Prompt
+
+```text
+A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
+```
+
+### No. 161: Dea Celeste sui Gradini del Palazzo di Giada
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 韦小宝
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/569_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/569_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di un'elegante dea celeste cinese in cima a gradini di giada bianca, che indossa un hanfu ricamato con nastri di seta fluttuanti.
+
+#### Prompt
+
+```text
+An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
+```
+
+### No. 162: Ritratto in Antico Santuario Rituale Cinese
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 韦小宝
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/571_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/571_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/571_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/571_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/571_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto cinematografico fotorealistico di una donna adulta dell'Asia orientale in un oscuro antico santuario rituale cinese con maschere Nuo e candele.
+
+#### Prompt
+
+```text
+9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
+```
+
+### No. 163: Ritratto di Donna in Oscuro Santuario Rituale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 韦小宝
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/572_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/572_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/572_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/572_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/572_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto cinematografico fotorealistico di una donna dell'Asia orientale con capelli neri bagnati e trucco affumicato in un oscuro antico santuario.
+
+#### Prompt
+
+```text
+9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
+```
+
+### No. 164: Primo Piano Ritratto durante il Festival Nuo Notturno
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 韦小宝
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/573_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/573_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/573_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/573_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/573_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto in primo piano di una donna adulta dell'Asia orientale accanto a una maschera Nuo consumata durante un festival rituale notturno.
+
+#### Prompt
+
+```text
+Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
+```
+
+### No. 165: Birra con Corona di Schiuma Densa
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/578_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/578_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine fotorealistica di una birra con una corona di schiuma densa e cascante su un bicchiere dal bordo affilato.
+
+#### Prompt
+
+```text
+a dense foam crown spilling in two uneven, heavy cascades while the glass rim stays visibly sharp
+The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
+```
+
+### No. 166: Cubo di Tofu Sollevato dallo Stufato
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/579_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/579_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta descrittiva per un'immagine di un cubo di tofu poroso sollevato sopra una pentola, con una singola goccia di brodo ambrata attaccata.
+
+#### Prompt
+
+```text
+Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
+```
+
+### No. 167: Cucchiaio di Condimento al Peperoncino
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/580_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/580_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di un cucchiaio di condimento al peperoncino con cubetti distinti di peperoncino rosso, verdure scurite dal tè, peperone verde brillante, fagioli pallidi e olio ambrato-rosso traslucido.
+
+#### Prompt
+
+```text
+a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
+```
+
+### No. 168: Primo Piano Ritratto di Donna in Soggiorno
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AI Qoro
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/584_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/584_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ultra-realistico in primo piano di una giovane donna con un'espressione giocosa in un accogliente soggiorno moderno.
+
+#### Prompt
+
+```text
+Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
+```
+
+### No. 169: Ritratto di Donna Sdraiata in Camera da Letto in Penombra
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nicole
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/585_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/585_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/585_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un ritratto verticale fotorealistico di una giovane donna sdraiata sulla biancheria da letto in una camera da letto in penombra di notte.
+
+#### Prompt
+
+```text
+A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
+```
+
+### No. 170: Ritratto Onirico di Donna nell'Erba Estiva
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nicole
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/586_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/586_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/586_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine ispirata al cinema di una giovane donna dell'Asia orientale che riposa nell'erba alta, illuminata dolcemente dalla luce calda del giorno.
+
+#### Prompt
+
+```text
+Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
+```
+
+### No. 171: Ritratto di Donna presso un Porto Blu Brillante
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nicole
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/587_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/587_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/587_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto in stile grana pellicola di una giovane donna dell'Asia orientale accovacciata casualmente vicino a un porto blu brillante in una giornata soleggiata e ventilata.
+
+#### Prompt
+
+```text
+A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
+```
+
+### No. 172: Ritratto di Strada a Parigi di Giovane Donna
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Zoya
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/591_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/591_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un ritratto di strada ad alta risoluzione, in luce naturale, di una giovane donna dall'aspetto asiatico in una via dello shopping ispirata a Parigi.
+
+#### Prompt
+
+```text
+High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
+```
+
+### No. 173: Ritratto Spontaneo in Metropolitana di Notte
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 王大锤
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/593_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/593_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/593_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/593_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/593_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto spontaneo fotorealistico di una donna adulta dell'Asia orientale seduta vicino al finestrino di un treno di notte.
+
+#### Prompt
+
+```text
+9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
+```
+
+### No. 174: Orologio con Onda d'Urto di Ghiaccio e Fumo
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/595_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/595_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di un orologio con un'onda d'urto circolare di ghiaccio e fumo dietro di esso, mantenendo una sagoma pulita.
+
+#### Prompt
+
+```text
+a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
+```
+
+### No. 175: Distribuzione a Strati di Pasticceria con Profondità
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/597_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/597_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un'immagine di un'esposizione di pasticceria premium con articoli disposti su livelli di altezza distinti per creare profondità.
+
+#### Prompt
+
+```text
+a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
+```
+
+### No. 176: Ritratto in Camera da Letto con Luce Soffusa in Abito Sottoveste
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 王大锤
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/606_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/606_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/606_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/606_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto fotorealistico di una donna adulta dell'Asia orientale che indossa un abito sottoveste in satin avorio in una camera da letto con illuminazione soffusa.
+
+#### Prompt
+
+```text
+9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
+```
+
+### No. 177: Auto con Contrasto di Pennacchio di Polvere Esplosiva
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/607_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/607_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di un'auto potente che genera un enorme pennacchio di polvere dietro di sé, rimanendo pulita e silenziosa in primo piano.
+
+#### Prompt
+
+```text
+massive dust plume exploding behind the vehicle while the car stays clean and silent in front
+```
+
+### No. 178: Silhouette di Strega Controluce da Fuoco Celeste
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/608_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/608_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di una silhouette di strega controluce da una massiccia nuvola di fuoco celeste arancione-dorata.
+
+#### Prompt
+
+```text
+one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
+```
+
+### No. 179: Cuore di Salsa di Pomodoro che Sorge da una Ciotola di Koshari
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/611_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/611_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di salsa di pomodoro lucida che forma una forma a cuore sopra una ciotola di koshari.
+
+#### Prompt
+
+```text
+thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
+```
+
+### No. 180: Pezzi degli Scacchi Scolpiti da Filamenti di Pasta
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/612_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/612_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare pezzi degli scacchi scolpiti da filamenti di pasta artigianali con sagome riconoscibili.
+
+#### Prompt
+
+```text
+chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
+```
+
+### No. 181: Bottiglia di Olio di Sesamo con Braccia da Pugile sul Ring
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/613_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/613_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di una bottiglia di olio di sesamo sovradimensionata con braccia da pugile dorate in piedi, vittoriosa, su un ring di pugilato.
+
+#### Prompt
+
+```text
+oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
+```
+
+### No. 182: Scena del Piano Cucina di un Appartamento Moderno Compatto
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 王大锤
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/614_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/614_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/614_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/614_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/614_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine di una cucina compatta e moderna di un appartamento, con un bancone per la colazione, piano di lavoro continuo, lavello in acciaio inossidabile, piano cottura e padella.
+
+#### Prompt
+
+```text
+Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
+```
+
+### No. 183: Involtino di Shawarma Inclinato verso l'Alto come un Razzo
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/616_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/616_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine di un involtino di shawarma inclinato come un razzo, che enfatizza il ripieno aperto come punto focale.
+
+#### Prompt
+
+```text
+shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
+```
+
+### No. 184: Mascotte Banana che Tiene una Lattina Sovradimensionata
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/617_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/617_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di una mascotte banana in corsa che tiene in avanti, verso la telecamera, una lattina di alluminio fredda e sovradimensionata.
+
+#### Prompt
+
+```text
+oversized cold aluminum can held forward toward camera by the running banana mascot
+```
+
+### No. 185: Foto Candid Notturna di Donna dell'Asia Orientale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 王大锤
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/618_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/618_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/618_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/618_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/618_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare una foto candid realistica di una donna dell'Asia orientale con caratteristiche specifiche e illuminazione particolare.
+
+#### Prompt
+
+```text
+9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
+```
+
+### No. 186: Crema del Biscotto come Minuscola Superficie di Pattinaggio
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/619_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/619_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di un biscotto in cui lo strato di crema alla vaniglia si solleva per formare una liscia minuscola superficie di pattinaggio, trasformando la scala in un mondo invernale.
+
+#### Prompt
+
+```text
+vanilla creme layer rising above the cookie as a smooth miniature skating surface
+```
+
+### No. 187: Binario delle Montagne Russe Fatto di Patatine Impilate
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/620_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/620_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine di un binario di montagne russe costruito con patatine perfettamente allineate e impilate, che presenta un giro della morte completo.
+
+#### Prompt
+
+```text
+roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
+```
+
+### No. 188: Zone di Riflettore Rosso Dietro il Secchio Eroe
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/623_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/623_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta di immagine che descrive tre zone pulite di riflettore rosso con momenti di vita secondari dietro un secchio eroe.
+
+#### Prompt
+
+```text
+three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
+```
+
+### No. 189: Flusso di Pasta Lucida come Linea di Movimento Verticale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/624_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/624_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un concept per un poster minimalista che presenta un singolo flusso di pasta lucida come elemento verticale centrale.
+
+#### Prompt
+
+```text
+single glossy noodle stream forming the main vertical motion line from bowl to mouth
+```
+
+### No. 190: Animazione Cinematografica 2.5D a Guazzo
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** PixieVerse
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/626_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/626_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/626_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare un'animazione cinematografica 2.5D con uno stile pittorico da concept art a guazzo, che presenta texture di pennello visibili e blocchi di colore piatti.
+
+#### Prompt
+
+```text
+Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
+```
+
+### No. 191: Ritratto Cinematografico Malinconico nell'Oscurità
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AI Qoro
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/629_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/629_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto cinematografico di un uomo dai capelli spettinati che emerge dalle ombre, con illuminazione drammatica e texture ultra-realistica.
+
+#### Prompt
+
+```text
+A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
+```
+
+### No. 192: Uomo Gigante Accanto alla Statua della Libertà
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AI Qoro
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/630_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/630_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una foto di viaggio cinematografica ultra-realistica di un giovane uomo affascinante ritratto come un gigante in piedi accanto alla Statua della Libertà.
+
+#### Prompt
+
+```text
+Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
+```
+
+### No. 193: Ritratto all'Ora d'Oro su Portico Rustico
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AI Qoro
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/631_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/631_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto di vita caldo e spontaneo di un giovane uomo che beve tè su un portico rustico durante l'ora d'oro.
+
+#### Prompt
+
+```text
+Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
+```
+
+### No. 194: Ritratto Cinematografico in un Prato
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AI Qoro
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/642_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/642_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto ultra-realistico di una donna con cappello da cowboy in piedi in un prato verde con artemisia e pini.
+
+#### Prompt
+
+```text
+Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
+```
+
+### No. 195: Ritratto Candidato Verticale di Donna
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 王大锤
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/646_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/646_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/646_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/646_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/646_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare una fotografia candidata verticale di una giovane donna dell'Asia orientale con caratteristiche specifiche.
+
+#### Prompt
+
+```text
+Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
+```
+
+### No. 196: Barretta Diagonale con Zona Gusto Strappata
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/649_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/649_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine di una barretta dessert confezionata diagonalmente con un involucro strappato, che crea un effetto bocca aperta all'interno di un mondo a tema dessert.
+
+#### Prompt
+
+```text
+The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
+```
+
+### No. 197: Ritratto Femminile in Specchio Ovale
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/650_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/650_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un ritratto di bellezza di una donna riflessa in uno specchio ovale verticale, con labbra color cobalto opaco.
+
+#### Prompt
+
+```text
+reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
+```
+
+### No. 198: Vortice di Bicchiere da Birra nel Deserto
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/651_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/651_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine surreale di un altissimo bicchiere da birra che emerge dal deserto come un vortice attorcigliato di sabbia e birra.
+
+#### Prompt
+
+```text
+towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
+```
+
+### No. 199: Bottiglia di Birra in Primo Piano
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/652_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/652_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un'immagine con una grande, nitida bottiglia di birra reale parzialmente tagliata in basso a destra in primo piano.
+
+#### Prompt
+
+```text
+real beer bottle in the lower-right foreground, large, sharp, and partially cropped
+```
+
 <a id="category-4"></a>
 
-### Layout & Typography (6)
+### Layout & Typography (39)
 
 ### No. 1: Retro Minimalist Motivational Poster Grid
 
@@ -585,6 +6191,740 @@ Un'illustrazione per poster in stile Art Déco in formato quadrato, con eleganti
 
 ```text
 Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal
+```
+
+### No. 7: Collezione di Spille Smaltate Iperrealistiche
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Mira
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/13_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/13_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare una collezione di otto spille smaltate premium con contorni dorati e superfici lucide su uno sfondo scuro.
+
+#### Prompt
+
+```text
+Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic
+```
+
+### No. 8: Interfaccia Utente Scura per Dashboard Analitica SaaS
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** PoYo AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/25_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/25_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un'interfaccia di dashboard analitica SaaS a tema scuro, con etichette ed elementi specifici.
+
+#### Prompt
+
+```text
+Dark SaaS analytics dashboard UI titled Image Ops Control Center, crisp labels Active Jobs Latency p95 Token Burn Model Router, pills LIVE and GPT Image 2.5, dense legible microcopy 4k
+```
+
+### No. 9: Screenshot del Sito Web di un'Azienda di Design Creativo
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** leolee
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/30_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/30_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare uno screenshot completo, frontale e privo di prospettiva, della pagina web desktop per il sito web cinese di un'azienda di design creativo.
+
+#### Prompt
+
+```text
+生成一张完整的创意设计公司中文官网视觉设计图，正面平视、无透视的桌面网页长截图，9:16
+```
+
+### No. 10: Griglia di Fotografia di Moda Cinese Antica
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** DeepBlue深藍
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/38_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/38_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una serie fotografica professionale e di alta gamma sulla moda cinese antica, che raffiguri il processo completo di vestizione di Song Yu in una boudoir della dinastia Song, disposta in una griglia rigorosa 3x3.
+
+#### Prompt
+
+```text
+【宋玉穿衣全过程｜宋式闺房】
+
+专业高级古风时尚摄影；9:16竖版完整画布，内部严格3列×3行九宫格，每格等比例、尺寸一致、间距细窄整齐；每格人物均以全身或接近全身构图为主，确保完整呈现服装穿着变化。
+```
+
+### No. 11: Orologio Analogico, Hamburger e Bevanda
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Federico Lix Klett
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/81_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/81_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/81_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'immagine di un orologio analogico che segna le 15:32, un hamburger con provola grigliata dorata e un bicchiere.
+
+#### Prompt
+
+```text
+Create an analog clock reading 15:32 [Not digital and no other time], a burger with grilled golden provolone cheese, and a glass of
+```
+
+### No. 12: Layout Quadrato Telefono Blu-Bianco e Card
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** ゆーすけ｜ITエンジニア
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/92_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/92_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un'immagine quadrata per social network con colori blu e bianco, raffigurante uno smartphone, tre card con immagini, un titolo in giapponese, ampi margini e nessun testo aggiuntivo.
+
+#### Prompt
+
+```text
+正方形, 青×白, スマホ1台, 画像カード3枚, 日本語タイトル, 広い余白, 追加文字なし
+```
+
+### No. 13: Capitolo di Libro di Fisica sull'Elettromagnetismo
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Rafa Gijon
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/111_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/111_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un capitolo sull'elettromagnetismo per un libro di fisica in spagnolo.
+
+#### Prompt
+
+```text
+Necesito que armes un capitulo de un libro de fisica sobre electromagnetismo de la editorial mir moscu en español
+```
+
+### No. 14: Manga di una Pagina sullo Sviluppo Spaziale
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** 戸梶　歩 「宇宙開発エバンジェリスト」
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/124_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/124_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un fumetto verticale in bianco e nero di una pagina sullo sviluppo dello spazio.
+
+#### Prompt
+
+```text
+縦書き1ページの漫画を描いてください。白黒で構いません。テーマは宇宙開発です。
+```
+
+### No. 15: Cubo di Vetro Isometrico con Sfere Colorate
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Hyperouters
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/148_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/148_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una prospettiva isometrica di un cubo di vetro trasparente contenente una palla rossa in alto a sinistra dietro e una palla blu in basso a destra davanti, con una palla verde sopra il cubo e una colonna gialla che lo attraversa dal basso-sinistra all'alto-destra.
+
+#### Prompt
+
+```text
+透明玻璃立方体：红球内部左后上，蓝球内部右前下，绿球外部正上方，黄柱从左下穿到右上。还要求等距透视。
+```
+
+### No. 16: Poster Tipografico e Copertina di Rivista
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** model.store
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/150_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/150_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/150_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un poster tipografico con una lista di modelle e una copertina di rivista con testata e titoli di copertina.
+
+#### Prompt
+
+```text
+a typographic poster with an eight-line model list. a magazine cover with a masthead, an issue line and three coverlines.
+```
+
+### No. 17: Pubblicità Verticale di Orologio di Lusso
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/192_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/192_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per una pubblicità verticale di lusso che presenta un grande orologio in uno studio verde smeraldo scuro.
+
+#### Prompt
+
+```text
+Create a vertical 3:4 luxury editorial advertisement inside a sophisticated dark emerald-green studio. Position an enormous luxury wristwatch on the right side of the frame.
+```
+
+### No. 18: Scheda di Riferimento per Design del Personaggio
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Abdul Shakoor
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/204_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/204_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare una scheda di riferimento pittorica per il design di un personaggio, con linee di costruzione e un layout specifico.
+
+#### Prompt
+
+```text
+Character design reference sheet, 16:9 wide canvas, pure white background, painterly digital concept art with visible graphite construction lines and loose brush strokes left unblended.
+
+LAYOUT: Left half is a large cropped bust portrait from
+```
+
+### No. 19: Scheda Personaggio a Schermo Diviso
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Mahnoor Fatima
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/272_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/272_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare una scheda personaggio premium a schermo diviso per due personaggi originali.
+
+#### Prompt
+
+```text
+Create a premium cinematic original character bible sheet for RYDER & DESHAWN. Fully original characters, not based on any existing movie or franchise. LAYOUT: Split screen partner format, divided by a bold dramatic dividing element in the center.
+```
+
+### No. 20: Composizione Collage Ritratto Aziendale
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/281_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/281_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un collage di ritratto aziendale ultra-realistico con una composizione a tre strati di un uomo.
+
+#### Prompt
+
+```text
+Create an ultra-realistic premium corporate portrait collage of an adult man, using a sophisticated three-layer composition that combines a large grayscale background portrait, a dominant color close-up portrait, and a smaller
+```
+
+### No. 21: Composizione Divisa tra Foto e Illustrazione
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Mahnoor Fatima
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/288_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/288_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/288_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per creare un'immagine verticale che combina una foto originale con un'illustrazione disegnata a mano della stessa scena.
+
+#### Prompt
+
+```text
+Create one vertical 3:4 composition that combines the uploaded photo with a hand-drawn illustrated version of the same moment. TOP HALF — ORIGINAL PHOTO Keep the uploaded photograph in the upper portion of the canvas, occupying roughly 50%.
+```
+
+### No. 22: Scheda Personaggio a Schermo Diviso
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Mahnoor Fatima
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/311_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/311_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per creare una scheda personaggio a schermo diviso con un divisore centrale audace e uno sfondo ad acquerello neon.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for REX & JAX. Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — REX: Purple-pink neon watercolor splash behind him fading into
+```
+
+### No. 23: Fumetto degli Avventurieri che Pianificano in una Taverna
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** NEKA
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/420_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/420_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare un manga a colori di due pagine di avventurieri che discutono di una sfida in un dungeon in una taverna, con dialoghi ed effetti sonori.
+
+#### Prompt
+
+```text
+酒場で食事、ダンジョンへの挑戦を相談している冒険者パーティー、セリフや擬音入りで２ページ分のカラー漫画にして、コマ割りには緩急をつけワンパターンにならないように。
+```
+
+### No. 24: Disegno Tecnico di Macchina per Espresso
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** 三个三
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/439_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/439_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/439_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un diagramma tecnico di una macchina per espresso domestica in stile disegno meccanico anni '60.
+
+#### Prompt
+
+```text
+一款国产的浓缩咖啡机，采用 1960 年代的机械制图风格设计，线条精细，黑色线条描绘清晰，背景为奶油色纸张。有 14 条编号的剖面线，右侧列出了所有 14 个部件的名称，还有一个以厘米为单位的比例尺条，标题块上写着“图 3：C2 模型剖面图”
+```
+
+### No. 25: Interfaccia Utente Moderna per Dashboard SaaS di una Piattaforma AI
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gilbert Odera | Your AI Plug
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/554_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/554_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'interfaccia dashboard SaaS moderna ad alta risoluzione 4K per una piattaforma di analisi AI con un'estetica elegante in modalità scura.
+
+#### Prompt
+
+```text
+High-resolution 4K modern SaaS dashboard user interface for an AI Analytics platform named "NEXUS AI". Sleek dark mode aesthetic with obsidian background, vibrant neon violet and cyan accents. The left sidebar features navigation icons for
+```
+
+### No. 26: Interfaccia Utente dell'Inventario per RPG Dark Fantasy
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gilbert Odera | Your AI Plug
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/555_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/555_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per generare un'interfaccia utente ad alta risoluzione per l'inventario di un RPG dark fantasy, raffigurante un paladino corazzato.
+
+#### Prompt
+
+```text
+High-resolution 4K dark-fantasy RPG inventory user interface. Main screen displays a full-body character slot on the left showing an armored paladin named Elara in dark steel plate mail with subtle blue LED seams. The center panel displays a
+```
+
+### No. 27: Poster di Sushi con Marchio Incassato
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/577_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/577_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un poster che presenta un grande marchio rosso scuro incassato in profondità sullo sfondo, che non si sovrappone a una silhouette di sushi.
+
+#### Prompt
+
+```text
+a monumental deep-red wordmark recessed into the upper background, with low contrast at its edges and no overlap on the sushi silhouette
+```
+
+### No. 28: Confezionamento del Prodotto in Tre Zone
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/581_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/581_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per visualizzare una scatola di prodotto in tre fasi: come elemento protagonista isolato, nel contesto degli ingredienti e accanto al piatto finito.
+
+#### Prompt
+
+```text
+show the same carton in three proof zones: isolated hero pack, restrained ingredient context, then beside the finished steaming bowl
+```
+
+### No. 29: Scatto di Prodotto con Ingredienti Perimetrali
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/582_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/582_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un'immagine che presenta una bustina di prodotto centrale circondata da ciotole, bacche, cereali e foglie, con un chiaro corridoio verticale.
+
+#### Prompt
+
+```text
+Ingredient abundance only works when the center stays protected. place bowls, berries, grains, and leaves on the outer perimeter; leave a clean vertical corridor around the centered pouch The ingredients feel generous, but the eye still reaches the product and label without
+```
+
+### No. 30: Griglia di Identici Poster del Menù del Caffè
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/588_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/588_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per progettare un poster collezionabile del menù del caffè con campi neri uniformi, scala della tazza, zona del titolo, microtesto e clip in ottone.
+
+#### Prompt
+
+```text
+A menu becomes collectible when every flavor enters through the same frame. identical black poster fields, cup scale, title zone, bottom microcopy, and brass hanging clips across the full grid. The individual drinks feel like a designed edition, not four unrelated coffee.
+```
+
+### No. 31: Cartellone 3D con Prodotto che Oltrepassa il Piano
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/589_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/589_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per una visuale da cartellone 3D in cui un barattolo principale si proietta oltre il piano interno con ombre di contatto.
+
+#### Prompt
+
+```text
+a hero tub projecting beyond the inner billboard plane, overlapping the frame with contact shadows at every exit point
+```
+
+### No. 32: Allineamento a Tre Coni con Eroe Centrale
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/590_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/590_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per una composizione che presenta tre coni di gusto in cui il cono centrale al pistacchio è dominante e i coni laterali sono elementi di inquadratura angolati.
+
+#### Prompt
+
+```text
+Three variants should not receive equal visual weight. a shallow three-cone lineup with the center cone 15% taller, brighter, and more sculptural; side cones angled inward as framing elements The pistachio hero becomes the first read, while vanilla and cocoa make the range
+```
+
+### No. 33: Pannelli Sovrapposti con Layout Coerente
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/596_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/596_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per generare cinque pannelli sovrapposti con un layout di marca coerente che include logo, colonna del titolo, badge e composizione del prodotto.
+
+#### Prompt
+
+```text
+five stacked panels using the same upper-left logo position, left-side headline column, circular badge placement, and product-first right-side composition
+```
+
+### No. 34: Atti di Degustazione Orizzontali con Nomi dei Piatti
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/602_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/602_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt per un poster che raffigura quattro atti orizzontali, ciascuno con una ciotola nera con vapore e un nome di piatto in scrittura a pennello sovradimensionato.
+
+#### Prompt
+
+```text
+four horizontal tasting acts, each with a black bowl, steam, and oversized brush-script dish name
+```
+
+### No. 35: Interfaccia di Post Sociale che Taglia la Salsa
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/622_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/622_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un'immagine che presenta una banda minimalista nera di interfaccia per post sociali che taglia orizzontalmente un flusso di salsa.
+
+#### Prompt
+
+```text
+minimal black social-post interface band cutting horizontally through the sauce stream
+```
+
+### No. 36: Poster a Composizione Verticale Divisa
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/633_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/633_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un poster con una divisione verticale che mostra un lato pulito e naturale contrapposto a un lato oscuro con ingredienti nascosti.
+
+#### Prompt
+
+```text
+vertical split composition: clean natural side versus dark hidden-ingredient side
+```
+
+### No. 37: Archi Liquidi di Cioccolato che Inquadrano il Prodotto
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/634_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/634_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un poster di prodotto premium con due archi scuri di cioccolato liquido contenuti che inquadrano il prodotto in un movimento orbitale simmetrico.
+
+#### Prompt
+
+```text
+two restrained dark chocolate liquid arcs framing the product in symmetrical orbit motion
+```
+
+### No. 38: Due Barrette Eroiche che si Incrociano in Diagonale
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/639_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/639_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta che descrive due barrette di prodotto confezionate che si incrociano diagonalmente al centro in direzioni opposte.
+
+#### Prompt
+
+```text
+two hero packaged bars crossing diagonally through the center in opposite directions
+```
+
+### No. 39: Tre Ciotole Disposte in Diagonale
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Loriel.AI
+- **Language:** `it`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/641_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/641_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una richiesta per un'immagine di tre ciotole disposte in diagonale dal primo piano allo sfondo.
+
+#### Prompt
+
+```text
+three bowls arranged diagonally from front-left foreground to rear-right background
 ```
 
 <a id="featured-prompts"></a>

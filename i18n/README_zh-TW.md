@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-19%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-289%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts&locale=zh-TW) | [提交提示詞](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **19** |
-| 分類數 | **4** |
-| 預覽圖數 | **19** |
+| 提示詞總數 | **289** |
+| 分類數 | **8** |
+| 預覽圖數 | **289** |
 | 最後更新 | **2026-09-09** |
 
 <a id="browse-by-category"></a>
@@ -116,6 +116,10 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 - [`精準編輯`](#category-2): **1**
 - [`風格與理解力`](#category-3): **9**
 - [`複雜版式與文字`](#category-4): **6**
+- [`Layout & Typography`](#category-5): **33**
+- [`Reference Fidelity`](#category-6): **38**
+- [`Style & Intelligence`](#category-7): **190**
+- [`Precision Editing`](#category-8): **9**
 
 <a id="all-prompts"></a>
 
@@ -585,6 +589,6362 @@ A UI screenshot of a Google Slides presentation open in a macOS Chrome browser w
 
 ```text
 Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal
+```
+
+<a id="category-5"></a>
+
+### Layout & Typography (33)
+
+### No. 1: 超寫實琺瑯徽章系列
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Mira
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/13_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/13_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作八枚高級琺瑯徽章的提示，徽章帶有金色輪廓和光滑表面，置於深色背景上。
+
+#### 提示詞
+
+```text
+Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic
+```
+
+### No. 2: 深色SaaS分析儀表板使用者介面
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** PoYo AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/25_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/25_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成深色主題SaaS分析儀表板介面的提示，包含特定標籤和使用者介面元素。
+
+#### 提示詞
+
+```text
+Dark SaaS analytics dashboard UI titled Image Ops Control Center, crisp labels Active Jobs Latency p95 Token Burn Model Router, pills LIVE and GPT Image 2.5, dense legible microcopy 4k
+```
+
+### No. 3: 創意設計公司網站截圖
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** leolee
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/30_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/30_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成創意設計公司中文網站完整、正面、無透視的桌面網頁截圖的提示。
+
+#### 提示詞
+
+```text
+生成一张完整的创意设计公司中文官网视觉设计图，正面平视、无透视的桌面网页长截图，9:16
+```
+
+### No. 4: 古代中國時尚攝影網格
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** DeepBlue深藍
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/38_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/38_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成專業、高端的古代中國時尚攝影系列的提示，描繪宋玉在宋代閨房中的完整著裝過程，並以嚴格的3x3網格排列。
+
+#### 提示詞
+
+```text
+【宋玉穿衣全过程｜宋式闺房】
+
+专业高级古风时尚摄影；9:16竖版完整画布，内部严格3列×3行九宫格，每格等比例、尺寸一致、间距细窄整齐；每格人物均以全身或接近全身构图为主，确保完整呈现服装穿着变化。
+```
+
+### No. 5: 類比時鐘、漢堡與飲料
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Federico Lix Klett
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/81_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/81_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/81_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成圖像的提示，內容包括顯示15:32的類比時鐘、一個夾有烤金黃普羅旺斯起司的漢堡，以及一個玻璃杯。
+
+#### 提示詞
+
+```text
+Create an analog clock reading 15:32 [Not digital and no other time], a burger with grilled golden provolone cheese, and a glass of
+```
+
+### No. 6: 方形藍白手機與卡片佈局
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** ゆーすけ｜ITエンジニア
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/92_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/92_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張方形社群媒體圖片，採用藍白配色，包含一部智慧型手機、三張圖片卡片、一個日文標題、寬邊距，且無額外文字。
+
+#### 提示詞
+
+```text
+正方形, 青×白, スマホ1台, 画像カード3枚, 日本語タイトル, 広い余白, 追加文字なし
+```
+
+### No. 7: 物理教科書電磁學章節
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Rafa Gijon
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/111_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/111_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於為西班牙文物理書生成電磁學章節的提示。
+
+#### 提示詞
+
+```text
+Necesito que armes un capitulo de un libro de fisica sobre electromagnetismo de la editorial mir moscu en español
+```
+
+### No. 8: 太空開發單頁漫畫
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** 戸梶　歩 「宇宙開発エバンジェリスト」
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/124_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/124_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成一頁垂直黑白漫畫的提示，主題關於太空開發。
+
+#### 提示詞
+
+```text
+縦書き1ページの漫画を描いてください。白黒で構いません。テーマは宇宙開発です。
+```
+
+### No. 9: 內含彩色球體的等角玻璃立方體
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Hyperouters
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/148_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/148_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個透明玻璃立方體的等角透視圖，其內左上後方有一個紅球，右下前方有一個藍球，立方體上方有一個綠球，並有一根黃色柱體從左下穿過至右上。
+
+#### 提示詞
+
+```text
+透明玻璃立方体：红球内部左后上，蓝球内部右前下，绿球外部正上方，黄柱从左下穿到右上。还要求等距透视。
+```
+
+### No. 10: 文字排版海報與雜誌封面
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** model.store
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/150_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/150_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/150_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成文字排版海報（帶有模特名單）和雜誌封面（帶有刊頭和封面標題）的提示。
+
+#### 提示詞
+
+```text
+a typographic poster with an eight-line model list. a magazine cover with a masthead, an issue line and three coverlines.
+```
+
+### No. 11: 垂直奢華手錶廣告
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/192_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/192_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作垂直版奢華廣告的提示，在深翡翠綠的攝影棚中展示一只大型手錶。
+
+#### 提示詞
+
+```text
+Create a vertical 3:4 luxury editorial advertisement inside a sophisticated dark emerald-green studio. Position an enormous luxury wristwatch on the right side of the frame.
+```
+
+### No. 12: 角色設計參考表
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Abdul Shakoor
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/204_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/204_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成帶有結構線和特定版式的繪畫風格角色設計參考表的提示。
+
+#### 提示詞
+
+```text
+Character design reference sheet, 16:9 wide canvas, pure white background, painterly digital concept art with visible graphite construction lines and loose brush strokes left unblended.
+
+LAYOUT: Left half is a large cropped bust portrait from
+```
+
+### No. 13: 分鏡式角色設定表
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Mahnoor Fatima
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/272_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/272_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成兩個原創角色高級分鏡式角色設定表的提示詞。
+
+#### 提示詞
+
+```text
+Create a premium cinematic original character bible sheet for RYDER & DESHAWN. Fully original characters, not based on any existing movie or franchise. LAYOUT: Split screen partner format, divided by a bold dramatic dividing element in the center.
+```
+
+### No. 14: 企業肖像拼貼構圖
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/281_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/281_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅超現實的企業肖像拼貼，採用一名男子的三層構圖。
+
+#### 提示詞
+
+```text
+Create an ultra-realistic premium corporate portrait collage of an adult man, using a sophisticated three-layer composition that combines a large grayscale background portrait, a dominant color close-up portrait, and a smaller
+```
+
+### No. 15: 照片與插圖分割構圖
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Mahnoor Fatima
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/288_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/288_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/288_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創建垂直圖像的提示，將原始照片與同一場景的手繪插圖結合。
+
+#### 提示詞
+
+```text
+Create one vertical 3:4 composition that combines the uploaded photo with a hand-drawn illustrated version of the same moment. TOP HALF — ORIGINAL PHOTO Keep the uploaded photograph in the upper portion of the canvas, occupying roughly 50%.
+```
+
+### No. 16: 分割畫面角色聖經表
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Mahnoor Fatima
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/311_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/311_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創建分割畫面角色表的提示，具有大膽的中央分隔線和霓虹水彩背景。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for REX & JAX. Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — REX: Purple-pink neon watercolor splash behind him fading into
+```
+
+### No. 17: 冒險者在酒館策劃的漫畫
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** NEKA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/420_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/420_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成兩頁彩色漫畫的提示，描繪冒險者們在酒館中討論地下城挑戰，包含對話和音效。
+
+#### 提示詞
+
+```text
+酒場で食事、ダンジョンへの挑戦を相談している冒険者パーティー、セリフや擬音入りで２ページ分のカラー漫画にして、コマ割りには緩急をつけワンパターンにならないように。
+```
+
+### No. 18: 濃縮咖啡機技術繪圖
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** 三个三
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/439_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/439_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/439_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅採用1960年代機械繪圖風格的家用濃縮咖啡機技術圖解。
+
+#### 提示詞
+
+```text
+一款国产的浓缩咖啡机，采用 1960 年代的机械制图风格设计，线条精细，黑色线条描绘清晰，背景为奶油色纸张。有 14 条编号的剖面线，右侧列出了所有 14 个部件的名称，还有一个以厘米为单位的比例尺条，标题块上写着“图 3：C2 模型剖面图”
+```
+
+### No. 19: AI平台現代SaaS儀表板使用者介面
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Gilbert Odera | Your AI Plug
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/554_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/554_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成高解析度4K現代SaaS儀表板介面的提示，適用於AI分析平台，具有時尚的深色模式美學。
+
+#### 提示詞
+
+```text
+High-resolution 4K modern SaaS dashboard user interface for an AI Analytics platform named "NEXUS AI". Sleek dark mode aesthetic with obsidian background, vibrant neon violet and cyan accents. The left sidebar features navigation icons for
+```
+
+### No. 20: 黑暗奇幻角色扮演遊戲物品欄使用者介面
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Gilbert Odera | Your AI Plug
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/555_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/555_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成高解析度黑暗奇幻角色扮演遊戲物品欄介面的提示，其特色為一名裝甲聖騎士。
+
+#### 提示詞
+
+```text
+High-resolution 4K dark-fantasy RPG inventory user interface. Main screen displays a full-body character slot on the left showing an armored paladin named Elara in dark steel plate mail with subtle blue LED seams. The center panel displays a
+```
+
+### No. 21: 帶有凹陷字標的壽司海報
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/577_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/577_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成海報的提示：背景有一個大型、凹陷的深紅色字標，且不與壽司輪廓重疊。
+
+#### 提示詞
+
+```text
+a monumental deep-red wordmark recessed into the upper background, with low contrast at its edges and no overlap on the sushi silhouette
+```
+
+### No. 22: 三區塊呈現的產品包裝
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/581_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/581_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於視覺化產品紙盒的提示：分為三個階段呈現：作為獨立展示的主角、置於食材情境中，以及擺放在成品菜餚旁。
+
+#### 提示詞
+
+```text
+show the same carton in three proof zones: isolated hero pack, restrained ingredient context, then beside the finished steaming bowl
+```
+
+### No. 23: 產品主圖與周邊配料
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/582_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/582_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個圖像提示，以中央產品袋為焦點，周圍環繞碗、莓果、穀物和葉子，並有一條清晰的垂直通道。
+
+#### 提示詞
+
+```text
+Ingredient abundance only works when the center stays protected. place bowls, berries, grains, and leaves on the outer perimeter; leave a clean vertical corridor around the centered pouch The ingredients feel generous, but the eye still reaches the product and label without
+```
+
+### No. 24: 網格狀排列的相同咖啡菜單海報
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/588_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/588_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個設計收藏款咖啡菜單海報的提示，包含一致的黑色區域、杯子比例、標題區、微文案和黃銅夾。
+
+#### 提示詞
+
+```text
+A menu becomes collectible when every flavor enters through the same frame. identical black poster fields, cup scale, title zone, bottom microcopy, and brass hanging clips across the full grid. The individual drinks feel like a designed edition, not four unrelated coffee.
+```
+
+### No. 25: 產品突破平面的3D廣告看板
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/589_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/589_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成3D廣告看板視覺效果的提示，其中一個主推產品罐體突出於內層平面並帶有接觸陰影。
+
+#### 提示詞
+
+```text
+a hero tub projecting beyond the inner billboard plane, overlapping the frame with contact shadows at every exit point
+```
+
+### No. 26: 三甜筒排列與中央主角
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/590_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/590_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個構圖提示，以三個口味甜筒為特色，其中央的開心果甜筒為主體，兩側甜筒作為傾斜的框架元素。
+
+#### 提示詞
+
+```text
+Three variants should not receive equal visual weight. a shallow three-cone lineup with the center cone 15% taller, brighter, and more sculptural; side cones angled inward as framing elements The pistachio hero becomes the first read, while vanilla and cocoa make the range
+```
+
+### No. 27: 具有一致版面的堆疊面板
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/596_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/596_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成五個堆疊面板的提示，面板具有一致的品牌版面，包含標誌、標題欄、徽章和產品構圖。
+
+#### 提示詞
+
+```text
+five stacked panels using the same upper-left logo position, left-side headline column, circular badge placement, and product-first right-side composition
+```
+
+### No. 28: 帶有菜名的水平品嚐橋段
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/602_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/602_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成海報的提示，描繪四個水平橋段，每個橋段都有一個冒著熱氣的黑色碗和一個超大的書法風格菜名。
+
+#### 提示詞
+
+```text
+four horizontal tasting acts, each with a black bowl, steam, and oversized brush-script dish name
+```
+
+### No. 29: 切穿醬汁的社交貼文介面
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/622_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/622_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成圖像的提示，描繪一條極簡的黑色社交貼文介面帶水平切穿一道醬汁流。
+
+#### 提示詞
+
+```text
+minimal black social-post interface band cutting horizontally through the sauce stream
+```
+
+### No. 30: 垂直分割構圖海報
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/633_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/633_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作海報的提示，畫面垂直分割，展示潔淨自然的一面與隱藏成分的黑暗面。
+
+#### 提示詞
+
+```text
+vertical split composition: clean natural side versus dark hidden-ingredient side
+```
+
+### No. 31: 環繞產品的巧克力液態弧線
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/634_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/634_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作高級產品海報的提示，以兩道受控的黑巧克力液態弧線，在對稱的軌道運動中環繞產品。
+
+#### 提示詞
+
+```text
+two restrained dark chocolate liquid arcs framing the product in symmetrical orbit motion
+```
+
+### No. 32: 兩條英雄產品棒斜向交叉
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/639_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/639_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述兩條包裝好的產品棒，以相反方向斜向穿過畫面中心的提示。
+
+#### 提示詞
+
+```text
+two hero packaged bars crossing diagonally through the center in opposite directions
+```
+
+### No. 33: 三只碗沿對角線排列
+
+- **分類:** `Layout & Typography`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/641_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/641_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作圖像的提示，描繪三只碗從前景到背景沿對角線排列。
+
+#### 提示詞
+
+```text
+three bowls arranged diagonally from front-left foreground to rear-right background
+```
+
+<a id="category-6"></a>
+
+### Reference Fidelity (38)
+
+### No. 1: 石拱門中的兩位女性
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abdul Shakoor
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/14_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/14_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成圖像的提示，畫面為兩位女性被一座經陽光漂白的石拱門框住。
+
+#### 提示詞
+
+```text
+Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman
+```
+
+### No. 2: 多面板角色設定肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abdul Shakoor
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/15_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/15_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成角色設定表的提示，包含同一女性從不同角度拍攝的四張攝影棚照片。
+
+#### 提示詞
+
+```text
+Multi-panel studio photographs of the same real woman across four panels: front-facing, three-quarter turn, full profile, and a rear view, all on a seamless neutral studio backdrop with soft even lighting. She has long
+```
+
+### No. 3: 九款帶文字的表情符號貼紙
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** DeepBlue深藍
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/44_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/44_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/44_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/44_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/44_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成一個3x3網格的不同表情符號貼紙，基於一個參考角色，在淺色漸變背景上包含中文和英文文字。
+
+#### 提示詞
+
+```text
+参考图片人物，生成3*3共9种不同表情包，可以出现中文和英文，浅色渐变背景
+```
+
+### No. 4: 四種點陣角色動作精靈表
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** 布留川英一 / Hidekazu Furukawa
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/50_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/50_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/50_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成一個包含四種點陣角色動畫的精靈表，每種動畫最多4幀，並保持一致的設計風格。
+
+#### 提示詞
+
+```text
+添付キャラクターの顔・髪型・衣装・配色・体格を統一し、ゲームで映える4種類のドット絵モーションを、各最大4フレームで1枚のスプライトシート画像に生成して。1フレームのサイズは256x256px。
+・走る：体を前傾させ、手足を大きく交互に動かす。
+```
+
+### No. 5: 基於草圖啟發的藝術作品
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** DeepBlue深藍
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/63_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/63_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/63_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於基於一張草圖創作原創藝術作品，保留其核心主題、情感和姿態，同時重新構想細節。
+
+#### 提示詞
+
+```text
+Create an original artwork inspired by the attached sketch. Preserve its subject, emotion, and gesture—not its exact strokes or shapes. Boldly reimagine its
+```
+
+### No. 6: 女子晨間生活風格照片
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** ANKIT PATEL 🇮🇳 | AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/68_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/68_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張寫實風格的晨間生活風格肖像，描繪一名擁有赤褐色頭髮的年輕女子。
+
+#### 提示詞
+
+```text
+Photorealistic 4:5 morning lifestyle photograph of the same young adult woman, preserving her recognizable facial features and overall appearance. She has long, naturally wavy auburn-red hair, realistic individual hair strands, natural skin
+```
+
+### No. 7: 女子斜倚於家庭辦公室
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** ANKIT PATEL 🇮🇳 | AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/70_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/70_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成一張寫實風格的智慧型手機照片，描繪一名年輕女子在現代家庭辦公室的沙發上放鬆。
+
+#### 提示詞
+
+```text
+Create an ultra-photorealistic high-definition smartphone photograph of the same young adult woman in the cozy modern home-office setting, reclining naturally on the sofa with her face clearly visible and looking toward the camera. Prioritize an exceptionally
+```
+
+### No. 8: 年輕女子iPhone肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** TSUBAKI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/74_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/74_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實風格iPhone肖像的提示，描繪一名在室內、具有反光背景的年輕女子。
+
+#### 提示詞
+
+```text
+Ultra-realistic iPhone creative portrait, identity preserved exactly from reference image.  Young woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle.
+```
+
+### No. 9: 角色像素藝術精靈表
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** 睿奇Re7
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/131_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/131_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成簡化128像素像素藝術精靈表的提示，包含透明背景和4x4網格佈局，用於角色戰鬥動作。
+
+#### 提示詞
+
+```text
+为这个角色制作一个128px的简化像素艺术战斗动作的精灵图集。请做到透明。以4x4的格式排列 (战斗动作可按需替换，比如：挥剑、蓄力、闪避)
+```
+
+### No. 10: 從草圖轉化的日間營地
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** EZOLOG
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/159_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/159_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一系列提示，旨在將兒童繪畫轉化為陰鬱的夜間營地，然後轉為日間版本，最後將角色的服裝更改為吊帶褲。
+
+#### 提示詞
+
+```text
+この手書きの絵をもとにムードのある夜のキャンプ場の画像を作って
+構図は変えずに昼にして
+人物の服装をオーバーオールにして
+```
+
+### No. 11: 極簡單線國家藝術
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/221_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/221_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/221_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/221_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/221_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作以單一連續線條描繪的國家垂直極簡藝術印刷品的提示。
+
+#### 提示詞
+
+```text
+Use the uploaded reference as the primary inspiration. Create a 4:5 vertical minimalist collectible art print representing [COUNTRY] through one continuous elegant line. Draw a single uninterrupted hand-drawn line that begins as the recognizable silhouette
+```
+
+### No. 12: 1985年歷史肖像轉換
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Mira
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/225_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/225_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/225_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/225_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個重新構想人物在1980年代外貌，同時保留其核心身份和特徵的提示。
+
+#### 提示詞
+
+```text
+Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably
+```
+
+### No. 13: 3D超大T恤品牌設計模擬圖
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/228_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/228_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成兩件懸浮的、展示正反面視圖的超大T恤3D模擬圖的提示。
+
+#### 提示詞
+
+```text
+Create a premium 3D oversized T-shirt branding mockup inspired by the reference image. Display two floating T-shirts, one showing the front view and the other showing the back view
+```
+
+### No. 14: 奢華男裝編輯拼貼
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/230_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/230_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個使用上傳照片作為面部參考，創作奢華男裝編輯拼貼的提示。
+
+#### 提示詞
+
+```text
+Use upload photo as a facial identity reference.
+Create a premium luxury menswear editorial collage featuring the
+```
+
+### No. 15: 面部身份與構圖參考
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/237_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/237_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個指示使用上傳圖像來保留主體面部特徵和自然外觀的提示。
+
+#### 提示詞
+
+```text
+Use the uploaded image as the facial identity and composition reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and natural appearance
+```
+
+### No. 16: 逼真專業工作室肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/239_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/239_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個使用上傳照片進行面部身份識別和構圖，創作專業工作室肖像的提示。
+
+#### 提示詞
+
+```text
+Use the uploaded image as the facial identity and composition reference. Create a highly realistic professional studio portrait
+```
+
+### No. 17: 時尚編輯拼貼與一致模特
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/246_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/246_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個使用面部身份參考，創作具有一致男性模特的時尚拼貼的提示。
+
+#### 提示詞
+
+```text
+Use the uploaded image only as the facial identity reference.
+
+Create a premium men’s fashion editorial collage featuring the same adult male model consistently across every panel. Keep his facial features, skin tone, hairstyle, body
+```
+
+### No. 18: 未來駕駛艙中的太空人肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** KrishnaG
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/247_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/247_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成在未來太空船駕駛艙中、充滿自信的女性太空人逼真肖像的提示。
+
+#### 提示詞
+
+```text
+Create a premium cinematic photorealistic space portrait inspired by the uploaded image: a confident female astronaut inside a futuristic spacecraft cockpit, wearing a highly detailed white, silver and orange EVA spacesuit with a transparent advanced helmet
+```
+
+### No. 19: 超寫實時尚攝影棚肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/264_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/264_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個使用上傳圖片作為臉部參考，創作全身、超寫實時尚攝影棚肖像的提示詞。
+
+#### 提示詞
+
+```text
+Use the uploaded image as the facial identity reference
+Create an ultra-realistic full-body studio fashion portrait of a
+```
+
+### No. 20: 電影感摩托車生活風格肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/265_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/265_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位男士於戶外坐在高級運動摩托車旁的超寫實肖像。
+
+#### 提示詞
+
+```text
+Use the uploaded photo as the facial identity reference. Create an ultra-realistic cinematic lifestyle portrait of an adult man seated outdoors beside a premium sport motorcycle at a rustic
+```
+
+### No. 21: 超寫實編輯肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/267_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/267_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個使用臉部身份參考，創作男士超寫實編輯肖像的AI提示詞。
+
+#### 提示詞
+
+```text
+Use the uploaded photo as the facial identity reference.
+
+Create an ultra-realistic editorial portrait of an adult man seated on a dark polished wooden chair against a simple light-gray textured
+```
+
+### No. 22: 基於參考圖的精品時尚肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/271_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/271_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個使用臉部身份參考，創作時尚成年男士精品時尚肖像的提示詞。
+
+#### 提示詞
+
+```text
+Use the subject photo as a facial identity reference.
+Create an ultra-realistic premium fashion portrait of a stylish adult man photographed from
+```
+
+### No. 23: 基於參考圖的自然生活風格肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Meem
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/275_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/275_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/275_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個基於參考圖像，生成高品質、超寫實自然生活風格女性肖像的提示詞。
+
+#### 提示詞
+
+```text
+Create a high-quality, ultra-photorealistic candid lifestyle portrait of the same adult woman from the uploaded reference image. Use the reference as the single source of truth for her identity. Preserve her facial structure, proportions, natural
+```
+
+### No. 24: 基於照片的冬季時尚肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/276_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/276_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個使用人物照片作為臉部參考，創作寫實戶外冬季時尚肖像的AI提示詞。
+
+#### 提示詞
+
+```text
+Use the subject photo as a facial identity reference.
+Create an ultra-realistic outdoor winter fashion portrait of an
+```
+
+### No. 25: 超現實奢華攝影棚肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/282_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/282_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成時尚成年男子超現實奢華攝影棚肖像的AI提示。
+
+#### 提示詞
+
+```text
+Create an ultra-realistic luxury studio portrait of a stylish adult man photographed
+```
+
+### No. 26: 電影感雨景肖像拼貼
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/283_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/283_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創建電影感雨景肖像拼貼的提示，使用上傳圖像作為構圖和氛圍的參考。
+
+#### 提示詞
+
+```text
+Use the uploaded image as the composition, framing, lighting, rainy atmosphere, facial-expression
+```
+
+### No. 27: 智慧型手機自拍身份特徵保留
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Meem
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/291_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/291_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/291_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成3:4垂直、超現實智慧型手機自拍的提示，忠實保留特定女性的面部特徵和外貌。
+
+#### 提示詞
+
+```text
+3:4 vertical ultra-realistic smartphone selfie of the same adult woman from the reference image. Preserve her facial identity, facial structure, skin tone, hairstyle, and overall appearance so she remains unmistakably the same person.
+```
+
+### No. 28: 電影感時尚肖像身份特徵
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Meem
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/294_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/294_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/294_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成特寫時尚肖像的提示，保留主體的身份特徵和外貌。
+
+#### 提示詞
+
+```text
+Create an ultra-photorealistic, cinematic close-up fashion portrait of the same adult woman from the reference image. Preserve her facial identity, facial structure, skin tone, hairstyle, and overall appearance so she remains unmistakably the same
+```
+
+### No. 29: 特寫正式攝影棚肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/295_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/295_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創建穿著正式服裝的年輕男子特寫攝影棚肖像的提示，使用面部參考。
+
+#### 提示詞
+
+```text
+Use the subject photo as a facial identity reference
+
+Create an ultra-realistic close-up studio portrait of a stylish young man wearing an elegant formal outfit against a
+```
+
+### No. 30: 具有身份保留的電影感生活照
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Meem
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/315_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/315_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/315_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創建特定東亞女性超真實電影感圖像的提示，保留她的身份和特徵。
+
+#### 提示詞
+
+```text
+Create an ultra-photorealistic cinematic lifestyle photograph using the same young East Asian woman from the reference image. Preserve her facial identity, facial structure, hairstyle, skin tone, and overall appearance so she remains unmistakably
+```
+
+### No. 31: 具有身份參考的電影感時尚攝影
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Meem
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/323_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/323_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/323_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成女性在黑暗環境中的電影感時尚攝影的提示，根據參考圖像保留她的身份。
+
+#### 提示詞
+
+```text
+Create an ultra-photorealistic cinematic fashion editorial photograph using image as the identity reference. The woman must remain unmistakably the same person as in the reference image. SUBJECT & POSE Place the woman alone inside a massive, dark
+```
+
+### No. 32: 基於參考的超寫實編輯肖像
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/331_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/331_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個圖像生成提示，用於創建一位成年男性的超寫實編輯肖像，使用上傳的圖像作為面部身份參考。
+
+#### 提示詞
+
+```text
+Use the uploaded image as the facial identity reference
+
+Create an ultra-realistic editorial portrait of an adult man seated
+```
+
+### No. 33: 與背叛持斧者的龍之戰
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** NEKA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/421_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/421_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成龍與背叛持斧者戰鬥圖像的提示，使用 ChatGPT Astra。
+
+#### 提示詞
+
+```text
+ChatGTP Astra、【ドラゴンとの戦闘】、前の画像からそのまま生成、斧使い裏切った！！？みたいな構図になった
+```
+
+### No. 34: 英雄巨型機器人寫實角度
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** 四季橘/Shikikitsu@AIイラストとTRPG(希望)
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/429_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/429_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於從動態、寫實角度創建英雄巨型機器人圖像的提示。
+
+#### 提示詞
+
+```text
+迫力のあるフォトリアルなアングルでこの巨大ロボットのヒロイックな姿を見せる画像を制作してください
+```
+
+### No. 35: 基於上傳主題的動漫風格
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** Mr Das
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/432_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/432_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/432_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創建動漫風格圖像的提示，要求線條自信、賽璐璐陰影極簡、色彩明亮飽和。
+
+#### 提示詞
+
+```text
+Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting.
+```
+
+### No. 36: 產品正面平拍圖與清晰標籤
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** 三个三
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/473_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/473_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成兩張產品圖像的提示，要求標籤清晰易讀，採用正面平鋪風格。
+
+#### 提示詞
+
+```text
+2️⃣ 产品镜头
+
+二张图必须是产品正面平拍。
+
+标签必须在参考图里清晰可读，不然模型会自己瞎编标签文字
+```
+
+### No. 37: 巨鷹與人物的奇幻場景
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** AI Qoro
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/645_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/645_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作電影感奇幻場景的提示，描繪一名女子居中，身後是一隻巨大、威嚴的展翅白頭海鵰。
+
+#### 提示詞
+
+```text
+A powerful cinematic fantasy scene of the woman from the reference image standing in the center, surrounded by a gigantic majestic bald eagle spreading its enormous wings behind her.
+```
+
+### No. 38: 帶有模特身份識別的高級時尚廣告
+
+- **分類:** `Reference Fidelity`
+- **來源:** `x`
+- **作者:** AI Qoro
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/658_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/658_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作高級、超寫實的高級時尚廣告圖像的提示，要求保留特定模特的面部身份特徵。
+
+#### 提示詞
+
+```text
+Create a premium, hyper-realistic high-fashion advertising campaign image using my uploaded female model as the ONLY identity reference for the main female subject. Preserve her exact facial identity and natural appearance — facial structure, skin
+```
+
+<a id="category-7"></a>
+
+### Style & Intelligence (190)
+
+### No. 1: 歷史城牆旁的隨性旅行照
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Aqsa
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/17_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/17_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張寫實的隨性旅行照片，拍攝一位年輕女性夜晚在一座歷史城牆旁，背景有一座發光的傳統中式建築。
+
+#### 提示詞
+
+```text
+A realistic candid travel photo of a young East Asian woman standing on an old stone walkway beside a historic city wall at night. Behind her is a beautiful traditional Chinese-style building glowing with warm golden lights and deep red accents
+```
+
+### No. 2: 地點復古旅行海報
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Saul Goodman
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/22_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/22_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/22_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/22_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/22_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作1920-1930年代風格旅行海報的提示，採用分層紙雕浮雕和壓花插圖風格，色調柔和。
+
+#### 提示詞
+
+```text
+Create a premium vintage travel poster for [LOCATION], inspired by the 1920s–1930s, with a refined layered paper-relief and embossed illustration style. Use warm parchment, muted terracotta, olive, dusty blue and sepia tones, combined with subtle paper
+```
+
+### No. 3: 蝴蝶複眼、貓鬚微距攝影
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 赤城（あかぎ）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/23_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/23_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/23_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/23_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張寫實的微距特寫照片，內容包含貓的鬍鬚、蝴蝶的複眼以及女孩的皮膚。
+
+#### 提示詞
+
+```text
+蝶の複眼、猫のヒゲ、女の子の肌 フォトリアル、写真、猫のヒゲのクローズアップ、マクロレンズ
+```
+
+### No. 4: 大理石模型上的奢華手錶
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** PoYo AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/26_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/26_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張寫實的雜誌廣告模型照片，內容為一款奢華鈦金屬計時碼表，錶盤文字清晰可見。
+
+#### 提示詞
+
+```text
+Luxury titanium chronograph watch on black marble, dial text POYO ATELIER crystal clear, studio spotlight, magazine ad photoreal mockup
+```
+
+### No. 5: 高級咖啡袋產品模型
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** PoYo AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/28_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/28_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張寫實的商業模型照片，內容為一個霧黑色咖啡袋，上面帶有山脈線條藝術圖案，置於質樸的木頭上。
+
+#### 提示詞
+
+```text
+A premium product photo of a matte black coffee bag labeled SUMMIT ROAST with mountain line-art on rustic wood, soft window light, sharp readable packaging typography, photoreal commercial mockup
+```
+
+### No. 6: 時尚電商型錄海報
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 诗泳研AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/29_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/29_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/29_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成簡潔時尚型錄海報的提示，畫面為一位穿著秋季服裝的年輕女模特，使用柔和的粉彩色調。
+
+#### 提示詞
+
+```text
+Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit. Use a soft pastel
+```
+
+### No. 7: 內含地標的微型旅行場景
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/32_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/32_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/32_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/32_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/32_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成迷人手工微型場景的提示，場景中包含一個標誌性地標的微小3D模型。
+
+#### 提示詞
+
+```text
+Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point. Show the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a
+```
+
+### No. 8: 俯瞰城市的女性編輯肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** leolee
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/34_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/34_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張寫實的編輯肖像，內容為一位成年東亞女性在黃昏時分俯瞰城市。
+
+#### 提示詞
+
+```text
+Create one photorealistic atmospheric editorial portrait, vertical 2:3, featuring a clearly adult East Asian woman, age 21, overlooking a city at dusk. Place her on the left
+```
+
+### No. 9: 陽光咖啡館中的電影感女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** leolee
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/35_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/35_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實電影感肖像的提示，內容為一位成年東亞女性在一個陽光照射的街區咖啡館中。
+
+#### 提示詞
+
+```text
+Create one photorealistic cinematic editorial portrait, vertical 2:3, featuring a clearly adult East Asian woman, age 21, in a sunlit neighborhood cafe. She has a softly elongated
+```
+
+### No. 10: 不對稱編輯式半臉肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/45_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/45_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/45_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/45_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/45_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作編輯風格肖像的提示，主體位於畫框的左邊緣。
+
+#### 提示詞
+
+```text
+Create a photorealistic editorial portrait. Asymmetrical off-center half-face portrait, subject placed flush against the far left frame edge, left vertical frame boundary
+```
+
+### No. 11: 地點專屬高級編輯藝術海報
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Saul Goodman
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/46_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/46_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/46_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/46_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/46_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於為指定地點創作高品質、現代藝術書籍風格海報的提示。
+
+#### 提示詞
+
+```text
+Create a premium contemporary editorial art poster for [LOCATION].
+
+FORMAT: Vertical 3:4 | High resolution | Fine-art print quality | Modern art-book aesthetic
+
+Create a visually striking, instantly recognizable interpretation of [LOCATION].
+```
+
+### No. 12: 女子居家夜讀溫馨場景
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/51_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/51_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成16:9橫幅真實照片的提示，描繪一名女子在夜晚溫暖而普通的公寓環境中。
+
+#### 提示詞
+
+```text
+16:9 横版，真实生活感女性居家照片，夜晚温暖室内氛围，普通公寓客厅书架角落与落地灯旁的真实生活场景。画面主体是一位视觉年龄约 20–26
+```
+
+### No. 13: 不受歡迎食材豪華聖代
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** とらの
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/52_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/52_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成一款僅由常見不受歡迎食材組成的豪華聖代，包含30種配料並附有註解。
+
+#### 提示詞
+
+```text
+一般的に嫌いと言われがちな食べ物のみで構成されたデラックスパフェ、30種類の具と注釈、食べ物なら何でもOK
+```
+
+### No. 14: 昭和時代日本復古旅遊海報
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Saul Goodman
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/53_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/53_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/53_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/53_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/53_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作高級、垂直版式旅遊海報的提示，採用二十世紀中葉日本鐵路旅遊風格。
+
+#### 提示詞
+
+```text
+Create a premium, ultra-refined Showa-era Japanese vintage travel poster for [LOCATION].
+
+FORMAT: Vertical 3:4 | Collector’s travel poster | Mid-century Japanese railway tourism aesthetic
+
+CORE CONCEPT
+
+Create a beautifully composed, instantly
+```
+
+### No. 15: 地鐵站台上的電影感肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Weinberg
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/54_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/54_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張高保真度的肖像，描繪一名棕色頭髮的年輕女子靜靜站立，而一列火車從旁疾馳而過。
+
+#### 提示詞
+
+```text
+cinematic, high-fidelity portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her. She has warm brown hair with soft bangs and a few loose strands blowing in the wind created by the passing train.
+```
+
+### No. 16: 高角度旗袍肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** BubbleBrain
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/60_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/60_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張高角度肖像，描繪一名高挑纖細、妝容精緻、擁有狐狸般臉型的模特兒，身著旗袍，處於柔和夢幻的光線中。
+
+#### 提示詞
+
+```text
+9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face
+```
+
+### No. 17: 洪水淹沒的平原與錯位倒影
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Johnny Wang
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/73_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/73_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作電影感劇照的提示，描繪黃昏時分洪水淹沒的平原，上有農舍和楊樹，水中呈現錯位的倒影。
+
+#### 提示詞
+
+```text
+A film still, 2.39:1. A flooded plain at civil twilight, water 20 cm deep and mirror-still to the horizon, a farmhouse and three poplars standing in it. Ordinary, terrestrial, quiet. The reflection does not match: in the water lies not this sky but a
+```
+
+### No. 18: Vocaloid MV風格3x3網格
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 兔妹_兔子
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/76_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/76_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於創作一個3x3網格的各種鏡頭，採用Vocaloid MV風格，並具有16:9的長寬比。
+
+#### 提示詞
+
+```text
+请用这个角色制作 Vocaloid（ボカロ）MV 风格的各种不同镜头，以 3×3 九宫格形式输出，画面比例为 16:9。
+```
+
+### No. 19: 16位元烏鴉精靈圖表
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** CharlesUChi
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/79_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/79_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成16位元風格烏鴉飛行、起飛和降落精靈圖表的提示。
+
+#### 提示詞
+
+```text
+Make a sprite sheet, 16-bit style, 32X32 per image, of a crow flying, taking off, and then landing.
+```
+
+### No. 20: 低角度騎馬角鬥士
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Jay Sensei👾
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/80_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/80_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+從岩石山路上觀看的極低角度鏡頭，描繪一名騎在戰馬上的角鬥士。
+
+#### 提示詞
+
+```text
+Extreme low-angle shot from the dusty rocky path on the mountainside, camera positioned close to the ground looking steeply upward as a gladiator in worn bronze armor and a faded red cloak rides a strong chestnut warhorse
+```
+
+### No. 21: 礁石與章魚特寫
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Ivana
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/84_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/84_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個指示放大礁石、觀察光線在石頭上的效果，並包含恰好八隻觸手的提示。
+
+#### 提示詞
+
+```text
+Zoom in on the reef, then look at the light on the stone. Oh and I asked for exactly eight arms.
+```
+
+### No. 22: 牡丹中微型中國女性的電影變形寬銀幕靜照
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** John
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/94_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/94_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張寬幅變形寬銀幕照片，描繪五名微型中國女性坐在一朵大型淡粉色牡丹內。
+
+#### 提示詞
+
+```text
+A cinematic wide anamorphic still photograph capturing an intimate floral interior — five miniature young adult Chinese women seated together inside the hollow of an enormous blooming pale-pink peony, its broad curved
+```
+
+### No. 23: 粉紅花叢中的女性
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** dreamy digital arts
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/95_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/95_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張女性被茂密粉紅色花枝包圍的照片，花枝充滿前景和背景。
+
+#### 提示詞
+
+```text
+A photograph of a woman among dense branches with pink flowers. The woman stands surrounded by flowering branches that fill the foreground and background. The composition is arranged so that the flowers partially overlap the edges of the
+```
+
+### No. 24: 日落沙灘上的機器人
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** LOWREZZ
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/108_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/108_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個寫實的電影場景，描繪機器人在日落時分坐在沙灘上，看著手中的沙子。
+
+#### 提示詞
+
+```text
+A robot sitting on a beach at sunset, looking down at sand in its hand. Realistic and cinematic.
+```
+
+### No. 25: 賽博龐克風格蓬鬆狼耳裝束
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** towa💎AIart
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/109_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/109_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成賽博龐克風格蓬鬆服裝的提示，特點是霓虹粉和綠色毛絨狼耳以及項圈。
+
+#### 提示詞
+
+```text
+サイバーパンクもふもふ衣装
+Headwear: Headwear: neon pink and neon green fur wolf ears headband, cyberpunk hair clips, Neckwear: neon pink and neon green fur choker
+```
+
+### No. 26: 年輕女性特寫自拍
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Kaan
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/115_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/115_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成原始iPhone照片的提示，內容為一位有雀斑、頭髮被風吹亂的年輕女性。
+
+#### 提示詞
+
+```text
+Raw iPhone 15 Pro Max photo, extreme close-up selfie of a 22-year-old woman with piercing blue-green eyes, light dusting of freckles across the nose and cheeks, messy hair with visible flyaways caught in the wind
+```
+
+### No. 27: 1980年代總統在白宮草坪歡迎外星人
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Tech2Wild
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/117_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/117_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成圖像的提示，描繪一張1980年代風格的照片，內容為總統在白宮草坪上問候外星人。
+
+#### 提示詞
+
+```text
+Create image of a 1980s photo of a President welcoming an alien on the white house grass.
+```
+
+### No. 28: 唐代皇家夜宴電影靜照
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 波妞PONYO
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/121_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/121_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張寬銀幕歷史電影靜照，描繪虛構的、豪華的唐代皇家夜宴。
+
+#### 提示詞
+
+```text
+横版16:9，真人古装历史电影剧照。虚构唐代皇族夜宴，奢华、温暖，热闹之中藏着微妙的试探。
+```
+
+### No. 29: 東亞女性時尚寫真照片
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** T 1 to 9
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/126_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/126_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實時尚照片的提示，主角為一位成年東亞女性，擁有黑色長髮，臉部帶有溫暖的光影效果，以及自然的肌膚紋理。
+
+#### 提示詞
+
+```text
+真实时装照片，抓眼。不复刻海报上的字，也不出现按钮。没有文字、标志、水印或界面。成年东亚女性，黑长发，脸上有一条暖的亮带和一条暗影落在额前。皮肤修得顺，纹理还在，不塑料。
+```
+
+### No. 30: 使用黑柔濾鏡的台灣女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** BubbleBrain
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/127_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/127_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成肖像的提示，特點是使用黑柔濾鏡、疊加遮罩，以及帶有細微高光的柔光CCD攝影風格。
+
+#### 提示詞
+
+```text
+Black mist filter, overlay mask, soft-light CCD portrait photography, subtle highlight bloom on the face, Taiwanese woman, medium-short hair, soft Wu-dialect speaking manner, precise
+```
+
+### No. 31: 雨後河畔的紅色彼岸花
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** NOMANIX
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/130_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/130_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實圖像的提示，描繪一朵帶有雨滴的紅色彼岸花，設定在雨後的河邊。
+
+#### 提示詞
+
+```text
+雨水滴る一輪のヒガンバナ。屋外の川辺。雨上がりの晴天。ハイクオリティ超美麗リアル2K
+```
+
+### No. 32: 台灣女孩夏季制服美學
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** BubbleBrain
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/135_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成肖像的提示，採用日本夏季電影攝影風格，主角為一位短髮、有雀斑、穿著學校制服的台灣女孩。
+
+#### 提示詞
+
+```text
+Japanese summer film photography aesthetic with gentle highlight bloom on the face, a Taiwanese girl with short hair and light freckles, school uniform, refined peach-pink
+```
+
+### No. 33: 打烊後的雨夜街景
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Morphed
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/143_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/143_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/143_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/143_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成氛圍圖像的提示，描繪打烊時間後的一個人，著重於濕潤的羊毛、肌膚質感和街燈光影。
+
+#### 提示詞
+
+```text
+Rain after closing time. Look at the wet wool, the skin, and the light on the street behind her.
+```
+
+### No. 34: 風與絲綢的時尚大片
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Morphed
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/144_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/144_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/144_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/144_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成時尚大片場景的提示，描繪三位人物在風中造型，搭配強烈的陽光和大量的絲綢。
+
+#### 提示詞
+
+```text
+Wind does the styling. A fashion editorial test with three people, hard sunlight, and a lot of silk.
+```
+
+### No. 35: 特斯拉 Model Y 的寫實 iPhone 照片
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** bluedev
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/152_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/152_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實 iPhone 照片的提示，拍攝對象為停車場中的特斯拉 Model Y，使用 0.5x 相機鏡頭。
+
+#### 提示詞
+
+```text
+realistic iphone photo of a tesla model y from parking lot, done with 0.5x camera
+```
+
+### No. 36: 帶有月球的黃昏生態未來城市
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** AndromedaAlien
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/165_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/165_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/165_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/165_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/165_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述黃昏時分的生態未來城市、一個有著巨大地球的月球城市、一位銀河熾天使守護騎士，以及一位在冰晶大教堂中起舞的銀髮女王的提示。
+
+#### 提示詞
+
+```text
+黄昏のエコ未来都市眺望
+月面都市と巨大な地球
+セラフィム・銀河の守護騎士
+氷晶の聖堂に舞う銀髪の女王
+```
+
+### No. 37: 雨中的大軍與龍
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/166_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/166_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個複雜場景的提示，包含超過百人的軍隊、角色露娜、一條白龍、一個日文標誌、複雜的長矛操持，以及雨中的倒影。
+
+#### 提示詞
+
+```text
+100人以上の軍勢＋ルナ＋白竜＋日本語看板＋複雑な槍の持ち方＋雨天の反射
+```
+
+### No. 38: 跳躍的灰色荷蘭侏儒兔
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** LapinBijou（ラパンビジュー）@AIイラスト＆AI漫画
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/169_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/169_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/169_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成兔子跳躍圖像，以及一隻灰色荷蘭侏儒兔跳躍圖像的提示。
+
+#### 提示詞
+
+```text
+うさぎがぴょんぴょん
+グレーのネザーランドドワーフがぴょんぴょん
+```
+
+### No. 39: 公園動漫情侶高細節
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** cvrdnppls
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/172_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/172_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/172_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個圖像生成提示，用於創作動漫風格、身著休閒服裝的年輕男女在大型公園中的場景，以超高16K解析度渲染，並增強對比度和飽和度。
+
+#### 提示詞
+
+```text
+「アニメ風の各々私服姿の少女と青年。大きな公園。2:3の縦長アスペクト比」に「16K超々高解像度で要素を各々具体的に描く。コントラストと彩度を少し高めに」
+```
+
+### No. 40: 紅樓夢長卷圖
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 拾安SHI AN
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/176_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/176_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個將《紅樓夢》場景重構為傳統中國長卷畫的提示。
+
+#### 提示詞
+
+```text
+用 AIGC 重构《红楼梦》“大观园元宵省亲”
+尝试把古典文学叙事做成中国传统长卷：从荣府门外的仪仗、元春省亲，到园中宴席、宝黛诗会，再一路延伸到冬日街景。
+```
+
+### No. 41: 沙漠粗獷主義建築系列
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Pan
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/182_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/182_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/182_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/182_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/182_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成沙漠粗獷主義風格、單體土質建築圖像的提示，融合了名人與建築師的特色。
+
+#### 提示詞
+
+```text
+Desert Brutalism & Monolithic Earth Architecture
+
+1:Rick Owens Architectural × Pedro Pascal "MONOLITH OCHRE"
+2: Axel Vervoordt Sanctuaries × Cate Blanchett 
+"WABI MONOLITH
+3: Studio KO Marrakech × Timothée Chalamet 
+ "TERRA BRUTALIS"
+4: Tadao
+```
+
+### No. 42: 黃金時刻街頭漫步攝影
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nicole
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/193_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/193_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/193_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作寫實風格智慧型手機照片的提示，捕捉一位女性在黃金時刻於林蔭街道上行走的畫面。
+
+#### 提示詞
+
+```text
+A highly photorealistic candid smartphone photograph of a young woman walking slowly through a quiet tree-lined residential street during golden hour. She has medium-length dark chestnut hair styled in a slightly messy half-up hairstyle, with soft
+```
+
+### No. 43: 奢華旅遊海報系列
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** KrishnaG
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/200_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/200_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/200_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/200_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作精緻奢華旅遊海報系列的提示，靈感來自聖托里尼、阿馬爾菲海岸和巴黎。
+
+#### 提示詞
+
+```text
+Premium sophisticated luxury travel-poster collection inspired by Santorini, Amalfi Coast, and Paris, blended together into one unified, breathtaking editorial composition, 3:4 vertical format. Create an original, luxurious travel-art
+```
+
+### No. 44: 都市公園隨拍人像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Aqsa
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/201_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/201_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/201_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個捕捉陽光午後，在寧靜都市公園中一位深棕色長髮年輕女性自然神態的戶外人像提示。
+
+#### 提示詞
+
+```text
+A photorealistic candid outdoor portrait of a young woman standing in a peaceful urban park on a sunny afternoon. She has long dark-brown hair styled in a loose low ponytail, with wispy face-framing strands gently falling across her face.
+```
+
+### No. 45: 沙漠刺客角色參考表
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Pan
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/212_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/212_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成電影感角色參考表的提示，主角是一位致命的沙漠刺客。
+
+#### 提示詞
+
+```text
+Professional reference sheet, 16:9 cinematic layout. Left half: DESERT ASSASSIN, woman ~28, lithe and deadly, bronze skin, black kohl eyes, midnight blue wrapped silks revealing mirrored-scale armor underneath, curved scimitar with serpent-coil
+```
+
+### No. 46: 東亞女性休息室時尚攝影
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** John
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/213_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/213_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作超寫實智慧型手機時尚照片的提示，拍攝一位美麗的東亞女性於夜晚私人休息室中的場景。
+
+#### 提示詞
+
+```text
+Ultra-photorealistic vertical 9:16 smartphone fashion photo of an exceptionally beautiful adult East Asian woman in an elegant private lounge at night. She has a refined small oval face, luminous fair skin with natural texture, large
+```
+
+### No. 47: 復古旅行郵票藝術作品
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/214_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/214_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/214_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/214_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作復古風格郵票的提示，展現一個國家的標誌性地標和文化元素。
+
+#### 提示詞
+
+```text
+Create a sophisticated vintage travel postage-stamp artwork representing [COUNTRY]. Feature the country’s most iconic landmark as the main focal point, surrounded by 3–5 carefully chosen elements that instantly represent the country — landscape, traditional
+```
+
+### No. 48: 標誌性建築復古旅遊海報
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/216_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/216_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/216_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/216_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作風格化手繪復古旅遊海報的提示，以可識別的建築地標為特色。
+
+#### 提示詞
+
+```text
+Create a sophisticated vintage-inspired travel poster featuring [ICONIC STRUCTURE] as the main focal point. Keep the architecture highly recognizable with accurate proportions and distinctive details, but reinterpret it as a stylized hand-painted
+```
+
+### No. 49: 停車場隨拍時尚人像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** John
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/217_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/217_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/217_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個超寫實人像提示，拍攝一位美麗的歐亞混血女性在現代化地下停車場的場景。
+
+#### 提示詞
+
+```text
+Ultra-photorealistic vertical 3:4 candid luxury fashion portrait in a modern underground parking garage. An exceptionally beautiful adult Eurasian woman with refined mixed Asian-European features stands beside a
+```
+
+### No. 50: 手工微型食物場景
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/218_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/218_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/218_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/218_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成迷人微型場景的提示，場景以陶瓷盤上的特定食物菜餚為特色。
+
+#### 提示詞
+
+```text
+Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden
+```
+
+### No. 51: 店面微型立體模型
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/220_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/220_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/220_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/220_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/220_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成可識別商店或品牌的奇幻3D黏土微型立體模型的提示。
+
+#### 提示詞
+
+```text
+Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors
+```
+
+### No. 52: 標誌性建築微型立體模型
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/223_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/223_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/223_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/223_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/223_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作以中央標誌性建築為特色的詳細、溫馨微型世界的提示。
+
+#### 提示詞
+
+```text
+Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations
+```
+
+### No. 53: 不對稱高級時尚工作室肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/231_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/231_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作以白色工作室背景為底、採用不對稱構圖的男子特寫肖像的提示。
+
+#### 提示詞
+
+```text
+Create a high-fashion editorial close-up portrait of an adult man against a seamless pure white studio background. Use an intentionally asymmetric composition:
+```
+
+### No. 54: 風蝕白色迷宮景觀
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/240_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/240_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述性提示，用於生成一個由風力長時間侵蝕形成的白色迷宮景觀。
+
+#### 提示詞
+
+```text
+テーマ
+「風が削った白い迷路」
+
+白い大地の奥へ進むと、
+
+岩は壁になり、
+柱になり、
+細い回廊のように続いていた。
+
+誰かが造ったわけではない。
+
+長い時間、
+同じ場所を風が通り続けた結果。
+
+削られたところと、
+残ったところ。
+
+その違いだけで、
+```
+
+### No. 55: 白龍騎士與小石頭
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/245_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/245_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描繪夜晚白龍騎士的場景，他停下腳步並非因為敵人，而是因為一顆小石頭，並附有哲思標題。
+
+#### 提示詞
+
+```text
+「痛みの正体は、だいたい小さい。」 白竜騎士の夜。 巡回を止めたのは、敵ではなく小石一個だった。
+```
+
+### No. 56: 自信男士編輯肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/249_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/249_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成自信男士（黑色短髮）高級編輯風格攝影棚肖像的提示詞。
+
+#### 提示詞
+
+```text
+Create an ultra-realistic close-up studio portrait of an adult man with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style. Give him neatly short black hair.
+```
+
+### No. 57: 全身時尚攝影棚肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/255_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/255_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成在溫暖、無縫攝影棚環境中，自信男模全身肖像的提示詞。
+
+#### 提示詞
+
+```text
+Create an ultra-realistic full-body studio fashion portrait of an adult man standing confidently against a seamless warm light-beige studio background. Position the man in the
+```
+
+### No. 58: 奢華旅遊廣告傑作
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** KrishnaG
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/258_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/258_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/258_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/258_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/258_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成融合阿爾卑斯山、杜拜及歐洲木屋體驗的精品奢華生活風格旅遊廣告的提示詞。
+
+#### 提示詞
+
+```text
+Premium sophisticated luxury lifestyle travel-campaign masterpiece combining an exclusive Alpine lakeside mountain retreat, a breathtaking Dubai waterfront luxury escape, and multiple elegant European lakeside chalet experiences into one
+```
+
+### No. 59: 青魔法大師的晨間日常
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/260_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/260_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+描繪青魔法大師晨間場景，梳子、髮圈和鞋帶在他閱讀報告時完成工作。
+
+#### 提示詞
+
+```text
+「朝の支度に、手は要らなかった。」 青魔導士マスターの朝。 報告書を読む間に、櫛も髪紐も靴紐も仕事を終える。
+```
+
+### No. 60: 船隻抵達白堊海岸
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/262_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/262_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述性提示詞，用於生成船隻抵達由白色泥土、鹽和石灰岩構成海岸的場景，遠方是看不見的陸地。
+
+#### 提示詞
+
+```text
+白い大地に船が着く。海を渡った先に、砂ではなく、白い大地が待っていた。塩と石灰に覆われた岸。風に削られた白い岩。その向こうには、まだ見たことのない土地が続いている。昨日まで白紙だった地図に、
+```
+
+### No. 61: 海精靈漁夫角色肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/273_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/273_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述居住在海邊、解讀海洋訊號的沿海精靈漁夫的提示詞。
+
+#### 提示詞
+
+```text
+森じゃなくて、海で生きるエルフ。
+
+TRPG人外図鑑 FILE.022｜リゼア
+種族：エルフ
+職業：沿岸漁師／潮目読み
+
+132年ぶんの記憶を頼りに、
+海面の色、風、鳥、波、匂いを読む。
+
+「魚を探すんじゃない。
+　海が変わるところを見るの。」
+
+《潮見浜》で今日も海を見る、ひとりの漁師です。
+```
+
+### No. 62: 專業攝影棚頭像肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/278_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/278_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成成年男士專業攝影棚頭像肖像的提示詞。
+
+#### 提示詞
+
+```text
+Create an ultra-realistic professional studio headshot portrait of an adult man photographed against a
+```
+
+### No. 63: 自信男士於奢華現代室內
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/279_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/279_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位自信男士置身於擁有深色木門框和大鏡子的奢華現代室內空間的超寫實生活風格肖像。
+
+#### 提示詞
+
+```text
+Create an ultra-realistic premium lifestyle portrait of an adult man standing confidently inside a luxurious modern interior near a dark wooden doorway and a large floor-to-ceiling mirror.
+```
+
+### No. 64: 幻想長矛兵伏案而眠
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/284_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/284_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詩意的提示，描述長矛兵的夜晚，在異世界地圖前憶起木桌紋理。
+
+#### 提示詞
+
+```text
+「眠る予定は、書いてへんかった。」
+
+槍兵の夜。
+異世界の地図より先に、机の木目を頬で覚えた。
+```
+
+### No. 65: 龍騎士於陰影中休憩
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/289_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/289_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+描繪兩名龍騎士在龍翼下休息的場景，伴有地圖和硬麵包。
+
+#### 提示詞
+
+```text
+「日陰くらい、借りてもええか。」 双竜騎士の昼。 レシックの右翼の下で、地図と硬いパンをひらく。
+```
+
+### No. 66: 時尚男子於溫馨黃昏圖書館
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/298_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/298_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅超現實肖像，描繪一名男子在黃昏時分於高級圖書館休息室放鬆。
+
+#### 提示詞
+
+```text
+Create an ultra-realistic lifestyle portrait of a stylish adult man relaxing in a cozy upscale library lounge during the early evening. Position him seated comfortably in a vintage cognac-brown leather armchair, holding a book, with soft ambient lighting from a nearby floor lamp and a warm fireplace glow. The atmosphere is serene and sophisticated, with rich wood shelves filled with books in the background.
+```
+
+### No. 67: 秋夜無頭騎士郵差
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/299_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/299_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一名夜間郵差行走在秋夜道路上，兩旁是彼岸花，頭頂夜空。
+
+#### 提示詞
+
+```text
+秋の夜。彼岸花の咲く街道を歩く、夜間郵便配達人エルネ。街が眠ってからも、届ける手紙があります。エルネ／デュラハン／夜間郵便配達人
+```
+
+### No. 68: 勃艮第色調全身時尚肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/303_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/303_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅超現實時尚肖像，描繪一名自信的黑人男子穿著乾淨西裝，坐在極簡主義攝影棚中。
+
+#### 提示詞
+
+```text
+Create an ultra-realistic full-body editorial studio portrait of a stylish adult Black man seated confidently on a minimalist
+```
+
+### No. 69: 青魔法大師的午後
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/304_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/304_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+描繪青魔法大師午後的場景，魔法在她面前清除了陽光和鵝卵石。
+
+#### 提示詞
+
+```text
+「歩ける。でも、歩く理由がなかった。」 青魔導士マスターの午後。 日差しも石畳も、彼女へ届く前に魔法が片づける。
+```
+
+### No. 70: 裂土夕陽伴火焰
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/306_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/306_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述性提示，描繪黃昏荒野的景象，細小火焰從地面裂縫升起，遠處是裏海。
+
+#### 提示詞
+
+```text
+夕暮れの荒野で、地面の亀裂から細い炎が静かに揺れていた。噴火でも、焚き火でもない。大地の奥から染み出したものが、ただ燃え続けている。遠くには、夕日に染まるカスピ海。土も、水も、火も、
+```
+
+### No. 71: 金色日落下的復古帆船
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** KrishnaG
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/308_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/308_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅超寫實圖像，描繪一艘復古木製帆船在戲劇性的海洋日落場景中。
+
+#### 提示詞
+
+```text
+Ultra-realistic cinematic ocean scene at dramatic golden sunset, featuring a magnificent vintage wooden sailing ship dominating the left foreground. The ship has multiple tall wooden masts, intricate rigging, ropes, detailed weathered wooden textures and large
+```
+
+### No. 72: 白龍騎士檢查翅膀傷勢
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/313_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/313_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個場景，描繪白龍騎士大師在月光照耀的龍廄中，仔細檢查一隻沉睡巨龍的左翼傷勢。
+
+#### 提示詞
+
+```text
+「眠ってる間に、少しだけ診せてな。」 月夜の竜舎。 白竜騎士マスターは、レシックを起こさないよう左翼の傷を確かめる。
+```
+
+### No. 73: 旅人在火山城市縫補藍布
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/314_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/314_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個場景，描繪午後時分，在一個有遠山的火山城市中縫補一塊藍色旅行布。
+
+#### 提示詞
+
+```text
+「裂けたなら、縫えばええ。」 火山都市の午後。 遠い山を眺める前に、旅を支える青い布を直す。
+```
+
+### No. 74: 鏡中世界的早晨與持矛者
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/317_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/317_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述性提示，描繪一位失去最高頭銜的持矛者，在鏡中世界的早晨從濕潤的鞋帶開始他的一天。
+
+#### 提示詞
+
+```text
+「泥は、歩いた分だけつく。」 ミラ世界の朝。 最強の肩書きを失った槍兵は、濡れた靴紐から一日を始める。
+```
+
+### No. 75: 黎明前的藍魔導師露娜
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/318_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/318_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個場景，描繪黎明前的藍魔導師露娜，伴隨著書本、椅子和茶，來自一個她還不需要她身體的時代。
+
+#### 提示詞
+
+```text
+「手を伸ばす必要なんて、なかった。」 夜明け前の青魔導士マスター・ルナ。 本も椅子も紅茶も、彼女の身体を必要としていなかった頃。
+```
+
+### No. 76: 火焰自大地滲出的景觀
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/319_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/319_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述性提示，描繪一片乾旱荒野中火焰從大地滲出的景觀，灰色泥漿流淌，遠處是裏海。
+
+#### 提示詞
+
+```text
+テーマ
+「大地から火が漏れる」
+
+乾いた荒野のあちこちで、
+
+大地が静かに脈打っていた。
+
+灰色の泥が湧き、
+ゆっくりと斜面を流れ、
+また新しい形をつくっていく。
+
+遠くには、
+カスピ海の青い帯。
+
+動かないように見える大地も、
+その奥ではずっと生きている。
+```
+
+### No. 77: 夜晚的黑龍騎士露娜
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/325_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/325_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個場景，描繪夜晚的黑龍騎士露娜檢查她的長矛繭，而埃爾·德拉戈在她身旁沉睡。
+
+#### 提示詞
+
+```text
+「今日も、この手で届いた。」 夜の黒竜騎士ルナ。 槍だこを確かめる隣で、エル・ドラゴは先に眠った。
+```
+
+### No. 78: 處於美好之地的費倫與芙莉蓮
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** TOMATO🍅トマト
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/327_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/327_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅安全適宜的插圖，描繪角色芙莉蓮與費倫之間的對話。
+
+#### 提示詞
+
+```text
+フェルン『良い場所ですねフリーレン様』 フリーレン『…そうだね』 SFW illustration
+```
+
+### No. 79: 風雨雕琢的山丘
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** ぬる（温）
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/329_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/329_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詩意的提示，描述一片景觀：綠色褪去，在風雨雕琢的山丘上顯露出赭色、鐵鏽色、灰白色和淡綠色的層次。
+
+#### 提示詞
+
+```text
+森を抜けると、景色から緑が少しずつ消えていった。代わりに現れたのは、黄土色。錆色。灰白色。淡い緑。風と雨に削られた丘には、大地そのものの時間が幾重にも重なっている。道はその色の間を縫いながら、
+```
+
+### No. 80: 竹影前持扇古典仕女
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/339_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/339_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/339_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成東方美學桌布的AI提示，描繪一位古典女子手持團扇，背景為白牆與竹影。
+
+#### 提示詞
+
+```text
+主题方向：东方禅意极简插画
+风格分支：女性审美明快型
+主体内容：一位手持圆形团扇的古风女子站在白墙竹影前
+```
+
+### No. 81: 警用救援機器人拖曳救生艇
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** カーブミラー
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/342_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/342_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描繪東京警視廳重型機械機器人小隊拖曳救生艇疏散受困民眾的提示。
+
+#### 提示詞
+
+```text
+『警視庁重機対策課ロボット隊』
+
+　救命ボートの牽引で
+　　避難者を救助します。
+```
+
+### No. 82: 都市觀景台日間CCD風格照片
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/346_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/346_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成明亮日間CCD風格生活照的提示，主題為在天文觀景台上進行都市探索。
+
+#### 提示詞
+
+```text
+GPT Image 2生成日间高亮CCD生活照。
+
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市探索生活写真
+场景方向：城市天文观景平台 / 白色圆形护栏 / 小型观测望远镜 / 开阔蓝天 / 远处城市天际线
+服装方向：樱桃红色修身方领无袖针织上衣 + 冷白色高腰修身短裤
+```
+
+### No. 83: iPhone直式生活人像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/347_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/347_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實、自然的iPhone風格年輕女性人像照的提示。
+
+#### 提示詞
+
+```text
+9:16 竖版，真实 iPhone 手机随手拍摄的生活感女性照片，画面主体是一位视觉年龄约 20–26
+```
+
+### No. 84: 新中式花窗海報
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/348_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/348_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成優雅、極簡東方風格海報的圖像提示，描繪一位古典女子立於翠綠花窗旁。
+
+#### 提示詞
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美新中式型
+主体内容：一位古风女子站在花窗前，姿态安静含蓄
+情绪母题：雅致、柔美、轻奢感
+场景与意象：玉青色花窗、玫红花影、暖白墙面、女子、少量浅金细节
+构图与空间：9:16
+```
+
+### No. 85: 東亞女性寫實編輯肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/354_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/354_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/354_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/354_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/354_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詳細的提示，用於生成膝蓋以上、視線高度的寫實肖像，主角為具有特定面部特徵的年輕東亞女性。
+
+#### 提示詞
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, eye-level view.
+
+A 20-year-old adult East Asian woman, small near-round oval face with full low cheeks, large level warm gray-brown round eyes, short low-bridge nose, small even rose-pink lips, luminous
+```
+
+### No. 86: 警用重型機械機器人清理河道
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** カーブミラー
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/358_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/358_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述警用重型機械單位的機器人小隊清理堵塞河道的垃圾的提示。
+
+#### 提示詞
+
+```text
+『警視庁重機対策課ロボット隊』
+
+　川を堰き止めている
+　　ゴミを片付けています。
+```
+
+### No. 87: 心形橢圓臉寫實編輯肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/359_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/359_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/359_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/359_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/359_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詳細的提示，用於生成膝蓋以上、視線高度的編輯肖像，主角為具有特定面部特徵的年輕東亞女性。
+
+#### 提示詞
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, eye-level view.
+
+A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, warm hazel almond eyes with lifted corners, slim medium-bridge nose, full coral-rose lips with a plush lower lip,
+```
+
+### No. 88: 年輕女性iPhone人像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/363_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/363_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實、休閒的9:16直式照片的提示，主角為20-26歲的女性，模擬iPhone主相機拍攝效果。
+
+#### 提示詞
+
+```text
+9:16 竖版，真实 iPhone 手机普通主摄随手拍摄的生活感女性照片，一位视觉年龄约 20–26
+```
+
+### No. 89: 夏日水邊禪意女子
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/364_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/364_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成東方美學桌布的提示，描繪一位女子在水邊，風格極簡清新。
+
+#### 提示詞
+
+```text
+主题方向：东方禅意极简插画
+风格分支：女性审美清爽型
+主体内容：一位女子坐在水边石阶上，低头看向水面
+情绪母题：清新、夏日、松弛感
+场景与意象：青瓷蓝水面、白色石阶、柠檬黄色圆形日光、少量竹影、人物
+构图与空间：9:16
+```
+
+### No. 90: 東亞女性牛仔構圖肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/369_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/369_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/369_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詳細的提示，用於生成寫實的編輯肖像，主角為具有特定面部特徵的年輕東亞女性，採用牛仔構圖（膝蓋以上）。
+
+#### 提示詞
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, waist-level view.
+
+A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed chin, wide-set gray-hazel almond eyes with lifted corners, narrow-bridge rounded-tip nose, full coral-brick
+```
+
+### No. 91: 都市頂樓書店咖啡館時尚照
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/371_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/371_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成明亮日間CCD風格生活照的提示，背景為都市藝術場景，並有特定服裝描述。
+
+#### 提示詞
+
+```text
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市文艺生活写真
+场景方向：商业建筑开放式露台书吧 / 白色书架 / 浅木桌面 / 城市绿植与天空
+服装方向：蓝莓紫色修身方领短袖针织上衣 + 奶油白高腰A字短裙
+```
+
+### No. 92: 東亞女性寫實編輯肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/372_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/372_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/372_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/372_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詳細的提示，用於生成膝蓋以上、腰部高度的編輯肖像，主角為具有特定面部特徵的年輕東亞女性。
+
+#### 提示詞
+
+```text
+Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, waist-level view. A 20-year-old adult East Asian woman, petite oval face with full cheeks, large slightly close-set round gray-brown eyes, tiny beauty mark near the outer cheek, cushioned slightly parted rose
+```
+
+### No. 93: 魅惑眼鏡女郎編輯肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/373_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實編輯肖像的提示，主角為20多歲、充滿魅惑感的日韓女性，戴著眼鏡與耳骨夾。
+
+#### 提示詞
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, waist-level view.
+
+A 20s seductive stunning Japanese or Korean woman with black frame, aviator-frame glasses, minimal metal ear cuff, small curved cuff fitted along
+```
+
+### No. 94: 東方禪意極簡封面海報
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/374_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/374_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成東方極簡風格桌布的提示，描繪一位優雅的古典女子穿過藍色門扉，背景有櫻花。
+
+#### 提示詞
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美清透型
+主体内容：一位古风女子从门洞前缓步经过，姿态轻盈
+情绪母题：明净、轻快、春日呼吸感
+场景与意象：白墙、晴空蓝门洞、樱花粉花影、少量叶片、人物
+构图与空间：9:16
+```
+
+### No. 95: 全身正面編輯肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/375_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成20多歲誘人女性全身正面編輯肖像的提示，要求照片級真實感，採用正面視角拍攝。
+
+#### 提示詞
+
+```text
+Photorealistic editorial portrait. Full-body portrait, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with both shoulders, both hips, legs, and feet forming a frontal full-body silhouette. A 20s seductive
+```
+
+### No. 96: 正面膝上牛仔肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/376_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成照片級真實感編輯風格肖像的提示，描繪一位誘人的年輕日本女性，採用傾斜的正面膝上構圖。
+
+#### 提示詞
+
+```text
+Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette. A 20s seductive stunning Japanese
+```
+
+### No. 97: 警察重型機械部隊機器人小組
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** カーブミラー
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/378_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/378_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅描繪重型機械對策部隊的警察機器人小組，正在從被暴雨淹沒的道路上移走車輛的圖像。
+
+#### 提示詞
+
+```text
+『警視庁重機対策課ロボット隊』
+
+　大雨で冠水した
+　　道路からの車両の移動
+```
+
+### No. 98: 日間明亮CCD都市運動生活照
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/381_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/381_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成明亮日間CCD風格生活照的提示，場景設定在都市運動環境中。
+
+#### 提示詞
+
+```text
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市轻运动生活照
+场景方向：现代城市篮球公园外围休息区 / 蓝橙球场 / 白色长椅 / 金属围栏
+服装方向：葡萄柚橙修身无袖运动上衣 + 冷白色高腰运动百褶短裙
+气质标签：活力、明亮、健康、甜酷、自然
+```
+
+### No. 99: 禪意極簡垂直封面海報
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/382_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/382_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作極簡、明亮、乾淨的9:16垂直封面的提示，具有現代東方女性美學和清晨氛圍。
+
+#### 提示詞
+
+```text
+东方禅意极简封面海报，女性审美明亮型，新中式清晨感高颜值封面。9:16 竖版构图，整体画面轻盈、清透、干净、明亮，具有现代东方女性审美与小红书封面感。
+```
+
+### No. 100: 女子坐於圓窗旁
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/391_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/391_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成東方禪意極簡海報的提示，描繪一位女子在圓窗旁放鬆的情景。
+
+#### 提示詞
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美柔亮型
+主体内容：一位女子坐在圆窗前安静发呆，姿态放松
+情绪母题：坐忘、松弛、温柔内观
+场景与意象：圆窗、蜜瓜绿色窗外植物、樱花粉小花、白色坐垫、女子
+```
+
+### No. 101: 警察機器人小隊攔截失控卡車
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** カーブミラー
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/396_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/396_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅描繪重型機械對策部隊的警察機器人小隊，試圖攔截一輛失控卡車的圖像。
+
+#### 提示詞
+
+```text
+『警視庁重機対策課ロボット隊』
+
+　暴走トラックを
+　　なんとか停止させる
+```
+
+### No. 102: 年輕女性全身編輯肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/400_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/400_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/400_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/400_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/400_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成年輕日本或韓國女性全身編輯肖像的提示，採用平視角度，並佩戴圓圈耳環。
+
+#### 提示詞
+
+```text
+Create a photorealistic editorial portrait. Full-body portrait, eye-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with medium smooth hoop earrings, clean polished metal circular silhouette.
+```
+
+### No. 103: 照片級真實編輯牛仔肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/405_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成照片級真實感編輯肖像的提示，描繪一位年輕日本或韓國女性，佩戴特定珠寶並採用特定構圖。
+
+#### 提示詞
+
+```text
+Imagine 2.0 : Photorealistic editorial portrait. Knee-up cowboy shot, tilted frame. A 20s seductive stunning Japanese or Korean woman with medium smooth hoop earrings, clean, versatile jewelry accent and short gold curb-link necklace worn around the base of the neck
+```
+
+### No. 104: 戴眼鏡照片級真實半身肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nailai7981
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/406_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/406_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/406_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/406_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/406_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅描繪年輕日本或韓國女性的半身肖像，採用膝蓋高度的視角，並佩戴大膽的白色粗框眼鏡。
+
+#### 提示詞
+
+```text
+Create a photorealistic editorial portrait. Waist-up portrait, knee-level view. The subject is one 20-year-old Japanese or Korean female portrait subject with white frame, bold thick-frame glasses, worn normally on the face, lenses aligned
+```
+
+### No. 105: 女子與風鈴禪意極簡封面海報
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 李岳
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/407_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/407_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成極簡東方禪意風格圖像的提示，描繪一位女子在窗邊觸碰風鈴的情景。
+
+#### 提示詞
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美轻盈型
+主体内容：一位女子站在窗边，抬手轻碰一枚风铃
+情绪母题：治愈、轻盈、微风感
+场景与意象：海盐蓝窗外色块、珊瑚粉花影、白色窗框、风铃、女子
+```
+
+### No. 106: 綠意盎然的末日後城市
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 兔妹_兔子
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/408_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/408_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅描繪中國深圳末日後城市的詳細照片，城市被綠色植被所覆蓋。
+
+#### 提示詞
+
+```text
+废土风：一张废土城市的照片，画面中充满了绿色的植被，细节非常丰富，地址为中国深圳。
+```
+
+### No. 107: 黃金時刻屋頂智慧型手機自拍
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Mr Das
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/415_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成年輕女性在日落時分於屋頂進行智慧型手機自拍的提示。
+
+#### 提示詞
+
+```text
+Create a vertical 9:16 handheld smartphone selfie of a clearly adult young woman, 18+, standing on a sunlit urban rooftop terrace at golden hour. Crop from the top of her head to mid-thigh so the short dress is clearly visible.
+```
+
+### No. 108: 夜晚擁有貍貓般臉龐的日本女性
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** こやす69＠AIプロンプト屋
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/418_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/418_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成照片級真實感圖像的提示，描繪一位虛構的年輕日本女性，擁有貍貓般的臉龐，處於寧靜的夜晚環境中。
+
+#### 提示詞
+
+```text
+Photorealistic natural photo of a completely fictional 20-year-old adult Japanese woman. She has an extremely cute tanuki-like face, a soft round face and cheeks, gentle round eyes, and dark brown hair. At night on a quiet
+```
+
+### No. 109: 海豚視角：觀看玻璃水族箱中的女性
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** こやす69＠AIプロンプト屋
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/425_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/425_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/425_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/425_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/425_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張從海豚視角出發的真實圖像，透過360度玻璃水箱觀看參觀熱鬧、僅限女性水族館的女性。
+
+#### 提示詞
+
+```text
+女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
+```
+
+### No. 110: 白色軀幹人台上的內衣套裝
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** こやす69＠AIプロンプト屋
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/427_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成產品風格參考圖像的提示，內容為展示在潔白無瑕人台上的淡粉色蕾絲內衣套裝。
+
+#### 提示詞
+
+```text
+A detailed lingerie outfit asset displayed on a clean white female torso mannequin, no real person, product-style fashion reference image. Soft pale-pink embroidered lace lingerie set with a romantic feminine
+```
+
+### No. 111: 品牌商店場景的聚合物黏土微縮模型
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Mr Das
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/430_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/430_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/430_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/430_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/430_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創建帶有溫馨人行道細節的品牌商店微縮黏土模型的提示。
+
+#### 提示詞
+
+```text
+Handmade polymer-clay miniature [STORE / BRAND] store. Signature architecture + logo preserved. Cozy sidewalk scene with lamp, bench, plants, bike and tiny brand props. Warm window glow, 1–2 clay people.
+```
+
+### No. 112: 傾斜地面拍攝的時尚廣告
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 三个三
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/437_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/437_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/437_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個虛構品牌的時尚廣告企劃，以低角度拍攝六位身著鮮豔服裝的人物，背景為鈷藍色天空。
+
+#### 提示詞
+
+```text
+这是一个为某个虚构品牌设计的时尚广告活动。镜头从地面上的相机拍摄，使用 24 毫米镜头，镜头角度倾斜了 15 度。六个人分别穿着电蓝色、番茄红色、青绿色、热情的粉色、黄油黄色和淡紫色衣服，他们站在不同的位置，背景是纯正的钴蓝色天空
+```
+
+### No. 113: 手繪動漫櫻花下的決鬥
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 三个三
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/438_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/438_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/438_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅源自1990年代末日本手繪動畫電影的場景，描繪一名持武士刀的女子在飄落的櫻花下面對一名劍客。
+
+#### 提示詞
+
+```text
+来自一部手绘日本动画电影的片段，拍摄于 1990 年代末，采用实色风格绘制，背景为水彩颜料绘制。画面中，一名女子手持绘制的武士刀，与一名持剑的男子对峙；樱花从右向左飘落
+```
+
+### No. 114: 哥德蘿莉時尚與大理石紋上衣
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** towa💎AIart
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/472_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成哥德蘿莉時尚穿搭圖像的提示，包含一件霓虹紫與橙色大理石紋上衣。
+
+#### 提示詞
+
+```text
+［Style］ Gothic lolita fashion, Dark romantic outfit, ［Tops & Details］ Neon purple and neon orange marbled long-sleeved blouse, High collar, Lace-trimmed cuffs, Chest ruffles, Black
+```
+
+### No. 115: 黑色幽靈新娘哥德式婚紗
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** towa💎AIart
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/479_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/479_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/479_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/479_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於哥德式萬聖節恐怖新娘服裝的提示，強調黑暗浪漫優雅。
+
+#### 提示詞
+
+```text
+[concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
+```
+
+### No. 116: 東亞女性的陰鬱電影感肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/489_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/489_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/489_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/489_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/489_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作高對比度、電影感特寫肖像的提示，主角為一名皮膚白皙、長黑髮的年輕東亞女性。
+
+#### 提示詞
+
+```text
+A moody, high-contrast cinematic close-up portrait of a beautiful East Asian woman in her mid-20s with porcelain-pale skin, sharp elegant features, long straight black hair falling over one shoulder and partially across her face.
+```
+
+### No. 117: 濕潤斑馬線上的電影感夜間街頭肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/490_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/490_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/490_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/490_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/490_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作電影感肖像的提示，描繪一名年輕東亞女性在夜間濕潤的斑馬線上。
+
+#### 提示詞
+
+```text
+A cinematic night street portrait of a young East Asian woman standing on a wet urban crosswalk, looking back over her left shoulder toward the camera with a quiet, slightly melancholic expression. She has long, slightly messy dark wavy
+```
+
+### No. 118: 特寫肖像與閃耀金色眼眸
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/491_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/491_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/491_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/491_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/491_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作電影感特寫肖像的提示，主角為一名烏黑長髮、眼眸閃耀金光的年輕東亞女性。
+
+#### 提示詞
+
+```text
+Cinematic close-up portrait of a pale-skinned young East Asian woman with straight jet-black hair and heavy blunt bangs falling over her forehead. Her eyes glow an intense molten gold, slightly narrowed, with a mysterious, otherworldly
+```
+
+### No. 119: 戴眼鏡眨眼的寫實肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/492_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/492_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/492_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/492_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/492_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位戴著眼鏡、有著波浪長髮的年輕東亞女性，正溫柔地眨眼，呈現出寫實的肖像。
+
+#### 提示詞
+
+```text
+Photorealistic close-up portrait of a young East Asian woman in her early 20s, long wavy dark brown hair with loose strands falling across her face and shoulders, wearing round tortoise-shell glasses. She is winking one eye with a soft,
+```
+
+### No. 120: 模擬底片風格的凌亂髮絲肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/494_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/494_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/494_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/494_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/494_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位有著凌亂黑髮的年輕東亞女性，以模擬底片風格拍攝的寫實肖像，正注視著鏡頭。
+
+#### 提示詞
+
+```text
+A photorealistic analog-film style portrait of a young East Asian woman with pale skin and a slim figure. She has messy, slightly tousled shoulder-length black hair with long bangs falling over her right eye. She looks directly at the camera.
+```
+
+### No. 121: 漂浮於暗水中的電影感肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/495_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/495_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/495_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/495_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/495_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位神情寧靜的年輕女性，漂浮在靜止的水中，頭髮濕潤，呈現出電影感的肖像。
+
+#### 提示詞
+
+```text
+Cinematic close-up portrait of a young East Asian woman floating on her back in dark still water, looking directly at the camera with a calm, serene expression. Wet dark hair slicked back and fanned out around her head. Water droplets on
+```
+
+### No. 122: 側編辮的攝影棚美顏肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/496_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/496_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/496_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/496_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/496_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位肌膚透亮、有著黑色長髮、閉著雙眼的年輕東亞女性，以寫實風格拍攝的攝影棚美顏肖像。
+
+#### 提示詞
+
+```text
+A photorealistic studio beauty portrait of a young East Asian woman with fair, luminous porcelain skin. She has long, silky black hair falling over her shoulders, with a loose side braid on the right. Her eyes are gently closed, head
+```
+
+### No. 123: 戴頭巾的女子於車內肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/497_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/497_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/497_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/497_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/497_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位在車內的年輕東亞女性特寫肖像，戴著淺米色頭巾，呈現寫實風格。
+
+#### 提示詞
+
+```text
+Photorealistic close-up portrait of a young East Asian woman sitting in the back seat of a car, looking directly at the camera with a calm, gentle expression and slightly parted lips. She wears a neatly wrapped light beige cream hijab that
+```
+
+### No. 124: 戴頭巾女子自拍
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/499_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/499_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/499_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/499_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/499_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成圖片的提示：一位戴著淺色頭巾的年輕女子，在木桌旁自拍。
+
+#### 提示詞
+
+```text
+A young woman sitting at a wooden table, taking a slightly angled selfie. She wears a neatly wrapped light beige/cream hijab that covers her hair and frames her face, with a small section of forehead visible. She has a soft, gentle smile
+```
+
+### No. 125: 女子回眸肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/500_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/500_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/500_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/500_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/500_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詳細的提示，用於生成一位年輕東亞女性回眸的寫實肖像。
+
+#### 提示詞
+
+```text
+A photorealistic portrait of a young East Asian woman looking back over her left shoulder toward the camera. She has fair, smooth skin, large dark brown eyes, softly defined brows, a small nose, and glossy pink lips with a natural, dewy
+```
+
+### No. 126: 戴眼鏡的女子肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/501_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/501_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/501_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/501_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/501_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位戴著眼鏡、有著波浪長髮、神情平靜的年輕東亞女性肖像。
+
+#### 提示詞
+
+```text
+Portrait of a young East Asian woman with long, slightly wavy dark brown hair and soft bangs falling over her forehead. She wears thin gold round wire-frame glasses. She looks directly at the camera with large dark eyes, a calm,
+```
+
+### No. 127: 年輕女孩特寫肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/502_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詳細的提示，用於生成一位具有特定面部特徵和表情的年輕東亞女孩特寫肖像。
+
+#### 提示詞
+
+```text
+A close-up portrait of a young East Asian girl with fair, smooth skin and a soft, youthful face. She has large, dark brown almond-shaped eyes looking directly at the camera with a calm, slightly pouty expression and full lips slightly
+```
+
+### No. 128: 鮮豔唇色的特寫肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/503_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/503_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/503_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/503_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/503_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位肌膚如瓷器、有著杏仁眼、塗著鮮豔唇膏的年輕東亞女性寫實肖像。
+
+#### 提示詞
+
+```text
+Photorealistic close-up portrait of a young East Asian woman with porcelain-pale skin, large almond-shaped brown eyes with long lashes looking directly at the camera, slightly parted lips painted in vivid orange-red lipstick. Long straight
+```
+
+### No. 129: 濕髮與裸露肩膀的肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/504_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/504_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/504_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/504_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/504_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位肌膚水潤、有著濕潤黑髮的年輕女性，正回眸凝視的寫實肖像。
+
+#### 提示詞
+
+```text
+photorealistic close-up portrait of a young East Asian woman with pale dewy skin and wet messy black hair falling across her face, looking back over her bare shoulder toward the camera with a soft downward gaze, glossy pink lips slightly
+```
+
+### No. 130: 東亞女性電影感肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/505_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/505_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/505_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/505_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/505_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位有著深色長波浪髮的年輕東亞女性，以黑色背景拍攝的特寫肖像，充滿電影感。
+
+#### 提示詞
+
+```text
+A cinematic close-up portrait of a young East Asian woman against a solid black background. She has long, dark, wavy hair with subtle reddish highlights from the lighting, falling over one shoulder. Her expression is calm and slightly
+```
+
+### No. 131: 戴眼鏡的寫實肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/506_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/506_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/506_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/506_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/506_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位有著長波浪髮、戴著圓框眼鏡、表情溫柔的年輕東亞女性寫實肖像。
+
+#### 提示詞
+
+```text
+A photorealistic portrait of a young East Asian woman with long wavy dark brown hair and straight bangs, wearing thin gold-rimmed round glasses. She looks slightly to the side with a soft, slightly parted expression and peach-pink
+```
+
+### No. 132: 帶有蜂蜜色挑染的電影感肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/507_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/507_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/507_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/507_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/507_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成電影感特寫肖像的提示：一位有著淺棕色波浪長髮、神情平靜的年輕東亞女性。
+
+#### 提示詞
+
+```text
+Cinematic close-up portrait of a young East Asian woman with shoulder-length wavy light brown hair with soft honey highlights and wispy bangs falling across her forehead, looking slightly upward and to the side with a calm,
+```
+
+### No. 133: 鮑伯短髮的寫實肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/508_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/508_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/508_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/508_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/508_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位留著黑色鮑伯短髮、畫著煙燻眼妝、肌膚透亮的年輕東亞女性特寫寫實肖像。
+
+#### 提示詞
+
+```text
+Photorealistic close-up portrait of a young East Asian woman with a short black bob haircut and wispy side-swept bangs, fair glowing skin, defined dark eyebrows, smoky rose-pink eyeshadow, long lashes, subtle blush, and slightly parted lips
+```
+
+### No. 134: 戴頭巾與棒球帽的女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/510_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/510_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/510_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/510_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/510_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位膚色白皙、表情平靜的年輕女性特寫肖像，戴著白色頭巾和一頂黑色棒球帽。
+
+#### 提示詞
+
+```text
+A close-up portrait of a young woman with fair, smooth skin and a calm, slightly confident expression. She wears a neatly draped white hijab that covers her hair and neck with soft, natural folds. Over the hijab she wears a black baseball
+```
+
+### No. 135: 雪紡頭巾自拍肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/511_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/511_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/511_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/511_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/511_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位膚色白皙、五官精緻的東亞年輕女性特寫自拍肖像，戴著灰褐色雪紡頭巾。
+
+#### 提示詞
+
+```text
+Close-up selfie portrait of a young East Asian woman wearing a dusty taupe / muted brown chiffon hijab draped softly around her face and shoulders, covering her hair completely. She has fair skin, delicate features, large round thin silver
+```
+
+### No. 136: 印尼女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/512_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成美麗年輕印尼女性肖像的提示，描述其膚色白皙、妝容柔和、深色頭髮蓬亂。
+
+#### 提示詞
+
+```text
+A beautiful young Indonesian woman with fair skin and soft natural makeup, looking at the camera with a calm, slightly seductive expression. She has shoulder-length dark brown hair with wispy bangs, slightly wavy and naturally tousled.
+```
+
+### No. 137: 流淚東亞女性的電影感肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/513_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/513_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/513_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/513_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/513_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張寫實特寫肖像，描繪一位年輕女性，皮膚光澤且淚痕斑斑，留著稀疏的瀏海。
+
+#### 提示詞
+
+```text
+A photorealistic close-up cinematic portrait of a beautiful young East Asian woman in her early 20s with long, slightly wavy dark brown hair and wispy bangs falling across her face. She has glossy, tear-streaked skin with a single tear
+```
+
+### No. 138: 戴鑲珠蕾絲眼罩的女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/514_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/514_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/514_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/514_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/514_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位膚色蒼白的年輕女性特寫肖像，留著黑色鮑伯頭，一隻紅眼可見，另一隻眼睛被鑲有珠飾的黑色蕾絲眼罩遮蓋。
+
+#### 提示詞
+
+```text
+A close-up portrait of a pale-skinned young woman with a sleek black bob haircut and straight bangs, one vivid red eye visible, the other covered by an ornate black lace eyepatch encrusted with sparkling jewels and rhinestones.
+```
+
+### No. 139: 凌亂髮型的強烈電影感肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/515_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/515_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/515_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/515_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/515_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位留著黑色長髮的年輕女性特寫電影感肖像，直視鏡頭。
+
+#### 提示詞
+
+```text
+Close-up cinematic portrait of a young East Asian woman with long, slightly messy black hair falling over her shoulders and a few loose strands crossing her face. She looks directly at the camera with a calm, intense, slightly
+```
+
+### No. 140: 深色光澤髮絲特寫肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/516_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/516_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/516_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/516_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/516_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成年輕女性肖像的詳細提示，描述其膚色白皙、留著深色長髮。
+
+#### 提示詞
+
+```text
+A close-up portrait of a young East Asian woman with fair, smooth skin and a soft, natural complexion. She has long, straight, glossy dark brown hair that falls over her shoulders and down her back, with a few loose strands framing her
+```
+
+### No. 141: 陽光親吻般的微笑肖像，帶汗濕光澤
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/517_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/517_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/517_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/517_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/517_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位東亞年輕女性的特寫肖像，留著凌亂黑髮，瞇眼微笑，臉頰紅潤，皮膚帶有露水般的光澤。
+
+#### 提示詞
+
+```text
+Close-up portrait of a young East Asian woman with short messy black hair and wispy bangs falling over one eye, squinting and smiling widely with teeth visible, flushed dewy skin with strong sun-kissed highlights and subtle sweat sheen
+```
+
+### No. 142: 稀疏瀏海的親密凝視肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/518_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成東亞年輕女性特寫肖像的提示，描述其深色頭髮、稀疏瀏海，以及親密的凝視。
+
+#### 提示詞
+
+```text
+Close-up portrait of a young East Asian woman with straight dark brown hair and wispy bangs falling across her forehead and partially over her eyes. She looks directly at the camera with large, warm brown eyes and a quiet, intimate gaze.
+```
+
+### No. 143: 帶翅膀眼線的富表現力肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/519_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/519_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/519_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/519_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/519_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成東南亞年輕女性特寫肖像的詳細提示，描述其特定的面部特徵和妝容。
+
+#### 提示詞
+
+```text
+A close-up portrait of a young Southeast Asian woman with fair, smooth skin and a soft, slightly flushed complexion. She has large, expressive brown eyes with long, dark eyelashes and subtle winged eyeliner. Her lips are full and glossy
+```
+
+### No. 144: 親吻表情的自拍肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/520_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/520_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/520_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成東亞年輕女性特寫自拍肖像的提示，描述其閉著眼睛，表情放鬆。
+
+#### 提示詞
+
+```text
+Close-up selfie portrait of a young East Asian woman, fair skin, long straight dark brown hair with wispy bangs falling over her forehead and framing her face. Eyes closed, relaxed expression, glossy plump pink lips puckered in a kissing
+```
+
+### No. 145: 微笑年輕女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/522_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/522_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/522_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/522_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/522_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成東亞或印尼年輕女性肖像的提示，描述其膚色白皙、妝容柔和、表情溫柔友善。
+
+#### 提示詞
+
+```text
+A young East Asian / Indonesian woman with a fair, smooth complexion and soft makeup (subtle blush, defined lashes, natural lip tint). She has a gentle, slightly shy smile and is looking toward the camera with a warm, friendly expression.
+```
+
+### No. 146: 半紮髮女性的自拍
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Feyber
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/523_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/523_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/523_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/523_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成東亞年輕女性寫實自拍肖像的提示，描述其特定的面部特徵和造型。
+
+#### 提示詞
+
+```text
+ar 9:16 2K
+
+A photorealistic selfie of a young East Asian woman with fair porcelain skin, large dark almond-shaped eyes, and a slightly pouty expression looking directly at the camera. She has long black hair worn in a messy half-up style with loose
+```
+
+### No. 147: 地球被黑洞吞噬階段圖
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Phenryx (LY:CO5) × ROCCO / CARI (≈C×Si fam)
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/553_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/553_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成四張圖片的提示，從人類觀察者的角度描繪地球被黑洞吞噬的視覺階段。
+
+#### 提示詞
+
+```text
+generate 4 pictures of the POV on earth, when it's getting swallowed by a nearing black hole eventually. describe the four visually most exciting phases with a picture of how it'd look like (if mankind or an observer could still be alive & witness from earth), and a description
+```
+
+### No. 148: 賽博龐克武士對決機械首領角色
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Gilbert Odera | Your AI Plug
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/556_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/556_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/556_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述兩個角色的提示：一名賽博龐克武士與一個巨大的機械首領實體。
+
+#### 提示詞
+
+```text
+Character 1 (Player): Cyberpunk katana warrior wearing an illuminated white cybernetic tactical jacket, sleek black visor mask, and dual short katanas on back.
+
+Character 2 (Boss Entity): Massive, heavy-armored mechanical
+```
+
+### No. 149: 天界女神降臨宮殿前
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 韦小宝
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/566_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/566_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位身著典禮漢服、威嚴的中國天界女神，穿過玫瑰金色雲層，降臨於天宮前的景象。
+
+#### 提示詞
+
+```text
+A majestic Chinese celestial goddess descending slowly through rose-gold clouds before an enormous heavenly palace, layered crimson and ivory ceremonial hanfu, long silk sashes sweeping upward in the wind, an ornate phoenix-shaped golden headdress
+```
+
+### No. 150: 晨光中的天界少女（四分之三側面視角）
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 韦小宝
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/567_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/567_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/567_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位身著象牙白漢服的天界少女，沐浴在晨光中，伴有飄逸的絲帶與金色髮簪。
+
+#### 提示詞
+
+```text
+A Chinese celestial maiden standing in three-quarter view, weight shifted to one foot, profile lit by first sunlight, ivory hanfu layered loosely with gold cloud embroidery at the hems, silk ribbons trailing upward in the breeze, golden hairpins with pearl drops
+```
+
+### No. 151: 天界少女靜坐碧玉池畔
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 韦小宝
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/568_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/568_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位身著絲綢漢服、寧靜的中國天界少女，在綠松石色的池畔輕觸蓮花的景象。
+
+#### 提示詞
+
+```text
+A serene Chinese celestial maiden seated beside the turquoise waters of the heavenly Jade Pool, pale mint and blush silk hanfu, delicate lotus embroidery, jade hair ornaments, fingertips gently touching a floating white lotus, concentric ripples
+```
+
+### No. 152: 立於白玉階梯上的天界女神
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 韦小宝
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/569_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/569_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位優雅的中國天界女神，立於白色玉石階梯頂端，身著刺繡漢服，絲帶飄逸。
+
+#### 提示詞
+
+```text
+An elegant Chinese celestial goddess standing atop the white jade steps of Lingxiao Palace, flowing ivory hanfu embroidered with delicate gold cloud patterns, translucent silk ribbons drifting in the high-altitude breeze, elaborate golden hairpins with
+```
+
+### No. 153: 古中國祭祀神龕中的肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 韦小宝
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/571_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/571_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/571_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/571_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/571_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位成年東亞女性在昏暗的古中國祭祀神龕中的寫實電影感肖像，神龕內有儺面具與蠟燭。
+
+#### 提示詞
+
+```text
+9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient Chinese ritual shrine, surrounded by old Nuo masks, candles, carved wooden altar objects and deep red decorations.
+```
+
+### No. 154: 暗黑祭祀神龕中的女子肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 韦小宝
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/572_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/572_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/572_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/572_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/572_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位東亞女性在昏暗古神龕中的寫實電影感肖像，她有著濕潤的黑髮與煙燻妝容。
+
+#### 提示詞
+
+```text
+9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
+```
+
+### No. 155: 夜間儺祭節慶中的特寫肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 韦小宝
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/573_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/573_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/573_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/573_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/573_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位成年東亞女性在夜間祭祀節慶中，倚靠著一個飽經風霜的儺面具的特寫肖像。
+
+#### 提示詞
+
+```text
+Adult East Asian woman at a nighttime Chinese Nuo ritual festival, close-up over-the-shoulder portrait beside a weathered black-red-gold Nuo mask with hanging red ribbons. Long messy black hair, wispy bangs, direct gaze, softly parted
+```
+
+### No. 156: 帶有濃密泡沫冠的啤酒
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/578_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/578_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實圖像的提示：一杯啤酒，其上有濃密、層疊的泡沫冠，盛裝於邊緣銳利的玻璃杯中。
+
+#### 提示詞
+
+```text
+a dense foam crown spilling in two uneven, heavy cascades while the glass rim stays visibly sharp
+The foam feels pressurized and creamy, but the silhouette still reads as a clean, premium pint glass.
+```
+
+### No. 157: 從燉鍋中提起的豆腐塊
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/579_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/579_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述性提示：一塊多孔的豆腐塊被提起，懸於鍋上，附著一滴琥珀色的湯汁。
+
+#### 提示詞
+
+```text
+Steam alone does not make a stew feel hot—the lifted bite does. a porous tofu cube held above the pot with a single amber broth drip still attached to its bottom edge You can see that the tofu has absorbed the broth, while the drip makes the moment feel freshly served rather
+```
+
+### No. 158: 一勺辣椒醬
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/580_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/580_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一勺辣椒醬的圖像，內有分明的紅色辣椒塊、茶色深綠蔬菜、亮綠色辣椒、淺色豆子以及半透明的琥珀紅色油脂。
+
+#### 提示詞
+
+```text
+a loaded spoon with visibly separate red chili cubes, tea-darkened greens, bright green pepper, pale beans, and translucent amber-red oil
+```
+
+### No. 159: 客廳中女性特寫肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** AI Qoro
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/584_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/584_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位表情俏皮的年輕女性，在舒適現代客廳中的超現實主義特寫肖像。
+
+#### 提示詞
+
+```text
+Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink
+```
+
+### No. 160: 昏暗臥室中斜倚的女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nicole
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/585_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/585_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/585_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成寫實風格垂直肖像的提示，描繪一位年輕女性在夜間昏暗臥室的寢具上斜倚。
+
+#### 提示詞
+
+```text
+A highly photorealistic vertical 3:4 indoor portrait of a young adult woman reclining diagonally on rumpled pale bedding in a dim bedroom at night. She has long, naturally tousled dark-brown hair falling loosely around her face and shoulders, with a
+```
+
+### No. 161: 夏日草叢中的夢幻女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nicole
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/586_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/586_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/586_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+電影風格影像，一位年輕東亞女性在高草叢中休息，沐浴在溫暖的日光柔和光線下。
+
+#### 提示詞
+
+```text
+Pose 1: A dreamy, film-inspired close-up shows a young East Asian woman resting in tall summer grass, her pale skin and loose dark hair softly lit by warm daylight
+```
+
+### No. 162: 明亮藍色港口旁的女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Nicole
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/587_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/587_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/587_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+帶有電影顆粒風格的肖像，一位年輕東亞女性在陽光明媚、微風輕拂的日子裡，隨意蹲在明亮的藍色港口旁。
+
+#### 提示詞
+
+```text
+A sunlit, film-grain-style vertical 3:4 portrait of a young East Asian woman crouching casually beside a bright blue harbor on a sunny, breezy day.
+```
+
+### No. 163: 巴黎街頭的年輕女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Zoya
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/591_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/591_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成高解析度、自然光街頭肖像的提示，描繪一位亞裔樣貌的年輕女性在一條巴黎風格的購物街上。
+
+#### 提示詞
+
+```text
+High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
+```
+
+### No. 164: 夜間地鐵上的自然肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 王大锤
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/593_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/593_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/593_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/593_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/593_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位成年東亞女性夜間坐在火車窗邊的寫實風格自然肖像。
+
+#### 提示詞
+
+```text
+9:16 photorealistic candid subway portrait of an adult East Asian woman sitting by the train window at night, long dark slightly messy hair loosely tied back with soft face framing strands, natural soft makeup, clear skin texture, muted pink lips.
+```
+
+### No. 165: 帶有冰霧衝擊波的手錶
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/595_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/595_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一款手錶的圖像，其後方有一圈冰與煙霧形成的衝擊波，同時保持錶身輪廓清晰。
+
+#### 提示詞
+
+```text
+a circular ice-and-smoke shockwave originating behind the watch, with a clean unbroken silhouette around the bezel and crown guard. The blast feels powerful, but the case stays readable as a single engineered object
+```
+
+### No. 166: 具有景深感的層疊烘焙點心陳列
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/597_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/597_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成高級烘焙點心陳列圖像的提示，物品按不同高度層次排列以創造景深感。
+
+#### 提示詞
+
+```text
+a layered bakery spread with one oversized sliced loaf and one celebration cake in the front plane; croissants, rustic loaves, and pastries stepping back in distinct height tiers
+```
+
+### No. 167: 柔和光線臥室中的絲質吊帶裙肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 王大锤
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/606_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/606_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/606_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/606_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位穿著象牙白緞面吊帶裙的成年東亞女性，在光線柔和的臥室中的寫實風格肖像。
+
+#### 提示詞
+
+```text
+9:16 photorealistic portrait of an adult East Asian woman in a warm softly lit bedroom at night, wearing an ivory lace-trimmed satin slip dress with thin straps, long wet dark hair with slightly messy strands framing
+```
+
+### No. 168: 揚塵對比的爆炸性汽車
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/607_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/607_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅描繪強勁汽車的圖像，它在後方掀起巨大的塵土煙雲，而前景中的車身卻保持潔淨與靜謐。
+
+#### 提示詞
+
+```text
+massive dust plume exploding behind the vehicle while the car stays clean and silent in front
+```
+
+### No. 169: 天體火焰背光的女巫剪影
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/608_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/608_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅女巫剪影的圖像，其背景被一團巨大的橙金色天體火焰雲所照亮。
+
+#### 提示詞
+
+```text
+one immense orange-gold celestial fire cloud backlighting a calm central witch silhouette
+```
+
+### No. 170: 從庫沙里碗中升起的番茄醬心形
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/611_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/611_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅圖像，描繪光滑的番茄醬在一碗庫沙里上方形成一個心形。
+
+#### 提示詞
+
+```text
+thick glossy tomato sauce rising from the koshari bowl and resolving into a suspended heart shape
+```
+
+### No. 171: 麵條雕塑而成的西洋棋棋子
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/612_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/612_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成由手工麵條雕塑而成、具有可辨識輪廓的西洋棋棋子。
+
+#### 提示詞
+
+```text
+chess pieces sculpted entirely from handcrafted noodle strands with recognizable silhouettes
+```
+
+### No. 172: 拳擊場上帶有拳擊手手臂的芝麻油瓶
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/613_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/613_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅圖像，描繪一個超大的芝麻油瓶，其瓶身伸出金色的拳擊手手臂，在拳擊場上勝利站立。
+
+#### 提示詞
+
+```text
+oversized sesame oil bottle standing upright in the ring with raised sculpted golden boxer arms
+```
+
+### No. 173: 緊湊現代公寓廚房檯面場景
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 王大锤
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/614_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/614_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/614_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/614_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/614_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成圖像的提示，描繪一個帶有早餐吧檯、連續檯面、不鏽鋼水槽、爐灶和平底鍋的緊湊現代公寓廚房。
+
+#### 提示詞
+
+```text
+Scene ID S1, location: a compact modern apartment kitchen breakfast counter. The image must clearly show a continuous kitchen countertop and a stainless steel sink, with a visible stovetop and frying pan deeper in the scene.
+```
+
+### No. 174: 像火箭般向上傾斜的沙威瑪捲餅
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/616_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/616_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成一幅圖像，描繪一個像火箭般傾斜的沙威瑪捲餅，強調其敞開的內餡作為焦點。
+
+#### 提示詞
+
+```text
+shawarma wrap angled upward like a rocket, with the open filling end as the appetizing focal point
+```
+
+### No. 175: 手持超大罐的香蕉吉祥物
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/617_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/617_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅圖像，描繪一個奔跑的香蕉吉祥物，手持一個超大的冰涼鋁罐向前伸向鏡頭。
+
+#### 提示詞
+
+```text
+oversized cold aluminum can held forward toward camera by the running banana mascot
+```
+
+### No. 176: 東亞女性夜間隨拍照片
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 王大锤
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/618_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/618_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/618_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/618_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/618_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成圖像的提示，要求是一張具有特定特徵和光線條件的東亞女性真實隨拍照片。
+
+#### 提示詞
+
+```text
+9:16 realistic candid photo of an adult East Asian woman indoors at night, long messy dark hair with wispy bangs, soft pink makeup, slightly flushed cheeks, glossy natural lips, large moist eyes looking directly into camera
+```
+
+### No. 177: 餅乾奶油層作為微型溜冰場
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/619_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/619_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅餅乾的圖像，其香草奶油層隆起形成光滑的微型溜冰表面，將比例轉化為一個冬日世界。
+
+#### 提示詞
+
+```text
+vanilla creme layer rising above the cookie as a smooth miniature skating surface
+```
+
+### No. 178: 由堆疊洋芋片製成的雲霄飛車軌道
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/620_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/620_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅圖像，描繪一條由完美對齊堆疊的洋芋片構成的雲霄飛車軌道，並包含一個完整的迴圈。
+
+#### 提示詞
+
+```text
+roller-coaster track built entirely from perfectly aligned stacked crisps with one full loop
+```
+
+### No. 179: 英雄桶後方的紅色聚光燈區域
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/623_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/623_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個圖像提示，描述三個乾淨的紅色聚光燈區域，其後方是次要的生活風格場景，前方則有一個英雄桶。
+
+#### 提示詞
+
+```text
+three clean red spotlight zones with secondary lifestyle moments behind the hero bucket
+```
+
+### No. 180: 作為垂直動態線的光滑麵條流
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/624_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/624_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個極簡主義海報概念，以單一流暢的麵條流作為中央垂直元素。
+
+#### 提示詞
+
+```text
+single glossy noodle stream forming the main vertical motion line from bowl to mouth
+```
+
+### No. 181: 電影感2.5D水粉動畫
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** PixieVerse
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/626_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/626_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/626_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創建電影感2.5D動畫的提示，要求具有繪畫感的水粉概念藝術風格，包含可見的筆觸紋理和平塗色塊。
+
+#### 提示詞
+
+```text
+Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft
+```
+
+### No. 182: 黑暗中的情緒化電影感肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** AI Qoro
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/629_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/629_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張電影感肖像，描繪一名頭髮凌亂的男子從陰影中浮現，具有戲劇性的光影和超寫實的質感。
+
+#### 提示詞
+
+```text
+A mysterious man with messy textured hair emerging from darkness, dramatic side lighting, black background, intense expression, moody cinematic portrait, ultra-realistic skin texture, deep shadows, high contrast, editorial
+```
+
+### No. 183: 自由女神像旁的巨人
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** AI Qoro
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/630_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/630_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張超寫實的電影感旅行照片，描繪一名英俊的年輕男子化身為巨人，站立在自由女神像旁。
+
+#### 提示詞
+
+```text
+Ultra-realistic cinematic travel photograph of a strikingly handsome young man in his early 20s, portrayed as a giant standing beside the Statue of Liberty in New York Harbor, creating a dramatic miniature-scale illusion. He has thick naturally
+```
+
+### No. 184: 質樸門廊上的黃金時刻肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** AI Qoro
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/631_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/631_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張溫暖、自然的生活風格肖像，描繪一名年輕男子在黃金時刻於質樸的門廊上享用茶飲。
+
+#### 提示詞
+
+```text
+Warm, candid lifestyle portrait of a young man wearing a relaxed soft-beige linen shirt, sitting naturally on a rustic wooden porch during golden hour. He gently holds a steaming cup of tea in both hands, gazing peacefully
+```
+
+### No. 185: 草原上的電影感肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** AI Qoro
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/642_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/642_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張超寫實的肖像，描繪一名戴著牛仔帽的女子站立在長有山艾樹和松樹的綠色草原上。
+
+#### 提示詞
+
+```text
+Ultra-realistic cinematic portrait of a beautiful young woman standing sideways in a vast green meadow, surrounded by tall sagebrush and dense evergreen pine trees. She is wearing a stylish oversized sage-green cowboy hat, a fitted cream-white short-sleeve top, a black
+```
+
+### No. 186: 女子垂直側拍肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** 王大锤
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/646_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/646_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/646_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/646_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/646_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成年輕東亞女子垂直側拍肖像的提示，包含特定的容貌特徵。
+
+#### 提示詞
+
+```text
+Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
+```
+
+### No. 187: 帶有撕裂風味區的斜向產品棒
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/649_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/649_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成圖像的提示，描繪一條斜向放置的包裝甜點棒，其包裝紙被撕裂，在甜點主題的世界中形成張口效果。
+
+#### 提示詞
+
+```text
+The product feels dynamic because the dessert world is shaped around its opening. diagonal packaged bar with a torn exposed flavor zone This creates the “open mouth” effect without drawing one. You see the wrapper cutting through the scene, so the product feels like it is
+```
+
+### No. 188: 橢圓鏡中的女性肖像
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/650_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/650_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一張美女肖像，描繪一名女子映照在垂直的橢圓形鏡子中，並塗有霧面鈷藍色唇膏。
+
+#### 提示詞
+
+```text
+reflected female beauty portrait inside a vertical oval mirror, wearing matte cobalt lips
+```
+
+### No. 189: 沙漠中的啤酒杯漩渦
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/651_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/651_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅超現實圖像，描繪一個高聳的啤酒杯從沙漠中升起，形成由沙子和啤酒組成的螺旋狀漩渦。
+
+#### 提示詞
+
+```text
+towering pint glass rising from the desert floor like a twisting sand-and-beer vortex
+```
+
+### No. 190: 前景中的啤酒瓶
+
+- **分類:** `Style & Intelligence`
+- **來源:** `x`
+- **作者:** Loriel.AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/652_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/652_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作圖像的提示，畫面右下角前景處有一個部分裁切、清晰銳利的大型真實啤酒瓶。
+
+#### 提示詞
+
+```text
+real beer bottle in the lower-right foreground, large, sharp, and partially cropped
+```
+
+<a id="category-8"></a>
+
+### Precision Editing (9)
+
+### No. 1: 將照片轉換為獨立高級海報
+
+- **分類:** `Precision Editing`
+- **來源:** `x`
+- **作者:** SaaS Junction ✦ Daily AI News & Prompts
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/86_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/86_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/86_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一項JSON指令，用於將每張上傳的照片轉換為獨立的高品質海報，而不進行合併。
+
+#### 提示詞
+
+```text
+{
+  "instruction": "Transform every uploaded photograph into its own independent, premium-quality poster. Never merge multiple photographs into a collage. Each uploaded image must result in a separate individual output."
+}
+```
+
+### No. 2: 帶有流程圖螢幕的夜間辦公室
+
+- **分類:** `Precision Editing`
+- **來源:** `x`
+- **作者:** KAIROS｜Claude Code / CODEXで業務を全自動化
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/160_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/160_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成夜間書房的提示，然後僅將筆記型電腦螢幕內容替換為自動化流程圖。
+
+#### 提示詞
+
+```text
+夜の作業部屋を1枚生成してから、ノートPCの画面に点を打って「表計算を自動化フロー図に。机・付箋・照明・窓の夜景は変えないで」とだけ指示。
+```
+
+### No. 3: 雙頁故事漫畫重繪
+
+- **分類:** `Precision Editing`
+- **來源:** `x`
+- **作者:** 布留川英一 / Hidekazu Furukawa
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/171_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/171_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/171_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個將圖像重繪為雙頁故事漫畫風格的提示，同時保留對話、故事和角色設定。
+
+#### 提示詞
+
+```text
+セリフ・物語・キャラクター設定を保ち、構図やポーズ、余白を整えた2ページのストーリー漫画風に描き直して
+```
+
+### No. 4: 將環境編輯為繪畫風格
+
+- **分類:** `Precision Editing`
+- **來源:** `x`
+- **作者:** Abdul Shakoor
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/203_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/203_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個將環境背景板編輯為更鬆散繪畫風格的提示，同時保留特定的構圖元素。
+
+#### 提示詞
+
+```text
+Edit this environment plate to match a looser painterly illustration medium. Keep the exact composition, ring platform, rope boundary, corner lantern posts, stone steps, mist, distant pagodas and banners unchanged. Loosen the brushwork throughout:
+```
+
+### No. 5: 修復損壞老舊肖像
+
+- **分類:** `Precision Editing`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/244_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/244_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個使用上傳圖像作為參考，將嚴重損壞的老舊肖像修復成乾淨、現代風格照片的提示。
+
+#### 提示詞
+
+```text
+Use the uploaded image as the main restoration and identity reference. Convert this severely damaged old portrait into a clean, fully restored modern-looking photo
+```
+
+### No. 6: 將汽車重新著色為霓虹黑
+
+- **分類:** `Precision Editing`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/300_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/300_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個將物體顏色更改為霓虹黑的提示，同時保留其原始形狀、紋理和材質。
+
+#### 提示詞
+
+```text
+Change the color of the car from its current color to Neon Black. Preserve the object’s original shape, texture, material.
+```
+
+### No. 7: 垂直雙面板原始與編輯圖像
+
+- **分類:** `Precision Editing`
+- **來源:** `x`
+- **作者:** Mahnoor Fatima
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/316_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/316_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/316_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於創建單一垂直圖像，包含兩個堆疊的面板，保持頂部面板為原始參考照片。
+
+#### 提示詞
+
+```text
+Use the uploaded reference photograph as the exact visual source. Create one single vertical 4:5 image containing two clearly separated panels stacked vertically. TOP PANEL — ORIGINAL: Keep the uploaded photograph completely unchanged
+```
+
+### No. 8: 將照片重新構圖至指定長寬比
+
+- **分類:** `Precision Editing`
+- **來源:** `x`
+- **作者:** Abkr Sadiq
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/332_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/332_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於將照片調整至選定的長寬比，同時保持主體自然定位。
+
+#### 提示詞
+
+```text
+Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [PLATFORM]. Keep the main subject naturally positioned
+```
+
+### No. 9: 硬光肖像與銳利陰影
+
+- **分類:** `Precision Editing`
+- **來源:** `x`
+- **作者:** 韦小宝
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/576_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/576_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/576_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個描述肖像的提示：光線來自特定角度的窗戶，是未經柔化的硬質陽光，在臉上形成銳利的陰影。
+
+#### 提示詞
+
+```text
+主光从画面右上方约 2 点钟方向窗户射入，高度角 15 至 20 度，未柔化硬质直射阳光，从右前方斜擦面部。仅照亮鼻梁右侧、右颧骨、上唇、下巴及局部肩颈，受光区与阴影区形成清晰锐利硬边界。左半张脸保持深暖褐阴影并保留完整细节，明暗比约
 ```
 
 <a id="featured-prompts"></a>
