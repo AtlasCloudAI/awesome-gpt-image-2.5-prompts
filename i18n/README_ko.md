@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-334%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-407%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **334** |
+| Total Prompts | **407** |
 | Categories | **4** |
-| Preview Images | **334** |
+| Preview Images | **407** |
 | Last Updated | **2026-09-10** |
 
 <a id="browse-by-category"></a>
@@ -112,10 +112,10 @@ Every record keeps its category, source, author, source link, input references a
 ## 🏷️ Browse by Category
 
 
-- [`Reference Fidelity`](#category-1): **60**
-- [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **216**
-- [`Layout & Typography`](#category-4): **48**
+- [`Reference Fidelity`](#category-1): **75**
+- [`Precision Editing`](#category-2): **17**
+- [`Style & Intelligence`](#category-3): **252**
+- [`Layout & Typography`](#category-4): **63**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ Every record keeps its category, source, author, source link, input references a
 
 <a id="category-1"></a>
 
-### Reference Fidelity (60)
+### Reference Fidelity (75)
 
 ### No. 1: Retro Eighties Mall Portrait
 
@@ -1501,9 +1501,394 @@ Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded
 Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
 ```
 
+### No. 61: 책상 위의 사실적인 1/7 스케일 피규어
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** 木马人
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/802_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/802_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+투명 베이스가 있는 컴퓨터 책상 위에 사실적인 1/7 스케일 캐릭터 피규어 이미지를 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a realistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the
+```
+
+### No. 62: 구성 전반에 걸친 얼굴 정체성 참조
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/809_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/809_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+얼굴 정체성 참조를 사용하여 동일한 성인 남성의 일곱 버전이 등장하는 단일 사진을 생성하기 위한 AI 프롬프트.
+
+#### Prompt
+
+```text
+Use the uploaded photo as the facial identity reference for the same adult man appearing throughout the composition. Preserve his recognizable facial
+```
+
+### No. 63: 얼굴 정체성 참조를 활용한 패션 초상화
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/812_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/812_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+사진을 얼굴 정체성 참조로 사용하여 고급스러운 전신 패션 초상화를 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+Use the uploaded photo as the facial identity reference for an adult man. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.
+
+Create a premium, ultra-realistic full-body fashion portrait of
+```
+
+### No. 64: 참조 이미지 기반 드리미 시네마틱 초상화
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/863_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+피사체의 정체성과 자연스러운 특징을 보존하면서 사실적이고 몽환적인 시네마틱 초상화를 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+Create an ultra-realistic dreamy cinematic portrait using the uploaded reference image as the identity reference. Preserve the person’s, skin tone, facial features, and natural appearance without altering or beautifying them.
+```
+
+### No. 65: 사진 기반 3D 클레이메이션 초상화
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/864_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/864_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/864_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/864_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+사용자가 업로드한 사진의 피사체 정체성과 유사성을 유지하면서 디테일하고 귀여운 3D 클레이메이션 초상화를 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+A highly detailed, ultra-cute 3D claymation style portrait, meticulously retaining the precise identity, jawline, and facial likeness of the person in USER-UPLOADED PHOTO. The user's distinct features are beautifully
+```
+
+### No. 66: 장소를 위한 에디토리얼 아트 포스터
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/920_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+장난기 넘치는 일본식 디자인 잡지 스타일의 고해상도 세로형 에디토리얼 포스터를 제작하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+Create a premium contemporary editorial art poster for [LOCATION] in a playful Japanese design-ZINE style.
+
+FORMAT: Vertical 3:4 | High resolution | Modern editorial art
+
+Automatically choose the most iconic and visually interesting-elements of [URL]
+```
+
+### No. 67: 두 장의 참조 이미지로 만든 애니메이션 장면
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** KrishnaG
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/926_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/926_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/926_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+아늑한 침실에서 놀고 있는 유아의 애니메이션 장면을 생성하는 프롬프트.
+
+#### Prompt
+
+```text
+Turn the two reference images into one adorable, heartwarming animated scene of a little girl playing peacefully in her cozy dream bedroom. CHARACTER A cute toddler girl with soft fair skin, round adorable features, rosy cheeks, large expressive
+```
+
+### No. 68: 얼굴 참조 이미지 기반 1980년대 초상화
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/931_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+피사체의 정확한 얼굴 특징과 정체성을 유지한 채 1980년대 레트로-빈티지 스타일의 초상화를 생성하는 프롬프트.
+
+#### Prompt
+
+```text
+Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high
+```
+
+### No. 69: 캐릭터 디자인 레퍼런스 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** M. Asif
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/946_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/946_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+제공된 참조 이미지를 기반으로 전문적인 캐릭터 모델 시트를 생성하는 프롬프트.
+
+#### Prompt
+
+```text
+Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.
+
+REFERENCE & IDENTITY LOCK:
+Use the uploaded reference as the single source of truth for the
+```
+
+### No. 70: 오토바이 라이더에 적용된 스타일 변환
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+입력 이미지가 지닌 정확한 시각적 스타일을 그대로 적용하여 새로운 피사체를 렌더링한 것입니다.
+
+#### Prompt
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+### No. 71: 신원을 유지한 의상 교체
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in1.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in2.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+참조 이미지의 의상을 대상 인물에게 맞춰 입혔으며, 얼굴, 포즈, 조명은 그대로 유지되었습니다.
+
+#### Prompt
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+### No. 72: 초상화 장면에 합성된 개
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in1.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+한 참조 이미지에서 가져온 피사체를 다른 참조 이미지의 배경에 배치하고, 조명과 배경을 맞춘 것입니다.
+
+#### Prompt
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+### No. 73: 사진처럼 생생한 계곡으로 변환된 스케치
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+원본 스케치의 레이아웃, 비율, 원근법을 보존하면서 사진처럼 생생하게 렌더링한 것입니다.
+
+#### Prompt
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+### No. 74: 곰 습격 장면에 삽입된 인물
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+제공된 인물을 중심으로 구축된, 의도적으로 영화적이지 않은 사진 같은 액션 장면.
+
+#### Prompt
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+### No. 75: 일관된 어린이 그림책 캐릭터
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out1.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+여러 일러스트레이션에서 동일하게 유지될 수 있을 만큼 엄격하게 지정된 수채화 그림책 주인공.
+
+#### Prompt
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
 <a id="category-2"></a>
 
-### Precision Editing (10)
+### Precision Editing (17)
 
 ### No. 1: Bed Tidying
 
@@ -1743,9 +2128,175 @@ Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [P
 主光从画面右上方约 2 点钟方向窗户射入，高度角 15 至 20 度，未柔化硬质直射阳光，从右前方斜擦面部。仅照亮鼻梁右侧、右颧骨、上唇、下巴及局部肩颈，受光区与阴影区形成清晰锐利硬边界。左半张脸保持深暖褐阴影并保留完整细节，明暗比约
 ```
 
+### No. 11: 캐릭터용 픽셀 아트 스프라이트 시트
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** テツメモ｜AI図解×検証｜Newsletter
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/860_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/860_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/860_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/860_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+캐릭터를 위한 단순화된 128픽셀 픽셀 아트 전투 동작 스프라이트 시트를 4x4 그리드로 배열하고 투명 배경으로 제작하는 프롬프트.
+
+#### Prompt
+
+```text
+このキャラクターの128pxの簡略化されたpixelartの戦闘モーションのスプライトシートを作って。透過できるなら透過。4x4で配置すること ※background="transparent"
+```
+
+### No. 12: 태양과 구름을 연꽃 꽃으로 변환
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** Dylan Hayes
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/964_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/964_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+태양이 꽃의 중심부처럼, 구름이 연꽃처럼 보이도록 구름과 태양 사진을 강화하되 원본 이미지를 변경하지 않는 프롬프트입니다.
+
+#### Prompt
+
+```text
+太阳像花心，周围的云像一朵莲花，但不要改变原图，只把这种感觉表现得更明显。
+```
+
+### No. 13: 스페인어로 번역된 인포그래픽
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/translate-while-preserving-layout-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/translate-while-preserving-layout-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+레이아웃의 다른 모든 픽셀은 그대로 두고 텍스트의 언어만 교체한 편집본입니다.
+
+#### Prompt
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+### No. 14: 투명 배경의 제품 누끼 이미지
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+깨끗한 알파 채널 위에 고립된 패키지 샷으로, 선명한 실루엣, 잔상 없음, 라벨 가독성 유지가 특징입니다.
+
+#### Prompt
+
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+### No. 15: 초상화에서 물체 제거
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+단일 객체만 제거하고 그 외에는 아무것도 변경하지 않는 한 줄 편집.
+
+#### Prompt
+
+```text
+Remove the flower from man's hand. Do not change anything else.
+```
+
+### No. 16: 겨울 저녁으로 재탄생한 빌보드
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-one-condition-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-one-condition-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+기존 목업의 계절과 시간대를 변경하는 다섯 단어 후속 편집.
+
+#### Prompt
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+### No. 17: 주방 의자를 나무로 교체
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+의자만 교체하고 각도, 조명, 바닥 그림자는 유지하는 방 편집.
+
+#### Prompt
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
 <a id="category-3"></a>
 
-### Style & Intelligence (216)
+### Style & Intelligence (252)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -6860,9 +7411,896 @@ Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping acro
 恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。
 ```
 
+### No. 217: 여우 캐릭터의 픽셀 아트 스프라이트 시트
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Higgsfield AI 🧩
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/804_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/804_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+별을 수집하는 작은 여우 캐릭터 '녹사'의 정교한 픽셀 아트 애니메이션 스프라이트 시트를 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+Create a polished pixel-art animation sprite sheet featuring an original character named Noxa, a tiny fox who collects lost stars.
+
+CHARACTER DESIGN
+Noxa is an adorable upright arctic fox with silvery ivory fur, oversized pointed ears with lavender inner fur, enormous amber
+```
+
+### No. 218: 애플 폴더블 폰 컨셉 인포그래픽
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/811_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/811_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/811_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+애플의 시그니처인 깔끔한 스타일로 폴더블 폰의 사실적인 인포그래픽을 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+Create a premium photorealistic Apple foldable-phone concept infographic, inspired by the clean visual language of official Apple product presentations. Use a pure white background with a subtle glossy white floor
+```
+
+### No. 219: 젊은 동아시아 여성의 클로즈업 미용 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** BubbleBrain
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/824_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/824_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+부드러운 조명과 섬세한 피부 질감이 살아있는 젊은 동아시아 여성의 사실적인 클로즈업 초상화.
+
+#### Prompt
+
+```text
+9:16 vertical, photorealistic beauty portrait, close-up composition, soft natural lighting, high-detail skin texture, subtle glow, shallow depth of field, clean softly blurred background, intimate and delicate mood. A clearly adult young East Asian woman
+```
+
+### No. 220: 해안 도로 일몰의 아시아 여성
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nicole
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/826_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/826_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/826_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+일몰 시간대 해안 도로 옆에 서 있는 젊은 아시아 여성의 사실적인 캔디드 샷, 차 안에서 바라본 시점.
+
+#### Prompt
+
+```text
+A highly photorealistic candid photograph of a completely new young adult Asian woman standing beside a scenic coastal road at sunset, photographed from inside a parked car through the passenger-side window. She has long, naturally messy dark-brown
+```
+
+### No. 221: 연잎 섬의 수면 높이 매크로 샷
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Johnny Wang
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/854_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/854_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+수면 높이에서 바라본, 세 명의 작은 한복 인물이 살고 있는 섬처럼 보이는 연잎을 담은 시네마틱 매크로 샷을 위한 프롬프트.
+
+#### Prompt
+
+```text
+Water-level macro cinematography among lotus leaves in a small pond, with the camera almost touching the water. A lotus leaf approximately forty centimeters wide becomes an island. Three figures, each about two centimeters tall and dressed in plain Hanfu, inhabit the leaf.
+```
+
+### No. 222: 일본도 날처럼 연마된 거대한 삼지창
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** TOMATO🍅トマト
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/855_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/855_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+일본도처럼 날카롭게 연마되고 광택 낸 날을 가진 세 개의 가지가 달린 거대한 양손 무기를 위한 프롬프트.
+
+#### Prompt
+
+```text
+日本刀のように美しく研ぎ澄まされた刃を持つ巨大な両手装備の3本鉤爪
+```
+
+### No. 223: 아침 햇살 속 계절의 대사
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Olivia Bernardo
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/857_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+아침 햇살, 매거진 표지 같은 피부, 숨기지 않을 만큼 얇은 유리를 갖춘 계절의 대사를 시적으로 묘사하는 프롬프트.
+
+#### Prompt
+
+```text
+Not a character.
+An ambassador for a season.
+
+Morning light.
+
+Magazine skin.
+
+Glass thin enough
+not to hide
+
+What the campaign pretended to hide.
+
+Beauty with manners.
+Charm with intent.
+
+If this were a real house,
+whose face would sign the summer?
+```
+
+### No. 224: 기하학적 금관을 쓴 측면 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Syed Abuthahir ∞
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/892_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/892_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+땋은 어두운 머리 위에 기하학적 금색 원반으로 된 왕관을 쓴 위엄 있는 인물의 날카로운 측면 초상화를 위한 이미지 프롬프트.
+
+#### Prompt
+
+```text
+A commanding figure in razor-flat profile, a crown of geometric gold discs stacked over a natural crown of coiled dark hair, hard
+```
+
+### No. 225: 다이아몬드 티아라를 쓴 빛나는 공주
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Syed Abuthahir ∞
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/896_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/896_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+거대한 다이아몬드 티아라를 쓴 빛나는 인물의 날카로운 측면 초상화를 위한 AI 이미지 프롬프트.
+
+#### Prompt
+
+```text
+A radiant figure in sharp profile, an oversized diamond tiara catching prismatic light low over the brow, oversized
+```
+
+### No. 226: 무협 스타일의 동아시아 여성 클로즈업 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/902_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/902_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/902_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+극단적인 광각 원근법을 적용한 무협 스타일의 젊은 동아시아 여성의 초현실적 초상화.
+
+#### Prompt
+
+```text
+9:16 竖版，近距离半身构图，超写实真人摄影 × 东方武侠电影 × 极端广角透视 × 冷艳高级 Editorial。一位 20–23 岁、明确成年的漂亮东亚女性，身材高挑纤细，头部偏小、脸型小巧，肩颈舒展，腰身纤细。胸部视觉约为自然 E
+```
+
+### No. 227: 캐주얼 홈 세팅의 여성 전신 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/905_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/905_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/905_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+따뜻한 시네마틱 톤의 편안한 가정 분위기 속 젊은 동아시아 여성의 9:16 세로 비율, 전신, 초현실적 사진을 위한 프롬프트.
+
+#### Prompt
+
+```text
+9:16 竖版，完整全身构图，超写实真人摄影 × 高级职业时尚 Editorial × 慵懒居家氛围 × 暖调电影感。一位 20–22 岁、明确成年的漂亮东亚女性，身高约 1.75
+```
+
+### No. 228: 16가지 포즈의 치비 캐릭터 스프라이트 시트
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Zibá
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/919_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/919_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/919_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+다양한 포즈를 취하는 치비 캐릭터의 4x4 그리드 스프라이트 시트를 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+Create a chibi character sprite sheet with 16 poses in a 4x4 grid. Character: [describe tu personaje]. Poses: idle, walking, running, jumping,
+```
+
+### No. 229: 침실에서 찍은 사실적인 스마트폰 셀피
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** leolee
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/921_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/921_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+밤에 침대에 편안히 누워 있는 젊은 동아시아 여성의 사실적인 풍경 스마트폰 셀피.
+
+#### Prompt
+
+```text
+A photorealistic 4:3 landscape smartphone selfie of an adult East Asian woman around 25 years old relaxing on a bed in a quiet bedroom at night, capturing an
+```
+
+### No. 230: 상징적인 랜드마크로 구성된 3D 미니어처 국가
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/923_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+국경이 그 나라의 상징적인 랜드마크와 문화적 상징물로 구성된 3D 미니어처 지도를 생성하는 프롬프트.
+
+#### Prompt
+
+```text
+Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other
+```
+
+### No. 231: 파리에서의 여성에 대한 시네마틱 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Sarah
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/924_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/924_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/924_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/924_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+에펠탑 근처를 걷는 동남아시아 히잡 착용 여성의 초현실적인 시네마틱 사진을 위한 프롬프트.
+
+#### Prompt
+
+```text
+Ultra-realistic cinematic photography, vertical 9:16, dreamy Paris street portrait with a subtle analog photography character. A beautiful young Southeast Asian hijabi woman walks near the Eiffel Tower, captured from a close three-quarter rear
+```
+
+### No. 232: 명품 패션 소재로 재구성된 동물들
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/925_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/925_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+네 개의 아이코닉한 명품 패션 하우스의 시그니처 소재를 사용해 재구성된 동물들의 2x2 그리드를 생성하는 프롬프트.
+
+#### Prompt
+
+```text
+Animals rebuilt with fabrics of luxury fashion houses. 16:9, 2x2 grid, 4 brands/animals
+```
+
+### No. 233: 프리미엄 스마트폰 캠페인 포스터
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ᴍᴜʀᴘʜʏ
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/927_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/927_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/927_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+애플의 시그니처 스타일로 고급스러운 스마트폰 홍보 포스터를 생성하는 프롬프트.
+
+#### Prompt
+
+```text
+4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready
+Style: Apple-level art direction × contemporary product photography × bold editorial
+```
+
+### No. 234: 건축물이 들어간 모던 여행 포스터
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/934_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+빈티지 스크린 프린트 스타일과 건축적 포털 구도를 가진 프리미엄 여행 포스터를 제작하는 프롬프트.
+
+#### Prompt
+
+```text
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT /
+```
+
+### No. 235: 스톱 모션 클레이메이션 파이리 부화 장면
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 林悦己Cheer
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/937_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/937_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+클레이 스타일의 파이리가 알에서 부화하고 불을 뿜는 스톱 모션 애니메이션을 생성하는 프롬프트.
+
+#### Prompt
+
+```text
+我要做stop motion animation
+粘土风格
+小火龙从蛋里面孵化成功，破壳而出，然后喷火。 规划好，输出36张图，然后合并在一起输出3s gif。
+```
+
+### No. 236: 노트 더미로 재해석된 마그리트의 사과
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Cell 细胞
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/938_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/938_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+마그리트의 '인간의 아들'에서 공중에 떠 있는 사과가 사과 모양 종이 노트 더미로 대체된 창의적인 재해석.
+
+#### Prompt
+
+```text
+马格利特脸前的苹果，被我撕下来一片。下面居然还有一片。把《人类之子》画成苹果便利贴座之后，挡住脸的苹果，就成了每天都能用的纸。这个点子可以从“什么能被替换”开始想：① 保留礼帽、西装、红领带和遮脸构图。② 把立体苹果换成一叠苹果形纸张。
+```
+
+### No. 237: 일본 전통 가옥 속 초현실적 패션 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** John
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/944_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/944_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+전통 일본식 목조 복도를 걷는 여성의 초현실적 패션 초상화.
+
+#### Prompt
+
+```text
+A hyperrealistic full-body lifestyle fashion portrait of an adult East Asian woman walking slowly toward the camera through a narrow corridor inside a traditional Japanese wooden house. She occupies the left-center of the vertical frame, surrounded
+```
+
+### No. 238: 초미니멀 로마 제국 배경화면
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Shushant Lakhyani
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/945_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/945_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+따뜻한 황금색 톤의 웅장한 로마 신전, 수도교, 폐허를 묘사한 초미니멀 배경화면.
+
+#### Prompt
+
+```text
+Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden
+```
+
+### No. 239: 비 내리는 열차 플랫폼의 애니메이션 프레임
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Morphed
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/956_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/956_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/956_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/956_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+플랫폼에 비, 도착하는 열차, 그리고 도시 위를 떠다니는 잉어를 특징으로 하는 존재하지 않는 애니메이션 프레임을 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+A frame from an anime that doesn't exist. Rain on the platform, a train pulling in, and a koi drifting over the city.
+```
+
+### No. 240: 혼란 속에서 고양이와 친구가 된 사람
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** トリキジ
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/959_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/959_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+다양한 일에 휘말린 후 결국 고양이와 친구가 되는 누군가를 묘사한 장면입니다.
+
+#### Prompt
+
+```text
+いろんなことに巻き込まれてもらったら、いつの間にかネコと仲良くなってた
+```
+
+### No. 241: 고원 수족관의 여우 해파리
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 抹茶オレンジ🧋🍊
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/963_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/963_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+입자가 느껴지는 빛 효과 없이 렌더링된, 고원 위 수족관 안에 있는 졸린 눈의 여우와 해파리의 이미지입니다.
+
+#### Prompt
+
+```text
+キツネ/クラゲ/高原/水槽の中/眠そうなジト目
+光のつぶつぶ感が無くなったimage 2.5
+```
+
+### No. 242: 기모노를 입은 여성이 소고기 혀밥을 먹는 모습
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** カーブミラー
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/965_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/965_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+기모노를 입은 여성과 소고기 혀와 보리밥 식사 장면을 묘사한 이미지입니다.
+
+#### Prompt
+
+```text
+和服の女性。
+A woman in Japanese clothes.
+牛タンと麦飯を食べました。
+I had beef tongue with barley rice.
+```
+
+### No. 243: 아늑한 밤 거실의 여성 캔디드 사진
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIMI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/990_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/990_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+아늑한 밤 거실 배경에서 젊은 여성의 사실적인 캔디드 사진을 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+A photorealistic candid photo in a 9:16 aspect ratio, featuring an adult East Asian woman around 25 years old sitting on a soft rug beside a coffee table in a cozy living room at night, capturing an intimate
+```
+
+### No. 244: 고딕 로리타 의상의 중2병 여성
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 北国のタコ
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1017_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1017_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+지라이 메이크를 한 중2병 여성이 어깨 컷아웃 상의와 코르셋 롱 드레스로 이루어진 고딕 로리타 의상을 입은 애니메이션 스타일 이미지입니다.
+
+#### Prompt
+
+```text
+chuunibyou woman with Jirai Make is wearing Gothic Lolita style outfit with shoulder cutout tops and corset long dress. Japanese anime image.
+```
+
+### No. 245: 임종을 앞둔 전 남자친구와 함께하는 여성
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 海老名エビ
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+전 남자친구가 자신을 떠난 이유가 임종이 가까웠기 때문이라는 것을 알고 그가 죽을 때까지 함께 하기로 결심한 여성을 묘사한 프롬프트입니다.
+
+#### Prompt
+
+```text
+元彼が、実は百日後に死ぬ病気で、そのために自分を振ったことを知り、最後まで一緒にいることを決めた女です。
+```
+
+### No. 246: 제복을 입은 여성의 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Hagbard Celine
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1102_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1102_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+기하학적 제복, 얼음 파란 눈, 각진 어깨, 붉은 입술을 가진 리안나라는 캐릭터를 시적으로 묘사한 프롬프트입니다.
+
+#### Prompt
+
+```text
+'The uniform was always geometry: two rows of honor, one gold cord, a meteor aimed at the badge above her heart. Subtract the rest and she remains — one ice-blue eye, squared shoulders, lips she painted red anyway. Irreducible.'
+```
+
+### No. 247: 강남의 쪽 염색 공방
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** biuzone
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+푸른 염료, 나무 틀, 돌다리, 그리고 물 위의 아침 햇살이 특징인 강남 염색 공방 장면을 위한 이미지 프롬프트입니다.
+
+#### Prompt
+
+```text
+把蓝染、木架、石桥与清晨的水光放进同一帧。想要的不是堆砌元素，而是“染一缕青色，也染一段心事”的呼吸感。
+```
+
+### No. 248: 땋은 머리의 클로즈업 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** The Kraken
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1134_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1134_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+주근깨, 파란 눈, 땋은 백금발 머리를 가진 피부가 흰 젊은 여성의 16:9 비율 사실적인 벽지 초상화입니다.
+
+#### Prompt
+
+```text
+wide screen wallpaper 16:9 Photorealistic close-up beauty portrait of a fair-skinned young woman with a light dusting of freckles, vivid blue eyes, braided white-blonde hair in two thick loose braids and a braided crown, curled strands framing her face
+```
+
+### No. 249: 사진처럼 생생한 캐주얼 선원 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/control-style-and-lighting-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/control-style-and-lighting-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+노련한 선원이 그물을 손질하는 모습을 35mm 스타일로 담은 캐주얼 샷으로, 피부와 재질의 질감이 실감나게 표현되었습니다.
+
+#### Prompt
+
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+### No. 250: 시대적 정확성을 갖춘 1969년 군중 장면
+
+- **Category:** `Style & Intelligence`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/use-historical-and-real-world-context-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/use-historical-and-real-world-context-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+1969년 특정 날짜, 뉴욕 베델에서 찍은 사진처럼 생생한 야외 군중 장면으로, 시대에 맞게 구성되었습니다.
+
+#### Prompt
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+### No. 251: 테디 베어가 있는 향수 어린 크리스마스 카드
+
+- **Category:** `Style & Intelligence`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-holiday-card-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-holiday-card-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+추억의 보관함 장면을 바탕으로 하고 카드 문구를 정확히 한 줄 포함한 인쇄 품질의 휴일 카드.
+
+#### Prompt
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+### No. 252: 블리스터 팩에 포장된 빈티지 장난감 비행기 컬렉터블
+
+- **Category:** `Style & Intelligence`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-collectible-merchandise-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-collectible-merchandise-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+정확히 한 줄의 포장 문구와 함께 블리스터 포장으로 촬영된 리테일 스타일 컬렉터블 샷.
+
+#### Prompt
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
+```
+
 <a id="category-4"></a>
 
-### Layout & Typography (48)
+### Layout & Typography (63)
 
 ### No. 1: Retro Minimalist Motivational Poster Grid
 
@@ -7938,6 +9376,392 @@ Character sheet: Create a premium cinematic character bible sheet for CALVIN & B
 
 ```text
 Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour
+```
+
+### No. 49: 극적인 문학 선전 벽 커버
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/810_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/810_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+퍼블릭 도메인 네 권의 책을 위한 극적인 선전 스타일의 벽 커버 2x2 그리드를 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, pick 4 non-copyrighted, public domain books for this: Create a dramatic literary propaganda-wall cover for BOOK_TITLE.  Infer automatically: - BOOK_GENRE - CORE_THEME - TITLE_MARKER
+```
+
+### No. 50: 네 개 브랜드를 위한 컨셉 컷어웃 디오라마
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/819_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/819_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+포춘 500대 기업 네 곳을 위한 컨셉 컷어웃 디오라마 2x2 그리드를 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 fortune 500 brands: SELECT image FROM conceptual_cutaway_dioramas WHERE subject = '[TOPIC]' AND outer_form =
+```
+
+### No. 51: 소녀와 거대한 스니커즈가 등장하는 키즈 신발 광고 포스터
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** 𝐌
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/918_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/918_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+소녀와 거대한 스니커즈가 등장하는 즐거운 광고 포스터를 생성하기 위한 프롬프트.
+
+#### Prompt
+
+```text
+A sweet fun kids footwear advertisement poster. An adorable young girl age 7 with a big smile in a soft pink tulle skirt and white top skips joyfully beside a giant pink and white sneaker 3x her height with a glittery sole and bow detail on the
+```
+
+### No. 52: 명품 향수 광고 스토리보드
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Wandering Corner
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/929_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/929_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/929_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+깔끔한 에디토리얼 레이아웃에 명품 장미 향수를 담은 시네마틱 제품 스토리보드를 위한 프롬프트.
+
+#### Prompt
+
+```text
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+```
+
+### No. 53: 명품 향수 광고 스토리보드
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Rahul Raj Sinha
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/933_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/933_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+명품 장미 향수를 담은 시네마틱 제품 광고 스토리보드를 위한 프롬프트.
+
+#### Prompt
+
+```text
+TITLE: Luxury Rose Perfume Cinematic Product Commercial Storyboard  FORMAT: • Single-page premium storyboard • 3:4 portrait storyboard sheet • 10 cinematic product-focused panels • Clean editorial grid with thin borders
+```
+
+### No. 54: 기술적 분해도 격자
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/952_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/952_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+복잡한 기계의 3D 분해도를 보여주는 기술 일러스트레이션을 2x2 격자로 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Combined a technical illustration and 3D exploded view of complex machines. 2x2 grid, 16:9, do this for 4 complex machines A technical illustration brought to life: an exploded-view schematic where physical miniature components float in precise geometric
+```
+
+### No. 55: 전체 페이지 컬러 만화 일러스트
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** 牙仔⇌
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/953_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/953_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+진정한 만화 페이지 구성을 사용하여 전체 페이지, 다채롭고 유머러스한 소년 만화 일러스트를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+创作一幅全页彩色好笑的热血漫画插图。使用真实的漫画页面构图，在单页上包含 5–7
+```
+
+### No. 56: 커피 머신의 기술적 인포그래픽
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/explain-a-process-visually-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/explain-a-process-visually-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+자동 에스프레소 머신의 처음부터 끝까지 흐름을 추적하여 설명하는 설명형 인포그래픽입니다.
+
+#### Prompt
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+### No. 57: 정확한 슬로건이 담긴 스트리트웨어 캠페인 광고
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/render-exact-text-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/render-exact-text-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+청년층을 대상으로 한 스트리트웨어 캠페인 이미지로, 레이아웃 내에 하나의 정확한 슬로건을 선명하게 렌더링합니다.
+
+#### Prompt
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
+
+### No. 58: 투명 배경의 미니멀 베이커리 로고
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out1.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out2.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out3.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+평면적이고 벡터 같은 베이커리 로고가 깨끗한 알파 채널 위에 중앙 정렬되어 배경 없이 제공됩니다.
+
+#### Prompt
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+### No. 59: 집에 혼자 있는 반려동물의 4컷 만화
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-story-into-a-comic-strip-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-story-into-a-comic-strip-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+시작, 전환, 그리고 결말을 패널 간에 전달하는 세로형 4컷 만화 스트립입니다.
+
+#### Prompt
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+### No. 60: 아이폰 프레임 속 농산물 직거래 앱 UI
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-an-interface-preview-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-an-interface-preview-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+헤더, 판매자 목록, 특가 상품이 포함된 실용적인 모바일 앱 목업이 기기 프레임 안에 배치되었습니다.
+
+#### Prompt
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
+
+### No. 61: 세포 호흡 교실용 다이어그램
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-scientific-and-educational-visual-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-scientific-and-educational-visual-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+해당과정, 크렙스 회로, 전자 전달계를 연결하여 표시한 고등학교 생물학 라벨이 붙은 다이어그램입니다.
+
+#### Prompt
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+### No. 62: 시리즈A 투자 유치 시장 기회 슬라이드
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/build-slides-diagrams-and-charts-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/build-slides-diagrams-and-charts-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+TAM/SAM/SOM 다이어그램, 성장 막대 그래프, 각주 및 실제 데이터 계층 구조가 포함된 피치덱 슬라이드입니다.
+
+#### Prompt
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+### No. 63: 정확한 헤드라인이 있는 빌보드 목업
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ko`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+굵은 산세리프체로 정확히 한 줄의 헤드라인을 전달하는 고속도로 빌보드 목업.
+
+#### Prompt
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
 ```
 
 <a id="featured-prompts"></a>

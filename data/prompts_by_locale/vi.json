@@ -11980,5 +11980,2565 @@
     },
     "category": "Style & Intelligence",
     "sort_order": 401
+  },
+  {
+    "id": 1135,
+    "sort_order": 469,
+    "title": "Chân dung chân thực của một thủy thủ",
+    "description": "Một bức ảnh chân dung chân thực theo phong cách 35mm của một thủy thủ lớn tuổi đang điều chỉnh lưới, với kết cấu da và chất liệu thực tế.",
+    "prompt": "Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.\nHe has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.\nHe is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.\nSoft coastal daylight, shallow depth of field, subtle film grain, natural color balance.\nThe image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.",
+    "original_prompt": "Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.\nHe has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.\nHe is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.\nSoft coastal daylight, shallow depth of field, subtle film grain, natural color balance.\nThe image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.",
+    "translated_prompt": "",
+    "category": "Style & Intelligence",
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/control-style-and-lighting-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1136,
+    "sort_order": 470,
+    "title": "Infographic kỹ thuật của máy pha cà phê",
+    "description": "Một infographic giải thích minh họa dòng chảy của một máy pha cà phê espresso tự động từ đầu đến cuối.",
+    "prompt": "Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.\nFrom bean basket, to grinding, to scale, water tank, boiler, etc.\nI'd like to understand technically and visually the flow.",
+    "original_prompt": "Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.\nFrom bean basket, to grinding, to scale, water tank, boiler, etc.\nI'd like to understand technically and visually the flow.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/explain-a-process-visually-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1137,
+    "sort_order": 471,
+    "title": "Quảng cáo chiến dịch Streetwear với khẩu hiệu chính xác",
+    "description": "Hình ảnh chiến dịch thời trang đường phố dành cho giới trẻ, thể hiện một khẩu hiệu chính xác, dễ đọc, bên trong bố cục.",
+    "prompt": "Give me a cool in culture ad / fashion shot for a brand called Thread.\nIt's a hip young street brand. The ad shows a group of friends hanging out together with the tagline \"Yours to Create.\"\nMake it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.\nUse clean composition, strong color direction, natural poses, and premium fashion photography cues.\nRender the tagline exactly once, clearly and legibly, integrated into the ad layout.\nNo extra text, no watermarks, no unrelated logos.",
+    "original_prompt": "Give me a cool in culture ad / fashion shot for a brand called Thread.\nIt's a hip young street brand. The ad shows a group of friends hanging out together with the tagline \"Yours to Create.\"\nMake it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.\nUse clean composition, strong color direction, natural poses, and premium fashion photography cues.\nRender the tagline exactly once, clearly and legibly, integrated into the ad layout.\nNo extra text, no watermarks, no unrelated logos.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/render-exact-text-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1138,
+    "sort_order": 472,
+    "title": "Logo tiệm bánh tối giản trên nền trong suốt",
+    "description": "Một logo tiệm bánh dạng phẳng, giống vector, được đặt chính giữa trên nền alpha sạch, không có phông nền.",
+    "prompt": "Create an original, non-infringing logo for a company called Field & Flour, a local bakery.\nThe logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.\nFavor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.\nFully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.",
+    "original_prompt": "Create an original, non-infringing logo for a company called Field & Flour, a local bakery.\nThe logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.\nFavor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.\nFully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out1.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out2.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out3.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1139,
+    "sort_order": 473,
+    "title": "Cảnh đám đông chính xác theo thời kỳ năm 1969",
+    "description": "Một đám đông ngoài trời chân thực ở Bethel, New York vào một ngày cụ thể năm 1969, được dàn dựng chính xác theo thời kỳ.",
+    "prompt": "Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.\nPhotorealistic, period-accurate clothing, staging, and environment.",
+    "original_prompt": "Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.\nPhotorealistic, period-accurate clothing, staging, and environment.",
+    "translated_prompt": "",
+    "category": "Style & Intelligence",
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/use-historical-and-real-world-context-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1140,
+    "sort_order": 474,
+    "title": "Truyện tranh bốn khung về thú cưng ở nhà một mình",
+    "description": "Một dải truyện tranh dọc bốn khung mang theo phần mở đầu, bước ngoặt và điểm nhấn hài hước xuyên suốt các khung.",
+    "prompt": "Create a short vertical comic-style reel with 4 panels.\nPanel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.\nPanel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.\nPanel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.\nPanel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.",
+    "original_prompt": "Create a short vertical comic-style reel with 4 panels.\nPanel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.\nPanel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.\nPanel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.\nPanel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-story-into-a-comic-strip-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1141,
+    "sort_order": 475,
+    "title": "Giao diện ứng dụng chợ nông sản trong khung iPhone",
+    "description": "Một mockup ứng dụng di động thực tế với phần đầu, danh sách nhà cung cấp và ưu đãi đặc biệt, được đặt trong khung thiết bị.",
+    "prompt": "Create a realistic mobile app UI mockup for a local farmers market.\nShow today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.\nDesign it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.\nIt should look like a real, well-designed, beautiful app for a small local market.\nPlace the UI mockup in an iPhone frame.",
+    "original_prompt": "Create a realistic mobile app UI mockup for a local farmers market.\nShow today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.\nDesign it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.\nIt should look like a real, well-designed, beautiful app for a small local market.\nPlace the UI mockup in an iPhone frame.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-an-interface-preview-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1142,
+    "sort_order": 476,
+    "title": "Sơ đồ hô hấp tế bào cho lớp học",
+    "description": "Một sơ đồ sinh học cấp trung học phổ thông có ghi nhãn, kết nối đường phân, chu trình Krebs và chuỗi truyền điện tử.",
+    "prompt": "Create a simple biology diagram titled \"Cellular Respiration at a Glance\" for high school students.\n\nShow how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.\nUse arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.\nMake it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.\n\nAvoid tiny text, extra decoration, or anything that makes the diagram hard to understand.",
+    "original_prompt": "Create a simple biology diagram titled \"Cellular Respiration at a Glance\" for high school students.\n\nShow how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.\nUse arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.\nMake it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.\n\nAvoid tiny text, extra decoration, or anything that makes the diagram hard to understand.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-scientific-and-educational-visual-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1143,
+    "sort_order": 477,
+    "title": "Slide cơ hội thị trường Series A",
+    "description": "Một slide trong bản thuyết trình đầu tư với biểu đồ TAM/SAM/SOM, thanh tăng trưởng, chú thích và hệ thống dữ liệu thực tế.",
+    "prompt": "Create one pitch-deck slide titled **\"Market Opportunity\"** that feels like a real Series A fundraising slide from a YC-backed startup.\n\nUse a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:\n\n* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays\n* Specific, believable market sizing numbers:\n\n  * **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend\n* Small footnotes: **\"AGI Research, 2024\"** and **\"Internal analysis\"**\n* A company logo placeholder in the bottom-right corner\n\nThe design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.\n\nAvoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.",
+    "original_prompt": "Create one pitch-deck slide titled **\"Market Opportunity\"** that feels like a real Series A fundraising slide from a YC-backed startup.\n\nUse a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:\n\n* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays\n* Specific, believable market sizing numbers:\n\n  * **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend\n* Small footnotes: **\"AGI Research, 2024\"** and **\"Internal analysis\"**\n* A company logo placeholder in the bottom-right corner\n\nThe design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.\n\nAvoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/build-slides-diagrams-and-charts-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1144,
+    "sort_order": 478,
+    "title": "Infographic được dịch sang tiếng Tây Ban Nha",
+    "description": "Một chỉnh sửa chỉ thay đổi ngôn ngữ của văn bản và giữ nguyên mọi pixel khác của bố cục.",
+    "prompt": "Translate the text in the infographic to Spanish. Do not change any other aspect of the image.",
+    "original_prompt": "Translate the text in the infographic to Spanish. Do not change any other aspect of the image.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/translate-while-preserving-layout-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1145,
+    "sort_order": 479,
+    "title": "Chuyển đổi phong cách cho người lái xe mô tô",
+    "description": "Một chủ thể mới được thể hiện theo phong cách hình ảnh chính xác từ hình ảnh đầu vào.",
+    "prompt": "Use the same style from the input image and generate a man riding a motorcycle on a white background.",
+    "original_prompt": "Use the same style from the input image and generate a man riding a motorcycle on a white background.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1146,
+    "sort_order": 480,
+    "title": "Hoán đổi trang phục nhưng giữ nguyên nhận dạng",
+    "description": "Trang phục từ hình ảnh tham chiếu được phù hợp lên chủ thể mà không thay đổi khuôn mặt, tư thế và ánh sáng.",
+    "prompt": "Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.",
+    "original_prompt": "Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in1.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in2.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in3.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1147,
+    "sort_order": 481,
+    "title": "Chó được ghép vào cảnh chân dung",
+    "description": "Một chủ thể được lấy từ một tham chiếu và đặt vào một tham chiếu khác với ánh sáng và nền phù hợp.",
+    "prompt": "Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.",
+    "original_prompt": "Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in1.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1148,
+    "sort_order": 482,
+    "title": "Hình cắt sản phẩm trên nền trong suốt",
+    "description": "Một hình chụp sản phẩm được tách biệt trên nền alpha sạch với đường viền sắc nét, không có quầng sáng và nhãn hiệu vẫn dễ đọc.",
+    "prompt": "Extract the product from the input image and isolate it on a fully transparent background.\nOutput: centered product, crisp silhouette, no halos/fringing.\nPreserve product geometry and label legibility exactly.\nAdd only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.\nDo not restyle the product; remove the background and preserve clean alpha transparency.",
+    "original_prompt": "Extract the product from the input image and isolate it on a fully transparent background.\nOutput: centered product, crisp silhouette, no halos/fringing.\nPreserve product geometry and label legibility exactly.\nAdd only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.\nDo not restyle the product; remove the background and preserve clean alpha transparency.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1149,
+    "sort_order": 483,
+    "title": "Bản phác thảo được chuyển thành thung lũng chân thực",
+    "description": "Một bản vẽ được thể hiện một cách chân thực trong khi bố cục, tỷ lệ và phối cảnh của nó được giữ nguyên.",
+    "prompt": "Turn this drawing into a photorealistic image.\nPreserve the exact layout, proportions, and perspective.\nChoose realistic materials and lighting consistent with the sketch intent.\nDo not add new elements or text.",
+    "original_prompt": "Turn this drawing into a photorealistic image.\nPreserve the exact layout, proportions, and perspective.\nChoose realistic materials and lighting consistent with the sketch intent.\nDo not add new elements or text.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1150,
+    "sort_order": 484,
+    "title": "Xóa Vật Thể Khỏi Chân Dung",
+    "description": "Chỉnh sửa một dòng để loại bỏ một vật thể duy nhất và không thay đổi bất cứ thứ gì khác.",
+    "prompt": "Remove the flower from man's hand. Do not change anything else.",
+    "original_prompt": "Remove the flower from man's hand. Do not change anything else.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1151,
+    "sort_order": 485,
+    "title": "Chèn Người Vào Cảnh Gấu Tấn Công",
+    "description": "Một cảnh hành động giống ảnh chụp xoay quanh một người được cung cấp, cố tình không mang tính điện ảnh.",
+    "prompt": "Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.\nShe is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.\nThe campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.",
+    "original_prompt": "Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.\nShe is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.\nThe campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1152,
+    "sort_order": 486,
+    "title": "Bản Mẫu Billboard với Tiêu Đề Chính Xác",
+    "description": "Bản mẫu biển quảng cáo đường cao tốc mang một tiêu đề nguyên văn bằng phông sans-serif đậm.",
+    "prompt": "Create a realistic billboard mockup of the shampoo on a highway scene during sunset.\nBillboard text (EXACT, verbatim, no extra characters):\n\"Fresh and clean\"\nTypography: bold sans-serif, high contrast, centered, clean kerning.\nEnsure text appears once and is perfectly legible.\nNo watermarks, no logos.",
+    "original_prompt": "Create a realistic billboard mockup of the shampoo on a highway scene during sunset.\nBillboard text (EXACT, verbatim, no extra characters):\n\"Fresh and clean\"\nTypography: bold sans-serif, high contrast, centered, clean kerning.\nEnsure text appears once and is perfectly legible.\nNo watermarks, no logos.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1153,
+    "sort_order": 487,
+    "title": "Billboard Được Thắp Sáng Lại Như Một Buổi Tối Mùa Đông",
+    "description": "Chỉnh sửa tiếp theo năm từ để thay đổi mùa và thời gian trong ngày trên một bản mẫu hiện có.",
+    "prompt": "Make it look like a winter evening with snowfall.",
+    "original_prompt": "Make it look like a winter evening with snowfall.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-one-condition-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1154,
+    "sort_order": 488,
+    "title": "Nhân Vật Sách Thiếu Nhi Nhất Quán",
+    "description": "Người hùng trong sách tranh màu nước được xác định đủ chặt chẽ để giữ nguyên hình dạng xuyên suốt các minh họa.",
+    "prompt": "Create a children’s book illustration introducing a main character.\n\nCharacter:\nA young, storybook-style hero inspired by a little forest outlaw,\nwearing a simple green hooded tunic, soft brown boots, and a small belt pouch.\nThe character has a kind expression, gentle eyes, and a brave but warm demeanor.\nCarries a small wooden bow used only for helping, never harming.\n\nTheme:\nThe character protects and rescues small forest animals like squirrels, birds, and rabbits.\n\nStyle:\nChildren’s book illustration, hand-painted watercolor look,\nsoft outlines, warm earthy colors, whimsical and friendly.\nProportions suitable for picture books (slightly oversized head, expressive face).\n\nConstraints:\n- Original character (no copyrighted characters)\n- No text\n- No watermarks\n- Plain forest background to clearly showcase the character",
+    "original_prompt": "Create a children’s book illustration introducing a main character.\n\nCharacter:\nA young, storybook-style hero inspired by a little forest outlaw,\nwearing a simple green hooded tunic, soft brown boots, and a small belt pouch.\nThe character has a kind expression, gentle eyes, and a brave but warm demeanor.\nCarries a small wooden bow used only for helping, never harming.\n\nTheme:\nThe character protects and rescues small forest animals like squirrels, birds, and rabbits.\n\nStyle:\nChildren’s book illustration, hand-painted watercolor look,\nsoft outlines, warm earthy colors, whimsical and friendly.\nProportions suitable for picture books (slightly oversized head, expressive face).\n\nConstraints:\n- Original character (no copyrighted characters)\n- No text\n- No watermarks\n- Plain forest background to clearly showcase the character",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out1.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1155,
+    "sort_order": 489,
+    "title": "Ghế Bếp Được Thay Thế Bằng Gỗ",
+    "description": "Chỉnh sửa căn phòng chỉ thay thế những chiếc ghế và giữ nguyên góc quay, ánh sáng và bóng sàn.",
+    "prompt": "In this room photo, replace ONLY the white chairs with chairs made of wood.\nPreserve camera angle, room lighting, floor shadows, and surrounding objects.\nKeep all other aspects of the image unchanged.\nPhotorealistic contact shadows and fabric texture.",
+    "original_prompt": "In this room photo, replace ONLY the white chairs with chairs made of wood.\nPreserve camera angle, room lighting, floor shadows, and surrounding objects.\nKeep all other aspects of the image unchanged.\nPhotorealistic contact shadows and fabric texture.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1156,
+    "sort_order": 490,
+    "title": "Thiệp Giáng Sinh Hoài Cổ với Gấu Bông",
+    "description": "Thiệp chúc mừng ngày lễ chất lượng in ấn dựa trên cảnh hộp kỷ vật với một dòng chữ trên thiệp nguyên văn.",
+    "prompt": "Create a Christmas holiday card illustration.\n\nScene:\na cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.\n\nMood:\nWarm, nostalgic, gentle, emotional.\n\nStyle:\nPremium holiday card photography, soft cinematic lighting,\nrealistic textures, shallow depth of field,\ntasteful bokeh lights, high print-quality composition.\n\nConstraints:\n- Original artwork only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this card text (verbatim):\n\"Merry Christmas — some memories never fade.\"",
+    "original_prompt": "Create a Christmas holiday card illustration.\n\nScene:\na cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.\n\nMood:\nWarm, nostalgic, gentle, emotional.\n\nStyle:\nPremium holiday card photography, soft cinematic lighting,\nrealistic textures, shallow depth of field,\ntasteful bokeh lights, high print-quality composition.\n\nConstraints:\n- Original artwork only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this card text (verbatim):\n\"Merry Christmas — some memories never fade.\"",
+    "translated_prompt": "",
+    "category": "Style & Intelligence",
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-holiday-card-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1157,
+    "sort_order": 491,
+    "title": "Máy Bay Đồ Chơi Cổ Điển Sưu Tầm Trong Vỉ Đóng Gói",
+    "description": "Ảnh chụp đồ sưu tầm theo phong cách bán lẻ trong bao bì vỉ với một dòng chữ trên bao bì nguyên văn.",
+    "prompt": "Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.\n\nConcept:\nA nostalgic holiday collectible inspired by the simple toy airplanes\nchildren used to play with during winter holidays.\nEvokes warmth, imagination, and childhood wonder.\n\nStyle:\nPremium toy photography, realistic plastic and painted metal textures,\nstudio lighting, shallow depth of field,\nsharp label printing, high-end retail presentation.\n\nConstraints:\n- Original design only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this packaging text (verbatim):\n\"Christmas Memories Edition\"",
+    "original_prompt": "Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.\n\nConcept:\nA nostalgic holiday collectible inspired by the simple toy airplanes\nchildren used to play with during winter holidays.\nEvokes warmth, imagination, and childhood wonder.\n\nStyle:\nPremium toy photography, realistic plastic and painted metal textures,\nstudio lighting, shallow depth of field,\nsharp label printing, high-end retail presentation.\n\nConstraints:\n- Original design only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this packaging text (verbatim):\n\"Christmas Memories Edition\"",
+    "translated_prompt": "",
+    "category": "Style & Intelligence",
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-collectible-merchandise-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 802,
+    "title": "Mô Hình Nhân Vật Tỷ Lệ 1/7 Hiện Thực Trên Bàn",
+    "description": "Một lời nhắc để tạo ra hình ảnh mô hình nhân vật tỷ lệ 1/7 hiện thực trên bàn máy tính với đế trong suốt.",
+    "prompt": "Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a realistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the",
+    "original_prompt": "Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a realistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the",
+    "translated_prompt": "",
+    "source_link": "https://x.com/cnyzgkc/status/2097868249392390473",
+    "source_published_at": "2026-09-10T02:02:21.000Z",
+    "source_platform": "x",
+    "author_name": "木马人",
+    "author_link": "https://x.com/cnyzgkc",
+    "language": "vi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/802_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097868249392390473",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 402,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/802_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 804,
+    "title": "Bảng Sprite Pixel Art của Nhân Vật Cáo",
+    "description": "Một lời nhắc để tạo ra một bảng sprite hoạt hình pixel-art chỉn chu của nhân vật tên Noxa, một chú cáo nhỏ bé thu thập sao.",
+    "prompt": "Create a polished pixel-art animation sprite sheet featuring an original character named Noxa, a tiny fox who collects lost stars.\n\nCHARACTER DESIGN\nNoxa is an adorable upright arctic fox with silvery ivory fur, oversized pointed ears with lavender inner fur, enormous amber",
+    "original_prompt": "Create a polished pixel-art animation sprite sheet featuring an original character named Noxa, a tiny fox who collects lost stars.\n\nCHARACTER DESIGN\nNoxa is an adorable upright arctic fox with silvery ivory fur, oversized pointed ears with lavender inner fur, enormous amber",
+    "translated_prompt": "",
+    "source_link": "https://x.com/higgsfield_ai/status/2097849478506320056",
+    "source_published_at": "2026-09-10T00:47:46.000Z",
+    "source_platform": "x",
+    "author_name": "Higgsfield AI 🧩",
+    "author_link": "https://x.com/higgsfield_ai",
+    "language": "vi",
+    "likes": 30,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/804_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097849478506320056",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 404,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/804_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 809,
+    "title": "Tham Chiếu Nhận Dạng Khuôn Mặt Xuyên Suốt Bố Cục",
+    "description": "Một lời nhắc AI để tạo ra một bức ảnh duy nhất có bảy phiên bản của cùng một người đàn ông trưởng thành bằng cách sử dụng tham chiếu nhận dạng khuôn mặt.",
+    "prompt": "Use the uploaded photo as the facial identity reference for the same adult man appearing throughout the composition. Preserve his recognizable facial",
+    "original_prompt": "Use the uploaded photo as the facial identity reference for the same adult man appearing throughout the composition. Preserve his recognizable facial",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abs_uiux/status/2097891312498507947",
+    "source_published_at": "2026-09-10T03:34:00.000Z",
+    "source_platform": "x",
+    "author_name": "Abkr Sadiq",
+    "author_link": "https://x.com/abs_uiux",
+    "language": "vi",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/809_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097891312498507947",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 406,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/809_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 810,
+    "title": "Tấm Phủ Tường Tuyên Truyền Văn Học Kịch Tính",
+    "description": "Một lời nhắc để tạo ra một lưới 2x2 các tấm phủ tường theo phong cách tuyên truyền kịch tính cho bốn cuốn sách thuộc phạm vi công cộng.",
+    "prompt": "2x2 grid, 16:9, pick 4 non-copyrighted, public domain books for this: Create a dramatic literary propaganda-wall cover for BOOK_TITLE.  Infer automatically: - BOOK_GENRE - CORE_THEME - TITLE_MARKER",
+    "original_prompt": "2x2 grid, 16:9, pick 4 non-copyrighted, public domain books for this: Create a dramatic literary propaganda-wall cover for BOOK_TITLE.  Infer automatically: - BOOK_GENRE - CORE_THEME - TITLE_MARKER",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097878980913496093",
+    "source_published_at": "2026-09-10T02:45:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "vi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/810_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097878980913496093",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 407,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/810_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 811,
+    "title": "Infographic Khái Niệm Điện Thoại Gập Apple",
+    "description": "Một lời nhắc để tạo ra một infographic hiện thực về một chiếc điện thoại gập của Apple theo phong cách sạch sẽ đặc trưng của thương hiệu.",
+    "prompt": "Create a premium photorealistic Apple foldable-phone concept infographic, inspired by the clean visual language of official Apple product presentations. Use a pure white background with a subtle glossy white floor",
+    "original_prompt": "Create a premium photorealistic Apple foldable-phone concept infographic, inspired by the clean visual language of official Apple product presentations. Use a pure white background with a subtle glossy white floor",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2097877598118531379",
+    "source_published_at": "2026-09-10T02:39:30.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "vi",
+    "likes": 7,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/811_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/811_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097877598118531379",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 408,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/811_0.jpg",
+        "media/gpt-image-2-5/811_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 812,
+    "title": "Chân Dung Thời Trang Sử Dụng Tham Chiếu Nhận Dạng Khuôn Mặt",
+    "description": "Một lời nhắc để tạo ra một bức chân dung thời trang toàn thân cao cấp bằng cách sử dụng một bức ảnh làm tham chiếu nhận dạng khuôn mặt.",
+    "prompt": "Use the uploaded photo as the facial identity reference for an adult man. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.\n\nCreate a premium, ultra-realistic full-body fashion portrait of",
+    "original_prompt": "Use the uploaded photo as the facial identity reference for an adult man. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.\n\nCreate a premium, ultra-realistic full-body fashion portrait of",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abs_uiux/status/2097852562611564905",
+    "source_published_at": "2026-09-10T01:00:01.000Z",
+    "source_platform": "x",
+    "author_name": "Abkr Sadiq",
+    "author_link": "https://x.com/abs_uiux",
+    "language": "vi",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/812_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097852562611564905",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 409,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/812_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 819,
+    "title": "Mô Hình Cắt Ngang Khái Niệm Cho Bốn Thương Hiệu",
+    "description": "Một lời nhắc để tạo ra một lưới 2x2 các mô hình cắt ngang khái niệm cho bốn công ty trong Fortune 500.",
+    "prompt": "2x2 grid, 16:9, do this for 4 fortune 500 brands: SELECT image FROM conceptual_cutaway_dioramas WHERE subject = '[TOPIC]' AND outer_form =",
+    "original_prompt": "2x2 grid, 16:9, do this for 4 fortune 500 brands: SELECT image FROM conceptual_cutaway_dioramas WHERE subject = '[TOPIC]' AND outer_form =",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097767747744628814",
+    "source_published_at": "2026-09-09T19:23:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "vi",
+    "likes": 3,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/819_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097767747744628814",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 411,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/819_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 824,
+    "title": "Chân Dung Cận Mặt Đẹp Của Phụ Nữ Đông Á Trẻ Tuổi",
+    "description": "Một bức chân dung chụp cận mặt theo phong cách hiện thực ảnh của một phụ nữ trẻ Đông Á với ánh sáng mềm mại và kết cấu da chi tiết.",
+    "prompt": "9:16 vertical, photorealistic beauty portrait, close-up composition, soft natural lighting, high-detail skin texture, subtle glow, shallow depth of field, clean softly blurred background, intimate and delicate mood. A clearly adult young East Asian woman",
+    "original_prompt": "9:16 vertical, photorealistic beauty portrait, close-up composition, soft natural lighting, high-detail skin texture, subtle glow, shallow depth of field, clean softly blurred background, intimate and delicate mood. A clearly adult young East Asian woman",
+    "translated_prompt": "",
+    "source_link": "https://x.com/BubbleBrain/status/2097880651714441590",
+    "source_published_at": "2026-09-10T02:51:38.000Z",
+    "source_platform": "x",
+    "author_name": "BubbleBrain",
+    "author_link": "https://x.com/BubbleBrain",
+    "language": "vi",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/824_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097880651714441590",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 414,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/824_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 826,
+    "title": "Phụ Nữ Châu Á Bên Con Đường Ven Biển Lúc Hoàng Hôn",
+    "description": "Một bức ảnh chân thực theo phong cách nhiếp ảnh đường phố, chụp một phụ nữ trẻ Châu Á bên cạnh con đường ven biển lúc hoàng hôn, được nhìn từ bên trong xe ô tô.",
+    "prompt": "A highly photorealistic candid photograph of a completely new young adult Asian woman standing beside a scenic coastal road at sunset, photographed from inside a parked car through the passenger-side window. She has long, naturally messy dark-brown",
+    "original_prompt": "A highly photorealistic candid photograph of a completely new young adult Asian woman standing beside a scenic coastal road at sunset, photographed from inside a parked car through the passenger-side window. She has long, naturally messy dark-brown",
+    "translated_prompt": "",
+    "source_link": "https://x.com/nicolecreats/status/2097802476594315569",
+    "source_published_at": "2026-09-09T21:41:00.000Z",
+    "source_platform": "x",
+    "author_name": "Nicole",
+    "author_link": "https://x.com/nicolecreats",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/826_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/826_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097802476594315569",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 415,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/826_0.jpg",
+        "media/gpt-image-2-5/826_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 854,
+    "title": "Cảnh Cận Mặt Nước: Chiếc Lá Sen Như Hòn Đảo",
+    "description": "Một gợi ý cho cảnh quay cận (macro) điện ảnh từ ngang mặt nước, mô tả một chiếc lá sen như một hòn đảo có ba nhân vật nhỏ bé mặc trang phục Hán phục sinh sống.",
+    "prompt": "Water-level macro cinematography among lotus leaves in a small pond, with the camera almost touching the water. A lotus leaf approximately forty centimeters wide becomes an island. Three figures, each about two centimeters tall and dressed in plain Hanfu, inhabit the leaf.",
+    "original_prompt": "Water-level macro cinematography among lotus leaves in a small pond, with the camera almost touching the water. A lotus leaf approximately forty centimeters wide becomes an island. Three figures, each about two centimeters tall and dressed in plain Hanfu, inhabit the leaf.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/JohnnyWang8802/status/2097778188038643835",
+    "source_published_at": "2026-09-09T20:04:29.000Z",
+    "source_platform": "x",
+    "author_name": "Johnny Wang",
+    "author_link": "https://x.com/JohnnyWang8802",
+    "language": "vi",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/854_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097778188038643835",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 416,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/854_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 855,
+    "title": "Móng Vuốt Ba Nhánh Khổng Lồ Với Lưỡi Kiếm Katana",
+    "description": "Một gợi ý cho một vũ khí hai tay khổng lồ có ba nhánh với những lưỡi dao được mài sắc và đánh bóng như một thanh kiếm Nhật Bản.",
+    "prompt": "日本刀のように美しく研ぎ澄まされた刃を持つ巨大な両手装備の3本鉤爪",
+    "original_prompt": "日本刀のように美しく研ぎ澄まされた刃を持つ巨大な両手装備の3本鉤爪",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AItomato2101/status/2097723918736035884",
+    "source_published_at": "2026-09-09T16:28:50.000Z",
+    "source_platform": "x",
+    "author_name": "TOMATO🍅トマト",
+    "author_link": "https://x.com/AItomato2101",
+    "language": "vi",
+    "likes": 21,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/855_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097723918736035884",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 417,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/855_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 857,
+    "title": "Sứ Giả Của Một Mùa Trong Ánh Sáng Ban Mai",
+    "description": "Một gợi ý mang tính thơ mô tả một sứ giả đại diện cho một mùa với ánh sáng ban mai, làn da tạp chí, và tấm kính mỏng đến mức không che giấu điều gì.",
+    "prompt": "Not a character.\nAn ambassador for a season.\n\nMorning light.\n\nMagazine skin.\n\nGlass thin enough\nnot to hide\n\nWhat the campaign pretended to hide.\n\nBeauty with manners.\nCharm with intent.\n\nIf this were a real house,\nwhose face would sign the summer?",
+    "original_prompt": "Not a character.\nAn ambassador for a season.\n\nMorning light.\n\nMagazine skin.\n\nGlass thin enough\nnot to hide\n\nWhat the campaign pretended to hide.\n\nBeauty with manners.\nCharm with intent.\n\nIf this were a real house,\nwhose face would sign the summer?",
+    "translated_prompt": "",
+    "source_link": "https://x.com/livybabie/status/2097773821830869048",
+    "source_published_at": "2026-09-09T19:47:08.000Z",
+    "source_platform": "x",
+    "author_name": "Olivia Bernardo",
+    "author_link": "https://x.com/livybabie",
+    "language": "vi",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/857_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/857_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/857_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/857_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097773821830869048",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 418,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/857_0.jpg",
+        "media/gpt-image-2-5/857_1.jpg",
+        "media/gpt-image-2-5/857_2.jpg",
+        "media/gpt-image-2-5/857_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 860,
+    "title": "Bảng Sprite Pixel Art Cho Nhân Vật",
+    "description": "Một gợi ý để tạo một bảng sprite pixel art đơn giản 128px mô tả các chuyển động chiến đấu cho một nhân vật, sắp xếp theo lưới 4x4 với nền trong suốt.",
+    "prompt": "このキャラクターの128pxの簡略化されたpixelartの戦闘モーションのスプライトシートを作って。透過できるなら透過。4x4で配置すること ※background=\"transparent\"",
+    "original_prompt": "このキャラクターの128pxの簡略化されたpixelartの戦闘モーションのスプライトシートを作って。透過できるなら透過。4x4で配置すること ※background=\"transparent\"",
+    "translated_prompt": "",
+    "source_link": "https://x.com/tetumemo/status/2097750589937733916",
+    "source_published_at": "2026-09-09T18:14:49.000Z",
+    "source_platform": "x",
+    "author_name": "テツメモ｜AI図解×検証｜Newsletter",
+    "author_link": "https://x.com/tetumemo",
+    "language": "vi",
+    "likes": 43,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/860_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/860_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/860_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097750589937733916",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Precision Editing",
+    "sort_order": 419,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/860_0.jpg",
+        "media/gpt-image-2-5/860_1.jpg",
+        "media/gpt-image-2-5/860_2.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 863,
+    "title": "Chân Dung Điện Ảnh Mơ Màng Từ Ảnh Tham Chiếu",
+    "description": "Một gợi ý để tạo một bức chân dung điện ảnh chân thực, mơ màng trong khi vẫn giữ được đặc điểm nhận dạng và các nét tự nhiên của đối tượng.",
+    "prompt": "Create an ultra-realistic dreamy cinematic portrait using the uploaded reference image as the identity reference. Preserve the person’s, skin tone, facial features, and natural appearance without altering or beautifying them.",
+    "original_prompt": "Create an ultra-realistic dreamy cinematic portrait using the uploaded reference image as the identity reference. Preserve the person’s, skin tone, facial features, and natural appearance without altering or beautifying them.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2096595619225964766",
+    "source_published_at": "2026-09-06T13:45:23.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "vi",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/863_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/863_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/863_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/863_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096595619225964766",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 421,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/863_0.jpg",
+        "media/gpt-image-2-5/863_1.jpg",
+        "media/gpt-image-2-5/863_2.jpg",
+        "media/gpt-image-2-5/863_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 864,
+    "title": "Chân Dung 3D Claymation Từ Ảnh",
+    "description": "Một gợi ý để tạo một bức chân dung 3D bằng đất nặn (claymation) chi tiết, đáng yêu, giữ lại đặc điểm nhận dạng và hình dáng của đối tượng từ một bức ảnh do người dùng tải lên.",
+    "prompt": "A highly detailed, ultra-cute 3D claymation style portrait, meticulously retaining the precise identity, jawline, and facial likeness of the person in USER-UPLOADED PHOTO. The user's distinct features are beautifully",
+    "original_prompt": "A highly detailed, ultra-cute 3D claymation style portrait, meticulously retaining the precise identity, jawline, and facial likeness of the person in USER-UPLOADED PHOTO. The user's distinct features are beautifully",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2096593080099197300",
+    "source_published_at": "2026-09-06T13:35:17.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/864_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/864_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/864_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096593080099197300",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 422,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/864_0.jpg",
+        "media/gpt-image-2-5/864_1.jpg",
+        "media/gpt-image-2-5/864_2.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 892,
+    "title": "Chân Dung Nghiêng Với Vương Miện Vàng Hình Học",
+    "description": "Một gợi ý hình ảnh cho một nhân vật uy nghiêm trong tư thế nghiêng sắc nét, đội một chiếc vương miện làm từ những đĩa vàng hình học trên mái tóc đen xoăn.",
+    "prompt": "A commanding figure in razor-flat profile, a crown of geometric gold discs stacked over a natural crown of coiled dark hair, hard",
+    "original_prompt": "A commanding figure in razor-flat profile, a crown of geometric gold discs stacked over a natural crown of coiled dark hair, hard",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abulu8/status/2096385146773721182",
+    "source_published_at": "2026-09-05T23:49:02.000Z",
+    "source_platform": "x",
+    "author_name": "Syed Abuthahir ∞",
+    "author_link": "https://x.com/abulu8",
+    "language": "vi",
+    "likes": 20,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/892_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096385146773721182",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 425,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/892_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 896,
+    "title": "Công Chúa Rực Rỡ Với Vương Miện Kim Cương Cỡ Lớn",
+    "description": "Một gợi ý hình ảnh AI cho một nhân vật rực rỡ đeo một chiếc vương miện kim cương cỡ lớn trong tư thế nghiêng sắc nét.",
+    "prompt": "A radiant figure in sharp profile, an oversized diamond tiara catching prismatic light low over the brow, oversized",
+    "original_prompt": "A radiant figure in sharp profile, an oversized diamond tiara catching prismatic light low over the brow, oversized",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abulu8/status/2095998252747473042",
+    "source_published_at": "2026-09-04T22:11:39.000Z",
+    "source_platform": "x",
+    "author_name": "Syed Abuthahir ∞",
+    "author_link": "https://x.com/abulu8",
+    "language": "vi",
+    "likes": 26,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/896_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095998252747473042",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 426,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/896_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 902,
+    "title": "Chân Dung Cận Mặt Của Phụ Nữ Đông Á Theo Phong Cách Võ Hiệp",
+    "description": "Một bức chân dung siêu thực của một phụ nữ trẻ Đông Á theo phong cách võ hiệp (wuxia) với góc nhìn cực rộng.",
+    "prompt": "9:16 竖版，近距离半身构图，超写实真人摄影 × 东方武侠电影 × 极端广角透视 × 冷艳高级 Editorial。一位 20–23 岁、明确成年的漂亮东亚女性，身材高挑纤细，头部偏小、脸型小巧，肩颈舒展，腰身纤细。胸部视觉约为自然 E",
+    "original_prompt": "9:16 竖版，近距离半身构图，超写实真人摄影 × 东方武侠电影 × 极端广角透视 × 冷艳高级 Editorial。一位 20–23 岁、明确成年的漂亮东亚女性，身材高挑纤细，头部偏小、脸型小巧，肩颈舒展，腰身纤细。胸部视觉约为自然 E",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095524016295666021",
+    "source_published_at": "2026-09-03T14:47:13.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "vi",
+    "likes": 224,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/902_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/902_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095524016295666021",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 428,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/902_0.jpg",
+        "media/gpt-image-2-5/902_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 905,
+    "title": "Chân Dung Toàn Thân Phụ Nữ Trong Khung Cảnh Gia Đình Thoải Mái",
+    "description": "Một gợi ý cho một bức ảnh dọc tỷ lệ 9:16, toàn thân, siêu thực về một phụ nữ trẻ Đông Á trong không khí gia đình thoải mái với tông màu điện ảnh ấm áp.",
+    "prompt": "9:16 竖版，完整全身构图，超写实真人摄影 × 高级职业时尚 Editorial × 慵懒居家氛围 × 暖调电影感。一位 20–22 岁、明确成年的漂亮东亚女性，身高约 1.75",
+    "original_prompt": "9:16 竖版，完整全身构图，超写实真人摄影 × 高级职业时尚 Editorial × 慵懒居家氛围 × 暖调电影感。一位 20–22 岁、明确成年的漂亮东亚女性，身高约 1.75",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095446985310630347",
+    "source_published_at": "2026-09-03T09:41:07.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "vi",
+    "likes": 146,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/905_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/905_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095446985310630347",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 429,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/905_0.jpg",
+        "media/gpt-image-2-5/905_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 918,
+    "title": "Áp Phích Quảng Cáo Giày Trẻ Em Với Bé Gái Và Đôi Giày Thể Thao Khổng Lồ",
+    "description": "Một gợi ý để tạo một áp phích quảng cáo vui tươi có hình ảnh một bé gái và một đôi giày thể thao khổng lồ.",
+    "prompt": "A sweet fun kids footwear advertisement poster. An adorable young girl age 7 with a big smile in a soft pink tulle skirt and white top skips joyfully beside a giant pink and white sneaker 3x her height with a glittery sole and bow detail on the",
+    "original_prompt": "A sweet fun kids footwear advertisement poster. An adorable young girl age 7 with a big smile in a soft pink tulle skirt and white top skips joyfully beside a giant pink and white sneaker 3x her height with a glittery sole and bow detail on the",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Strength04_X/status/2098027327850787203",
+    "source_published_at": "2026-09-10T12:34:29.000Z",
+    "source_platform": "x",
+    "author_name": "𝐌",
+    "author_link": "https://x.com/Strength04_X",
+    "language": "vi",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/918_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098027327850787203",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 432,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/918_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 919,
+    "title": "Bảng Sprite Nhân Vật Chibi Với 16 Tư Thế",
+    "description": "Một gợi ý để tạo một bảng sprite lưới 4x4 của một nhân vật chibi với nhiều tư thế khác nhau.",
+    "prompt": "Create a chibi character sprite sheet with 16 poses in a 4x4 grid. Character: [describe tu personaje]. Poses: idle, walking, running, jumping,",
+    "original_prompt": "Create a chibi character sprite sheet with 16 poses in a 4x4 grid. Character: [describe tu personaje]. Poses: idle, walking, running, jumping,",
+    "translated_prompt": "",
+    "source_link": "https://x.com/zibxx/status/2098026042946400703",
+    "source_published_at": "2026-09-10T12:29:22.000Z",
+    "source_platform": "x",
+    "author_name": "Zibá",
+    "author_link": "https://x.com/zibxx",
+    "language": "vi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/919_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/919_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098026042946400703",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 433,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/919_0.jpg",
+        "media/gpt-image-2-5/919_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 920,
+    "title": "Áp Phích Nghệ Thuật Biên Tập Cho Một Địa Điểm",
+    "description": "Một gợi ý để tạo một áp phích biên tập dọc độ phân giải cao theo phong cách tạp chí thiết kế Nhật Bản vui tươi.",
+    "prompt": "Create a premium contemporary editorial art poster for [LOCATION] in a playful Japanese design-ZINE style.\n\nFORMAT: Vertical 3:4 | High resolution | Modern editorial art\n\nAutomatically choose the most iconic and visually interesting-elements of [URL]",
+    "original_prompt": "Create a premium contemporary editorial art poster for [LOCATION] in a playful Japanese design-ZINE style.\n\nFORMAT: Vertical 3:4 | High resolution | Modern editorial art\n\nAutomatically choose the most iconic and visually interesting-elements of [URL]",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Goodmanprotocol/status/2098025936721707252",
+    "source_published_at": "2026-09-10T12:28:57.000Z",
+    "source_platform": "x",
+    "author_name": "Saul Goodman",
+    "author_link": "https://x.com/Goodmanprotocol",
+    "language": "vi",
+    "likes": 8,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/920_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/920_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/920_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/920_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098025936721707252",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 434,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/920_0.jpg",
+        "media/gpt-image-2-5/920_1.jpg",
+        "media/gpt-image-2-5/920_2.jpg",
+        "media/gpt-image-2-5/920_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 921,
+    "title": "Ảnh Tự Sướng Điện Thoại Siêu Thực Trong Phòng Ngủ",
+    "description": "Một bức ảnh tự sướng phong cảnh siêu thực trên điện thoại thông minh của một phụ nữ trẻ Đông Á đang thư giãn trên giường vào ban đêm.",
+    "prompt": "A photorealistic 4:3 landscape smartphone selfie of an adult East Asian woman around 25 years old relaxing on a bed in a quiet bedroom at night, capturing an",
+    "original_prompt": "A photorealistic 4:3 landscape smartphone selfie of an adult East Asian woman around 25 years old relaxing on a bed in a quiet bedroom at night, capturing an",
+    "translated_prompt": "",
+    "source_link": "https://x.com/listudio/status/2098007812228120782",
+    "source_published_at": "2026-09-10T11:16:56.000Z",
+    "source_platform": "x",
+    "author_name": "leolee",
+    "author_link": "https://x.com/listudio",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/921_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098007812228120782",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 435,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/921_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 923,
+    "title": "Bản Đồ Thu Nhỏ 3D Từ Các Địa Danh Biểu Tượng",
+    "description": "Một gợi ý để tạo ra một bản đồ thu nhỏ 3D, trong đó đường biên giới của một quốc gia được tạo thành từ các địa danh và biểu tượng văn hóa mang tính biểu tượng của nước đó.",
+    "prompt": "Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other",
+    "original_prompt": "Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2097996229582147939",
+    "source_published_at": "2026-09-10T10:30:54.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "vi",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/923_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/923_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/923_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/923_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097996229582147939",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 436,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/923_0.jpg",
+        "media/gpt-image-2-5/923_1.jpg",
+        "media/gpt-image-2-5/923_2.jpg",
+        "media/gpt-image-2-5/923_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 924,
+    "title": "Chân Dung Điện Ảnh Của Một Người Phụ Nữ Ở Paris",
+    "description": "Một gợi ý cho một bức ảnh điện ảnh siêu thực về một phụ nữ Hồi giáo Đông Nam Á đang đi bộ gần Tháp Eiffel.",
+    "prompt": "Ultra-realistic cinematic photography, vertical 9:16, dreamy Paris street portrait with a subtle analog photography character. A beautiful young Southeast Asian hijabi woman walks near the Eiffel Tower, captured from a close three-quarter rear",
+    "original_prompt": "Ultra-realistic cinematic photography, vertical 9:16, dreamy Paris street portrait with a subtle analog photography character. A beautiful young Southeast Asian hijabi woman walks near the Eiffel Tower, captured from a close three-quarter rear",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIwithSarah_/status/2097988919602389025",
+    "source_published_at": "2026-09-10T10:01:51.000Z",
+    "source_platform": "x",
+    "author_name": "Sarah",
+    "author_link": "https://x.com/AIwithSarah_",
+    "language": "vi",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/924_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/924_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/924_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097988919602389025",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 437,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/924_0.jpg",
+        "media/gpt-image-2-5/924_1.jpg",
+        "media/gpt-image-2-5/924_2.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 925,
+    "title": "Động Vật Được Tái Tạo Bằng Chất Liệu Thời Trang Xa Xỉ",
+    "description": "Một gợi ý để tạo ra một lưới 2x2 các loài động vật được tái tạo bằng cách sử dụng các chất liệu đặc trưng của bốn nhà mốt thời trang xa xỉ mang tính biểu tượng.",
+    "prompt": "Animals rebuilt with fabrics of luxury fashion houses. 16:9, 2x2 grid, 4 brands/animals",
+    "original_prompt": "Animals rebuilt with fabrics of luxury fashion houses. 16:9, 2x2 grid, 4 brands/animals",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097981153760116975",
+    "source_published_at": "2026-09-10T09:31:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "vi",
+    "likes": 8,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/925_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097981153760116975",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 438,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/925_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 926,
+    "title": "Cảnh Hoạt Họa Từ Hai Hình Ảnh Tham Chiếu",
+    "description": "Một gợi ý để tạo ra một cảnh hoạt hình về một em bé mới biết đi đang chơi trong một phòng ngủ ấm cúng.",
+    "prompt": "Turn the two reference images into one adorable, heartwarming animated scene of a little girl playing peacefully in her cozy dream bedroom. CHARACTER A cute toddler girl with soft fair skin, round adorable features, rosy cheeks, large expressive",
+    "original_prompt": "Turn the two reference images into one adorable, heartwarming animated scene of a little girl playing peacefully in her cozy dream bedroom. CHARACTER A cute toddler girl with soft fair skin, round adorable features, rosy cheeks, large expressive",
+    "translated_prompt": "",
+    "source_link": "https://x.com/KrishnaBio1/status/2097980339490574356",
+    "source_published_at": "2026-09-10T09:27:46.000Z",
+    "source_platform": "x",
+    "author_name": "KrishnaG",
+    "author_link": "https://x.com/KrishnaBio1",
+    "language": "vi",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/926_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/926_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097980339490574356",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 439,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/926_0.jpg",
+        "media/gpt-image-2-5/926_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 927,
+    "title": "Áp Phích Chiến Dịch Điện Thoại Thông Minh Cao Cấp",
+    "description": "Một gợi ý để tạo ra một áp phích quảng cáo điện thoại thông minh cao cấp theo phong cách đặc trưng của Apple.",
+    "prompt": "4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready\nStyle: Apple-level art direction × contemporary product photography × bold editorial",
+    "original_prompt": "4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready\nStyle: Apple-level art direction × contemporary product photography × bold editorial",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Diplomeme/status/2097978468642480487",
+    "source_published_at": "2026-09-10T09:20:20.000Z",
+    "source_platform": "x",
+    "author_name": "ᴍᴜʀᴘʜʏ",
+    "author_link": "https://x.com/Diplomeme",
+    "language": "vi",
+    "likes": 48,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/927_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/927_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097978468642480487",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 440,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/927_0.jpg",
+        "media/gpt-image-2-5/927_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 929,
+    "title": "Bảng Phân Cảnh Quảng Cáo Nước Hoa Xa Xỉ",
+    "description": "Một gợi ý cho một bảng phân cảnh sản phẩm điện ảnh có tính biên tập sạch sẽ, giới thiệu một loại nước hoa hồng xa xỉ.",
+    "prompt": "Luxury Rose Perfume Cinematic Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 portrait storyboard sheet\n• 10 cinematic product-focused panels\n• Clean editorial grid with thin borders",
+    "original_prompt": "Luxury Rose Perfume Cinematic Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 portrait storyboard sheet\n• 10 cinematic product-focused panels\n• Clean editorial grid with thin borders",
+    "translated_prompt": "",
+    "source_link": "https://x.com/WanderingC76/status/2097964022293549127",
+    "source_published_at": "2026-09-10T08:22:55.000Z",
+    "source_platform": "x",
+    "author_name": "Wandering Corner",
+    "author_link": "https://x.com/WanderingC76",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/929_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/929_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097964022293549127",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 442,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/929_0.jpg",
+        "media/gpt-image-2-5/929_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 931,
+    "title": "Chân Dung Phong Cách Thập Niên 1980 Từ Tham Chiếu Khuôn Mặt",
+    "description": "Một gợi ý để tạo ra một bức chân dung theo phong cách hoài cổ thập niên 1980, bảo toàn chính xác các đặc điểm khuôn mặt và nhận dạng của chủ thể.",
+    "prompt": "Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high",
+    "original_prompt": "Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Goodmanprotocol/status/2097954772586557873",
+    "source_published_at": "2026-09-10T07:46:10.000Z",
+    "source_platform": "x",
+    "author_name": "Saul Goodman",
+    "author_link": "https://x.com/Goodmanprotocol",
+    "language": "vi",
+    "likes": 82,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/931_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/931_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/931_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/931_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097954772586557873",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 443,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/931_0.jpg",
+        "media/gpt-image-2-5/931_1.jpg",
+        "media/gpt-image-2-5/931_2.jpg",
+        "media/gpt-image-2-5/931_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 933,
+    "title": "Bảng Phân Cảnh Quảng Cáo Nước Hoa Xa Xỉ",
+    "description": "Một gợi ý cho một bảng phân cảnh quảng cáo sản phẩm điện ảnh giới thiệu một loại nước hoa hồng xa xỉ.",
+    "prompt": "TITLE: Luxury Rose Perfume Cinematic Product Commercial Storyboard  FORMAT: • Single-page premium storyboard • 3:4 portrait storyboard sheet • 10 cinematic product-focused panels • Clean editorial grid with thin borders",
+    "original_prompt": "TITLE: Luxury Rose Perfume Cinematic Product Commercial Storyboard  FORMAT: • Single-page premium storyboard • 3:4 portrait storyboard sheet • 10 cinematic product-focused panels • Clean editorial grid with thin borders",
+    "translated_prompt": "",
+    "source_link": "https://x.com/SinhaRahul27183/status/2097949748766671352",
+    "source_published_at": "2026-09-10T07:26:12.000Z",
+    "source_platform": "x",
+    "author_name": "Rahul Raj Sinha",
+    "author_link": "https://x.com/SinhaRahul27183",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/933_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097949748766671352",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 444,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/933_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 934,
+    "title": "Áp Phích Du Lịch Hiện Đại Với Kiến Trúc",
+    "description": "Một gợi ý để tạo ra một áp phích du lịch cao cấp với phong cách in lưới cổ điển và bố cục cổng vòm kiến trúc.",
+    "prompt": "Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.\n\nPlace a large distinctive [LOCAL ARCHITECTURAL ELEMENT /",
+    "original_prompt": "Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.\n\nPlace a large distinctive [LOCAL ARCHITECTURAL ELEMENT /",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2097920025617399875",
+    "source_published_at": "2026-09-10T05:28:06.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "vi",
+    "likes": 34,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/934_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/934_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/934_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/934_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097920025617399875",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 445,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/934_0.jpg",
+        "media/gpt-image-2-5/934_1.jpg",
+        "media/gpt-image-2-5/934_2.jpg",
+        "media/gpt-image-2-5/934_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 937,
+    "title": "Charmander Nở Trứng Bằng Hoạt Hình Tĩnh Vật Đất Nặn",
+    "description": "Một gợi ý để tạo ra một đoạn hoạt hình tĩnh vật (stop-motion) theo phong cách đất nặn, miêu tả cảnh Charmander nở ra từ quả trứng và phun lửa.",
+    "prompt": "我要做stop motion animation\n粘土风格\n小火龙从蛋里面孵化成功，破壳而出，然后喷火。 规划好，输出36张图，然后合并在一起输出3s gif。",
+    "original_prompt": "我要做stop motion animation\n粘土风格\n小火龙从蛋里面孵化成功，破壳而出，然后喷火。 规划好，输出36张图，然后合并在一起输出3s gif。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/cheerselflin/status/2097903279506125119",
+    "source_published_at": "2026-09-10T04:21:33.000Z",
+    "source_platform": "x",
+    "author_name": "林悦己Cheer",
+    "author_link": "https://x.com/cheerselflin",
+    "language": "vi",
+    "likes": 69,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/937_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097903279506125119",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 448,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/937_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 938,
+    "title": "Quả Táo Của Magritte Dưới Dạng Chồng Giấy Ghi Chú",
+    "description": "Một sự diễn giải sáng tạo lại tác phẩm 'The Son of Man' của Magritte, trong đó quả táo lơ lửng được thay thế bằng một chồng giấy ghi chú hình quả táo.",
+    "prompt": "马格利特脸前的苹果，被我撕下来一片。下面居然还有一片。把《人类之子》画成苹果便利贴座之后，挡住脸的苹果，就成了每天都能用的纸。这个点子可以从“什么能被替换”开始想：① 保留礼帽、西装、红领带和遮脸构图。② 把立体苹果换成一叠苹果形纸张。",
+    "original_prompt": "马格利特脸前的苹果，被我撕下来一片。下面居然还有一片。把《人类之子》画成苹果便利贴座之后，挡住脸的苹果，就成了每天都能用的纸。这个点子可以从“什么能被替换”开始想：① 保留礼帽、西装、红领带和遮脸构图。② 把立体苹果换成一叠苹果形纸张。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/cellinlab/status/2097901637889393064",
+    "source_published_at": "2026-09-10T04:15:02.000Z",
+    "source_platform": "x",
+    "author_name": "Cell 细胞",
+    "author_link": "https://x.com/cellinlab",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/938_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097901637889393064",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 449,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/938_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 944,
+    "title": "Chân Dung Thời Trang Siêu Thực Trong Ngôi Nhà Nhật Bản",
+    "description": "Một bức chân dung thời trang siêu thực về một người phụ nữ đang đi bộ trong một hành lang gỗ truyền thống của Nhật Bản.",
+    "prompt": "A hyperrealistic full-body lifestyle fashion portrait of an adult East Asian woman walking slowly toward the camera through a narrow corridor inside a traditional Japanese wooden house. She occupies the left-center of the vertical frame, surrounded",
+    "original_prompt": "A hyperrealistic full-body lifestyle fashion portrait of an adult East Asian woman walking slowly toward the camera through a narrow corridor inside a traditional Japanese wooden house. She occupies the left-center of the vertical frame, surrounded",
+    "translated_prompt": "",
+    "source_link": "https://x.com/johnAGI168/status/2098031845619237206",
+    "source_published_at": "2026-09-10T12:52:26.000Z",
+    "source_platform": "x",
+    "author_name": "John",
+    "author_link": "https://x.com/johnAGI168",
+    "language": "vi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/944_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098031845619237206",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 450,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/944_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 945,
+    "title": "Hình Nền Tối Giản Cực Đoan Về Đế Chế La Mã",
+    "description": "Một hình nền tối giản cực đoan mô tả một ngôi đền La Mã tráng lệ với các cột trụ, cầu dẫn nước và tàn tích trong tông màu vàng ấm áp.",
+    "prompt": "Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden",
+    "original_prompt": "Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden",
+    "translated_prompt": "",
+    "source_link": "https://x.com/shushant_l/status/2097988208357474530",
+    "source_published_at": "2026-09-10T09:59:02.000Z",
+    "source_platform": "x",
+    "author_name": "Shushant Lakhyani",
+    "author_link": "https://x.com/shushant_l",
+    "language": "vi",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/945_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097988208357474530",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 451,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/945_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 946,
+    "title": "Bảng Tham Chiếu Thiết Kế Nhân Vật",
+    "description": "Một gợi ý để tạo ra một bảng mẫu nhân vật chuyên nghiệp dựa trên hình ảnh tham chiếu được cung cấp.",
+    "prompt": "Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.\n\nREFERENCE & IDENTITY LOCK:\nUse the uploaded reference as the single source of truth for the",
+    "original_prompt": "Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.\n\nREFERENCE & IDENTITY LOCK:\nUse the uploaded reference as the single source of truth for the",
+    "translated_prompt": "",
+    "source_link": "https://x.com/meAsifAi/status/2097949170594193427",
+    "source_published_at": "2026-09-10T07:23:54.000Z",
+    "source_platform": "x",
+    "author_name": "M. Asif",
+    "author_link": "https://x.com/meAsifAi",
+    "language": "vi",
+    "likes": 19,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/946_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097949170594193427",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 452,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/946_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 952,
+    "title": "Lưới Minh Họa Kỹ Thuật Phân Rã",
+    "description": "Một lệnh để tạo ra một lưới 2x2 các minh họa kỹ thuật thể hiện các góc nhìn 3D phân rã của những cỗ máy phức tạp.",
+    "prompt": "Combined a technical illustration and 3D exploded view of complex machines. 2x2 grid, 16:9, do this for 4 complex machines A technical illustration brought to life: an exploded-view schematic where physical miniature components float in precise geometric",
+    "original_prompt": "Combined a technical illustration and 3D exploded view of complex machines. 2x2 grid, 16:9, do this for 4 complex machines A technical illustration brought to life: an exploded-view schematic where physical miniature components float in precise geometric",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097953723968344551",
+    "source_published_at": "2026-09-10T07:42:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "vi",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/952_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097953723968344551",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 453,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/952_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 953,
+    "title": "Minh Họa Truyện Tranh Màu Toàn Trang",
+    "description": "Một lệnh để tạo ra một minh họa manga shonen đầy màu sắc và hài hước trên toàn bộ trang, sử dụng bố cục trang truyện tranh chân thực.",
+    "prompt": "创作一幅全页彩色好笑的热血漫画插图。使用真实的漫画页面构图，在单页上包含 5–7",
+    "original_prompt": "创作一幅全页彩色好笑的热血漫画插图。使用真实的漫画页面构图，在单页上包含 5–7",
+    "translated_prompt": "",
+    "source_link": "https://x.com/yang02010/status/2097947497922712005",
+    "source_published_at": "2026-09-10T07:17:16.000Z",
+    "source_platform": "x",
+    "author_name": "牙仔⇌",
+    "author_link": "https://x.com/yang02010",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/953_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097947497922712005",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 454,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/953_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 956,
+    "title": "Khung Hình Anime: Sân Ga Mưa",
+    "description": "Một lệnh để tạo ra một khung hình anime không tồn tại, có cảnh mưa trên sân ga, một đoàn tàu đang đến và một con cá chép trôi bồng bềnh trên thành phố.",
+    "prompt": "A frame from an anime that doesn't exist. Rain on the platform, a train pulling in, and a koi drifting over the city.",
+    "original_prompt": "A frame from an anime that doesn't exist. Rain on the platform, a train pulling in, and a koi drifting over the city.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/morphedai/status/2097912956189048939",
+    "source_published_at": "2026-09-10T05:00:00.000Z",
+    "source_platform": "x",
+    "author_name": "Morphed",
+    "author_link": "https://x.com/morphedai",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/956_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/956_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/956_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097912956189048939",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 455,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/956_0.jpg",
+        "media/gpt-image-2-5/956_1.jpg",
+        "media/gpt-image-2-5/956_2.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 959,
+    "title": "Người Kết Bạn Với Mèo Giữa Hỗn Loạn",
+    "description": "Một cảnh miêu tả một người, sau khi dính líu vào đủ thứ chuyện, cuối cùng lại kết bạn với một con mèo.",
+    "prompt": "いろんなことに巻き込まれてもらったら、いつの間にかネコと仲良くなってた",
+    "original_prompt": "いろんなことに巻き込まれてもらったら、いつの間にかネコと仲良くなってた",
+    "translated_prompt": "",
+    "source_link": "https://x.com/tori_kizi/status/2097940196725751815",
+    "source_published_at": "2026-09-10T06:48:15.000Z",
+    "source_platform": "x",
+    "author_name": "トリキジ",
+    "author_link": "https://x.com/tori_kizi",
+    "language": "vi",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/959_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097940196725751815",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 457,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/959_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 963,
+    "title": "Cáo Sứa Trong Bể Cá Cao Nguyên",
+    "description": "Hình ảnh một con cáo với đôi mắt buồn ngủ và những con sứa bên trong một bể cá trên cao nguyên, được thể hiện theo phong cách không có các hạt ánh sáng dạng hạt.",
+    "prompt": "キツネ/クラゲ/高原/水槽の中/眠そうなジト目\n光のつぶつぶ感が無くなったimage 2.5",
+    "original_prompt": "キツネ/クラゲ/高原/水槽の中/眠そうなジト目\n光のつぶつぶ感が無くなったimage 2.5",
+    "translated_prompt": "",
+    "source_link": "https://x.com/MATCHA_ORANGE_/status/2098025183567351858",
+    "source_published_at": "2026-09-10T12:25:57.000Z",
+    "source_platform": "x",
+    "author_name": "抹茶オレンジ🧋🍊",
+    "author_link": "https://x.com/MATCHA_ORANGE_",
+    "language": "vi",
+    "likes": 18,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/963_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098025183567351858",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 458,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/963_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 964,
+    "title": "Biến Hóa Mặt Trời Và Mây Thành Hoa Sen",
+    "description": "Một lệnh để tăng cường một bức ảnh chụp mây và mặt trời, làm cho mặt trời giống như nhụy hoa và những đám mây thành cánh sen, mà không thay đổi hình ảnh gốc.",
+    "prompt": "太阳像花心，周围的云像一朵莲花，但不要改变原图，只把这种感觉表现得更明显。",
+    "original_prompt": "太阳像花心，周围的云像一朵莲花，但不要改变原图，只把这种感觉表现得更明显。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/DylanHayes63767/status/2097898551212921022",
+    "source_published_at": "2026-09-10T04:02:46.000Z",
+    "source_platform": "x",
+    "author_name": "Dylan Hayes",
+    "author_link": "https://x.com/DylanHayes63767",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/964_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097898551212921022",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Precision Editing",
+    "sort_order": 459,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/964_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 965,
+    "title": "Người Phụ Nữ Mặc Kimono Ăn Cơm Lưỡi Bò",
+    "description": "Hình ảnh một người phụ nữ mặc kimono, với cảnh miêu tả bữa ăn gồm lưỡi bò và cơm lúa mạch.",
+    "prompt": "和服の女性。\nA woman in Japanese clothes.\n牛タンと麦飯を食べました。\nI had beef tongue with barley rice.",
+    "original_prompt": "和服の女性。\nA woman in Japanese clothes.\n牛タンと麦飯を食べました。\nI had beef tongue with barley rice.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/kabumira862571/status/2098035490192785661",
+    "source_published_at": "2026-09-10T13:06:55.000Z",
+    "source_platform": "x",
+    "author_name": "カーブミラー",
+    "author_link": "https://x.com/kabumira862571",
+    "language": "vi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/965_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098035490192785661",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 460,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/965_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 990,
+    "title": "Ảnh Chân Thực Người Phụ Nữ Trong Phòng Khách Đêm Ấm Cúng",
+    "description": "Một lệnh cho một bức ảnh chân thực, tự nhiên về một phụ nữ trẻ trong khung cảnh phòng khách ban đêm ấm cúng.",
+    "prompt": "A photorealistic candid photo in a 9:16 aspect ratio, featuring an adult East Asian woman around 25 years old sitting on a soft rug beside a coffee table in a cozy living room at night, capturing an intimate",
+    "original_prompt": "A photorealistic candid photo in a 9:16 aspect ratio, featuring an adult East Asian woman around 25 years old sitting on a soft rug beside a coffee table in a cozy living room at night, capturing an intimate",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Aimi_kute/status/2097832705711018120",
+    "source_published_at": "2026-09-09T23:41:07.000Z",
+    "source_platform": "x",
+    "author_name": "AIMI",
+    "author_link": "https://x.com/Aimi_kute",
+    "language": "vi",
+    "likes": 41,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/990_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097832705711018120",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 461,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/990_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1017,
+    "title": "Cô Gái Chuunibyou Trang Phục Gothic Lolita",
+    "description": "Hình ảnh theo phong cách anime của một cô gái mắc hội chứng tuổi teen (chuunibyou) với kiểu trang điểm Jirai Make, mặc trang phục Gothic Lolita với áo khoét vai và một chiếc váy dài có corset.",
+    "prompt": "chuunibyou woman with Jirai Make is wearing Gothic Lolita style outfit with shoulder cutout tops and corset long dress. Japanese anime image.",
+    "original_prompt": "chuunibyou woman with Jirai Make is wearing Gothic Lolita style outfit with shoulder cutout tops and corset long dress. Japanese anime image.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Kitaguni8888/status/2097588652595724350",
+    "source_published_at": "2026-09-09T07:31:20.000Z",
+    "source_platform": "x",
+    "author_name": "北国のタコ",
+    "author_link": "https://x.com/Kitaguni8888",
+    "language": "vi",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1017_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097588652595724350",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 462,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1017_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1071,
+    "title": "Người Phụ Nữ Ở Lại Bên Người Yêu Cũ Đang Hấp Hối",
+    "description": "Một lệnh miêu tả một người phụ nữ biết được lý do người yêu cũ rời bỏ cô là vì anh ta đang hấp hối, và cô quyết định ở lại bên anh cho đến phút cuối.",
+    "prompt": "元彼が、実は百日後に死ぬ病気で、そのために自分を振ったことを知り、最後まで一緒にいることを決めた女です。",
+    "original_prompt": "元彼が、実は百日後に死ぬ病気で、そのために自分を振ったことを知り、最後まで一緒にいることを決めた女です。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ebina_ebina_ebi/status/2096778018429731247",
+    "source_published_at": "2026-09-07T01:50:10.000Z",
+    "source_platform": "x",
+    "author_name": "海老名エビ",
+    "author_link": "https://x.com/ebina_ebina_ebi",
+    "language": "vi",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096778018429731247",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 464,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1071_0.jpg",
+        "media/gpt-image-2-5/1071_1.jpg",
+        "media/gpt-image-2-5/1071_2.jpg",
+        "media/gpt-image-2-5/1071_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1102,
+    "title": "Chân Dung Người Phụ Nữ Trong Đồng Phục",
+    "description": "Một lệnh mang tính thơ ca miêu tả nhân vật tên Rhiannah với bộ đồng phục hình học, một mắt xanh băng, đôi vai vuông vức và đôi môi đỏ.",
+    "prompt": "'The uniform was always geometry: two rows of honor, one gold cord, a meteor aimed at the badge above her heart. Subtract the rest and she remains — one ice-blue eye, squared shoulders, lips she painted red anyway. Irreducible.'",
+    "original_prompt": "'The uniform was always geometry: two rows of honor, one gold cord, a meteor aimed at the badge above her heart. Subtract the rest and she remains — one ice-blue eye, squared shoulders, lips she painted red anyway. Irreducible.'",
+    "translated_prompt": "",
+    "source_link": "https://x.com/HgbrdCeline/status/2096234490049778066",
+    "source_published_at": "2026-09-05T13:50:23.000Z",
+    "source_platform": "x",
+    "author_name": "Hagbard Celine",
+    "author_link": "https://x.com/HgbrdCeline",
+    "language": "vi",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1102_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096234490049778066",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 466,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1102_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1103,
+    "title": "Xưởng Nhuộm Chàm Ở Giang Nam",
+    "description": "Một lệnh tạo hình ảnh cho cảnh xưởng nhuộm ở Giang Nam với thuốc nhuộm xanh, khung gỗ, cầu đá và ánh sáng ban mai trên mặt nước.",
+    "prompt": "把蓝染、木架、石桥与清晨的水光放进同一帧。想要的不是堆砌元素，而是“染一缕青色，也染一段心事”的呼吸感。",
+    "original_prompt": "把蓝染、木架、石桥与清晨的水光放进同一帧。想要的不是堆砌元素，而是“染一缕青色，也染一段心事”的呼吸感。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/biubiubiuzone/status/2096157590178889840",
+    "source_published_at": "2026-09-05T08:44:48.000Z",
+    "source_platform": "x",
+    "author_name": "biuzone",
+    "author_link": "https://x.com/biubiubiuzone",
+    "language": "vi",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096157590178889840",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 467,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1103_0.jpg",
+        "media/gpt-image-2-5/1103_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1134,
+    "title": "Chân Dung Cận Cảnh Với Tóc Tết",
+    "description": "Một bức chân dung hình nền chân thực tỷ lệ 16:9 của một phụ nữ trẻ da trắng với tàn nhang, mắt xanh và mái tóc trắng vàng được tết.",
+    "prompt": "wide screen wallpaper 16:9 Photorealistic close-up beauty portrait of a fair-skinned young woman with a light dusting of freckles, vivid blue eyes, braided white-blonde hair in two thick loose braids and a braided crown, curled strands framing her face",
+    "original_prompt": "wide screen wallpaper 16:9 Photorealistic close-up beauty portrait of a fair-skinned young woman with a light dusting of freckles, vivid blue eyes, braided white-blonde hair in two thick loose braids and a braided crown, curled strands framing her face",
+    "translated_prompt": "",
+    "source_link": "https://x.com/KrakenUnbound/status/2097452317817860172",
+    "source_published_at": "2026-09-08T22:29:36.000Z",
+    "source_platform": "x",
+    "author_name": "The Kraken",
+    "author_link": "https://x.com/KrakenUnbound",
+    "language": "vi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1134_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097452317817860172",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 468,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1134_0.jpg"
+      ],
+      "video": ""
+    }
   }
 ]

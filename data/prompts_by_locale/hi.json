@@ -11980,5 +11980,2565 @@
     },
     "category": "Style & Intelligence",
     "sort_order": 401
+  },
+  {
+    "id": 1135,
+    "sort_order": 469,
+    "title": "एक नाविक का फोटोरियलिस्टिक कैंडिड चित्र",
+    "description": "एक बुजुर्ग नाविक को अपना जाल ठीक करते हुए 35mm शैली का एक कैंडिड चित्र, जिसमें त्वचा और सामग्री की वास्तविक बनावट दिखाई दे रही है।",
+    "prompt": "Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.\nHe has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.\nHe is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.\nSoft coastal daylight, shallow depth of field, subtle film grain, natural color balance.\nThe image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.",
+    "original_prompt": "Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.\nHe has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.\nHe is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.\nSoft coastal daylight, shallow depth of field, subtle film grain, natural color balance.\nThe image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.",
+    "translated_prompt": "",
+    "category": "Style & Intelligence",
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/control-style-and-lighting-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1136,
+    "sort_order": 470,
+    "title": "कॉफी मशीन का तकनीकी इन्फोग्राफिक",
+    "description": "एक स्वचालित एस्प्रेसो मशीन के प्रवाह को अंत से अंत तक दर्शाता हुआ एक व्याख्यात्मक इन्फोग्राफिक।",
+    "prompt": "Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.\nFrom bean basket, to grinding, to scale, water tank, boiler, etc.\nI'd like to understand technically and visually the flow.",
+    "original_prompt": "Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.\nFrom bean basket, to grinding, to scale, water tank, boiler, etc.\nI'd like to understand technically and visually the flow.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/explain-a-process-visually-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1137,
+    "sort_order": 471,
+    "title": "सटीक टैगलाइन वाला स्ट्रीटवियर कैंपेन विज्ञापन",
+    "description": "एक युवा स्ट्रीटवियर कैंपेन छवि जो लेआउट के अंदर एक सटीक टैगलाइन को स्पष्ट रूप से प्रस्तुत करती है।",
+    "prompt": "Give me a cool in culture ad / fashion shot for a brand called Thread.\nIt's a hip young street brand. The ad shows a group of friends hanging out together with the tagline \"Yours to Create.\"\nMake it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.\nUse clean composition, strong color direction, natural poses, and premium fashion photography cues.\nRender the tagline exactly once, clearly and legibly, integrated into the ad layout.\nNo extra text, no watermarks, no unrelated logos.",
+    "original_prompt": "Give me a cool in culture ad / fashion shot for a brand called Thread.\nIt's a hip young street brand. The ad shows a group of friends hanging out together with the tagline \"Yours to Create.\"\nMake it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.\nUse clean composition, strong color direction, natural poses, and premium fashion photography cues.\nRender the tagline exactly once, clearly and legibly, integrated into the ad layout.\nNo extra text, no watermarks, no unrelated logos.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/render-exact-text-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1138,
+    "sort_order": 472,
+    "title": "पारदर्शी पृष्ठभूमि पर मिनिमल बेकरी लोगो",
+    "description": "एक सपाट, वेक्टर जैसा बेकरी लोगो जो साफ अल्फा पृष्ठभूमि पर केंद्रित होकर प्रस्तुत किया गया है, बिना किसी पृष्ठभूमि के।",
+    "prompt": "Create an original, non-infringing logo for a company called Field & Flour, a local bakery.\nThe logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.\nFavor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.\nFully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.",
+    "original_prompt": "Create an original, non-infringing logo for a company called Field & Flour, a local bakery.\nThe logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.\nFavor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.\nFully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out1.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out2.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out3.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1139,
+    "sort_order": 473,
+    "title": "युग-उपयुक्त 1969 की भीड़ का दृश्य",
+    "description": "बेथल, न्यूयॉर्क में 1969 की एक नामित तारीख को फोटोरियलिस्टिक बाहरी भीड़, जो युग के अनुरूप मंचित है।",
+    "prompt": "Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.\nPhotorealistic, period-accurate clothing, staging, and environment.",
+    "original_prompt": "Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.\nPhotorealistic, period-accurate clothing, staging, and environment.",
+    "translated_prompt": "",
+    "category": "Style & Intelligence",
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/use-historical-and-real-world-context-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1140,
+    "sort_order": 474,
+    "title": "अकेले घर पर पालतू जानवर का चार-पैनल कॉमिक",
+    "description": "एक ऊर्ध्वाधर चार-पैनल स्ट्रिप जो पैनलों में एक शुरुआत, मोड़ और पंचलाइन को प्रस्तुत करती है।",
+    "prompt": "Create a short vertical comic-style reel with 4 panels.\nPanel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.\nPanel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.\nPanel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.\nPanel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.",
+    "original_prompt": "Create a short vertical comic-style reel with 4 panels.\nPanel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.\nPanel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.\nPanel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.\nPanel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-story-into-a-comic-strip-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1141,
+    "sort_order": 475,
+    "title": "आईफोन फ्रेम में फार्मर्स मार्केट ऐप यूआई",
+    "description": "एक व्यावहारिक मोबाइल ऐप मॉकअप जिसमें हेडर, विक्रेता सूची और विशेष ऑफर शामिल हैं, जो एक डिवाइस फ्रेम में रखा गया है।",
+    "prompt": "Create a realistic mobile app UI mockup for a local farmers market.\nShow today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.\nDesign it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.\nIt should look like a real, well-designed, beautiful app for a small local market.\nPlace the UI mockup in an iPhone frame.",
+    "original_prompt": "Create a realistic mobile app UI mockup for a local farmers market.\nShow today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.\nDesign it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.\nIt should look like a real, well-designed, beautiful app for a small local market.\nPlace the UI mockup in an iPhone frame.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-an-interface-preview-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1142,
+    "sort_order": 476,
+    "title": "सेलुलर रेस्पिरेशन कक्षा आरेख",
+    "description": "एक लेबल किया हुआ हाई-स्कूल जीव विज्ञान आरेख जो ग्लाइकोलाइसिस, क्रेब्स चक्र और इलेक्ट्रॉन ट्रांसपोर्ट को जोड़ता है।",
+    "prompt": "Create a simple biology diagram titled \"Cellular Respiration at a Glance\" for high school students.\n\nShow how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.\nUse arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.\nMake it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.\n\nAvoid tiny text, extra decoration, or anything that makes the diagram hard to understand.",
+    "original_prompt": "Create a simple biology diagram titled \"Cellular Respiration at a Glance\" for high school students.\n\nShow how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.\nUse arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.\nMake it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.\n\nAvoid tiny text, extra decoration, or anything that makes the diagram hard to understand.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-scientific-and-educational-visual-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1143,
+    "sort_order": 477,
+    "title": "सीरीज़ ए मार्केट अवसर स्लाइड",
+    "description": "एक पिच-डेक स्लाइड जिसमें TAM/SAM/SOM आरेख, वृद्धि बार, फुटनोट और वास्तविक डेटा पदानुक्रम शामिल हैं।",
+    "prompt": "Create one pitch-deck slide titled **\"Market Opportunity\"** that feels like a real Series A fundraising slide from a YC-backed startup.\n\nUse a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:\n\n* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays\n* Specific, believable market sizing numbers:\n\n  * **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend\n* Small footnotes: **\"AGI Research, 2024\"** and **\"Internal analysis\"**\n* A company logo placeholder in the bottom-right corner\n\nThe design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.\n\nAvoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.",
+    "original_prompt": "Create one pitch-deck slide titled **\"Market Opportunity\"** that feels like a real Series A fundraising slide from a YC-backed startup.\n\nUse a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:\n\n* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays\n* Specific, believable market sizing numbers:\n\n  * **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend\n* Small footnotes: **\"AGI Research, 2024\"** and **\"Internal analysis\"**\n* A company logo placeholder in the bottom-right corner\n\nThe design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.\n\nAvoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/build-slides-diagrams-and-charts-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1144,
+    "sort_order": 478,
+    "title": "स्पेनिश में अनुवादित इन्फोग्राफिक",
+    "description": "एक संपादन जो केवल पाठ की भाषा को बदलता है और लेआउट के हर दूसरे पिक्सेल को अपरिवर्तित छोड़ देता है।",
+    "prompt": "Translate the text in the infographic to Spanish. Do not change any other aspect of the image.",
+    "original_prompt": "Translate the text in the infographic to Spanish. Do not change any other aspect of the image.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/translate-while-preserving-layout-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1145,
+    "sort_order": 479,
+    "title": "मोटरसाइकिल सवार पर शैली स्थानांतरण",
+    "description": "एक नया विषय जो इनपुट छवि द्वारा लाई गई सटीक दृश्य शैली में प्रस्तुत किया गया है।",
+    "prompt": "Use the same style from the input image and generate a man riding a motorcycle on a white background.",
+    "original_prompt": "Use the same style from the input image and generate a man riding a motorcycle on a white background.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1146,
+    "sort_order": 480,
+    "title": "पहचान को संरक्षित करते हुए पोशाक विनिमय",
+    "description": "संदर्भ छवियों से वस्त्र विषय पर फिट किए गए हैं, जबकि चेहरा, मुद्रा और प्रकाश व्यवस्था अछूती रही है।",
+    "prompt": "Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.",
+    "original_prompt": "Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in1.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in2.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in3.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1147,
+    "sort_order": 481,
+    "title": "एक चित्र दृश्य में कुत्ते का सम्मिश्रण",
+    "description": "एक विषय जिसे एक संदर्भ से लेकर दूसरे में रखा गया है, जिसमें प्रकाश और पृष्ठभूमि मेल खाती है।",
+    "prompt": "Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.",
+    "original_prompt": "Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in1.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1148,
+    "sort_order": 482,
+    "title": "पारदर्शी पृष्ठभूमि पर उत्पाद कटआउट",
+    "description": "एक पैकशॉट जो साफ अल्फा पृष्ठभूमि पर अलग किया गया है, जिसमें स्पष्ट सिल्हूट, कोई हेलो नहीं और लेबल की पठनीयता बरकरार है।",
+    "prompt": "Extract the product from the input image and isolate it on a fully transparent background.\nOutput: centered product, crisp silhouette, no halos/fringing.\nPreserve product geometry and label legibility exactly.\nAdd only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.\nDo not restyle the product; remove the background and preserve clean alpha transparency.",
+    "original_prompt": "Extract the product from the input image and isolate it on a fully transparent background.\nOutput: centered product, crisp silhouette, no halos/fringing.\nPreserve product geometry and label legibility exactly.\nAdd only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.\nDo not restyle the product; remove the background and preserve clean alpha transparency.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1149,
+    "sort_order": 483,
+    "title": "स्केच से फोटोरियल घाटी में परिवर्तन",
+    "description": "एक ड्राइंग को फोटोरियलिस्टिक रूप से प्रस्तुत किया गया है, जबकि इसके लेआउट, अनुपात और परिप्रेक्ष्य को संरक्षित रखा गया है।",
+    "prompt": "Turn this drawing into a photorealistic image.\nPreserve the exact layout, proportions, and perspective.\nChoose realistic materials and lighting consistent with the sketch intent.\nDo not add new elements or text.",
+    "original_prompt": "Turn this drawing into a photorealistic image.\nPreserve the exact layout, proportions, and perspective.\nChoose realistic materials and lighting consistent with the sketch intent.\nDo not add new elements or text.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1150,
+    "sort_order": 484,
+    "title": "पोर्ट्रेट से वस्तु हटाना",
+    "description": "एक पंक्ति का संपादन जो एक ही वस्तु को हटाता है और कुछ और नहीं बदलता।",
+    "prompt": "Remove the flower from man's hand. Do not change anything else.",
+    "original_prompt": "Remove the flower from man's hand. Do not change anything else.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1151,
+    "sort_order": 485,
+    "title": "भालू के हमले के दृश्य में व्यक्ति डालना",
+    "description": "एक फोटोग्राफ जैसा एक्शन दृश्य जो एक प्रदत्त व्यक्ति के इर्द-गिर्द बनाया गया है, जानबूझकर सिनेमाई नहीं।",
+    "prompt": "Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.\nShe is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.\nThe campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.",
+    "original_prompt": "Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.\nShe is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.\nThe campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1152,
+    "sort_order": 486,
+    "title": "सटीक हेडलाइन वाला बिलबोर्ड मॉकअप",
+    "description": "एक हाईवे बिलबोर्ड मॉकअप जो बोल्ड सैन्स-सेरिफ़ में एक शब्दशः हेडलाइन प्रदर्शित करता है।",
+    "prompt": "Create a realistic billboard mockup of the shampoo on a highway scene during sunset.\nBillboard text (EXACT, verbatim, no extra characters):\n\"Fresh and clean\"\nTypography: bold sans-serif, high contrast, centered, clean kerning.\nEnsure text appears once and is perfectly legible.\nNo watermarks, no logos.",
+    "original_prompt": "Create a realistic billboard mockup of the shampoo on a highway scene during sunset.\nBillboard text (EXACT, verbatim, no extra characters):\n\"Fresh and clean\"\nTypography: bold sans-serif, high contrast, centered, clean kerning.\nEnsure text appears once and is perfectly legible.\nNo watermarks, no logos.",
+    "translated_prompt": "",
+    "category": "Layout & Typography",
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1153,
+    "sort_order": 487,
+    "title": "बिलबोर्ड को शाम के शीतकाल में बदलना",
+    "description": "एक मौजूदा मॉकअप पर मौसम और दिन के समय को बदलने वाला पाँच-शब्दों का अनुवर्ती संपादन।",
+    "prompt": "Make it look like a winter evening with snowfall.",
+    "original_prompt": "Make it look like a winter evening with snowfall.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-one-condition-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1154,
+    "sort_order": 488,
+    "title": "सुसंगत बच्चों की किताब का पात्र",
+    "description": "एक वॉटरकलर पिक्चर-बुक नायक जिसे इतनी सख्ती से परिभाषित किया गया है कि वह सभी चित्रणों में एक जैसा रहे।",
+    "prompt": "Create a children’s book illustration introducing a main character.\n\nCharacter:\nA young, storybook-style hero inspired by a little forest outlaw,\nwearing a simple green hooded tunic, soft brown boots, and a small belt pouch.\nThe character has a kind expression, gentle eyes, and a brave but warm demeanor.\nCarries a small wooden bow used only for helping, never harming.\n\nTheme:\nThe character protects and rescues small forest animals like squirrels, birds, and rabbits.\n\nStyle:\nChildren’s book illustration, hand-painted watercolor look,\nsoft outlines, warm earthy colors, whimsical and friendly.\nProportions suitable for picture books (slightly oversized head, expressive face).\n\nConstraints:\n- Original character (no copyrighted characters)\n- No text\n- No watermarks\n- Plain forest background to clearly showcase the character",
+    "original_prompt": "Create a children’s book illustration introducing a main character.\n\nCharacter:\nA young, storybook-style hero inspired by a little forest outlaw,\nwearing a simple green hooded tunic, soft brown boots, and a small belt pouch.\nThe character has a kind expression, gentle eyes, and a brave but warm demeanor.\nCarries a small wooden bow used only for helping, never harming.\n\nTheme:\nThe character protects and rescues small forest animals like squirrels, birds, and rabbits.\n\nStyle:\nChildren’s book illustration, hand-painted watercolor look,\nsoft outlines, warm earthy colors, whimsical and friendly.\nProportions suitable for picture books (slightly oversized head, expressive face).\n\nConstraints:\n- Original character (no copyrighted characters)\n- No text\n- No watermarks\n- Plain forest background to clearly showcase the character",
+    "translated_prompt": "",
+    "category": "Reference Fidelity",
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out1.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1155,
+    "sort_order": 489,
+    "title": "किचन की कुर्सियों को लकड़ी की कुर्सियों से बदलना",
+    "description": "एक कमरे का संपादन जो केवल कुर्सियों को बदलता है और कोण, प्रकाश व्यवस्था और फर्श की छायाओं को बरकरार रखता है।",
+    "prompt": "In this room photo, replace ONLY the white chairs with chairs made of wood.\nPreserve camera angle, room lighting, floor shadows, and surrounding objects.\nKeep all other aspects of the image unchanged.\nPhotorealistic contact shadows and fabric texture.",
+    "original_prompt": "In this room photo, replace ONLY the white chairs with chairs made of wood.\nPreserve camera angle, room lighting, floor shadows, and surrounding objects.\nKeep all other aspects of the image unchanged.\nPhotorealistic contact shadows and fabric texture.",
+    "translated_prompt": "",
+    "category": "Precision Editing",
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": true,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-out0.webp",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-in0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1156,
+    "sort_order": 490,
+    "title": "टेडी बियर वाला नॉस्टैल्जिक क्रिसमस कार्ड",
+    "description": "प्रिंट-क्वालिटी का हॉलिडे कार्ड जो एक कीपसेक-बॉक्स दृश्य पर आधारित है और कार्ड टेक्स्ट की एक शब्दशः पंक्ति है।",
+    "prompt": "Create a Christmas holiday card illustration.\n\nScene:\na cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.\n\nMood:\nWarm, nostalgic, gentle, emotional.\n\nStyle:\nPremium holiday card photography, soft cinematic lighting,\nrealistic textures, shallow depth of field,\ntasteful bokeh lights, high print-quality composition.\n\nConstraints:\n- Original artwork only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this card text (verbatim):\n\"Merry Christmas — some memories never fade.\"",
+    "original_prompt": "Create a Christmas holiday card illustration.\n\nScene:\na cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.\n\nMood:\nWarm, nostalgic, gentle, emotional.\n\nStyle:\nPremium holiday card photography, soft cinematic lighting,\nrealistic textures, shallow depth of field,\ntasteful bokeh lights, high print-quality composition.\n\nConstraints:\n- Original artwork only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this card text (verbatim):\n\"Merry Christmas — some memories never fade.\"",
+    "translated_prompt": "",
+    "category": "Style & Intelligence",
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-holiday-card-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 1157,
+    "sort_order": 491,
+    "title": "ब्लिस्टर पैक में विन्टेज खिलौना हवाई जहाज कलेक्टिबल",
+    "description": "ब्लिस्टर पैकेजिंग में रिटेल-स्टाइल का कलेक्टिबल शॉट जिसमें पैकेजिंग की एक शब्दशः पंक्ति है।",
+    "prompt": "Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.\n\nConcept:\nA nostalgic holiday collectible inspired by the simple toy airplanes\nchildren used to play with during winter holidays.\nEvokes warmth, imagination, and childhood wonder.\n\nStyle:\nPremium toy photography, realistic plastic and painted metal textures,\nstudio lighting, shallow depth of field,\nsharp label printing, high-end retail presentation.\n\nConstraints:\n- Original design only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this packaging text (verbatim):\n\"Christmas Memories Edition\"",
+    "original_prompt": "Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.\n\nConcept:\nA nostalgic holiday collectible inspired by the simple toy airplanes\nchildren used to play with during winter holidays.\nEvokes warmth, imagination, and childhood wonder.\n\nStyle:\nPremium toy photography, realistic plastic and painted metal textures,\nstudio lighting, shallow depth of field,\nsharp label printing, high-end retail presentation.\n\nConstraints:\n- Original design only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this packaging text (verbatim):\n\"Christmas Memories Edition\"",
+    "translated_prompt": "",
+    "category": "Style & Intelligence",
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "source_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "source_published_at": "",
+    "source_platform": "official",
+    "author_name": "OpenAI",
+    "author_link": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-collectible-merchandise-out0.webp"
+    ],
+    "local_media": {
+      "images": [],
+      "video": ""
+    }
+  },
+  {
+    "id": 802,
+    "title": "डेस्क पर यथार्थवादी 1/7 स्केल फिगर",
+    "description": "कंप्यूटर डेस्क पर एक पारदर्शी आधार के साथ यथार्थवादी 1/7 स्केल कैरेक्टर फिगर की छवि जनरेट करने के लिए एक प्रॉम्प्ट।",
+    "prompt": "Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a realistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the",
+    "original_prompt": "Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a realistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the",
+    "translated_prompt": "",
+    "source_link": "https://x.com/cnyzgkc/status/2097868249392390473",
+    "source_published_at": "2026-09-10T02:02:21.000Z",
+    "source_platform": "x",
+    "author_name": "木马人",
+    "author_link": "https://x.com/cnyzgkc",
+    "language": "hi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/802_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097868249392390473",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 402,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/802_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 804,
+    "title": "फॉक्स कैरेक्टर की पिक्सेल आर्ट स्प्राइट शीट",
+    "description": "नोक्सा नामक एक छोटे लोमड़ी कैरेक्टर की पॉलिश पिक्सेल-आर्ट एनीमेशन स्प्राइट शीट जनरेट करने के लिए एक प्रॉम्प्ट, जो सितारे इकट्ठा करता है।",
+    "prompt": "Create a polished pixel-art animation sprite sheet featuring an original character named Noxa, a tiny fox who collects lost stars.\n\nCHARACTER DESIGN\nNoxa is an adorable upright arctic fox with silvery ivory fur, oversized pointed ears with lavender inner fur, enormous amber",
+    "original_prompt": "Create a polished pixel-art animation sprite sheet featuring an original character named Noxa, a tiny fox who collects lost stars.\n\nCHARACTER DESIGN\nNoxa is an adorable upright arctic fox with silvery ivory fur, oversized pointed ears with lavender inner fur, enormous amber",
+    "translated_prompt": "",
+    "source_link": "https://x.com/higgsfield_ai/status/2097849478506320056",
+    "source_published_at": "2026-09-10T00:47:46.000Z",
+    "source_platform": "x",
+    "author_name": "Higgsfield AI 🧩",
+    "author_link": "https://x.com/higgsfield_ai",
+    "language": "hi",
+    "likes": 30,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/804_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097849478506320056",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 404,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/804_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 809,
+    "title": "कम्पोज़िशन में चेहरे की पहचान संदर्भ",
+    "description": "चेहरे की पहचान संदर्भ का उपयोग करते हुए एक ही वयस्क पुरुष के सात संस्करणों वाली एकल फोटो जनरेट करने के लिए एक एआई प्रॉम्प्ट।",
+    "prompt": "Use the uploaded photo as the facial identity reference for the same adult man appearing throughout the composition. Preserve his recognizable facial",
+    "original_prompt": "Use the uploaded photo as the facial identity reference for the same adult man appearing throughout the composition. Preserve his recognizable facial",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abs_uiux/status/2097891312498507947",
+    "source_published_at": "2026-09-10T03:34:00.000Z",
+    "source_platform": "x",
+    "author_name": "Abkr Sadiq",
+    "author_link": "https://x.com/abs_uiux",
+    "language": "hi",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/809_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097891312498507947",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 406,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/809_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 810,
+    "title": "नाटकीय साहित्यिक प्रचार वॉल कवर",
+    "description": "चार सार्वजनिक डोमेन पुस्तकों के लिए नाटकीय प्रचार-शैली के वॉल कवरों का 2x2 ग्रिड जनरेट करने के लिए एक प्रॉम्प्ट।",
+    "prompt": "2x2 grid, 16:9, pick 4 non-copyrighted, public domain books for this: Create a dramatic literary propaganda-wall cover for BOOK_TITLE.  Infer automatically: - BOOK_GENRE - CORE_THEME - TITLE_MARKER",
+    "original_prompt": "2x2 grid, 16:9, pick 4 non-copyrighted, public domain books for this: Create a dramatic literary propaganda-wall cover for BOOK_TITLE.  Infer automatically: - BOOK_GENRE - CORE_THEME - TITLE_MARKER",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097878980913496093",
+    "source_published_at": "2026-09-10T02:45:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "hi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/810_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097878980913496093",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 407,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/810_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 811,
+    "title": "एप्पल फोल्डेबल फोन कॉन्सेप्ट इन्फोग्राफिक",
+    "description": "ब्रांड की विशिष्ट साफ-सुथरी शैली में एक एप्पल फोल्डेबल फोन का फोटोरियलिस्टिक इन्फोग्राफिक जनरेट करने के लिए एक प्रॉम्प्ट।",
+    "prompt": "Create a premium photorealistic Apple foldable-phone concept infographic, inspired by the clean visual language of official Apple product presentations. Use a pure white background with a subtle glossy white floor",
+    "original_prompt": "Create a premium photorealistic Apple foldable-phone concept infographic, inspired by the clean visual language of official Apple product presentations. Use a pure white background with a subtle glossy white floor",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2097877598118531379",
+    "source_published_at": "2026-09-10T02:39:30.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "hi",
+    "likes": 7,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/811_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/811_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097877598118531379",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 408,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/811_0.jpg",
+        "media/gpt-image-2-5/811_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 812,
+    "title": "चेहरे की पहचान संदर्भ का उपयोग करते हुए फैशन पोर्ट्रेट",
+    "description": "चेहरे की पहचान संदर्भ के रूप में एक फोटो का उपयोग करते हुए एक प्रीमियम, फुल-बॉडी फैशन पोर्ट्रेट जनरेट करने के लिए एक प्रॉम्प्ट।",
+    "prompt": "Use the uploaded photo as the facial identity reference for an adult man. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.\n\nCreate a premium, ultra-realistic full-body fashion portrait of",
+    "original_prompt": "Use the uploaded photo as the facial identity reference for an adult man. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.\n\nCreate a premium, ultra-realistic full-body fashion portrait of",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abs_uiux/status/2097852562611564905",
+    "source_published_at": "2026-09-10T01:00:01.000Z",
+    "source_platform": "x",
+    "author_name": "Abkr Sadiq",
+    "author_link": "https://x.com/abs_uiux",
+    "language": "hi",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/812_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097852562611564905",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 409,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/812_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 819,
+    "title": "चार ब्रांड्स के लिए कॉन्सेप्चुअल कटअवे डायोरामा",
+    "description": "चार फॉर्च्यून 500 कंपनियों के लिए कॉन्सेप्चुअल कटअवे डायोरामा का 2x2 ग्रिड जनरेट करने के लिए एक प्रॉम्प्ट।",
+    "prompt": "2x2 grid, 16:9, do this for 4 fortune 500 brands: SELECT image FROM conceptual_cutaway_dioramas WHERE subject = '[TOPIC]' AND outer_form =",
+    "original_prompt": "2x2 grid, 16:9, do this for 4 fortune 500 brands: SELECT image FROM conceptual_cutaway_dioramas WHERE subject = '[TOPIC]' AND outer_form =",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097767747744628814",
+    "source_published_at": "2026-09-09T19:23:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "hi",
+    "likes": 3,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/819_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097767747744628814",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 411,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/819_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 824,
+    "title": "युवा पूर्वी एशियाई महिला का क्लोज-अप सौंदर्य चित्र",
+    "description": "कोमल प्रकाश और विस्तृत त्वचा बनावट के साथ एक युवा पूर्वी एशियाई महिला का एक क्लोज-अप फोटोरियलिस्टिक चित्र।",
+    "prompt": "9:16 vertical, photorealistic beauty portrait, close-up composition, soft natural lighting, high-detail skin texture, subtle glow, shallow depth of field, clean softly blurred background, intimate and delicate mood. A clearly adult young East Asian woman",
+    "original_prompt": "9:16 vertical, photorealistic beauty portrait, close-up composition, soft natural lighting, high-detail skin texture, subtle glow, shallow depth of field, clean softly blurred background, intimate and delicate mood. A clearly adult young East Asian woman",
+    "translated_prompt": "",
+    "source_link": "https://x.com/BubbleBrain/status/2097880651714441590",
+    "source_published_at": "2026-09-10T02:51:38.000Z",
+    "source_platform": "x",
+    "author_name": "BubbleBrain",
+    "author_link": "https://x.com/BubbleBrain",
+    "language": "hi",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/824_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097880651714441590",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 414,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/824_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 826,
+    "title": "तटीय सड़क पर सूर्यास्त के समय एशियाई महिला",
+    "description": "सूर्यास्त के समय एक तटीय सड़क के किनारे एक युवा एशियाई महिला की एक फोटोरियलिस्टिक कैंडिड तस्वीर, जिसे कार के अंदर से देखा गया है।",
+    "prompt": "A highly photorealistic candid photograph of a completely new young adult Asian woman standing beside a scenic coastal road at sunset, photographed from inside a parked car through the passenger-side window. She has long, naturally messy dark-brown",
+    "original_prompt": "A highly photorealistic candid photograph of a completely new young adult Asian woman standing beside a scenic coastal road at sunset, photographed from inside a parked car through the passenger-side window. She has long, naturally messy dark-brown",
+    "translated_prompt": "",
+    "source_link": "https://x.com/nicolecreats/status/2097802476594315569",
+    "source_published_at": "2026-09-09T21:41:00.000Z",
+    "source_platform": "x",
+    "author_name": "Nicole",
+    "author_link": "https://x.com/nicolecreats",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/826_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/826_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097802476594315569",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 415,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/826_0.jpg",
+        "media/gpt-image-2-5/826_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 854,
+    "title": "कमल पत्ते के द्वीप का जल-स्तरीय मैक्रो दृश्य",
+    "description": "जल स्तर से लिया गया एक सिनेमाई मैक्रो शॉट के लिए एक प्रॉम्प्ट, जो एक कमल के पत्ते को एक द्वीप के रूप में दर्शाता है जिस पर हानफू पहने तीन छोटे आकृतियाँ निवास करती हैं।",
+    "prompt": "Water-level macro cinematography among lotus leaves in a small pond, with the camera almost touching the water. A lotus leaf approximately forty centimeters wide becomes an island. Three figures, each about two centimeters tall and dressed in plain Hanfu, inhabit the leaf.",
+    "original_prompt": "Water-level macro cinematography among lotus leaves in a small pond, with the camera almost touching the water. A lotus leaf approximately forty centimeters wide becomes an island. Three figures, each about two centimeters tall and dressed in plain Hanfu, inhabit the leaf.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/JohnnyWang8802/status/2097778188038643835",
+    "source_published_at": "2026-09-09T20:04:29.000Z",
+    "source_platform": "x",
+    "author_name": "Johnny Wang",
+    "author_link": "https://x.com/JohnnyWang8802",
+    "language": "hi",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/854_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097778188038643835",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 416,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/854_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 855,
+    "title": "कटाना धार वाला विशाल तीन-शाखा वाला पंजा",
+    "description": "एक विशाल दो-हाथी हथियार के लिए एक प्रॉम्प्ट, जिसमें तीन शाखाएँ हैं जिनकी धारें जापानी तलवार की तरह तेज और पॉलिश की गई हैं।",
+    "prompt": "日本刀のように美しく研ぎ澄まされた刃を持つ巨大な両手装備の3本鉤爪",
+    "original_prompt": "日本刀のように美しく研ぎ澄まされた刃を持つ巨大な両手装備の3本鉤爪",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AItomato2101/status/2097723918736035884",
+    "source_published_at": "2026-09-09T16:28:50.000Z",
+    "source_platform": "x",
+    "author_name": "TOMATO🍅トマト",
+    "author_link": "https://x.com/AItomato2101",
+    "language": "hi",
+    "likes": 21,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/855_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097723918736035884",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 417,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/855_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 857,
+    "title": "सुबह की रोशनी में एक ऋतु का दूत",
+    "description": "एक काव्यात्मक प्रॉम्प्ट जो सुबह की रोशनी, मैगज़ीन स्किन और इतने पतले कांच के साथ एक ऋतु के दूत का वर्णन करता है कि वह छुपाए नहीं।",
+    "prompt": "Not a character.\nAn ambassador for a season.\n\nMorning light.\n\nMagazine skin.\n\nGlass thin enough\nnot to hide\n\nWhat the campaign pretended to hide.\n\nBeauty with manners.\nCharm with intent.\n\nIf this were a real house,\nwhose face would sign the summer?",
+    "original_prompt": "Not a character.\nAn ambassador for a season.\n\nMorning light.\n\nMagazine skin.\n\nGlass thin enough\nnot to hide\n\nWhat the campaign pretended to hide.\n\nBeauty with manners.\nCharm with intent.\n\nIf this were a real house,\nwhose face would sign the summer?",
+    "translated_prompt": "",
+    "source_link": "https://x.com/livybabie/status/2097773821830869048",
+    "source_published_at": "2026-09-09T19:47:08.000Z",
+    "source_platform": "x",
+    "author_name": "Olivia Bernardo",
+    "author_link": "https://x.com/livybabie",
+    "language": "hi",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/857_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/857_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/857_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/857_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097773821830869048",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 418,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/857_0.jpg",
+        "media/gpt-image-2-5/857_1.jpg",
+        "media/gpt-image-2-5/857_2.jpg",
+        "media/gpt-image-2-5/857_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 860,
+    "title": "किरदार के लिए पिक्सेल आर्ट स्प्राइट शीट",
+    "description": "एक किरदार के लिए सरलीकृत 128px पिक्सेल आर्ट बैटल मोशन स्प्राइट शीट बनाने का प्रॉम्प्ट, जो 4x4 ग्रिड में पारदर्शी पृष्ठभूमि के साथ व्यवस्थित है।",
+    "prompt": "このキャラクターの128pxの簡略化されたpixelartの戦闘モーションのスプライトシートを作って。透過できるなら透過。4x4で配置すること ※background=\"transparent\"",
+    "original_prompt": "このキャラクターの128pxの簡略化されたpixelartの戦闘モーションのスプライトシートを作って。透過できるなら透過。4x4で配置すること ※background=\"transparent\"",
+    "translated_prompt": "",
+    "source_link": "https://x.com/tetumemo/status/2097750589937733916",
+    "source_published_at": "2026-09-09T18:14:49.000Z",
+    "source_platform": "x",
+    "author_name": "テツメモ｜AI図解×検証｜Newsletter",
+    "author_link": "https://x.com/tetumemo",
+    "language": "hi",
+    "likes": 43,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/860_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/860_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/860_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097750589937733916",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Precision Editing",
+    "sort_order": 419,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/860_0.jpg",
+        "media/gpt-image-2-5/860_1.jpg",
+        "media/gpt-image-2-5/860_2.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 863,
+    "title": "संदर्भ से स्वप्निल सिनेमाई चित्र",
+    "description": "विषय की पहचान और प्राकृतिक विशेषताओं को संरक्षित रखते हुए एक यथार्थवादी, स्वप्निल सिनेमाई चित्र बनाने के लिए एक प्रॉम्प्ट।",
+    "prompt": "Create an ultra-realistic dreamy cinematic portrait using the uploaded reference image as the identity reference. Preserve the person’s, skin tone, facial features, and natural appearance without altering or beautifying them.",
+    "original_prompt": "Create an ultra-realistic dreamy cinematic portrait using the uploaded reference image as the identity reference. Preserve the person’s, skin tone, facial features, and natural appearance without altering or beautifying them.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2096595619225964766",
+    "source_published_at": "2026-09-06T13:45:23.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "hi",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/863_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/863_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/863_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/863_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096595619225964766",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 421,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/863_0.jpg",
+        "media/gpt-image-2-5/863_1.jpg",
+        "media/gpt-image-2-5/863_2.jpg",
+        "media/gpt-image-2-5/863_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 864,
+    "title": "फोटो से 3डी क्लेमेशन चित्र",
+    "description": "एक विस्तृत, प्यारा 3डी क्लेमेशन चित्र उत्पन्न करने का प्रॉम्प्ट जो उपयोगकर्ता द्वारा अपलोड की गई तस्वीर से विषय की पहचान और समानता बनाए रखता है।",
+    "prompt": "A highly detailed, ultra-cute 3D claymation style portrait, meticulously retaining the precise identity, jawline, and facial likeness of the person in USER-UPLOADED PHOTO. The user's distinct features are beautifully",
+    "original_prompt": "A highly detailed, ultra-cute 3D claymation style portrait, meticulously retaining the precise identity, jawline, and facial likeness of the person in USER-UPLOADED PHOTO. The user's distinct features are beautifully",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2096593080099197300",
+    "source_published_at": "2026-09-06T13:35:17.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/864_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/864_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/864_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096593080099197300",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 422,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/864_0.jpg",
+        "media/gpt-image-2-5/864_1.jpg",
+        "media/gpt-image-2-5/864_2.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 892,
+    "title": "ज्यामितीय सोने के मुकुट वाला प्रोफाइल चित्र",
+    "description": "एक आदेशात्मक व्यक्ति का छवि प्रॉम्प्ट जो लपेटे हुए काले बालों पर ज्यामितीय सोने के डिस्क के मुकुट पहने तीखे प्रोफाइल में है।",
+    "prompt": "A commanding figure in razor-flat profile, a crown of geometric gold discs stacked over a natural crown of coiled dark hair, hard",
+    "original_prompt": "A commanding figure in razor-flat profile, a crown of geometric gold discs stacked over a natural crown of coiled dark hair, hard",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abulu8/status/2096385146773721182",
+    "source_published_at": "2026-09-05T23:49:02.000Z",
+    "source_platform": "x",
+    "author_name": "Syed Abuthahir ∞",
+    "author_link": "https://x.com/abulu8",
+    "language": "hi",
+    "likes": 20,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/892_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096385146773721182",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 425,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/892_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 896,
+    "title": "हीरे के ताज वाली दीप्तिमान राजकुमारी",
+    "description": "एक दीप्तिमान व्यक्ति का एआई छवि प्रॉम्प्ट जो तीखे प्रोफाइल में एक ओवरसाइज्ड हीरे का ताज पहने हुए है।",
+    "prompt": "A radiant figure in sharp profile, an oversized diamond tiara catching prismatic light low over the brow, oversized",
+    "original_prompt": "A radiant figure in sharp profile, an oversized diamond tiara catching prismatic light low over the brow, oversized",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abulu8/status/2095998252747473042",
+    "source_published_at": "2026-09-04T22:11:39.000Z",
+    "source_platform": "x",
+    "author_name": "Syed Abuthahir ∞",
+    "author_link": "https://x.com/abulu8",
+    "language": "hi",
+    "likes": 26,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/896_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095998252747473042",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 426,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/896_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 902,
+    "title": "वूशिया शैली में एक पूर्वी एशियाई महिला का क्लोज-अप चित्र",
+    "description": "अत्यधिक वाइड-एंगल परिप्रेक्ष्य के साथ वूशिया शैली में एक युवा पूर्वी एशियाई महिला का एक हाइपर-रियलिस्टिक चित्र।",
+    "prompt": "9:16 竖版，近距离半身构图，超写实真人摄影 × 东方武侠电影 × 极端广角透视 × 冷艳高级 Editorial。一位 20–23 岁、明确成年的漂亮东亚女性，身材高挑纤细，头部偏小、脸型小巧，肩颈舒展，腰身纤细。胸部视觉约为自然 E",
+    "original_prompt": "9:16 竖版，近距离半身构图，超写实真人摄影 × 东方武侠电影 × 极端广角透视 × 冷艳高级 Editorial。一位 20–23 岁、明确成年的漂亮东亚女性，身材高挑纤细，头部偏小、脸型小巧，肩颈舒展，腰身纤细。胸部视觉约为自然 E",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095524016295666021",
+    "source_published_at": "2026-09-03T14:47:13.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "hi",
+    "likes": 224,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/902_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/902_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095524016295666021",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 428,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/902_0.jpg",
+        "media/gpt-image-2-5/902_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 905,
+    "title": "आरामदायक घरेलू माहौल में एक महिला का फुल-बॉडी चित्र",
+    "description": "गर्म सिनेमाई टोन के साथ आलसी घरेलू माहौल में एक युवा पूर्वी एशियाई महिला का 9:16 लंबवत, फुल-बॉडी, हाइपर-रियलिस्टिक फोटो के लिए एक प्रॉम्प्ट।",
+    "prompt": "9:16 竖版，完整全身构图，超写实真人摄影 × 高级职业时尚 Editorial × 慵懒居家氛围 × 暖调电影感。一位 20–22 岁、明确成年的漂亮东亚女性，身高约 1.75",
+    "original_prompt": "9:16 竖版，完整全身构图，超写实真人摄影 × 高级职业时尚 Editorial × 慵懒居家氛围 × 暖调电影感。一位 20–22 岁、明确成年的漂亮东亚女性，身高约 1.75",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095446985310630347",
+    "source_published_at": "2026-09-03T09:41:07.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "hi",
+    "likes": 146,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/905_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/905_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095446985310630347",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 429,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/905_0.jpg",
+        "media/gpt-image-2-5/905_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 918,
+    "title": "बच्चे और विशाल स्नीकर वाला बच्चों के जूतों का विज्ञापन पोस्टर",
+    "description": "एक बच्ची और एक विशाल स्नीकर वाला एक आनंददायक विज्ञापन पोस्टर बनाने का प्रॉम्प्ट।",
+    "prompt": "A sweet fun kids footwear advertisement poster. An adorable young girl age 7 with a big smile in a soft pink tulle skirt and white top skips joyfully beside a giant pink and white sneaker 3x her height with a glittery sole and bow detail on the",
+    "original_prompt": "A sweet fun kids footwear advertisement poster. An adorable young girl age 7 with a big smile in a soft pink tulle skirt and white top skips joyfully beside a giant pink and white sneaker 3x her height with a glittery sole and bow detail on the",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Strength04_X/status/2098027327850787203",
+    "source_published_at": "2026-09-10T12:34:29.000Z",
+    "source_platform": "x",
+    "author_name": "𝐌",
+    "author_link": "https://x.com/Strength04_X",
+    "language": "hi",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/918_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098027327850787203",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 432,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/918_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 919,
+    "title": "16 मुद्राओं वाली चिबी किरदार स्प्राइट शीट",
+    "description": "विभिन्न मुद्राओं वाली एक चिबी किरदार की 4x4 ग्रिड स्प्राइट शीट उत्पन्न करने का प्रॉम्प्ट।",
+    "prompt": "Create a chibi character sprite sheet with 16 poses in a 4x4 grid. Character: [describe tu personaje]. Poses: idle, walking, running, jumping,",
+    "original_prompt": "Create a chibi character sprite sheet with 16 poses in a 4x4 grid. Character: [describe tu personaje]. Poses: idle, walking, running, jumping,",
+    "translated_prompt": "",
+    "source_link": "https://x.com/zibxx/status/2098026042946400703",
+    "source_published_at": "2026-09-10T12:29:22.000Z",
+    "source_platform": "x",
+    "author_name": "Zibá",
+    "author_link": "https://x.com/zibxx",
+    "language": "hi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/919_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/919_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098026042946400703",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 433,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/919_0.jpg",
+        "media/gpt-image-2-5/919_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 920,
+    "title": "एक स्थान के लिए संपादकीय कला पोस्टर",
+    "description": "खेल-तमाशा जापानी डिज़ाइन-ज़ीन शैली में एक उच्च-रिज़ॉल्यूशन लंबवत संपादकीय पोस्टर बनाने का प्रॉम्प्ट।",
+    "prompt": "Create a premium contemporary editorial art poster for [LOCATION] in a playful Japanese design-ZINE style.\n\nFORMAT: Vertical 3:4 | High resolution | Modern editorial art\n\nAutomatically choose the most iconic and visually interesting-elements of [URL]",
+    "original_prompt": "Create a premium contemporary editorial art poster for [LOCATION] in a playful Japanese design-ZINE style.\n\nFORMAT: Vertical 3:4 | High resolution | Modern editorial art\n\nAutomatically choose the most iconic and visually interesting-elements of [URL]",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Goodmanprotocol/status/2098025936721707252",
+    "source_published_at": "2026-09-10T12:28:57.000Z",
+    "source_platform": "x",
+    "author_name": "Saul Goodman",
+    "author_link": "https://x.com/Goodmanprotocol",
+    "language": "hi",
+    "likes": 8,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/920_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/920_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/920_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/920_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098025936721707252",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 434,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/920_0.jpg",
+        "media/gpt-image-2-5/920_1.jpg",
+        "media/gpt-image-2-5/920_2.jpg",
+        "media/gpt-image-2-5/920_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 921,
+    "title": "बेडरूम में फोटोरियलिस्टिक स्मार्टफोन सेल्फी",
+    "description": "एक युवा पूर्वी एशियाई महिला की रात में बिस्तर पर आराम करते हुए एक फोटोरियलिस्टिक परिदृश्य स्मार्टफोन सेल्फी।",
+    "prompt": "A photorealistic 4:3 landscape smartphone selfie of an adult East Asian woman around 25 years old relaxing on a bed in a quiet bedroom at night, capturing an",
+    "original_prompt": "A photorealistic 4:3 landscape smartphone selfie of an adult East Asian woman around 25 years old relaxing on a bed in a quiet bedroom at night, capturing an",
+    "translated_prompt": "",
+    "source_link": "https://x.com/listudio/status/2098007812228120782",
+    "source_published_at": "2026-09-10T11:16:56.000Z",
+    "source_platform": "x",
+    "author_name": "leolee",
+    "author_link": "https://x.com/listudio",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/921_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098007812228120782",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 435,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/921_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 923,
+    "title": "प्रतिष्ठित स्थलों से बना 3डी लघु देश",
+    "description": "एक 3डी लघु मानचित्र बनाने का प्रॉम्प्ट जहाँ किसी देश की सीमा उसके प्रतिष्ठित स्थलों और सांस्कृतिक प्रतीकों से बनी हो।",
+    "prompt": "Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other",
+    "original_prompt": "Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2097996229582147939",
+    "source_published_at": "2026-09-10T10:30:54.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "hi",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/923_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/923_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/923_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/923_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097996229582147939",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 436,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/923_0.jpg",
+        "media/gpt-image-2-5/923_1.jpg",
+        "media/gpt-image-2-5/923_2.jpg",
+        "media/gpt-image-2-5/923_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 924,
+    "title": "पेरिस में एक महिला की सिनेमाई पोर्ट्रेट",
+    "description": "एक दक्षिण पूर्व एशियाई हिजाबी महिला की एफिल टावर के पास चलते हुए अल्ट्रा-रियलिस्टिक सिनेमाई फोटो के लिए प्रॉम्प्ट।",
+    "prompt": "Ultra-realistic cinematic photography, vertical 9:16, dreamy Paris street portrait with a subtle analog photography character. A beautiful young Southeast Asian hijabi woman walks near the Eiffel Tower, captured from a close three-quarter rear",
+    "original_prompt": "Ultra-realistic cinematic photography, vertical 9:16, dreamy Paris street portrait with a subtle analog photography character. A beautiful young Southeast Asian hijabi woman walks near the Eiffel Tower, captured from a close three-quarter rear",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIwithSarah_/status/2097988919602389025",
+    "source_published_at": "2026-09-10T10:01:51.000Z",
+    "source_platform": "x",
+    "author_name": "Sarah",
+    "author_link": "https://x.com/AIwithSarah_",
+    "language": "hi",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/924_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/924_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/924_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097988919602389025",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 437,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/924_0.jpg",
+        "media/gpt-image-2-5/924_1.jpg",
+        "media/gpt-image-2-5/924_2.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 925,
+    "title": "लक्जरी फैशन फैब्रिक से पुनर्निर्मित जानवर",
+    "description": "चार प्रतिष्ठित लक्जरी फैशन हाउसों के सिग्नेचर फैब्रिक का उपयोग करके पुनर्निर्मित जानवरों के 2x2 ग्रिड को जनरेट करने का प्रॉम्प्ट।",
+    "prompt": "Animals rebuilt with fabrics of luxury fashion houses. 16:9, 2x2 grid, 4 brands/animals",
+    "original_prompt": "Animals rebuilt with fabrics of luxury fashion houses. 16:9, 2x2 grid, 4 brands/animals",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097981153760116975",
+    "source_published_at": "2026-09-10T09:31:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "hi",
+    "likes": 8,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/925_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097981153760116975",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 438,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/925_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 926,
+    "title": "दो संदर्भ छवियों से एनिमेटेड दृश्य",
+    "description": "एक आरामदायक बेडरूम में एक बच्चे के खेलने के एनिमेटेड दृश्य को बनाने का प्रॉम्प्ट।",
+    "prompt": "Turn the two reference images into one adorable, heartwarming animated scene of a little girl playing peacefully in her cozy dream bedroom. CHARACTER A cute toddler girl with soft fair skin, round adorable features, rosy cheeks, large expressive",
+    "original_prompt": "Turn the two reference images into one adorable, heartwarming animated scene of a little girl playing peacefully in her cozy dream bedroom. CHARACTER A cute toddler girl with soft fair skin, round adorable features, rosy cheeks, large expressive",
+    "translated_prompt": "",
+    "source_link": "https://x.com/KrishnaBio1/status/2097980339490574356",
+    "source_published_at": "2026-09-10T09:27:46.000Z",
+    "source_platform": "x",
+    "author_name": "KrishnaG",
+    "author_link": "https://x.com/KrishnaBio1",
+    "language": "hi",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/926_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/926_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097980339490574356",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 439,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/926_0.jpg",
+        "media/gpt-image-2-5/926_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 927,
+    "title": "प्रीमियम स्मार्टफोन अभियान पोस्टर",
+    "description": "एप्पल की सिग्नेचर शैली में एक हाई-एंड स्मार्टफोन प्रचार पोस्टर जनरेट करने का प्रॉम्प्ट।",
+    "prompt": "4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready\nStyle: Apple-level art direction × contemporary product photography × bold editorial",
+    "original_prompt": "4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready\nStyle: Apple-level art direction × contemporary product photography × bold editorial",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Diplomeme/status/2097978468642480487",
+    "source_published_at": "2026-09-10T09:20:20.000Z",
+    "source_platform": "x",
+    "author_name": "ᴍᴜʀᴘʜʏ",
+    "author_link": "https://x.com/Diplomeme",
+    "language": "hi",
+    "likes": 48,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/927_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/927_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097978468642480487",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 440,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/927_0.jpg",
+        "media/gpt-image-2-5/927_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 929,
+    "title": "लक्जरी परफ्यूम कमर्शियल स्टोरीबोर्ड",
+    "description": "एक साफ एडिटोरियल लेआउट में लक्जरी गुलाब परफ्यूम वाला एक सिनेमाई प्रोडक्ट स्टोरीबोर्ड के लिए प्रॉम्प्ट।",
+    "prompt": "Luxury Rose Perfume Cinematic Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 portrait storyboard sheet\n• 10 cinematic product-focused panels\n• Clean editorial grid with thin borders",
+    "original_prompt": "Luxury Rose Perfume Cinematic Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 portrait storyboard sheet\n• 10 cinematic product-focused panels\n• Clean editorial grid with thin borders",
+    "translated_prompt": "",
+    "source_link": "https://x.com/WanderingC76/status/2097964022293549127",
+    "source_published_at": "2026-09-10T08:22:55.000Z",
+    "source_platform": "x",
+    "author_name": "Wandering Corner",
+    "author_link": "https://x.com/WanderingC76",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/929_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/929_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097964022293549127",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 442,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/929_0.jpg",
+        "media/gpt-image-2-5/929_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 931,
+    "title": "चेहरे के संदर्भ से 1980 का पोर्ट्रेट",
+    "description": "1980 के रेट्रो-विंटेज स्टाइल में एक पोर्ट्रेट जनरेट करने का प्रॉम्प्ट, जो विषय की सटीक चेहरे की विशेषताओं और पहचान को संरक्षित रखता है।",
+    "prompt": "Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high",
+    "original_prompt": "Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Goodmanprotocol/status/2097954772586557873",
+    "source_published_at": "2026-09-10T07:46:10.000Z",
+    "source_platform": "x",
+    "author_name": "Saul Goodman",
+    "author_link": "https://x.com/Goodmanprotocol",
+    "language": "hi",
+    "likes": 82,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/931_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/931_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/931_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/931_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097954772586557873",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 443,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/931_0.jpg",
+        "media/gpt-image-2-5/931_1.jpg",
+        "media/gpt-image-2-5/931_2.jpg",
+        "media/gpt-image-2-5/931_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 933,
+    "title": "लक्जरी परफ्यूम कमर्शियल स्टोरीबोर्ड",
+    "description": "लक्जरी गुलाब परफ्यूम वाला एक सिनेमाई प्रोडक्ट कमर्शियल स्टोरीबोर्ड के लिए प्रॉम्प्ट।",
+    "prompt": "TITLE: Luxury Rose Perfume Cinematic Product Commercial Storyboard  FORMAT: • Single-page premium storyboard • 3:4 portrait storyboard sheet • 10 cinematic product-focused panels • Clean editorial grid with thin borders",
+    "original_prompt": "TITLE: Luxury Rose Perfume Cinematic Product Commercial Storyboard  FORMAT: • Single-page premium storyboard • 3:4 portrait storyboard sheet • 10 cinematic product-focused panels • Clean editorial grid with thin borders",
+    "translated_prompt": "",
+    "source_link": "https://x.com/SinhaRahul27183/status/2097949748766671352",
+    "source_published_at": "2026-09-10T07:26:12.000Z",
+    "source_platform": "x",
+    "author_name": "Rahul Raj Sinha",
+    "author_link": "https://x.com/SinhaRahul27183",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/933_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097949748766671352",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 444,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/933_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 934,
+    "title": "आर्किटेक्चर के साथ आधुनिक ट्रैवल पोस्टर",
+    "description": "विंटेज स्क्रीन-प्रिंट स्टाइल और आर्किटेक्चरल पोर्टल कम्पोजिशन वाला एक प्रीमियम ट्रैवल पोस्टर बनाने का प्रॉम्प्ट।",
+    "prompt": "Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.\n\nPlace a large distinctive [LOCAL ARCHITECTURAL ELEMENT /",
+    "original_prompt": "Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.\n\nPlace a large distinctive [LOCAL ARCHITECTURAL ELEMENT /",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2097920025617399875",
+    "source_published_at": "2026-09-10T05:28:06.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "hi",
+    "likes": 34,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/934_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/934_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/934_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/934_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097920025617399875",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 445,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/934_0.jpg",
+        "media/gpt-image-2-5/934_1.jpg",
+        "media/gpt-image-2-5/934_2.jpg",
+        "media/gpt-image-2-5/934_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 937,
+    "title": "स्टॉप मोशन क्लेमेशन चरमेंडर का अंडे से निकलना",
+    "description": "क्ले-स्टाइल चरमेंडर के अंडे से निकलने और आग उगलने का स्टॉप-मोशन एनीमेशन बनाने का प्रॉम्प्ट।",
+    "prompt": "我要做stop motion animation\n粘土风格\n小火龙从蛋里面孵化成功，破壳而出，然后喷火。 规划好，输出36张图，然后合并在一起输出3s gif。",
+    "original_prompt": "我要做stop motion animation\n粘土风格\n小火龙从蛋里面孵化成功，破壳而出，然后喷火。 规划好，输出36张图，然后合并在一起输出3s gif。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/cheerselflin/status/2097903279506125119",
+    "source_published_at": "2026-09-10T04:21:33.000Z",
+    "source_platform": "x",
+    "author_name": "林悦己Cheer",
+    "author_link": "https://x.com/cheerselflin",
+    "language": "hi",
+    "likes": 69,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/937_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097903279506125119",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 448,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/937_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 938,
+    "title": "मैग्रिट के सेब का नोटपैड स्टैक के रूप में रचनात्मक पुनर्व्याख्या",
+    "description": "मैग्रिट के 'द सन ऑफ मैन' की एक रचनात्मक पुनर्व्याख्या जहाँ तैरते हुए सेब को सेब के आकार के पेपर नोट्स के स्टैक से बदल दिया गया है।",
+    "prompt": "马格利特脸前的苹果，被我撕下来一片。下面居然还有一片。把《人类之子》画成苹果便利贴座之后，挡住脸的苹果，就成了每天都能用的纸。这个点子可以从“什么能被替换”开始想：① 保留礼帽、西装、红领带和遮脸构图。② 把立体苹果换成一叠苹果形纸张。",
+    "original_prompt": "马格利特脸前的苹果，被我撕下来一片。下面居然还有一片。把《人类之子》画成苹果便利贴座之后，挡住脸的苹果，就成了每天都能用的纸。这个点子可以从“什么能被替换”开始想：① 保留礼帽、西装、红领带和遮脸构图。② 把立体苹果换成一叠苹果形纸张。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/cellinlab/status/2097901637889393064",
+    "source_published_at": "2026-09-10T04:15:02.000Z",
+    "source_platform": "x",
+    "author_name": "Cell 细胞",
+    "author_link": "https://x.com/cellinlab",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/938_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097901637889393064",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 449,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/938_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 944,
+    "title": "जापानी घर में हाइपररियलिस्टिक फैशन पोर्ट्रेट",
+    "description": "एक महिला का हाइपररियलिस्टिक फैशन पोर्ट्रेट जो पारंपरिक जापानी लकड़ी के कॉरिडोर में चल रही है।",
+    "prompt": "A hyperrealistic full-body lifestyle fashion portrait of an adult East Asian woman walking slowly toward the camera through a narrow corridor inside a traditional Japanese wooden house. She occupies the left-center of the vertical frame, surrounded",
+    "original_prompt": "A hyperrealistic full-body lifestyle fashion portrait of an adult East Asian woman walking slowly toward the camera through a narrow corridor inside a traditional Japanese wooden house. She occupies the left-center of the vertical frame, surrounded",
+    "translated_prompt": "",
+    "source_link": "https://x.com/johnAGI168/status/2098031845619237206",
+    "source_published_at": "2026-09-10T12:52:26.000Z",
+    "source_platform": "x",
+    "author_name": "John",
+    "author_link": "https://x.com/johnAGI168",
+    "language": "hi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/944_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098031845619237206",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 450,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/944_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 945,
+    "title": "अल्ट्रा-मिनिमल रोमन साम्राज्य वॉलपेपर",
+    "description": "एक भव्य रोमन मंदिर को गर्म सुनहरे रंगों में खंभों, एक्वाडक्ट्स और खंडहरों के साथ दर्शाता हुआ एक अल्ट्रा-मिनिमल वॉलपेपर।",
+    "prompt": "Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden",
+    "original_prompt": "Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden",
+    "translated_prompt": "",
+    "source_link": "https://x.com/shushant_l/status/2097988208357474530",
+    "source_published_at": "2026-09-10T09:59:02.000Z",
+    "source_platform": "x",
+    "author_name": "Shushant Lakhyani",
+    "author_link": "https://x.com/shushant_l",
+    "language": "hi",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/945_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097988208357474530",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 451,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/945_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 946,
+    "title": "कैरेक्टर डिज़ाइन रेफरेंस शीट",
+    "description": "प्रदान की गई संदर्भ छवि के आधार पर एक पेशेवर कैरेक्टर मॉडल शीट जनरेट करने का प्रॉम्प्ट।",
+    "prompt": "Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.\n\nREFERENCE & IDENTITY LOCK:\nUse the uploaded reference as the single source of truth for the",
+    "original_prompt": "Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.\n\nREFERENCE & IDENTITY LOCK:\nUse the uploaded reference as the single source of truth for the",
+    "translated_prompt": "",
+    "source_link": "https://x.com/meAsifAi/status/2097949170594193427",
+    "source_published_at": "2026-09-10T07:23:54.000Z",
+    "source_platform": "x",
+    "author_name": "M. Asif",
+    "author_link": "https://x.com/meAsifAi",
+    "language": "hi",
+    "likes": 19,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/946_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097949170594193427",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 452,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/946_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 952,
+    "title": "तकनीकी विस्फोटित दृश्य ग्रिड",
+    "description": "जटिल मशीनों के विस्फोटित 3डी दृश्य दिखाने वाले तकनीकी चित्रों के 2x2 ग्रिड को उत्पन्न करने के लिए एक प्रॉम्प्ट।",
+    "prompt": "Combined a technical illustration and 3D exploded view of complex machines. 2x2 grid, 16:9, do this for 4 complex machines A technical illustration brought to life: an exploded-view schematic where physical miniature components float in precise geometric",
+    "original_prompt": "Combined a technical illustration and 3D exploded view of complex machines. 2x2 grid, 16:9, do this for 4 complex machines A technical illustration brought to life: an exploded-view schematic where physical miniature components float in precise geometric",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097953723968344551",
+    "source_published_at": "2026-09-10T07:42:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "hi",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/952_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097953723968344551",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 453,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/952_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 953,
+    "title": "फुल-पेज रंगीन कॉमिक चित्रण",
+    "description": "प्रामाणिक कॉमिक पेज कंपोजिशन का उपयोग करते हुए एक पूर्ण-पृष्ठ, रंगीन और हास्यपूर्ण शोनेन मंगा चित्रण उत्पन्न करने का प्रॉम्प्ट।",
+    "prompt": "创作一幅全页彩色好笑的热血漫画插图。使用真实的漫画页面构图，在单页上包含 5–7",
+    "original_prompt": "创作一幅全页彩色好笑的热血漫画插图。使用真实的漫画页面构图，在单页上包含 5–7",
+    "translated_prompt": "",
+    "source_link": "https://x.com/yang02010/status/2097947497922712005",
+    "source_published_at": "2026-09-10T07:17:16.000Z",
+    "source_platform": "x",
+    "author_name": "牙仔⇌",
+    "author_link": "https://x.com/yang02010",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/953_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097947497922712005",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 454,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/953_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 956,
+    "title": "बरसाती ट्रेन प्लेटफॉर्म का एनिमे फ्रेम",
+    "description": "एक प्लेटफॉर्म पर बारिश, एक आ रही ट्रेन और एक शहर के ऊपर तैरती हुई कॉय मछली वाले एक अस्तित्वहीन एनिमे फ्रेम को उत्पन्न करने का प्रॉम्प्ट।",
+    "prompt": "A frame from an anime that doesn't exist. Rain on the platform, a train pulling in, and a koi drifting over the city.",
+    "original_prompt": "A frame from an anime that doesn't exist. Rain on the platform, a train pulling in, and a koi drifting over the city.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/morphedai/status/2097912956189048939",
+    "source_published_at": "2026-09-10T05:00:00.000Z",
+    "source_platform": "x",
+    "author_name": "Morphed",
+    "author_link": "https://x.com/morphedai",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/956_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/956_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/956_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097912956189048939",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 455,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/956_0.jpg",
+        "media/gpt-image-2-5/956_1.jpg",
+        "media/gpt-image-2-5/956_2.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 959,
+    "title": "अव्यवस्था के बीच एक बिल्ली से मित्रता करता व्यक्ति",
+    "description": "एक दृश्य जो किसी ऐसे व्यक्ति को दर्शाता है जो विभिन्न चीजों में शामिल होने के बाद, एक बिल्ली से मित्रता कर लेता है।",
+    "prompt": "いろんなことに巻き込まれてもらったら、いつの間にかネコと仲良くなってた",
+    "original_prompt": "いろんなことに巻き込まれてもらったら、いつの間にかネコと仲良くなってた",
+    "translated_prompt": "",
+    "source_link": "https://x.com/tori_kizi/status/2097940196725751815",
+    "source_published_at": "2026-09-10T06:48:15.000Z",
+    "source_platform": "x",
+    "author_name": "トリキジ",
+    "author_link": "https://x.com/tori_kizi",
+    "language": "hi",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/959_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097940196725751815",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 457,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/959_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 963,
+    "title": "हाईलैंड एक्वेरियम में लोमड़ी जेलीफ़िश",
+    "description": "एक हाईलैंड पर स्थित एक्वेरियम के अंदर एक नींद भरी आँखों वाली लोमड़ी और जेलीफ़िश की छवि, जिसे दानेदार प्रकाश कणों के बिना एक शैली में रेंडर किया गया है।",
+    "prompt": "キツネ/クラゲ/高原/水槽の中/眠そうなジト目\n光のつぶつぶ感が無くなったimage 2.5",
+    "original_prompt": "キツネ/クラゲ/高原/水槽の中/眠そうなジト目\n光のつぶつぶ感が無くなったimage 2.5",
+    "translated_prompt": "",
+    "source_link": "https://x.com/MATCHA_ORANGE_/status/2098025183567351858",
+    "source_published_at": "2026-09-10T12:25:57.000Z",
+    "source_platform": "x",
+    "author_name": "抹茶オレンジ🧋🍊",
+    "author_link": "https://x.com/MATCHA_ORANGE_",
+    "language": "hi",
+    "likes": 18,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/963_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098025183567351858",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 458,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/963_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 964,
+    "title": "सूरज और बादलों को कमल के फूल में बदलें",
+    "description": "बादलों और सूरज की एक तस्वीर को बढ़ाने का प्रॉम्प्ट ताकि सूरज एक फूल के केंद्र जैसा और बादल एक कमल जैसे दिखें, मूल छवि को बदले बिना।",
+    "prompt": "太阳像花心，周围的云像一朵莲花，但不要改变原图，只把这种感觉表现得更明显。",
+    "original_prompt": "太阳像花心，周围的云像一朵莲花，但不要改变原图，只把这种感觉表现得更明显。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/DylanHayes63767/status/2097898551212921022",
+    "source_published_at": "2026-09-10T04:02:46.000Z",
+    "source_platform": "x",
+    "author_name": "Dylan Hayes",
+    "author_link": "https://x.com/DylanHayes63767",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Precision Editing"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/964_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097898551212921022",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Precision Editing",
+    "sort_order": 459,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/964_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 965,
+    "title": "किमोनो पहनी महिला बीफ टंग राइस खाते हुए",
+    "description": "किमोनो पहनी एक महिला की छवि, जिसमें बीफ टंग और जौ के चावल के भोजन को दर्शाया गया दृश्य है।",
+    "prompt": "和服の女性。\nA woman in Japanese clothes.\n牛タンと麦飯を食べました。\nI had beef tongue with barley rice.",
+    "original_prompt": "和服の女性。\nA woman in Japanese clothes.\n牛タンと麦飯を食べました。\nI had beef tongue with barley rice.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/kabumira862571/status/2098035490192785661",
+    "source_published_at": "2026-09-10T13:06:55.000Z",
+    "source_platform": "x",
+    "author_name": "カーブミラー",
+    "author_link": "https://x.com/kabumira862571",
+    "language": "hi",
+    "likes": 2,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/965_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098035490192785661",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 460,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/965_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 990,
+    "title": "आरामदायक रात के लिविंग रूम में महिला की सहज तस्वीर",
+    "description": "एक आरामदायक रात के लिविंग रूम सेटिंग में एक युवा महिला की फोटोरियलिस्टिक सहज तस्वीर के लिए एक प्रॉम्प्ट।",
+    "prompt": "A photorealistic candid photo in a 9:16 aspect ratio, featuring an adult East Asian woman around 25 years old sitting on a soft rug beside a coffee table in a cozy living room at night, capturing an intimate",
+    "original_prompt": "A photorealistic candid photo in a 9:16 aspect ratio, featuring an adult East Asian woman around 25 years old sitting on a soft rug beside a coffee table in a cozy living room at night, capturing an intimate",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Aimi_kute/status/2097832705711018120",
+    "source_published_at": "2026-09-09T23:41:07.000Z",
+    "source_platform": "x",
+    "author_name": "AIMI",
+    "author_link": "https://x.com/Aimi_kute",
+    "language": "hi",
+    "likes": 41,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/990_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097832705711018120",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 461,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/990_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1017,
+    "title": "गोथिक लोलिता में चुनिब्यो महिला",
+    "description": "जिराई मेक वाली एक चुनिब्यो महिला की एनिमे-शैली की छवि, जिसने कंधे कटआउट टॉप्स और एक कॉर्सेट लॉन्ग ड्रेस वाला गोथिक लोलिता आउटफिट पहना है।",
+    "prompt": "chuunibyou woman with Jirai Make is wearing Gothic Lolita style outfit with shoulder cutout tops and corset long dress. Japanese anime image.",
+    "original_prompt": "chuunibyou woman with Jirai Make is wearing Gothic Lolita style outfit with shoulder cutout tops and corset long dress. Japanese anime image.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Kitaguni8888/status/2097588652595724350",
+    "source_published_at": "2026-09-09T07:31:20.000Z",
+    "source_platform": "x",
+    "author_name": "北国のタコ",
+    "author_link": "https://x.com/Kitaguni8888",
+    "language": "hi",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1017_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097588652595724350",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 462,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1017_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1071,
+    "title": "मर रहे पूर्व-प्रेमी के साथ रहती महिला",
+    "description": "एक प्रॉम्प्ट जो एक महिला का वर्णन करता है जो सीखती है कि उसके पूर्व-प्रेमी ने उसे इसलिए छोड़ दिया क्योंकि वह मर रहा है और अंत तक उसके साथ रहने का फैसला करती है।",
+    "prompt": "元彼が、実は百日後に死ぬ病気で、そのために自分を振ったことを知り、最後まで一緒にいることを決めた女です。",
+    "original_prompt": "元彼が、実は百日後に死ぬ病気で、そのために自分を振ったことを知り、最後まで一緒にいることを決めた女です。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ebina_ebina_ebi/status/2096778018429731247",
+    "source_published_at": "2026-09-07T01:50:10.000Z",
+    "source_platform": "x",
+    "author_name": "海老名エビ",
+    "author_link": "https://x.com/ebina_ebina_ebi",
+    "language": "hi",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096778018429731247",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 464,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1071_0.jpg",
+        "media/gpt-image-2-5/1071_1.jpg",
+        "media/gpt-image-2-5/1071_2.jpg",
+        "media/gpt-image-2-5/1071_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1102,
+    "title": "वर्दी में एक महिला का चित्र",
+    "description": "रिहाना नामक एक चरित्र का काव्यात्मक वर्णन करने वाला प्रॉम्प्ट, जिसमें ज्यामितीय वर्दी, एक बर्फ-नीली आंख, चौकोर कंधे और लाल होंठ हैं।",
+    "prompt": "'The uniform was always geometry: two rows of honor, one gold cord, a meteor aimed at the badge above her heart. Subtract the rest and she remains — one ice-blue eye, squared shoulders, lips she painted red anyway. Irreducible.'",
+    "original_prompt": "'The uniform was always geometry: two rows of honor, one gold cord, a meteor aimed at the badge above her heart. Subtract the rest and she remains — one ice-blue eye, squared shoulders, lips she painted red anyway. Irreducible.'",
+    "translated_prompt": "",
+    "source_link": "https://x.com/HgbrdCeline/status/2096234490049778066",
+    "source_published_at": "2026-09-05T13:50:23.000Z",
+    "source_platform": "x",
+    "author_name": "Hagbard Celine",
+    "author_link": "https://x.com/HgbrdCeline",
+    "language": "hi",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1102_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096234490049778066",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 466,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1102_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1103,
+    "title": "जियांगनान में इंडिगो डाई वर्कशॉप",
+    "description": "जियांगनान डाई वर्कशॉप दृश्य के लिए एक छवि प्रॉम्प्ट जिसमें नीला डाई, लकड़ी के फ्रेम, एक पत्थर का पुल और पानी पर सुबह की रोशनी दिखाई गई है।",
+    "prompt": "把蓝染、木架、石桥与清晨的水光放进同一帧。想要的不是堆砌元素，而是“染一缕青色，也染一段心事”的呼吸感。",
+    "original_prompt": "把蓝染、木架、石桥与清晨的水光放进同一帧。想要的不是堆砌元素，而是“染一缕青色，也染一段心事”的呼吸感。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/biubiubiuzone/status/2096157590178889840",
+    "source_published_at": "2026-09-05T08:44:48.000Z",
+    "source_platform": "x",
+    "author_name": "biuzone",
+    "author_link": "https://x.com/biubiubiuzone",
+    "language": "hi",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096157590178889840",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 467,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1103_0.jpg",
+        "media/gpt-image-2-5/1103_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1134,
+    "title": "ब्रेडेड बालों वाला क्लोज-अप चित्र",
+    "description": "गोरी त्वचा, चित्ती, नीली आँखें और ब्रेडेड सफेद-सुनहरे बालों वाली एक युवा महिला का 16:9 फोटोरियलिस्टिक वॉलपेपर चित्र।",
+    "prompt": "wide screen wallpaper 16:9 Photorealistic close-up beauty portrait of a fair-skinned young woman with a light dusting of freckles, vivid blue eyes, braided white-blonde hair in two thick loose braids and a braided crown, curled strands framing her face",
+    "original_prompt": "wide screen wallpaper 16:9 Photorealistic close-up beauty portrait of a fair-skinned young woman with a light dusting of freckles, vivid blue eyes, braided white-blonde hair in two thick loose braids and a braided crown, curled strands framing her face",
+    "translated_prompt": "",
+    "source_link": "https://x.com/KrakenUnbound/status/2097452317817860172",
+    "source_published_at": "2026-09-08T22:29:36.000Z",
+    "source_platform": "x",
+    "author_name": "The Kraken",
+    "author_link": "https://x.com/KrakenUnbound",
+    "language": "hi",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1134_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097452317817860172",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 468,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1134_0.jpg"
+      ],
+      "video": ""
+    }
   }
 ]

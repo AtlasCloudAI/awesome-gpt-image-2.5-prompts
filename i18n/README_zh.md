@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-334%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-407%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [浏览提示词](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts&locale=zh-CN) | [提交提示词](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [获取 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 发布)是 OpenAI 的图�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **334** |
+| 提示词总数 | **407** |
 | 分类数 | **4** |
-| 预览图数 | **334** |
+| 预览图数 | **407** |
 | 最后更新 | **2026-09-10** |
 
 <a id="browse-by-category"></a>
@@ -112,10 +112,10 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 发布)是 OpenAI 的图�
 ## 🏷️ 按分类浏览
 
 
-- [`参考图保真`](#category-1): **60**
-- [`精准编辑`](#category-2): **10**
-- [`风格与理解力`](#category-3): **216**
-- [`复杂版式与文字`](#category-4): **48**
+- [`参考图保真`](#category-1): **75**
+- [`精准编辑`](#category-2): **17**
+- [`风格与理解力`](#category-3): **252**
+- [`复杂版式与文字`](#category-4): **63**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 发布)是 OpenAI 的图�
 
 <a id="category-1"></a>
 
-### 参考图保真 (60)
+### 参考图保真 (75)
 
 ### No. 1: 复古八十年代商场肖像
 
@@ -1501,9 +1501,394 @@ Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded
 Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
 ```
 
+### No. 61: 书桌上的写实1/7比例手办
+
+- **分类:** `参考图保真`
+- **来源:** `x`
+- **作者:** 木马人
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/802_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/802_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+用于生成写实1/7比例角色手办图像的提示，手办置于电脑桌上并带有透明底座。
+
+#### 提示词
+
+```text
+Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a realistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the
+```
+
+### No. 62: 跨构图的面部身份参考
+
+- **分类:** `参考图保真`
+- **来源:** `x`
+- **作者:** Abkr Sadiq
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/809_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/809_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+使用面部身份参考，生成一张包含同一成年男子七个版本的单一照片的AI提示。
+
+#### 提示词
+
+```text
+Use the uploaded photo as the facial identity reference for the same adult man appearing throughout the composition. Preserve his recognizable facial
+```
+
+### No. 63: 使用面部身份参考的时尚肖像
+
+- **分类:** `参考图保真`
+- **来源:** `x`
+- **作者:** Abkr Sadiq
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/812_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/812_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+使用照片作为面部身份参考，生成优质全身时尚肖像的提示。
+
+#### 提示词
+
+```text
+Use the uploaded photo as the facial identity reference for an adult man. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.
+
+Create a premium, ultra-realistic full-body fashion portrait of
+```
+
+### No. 64: 基于参考图的梦幻电影感肖像
+
+- **分类:** `参考图保真`
+- **来源:** `x`
+- **作者:** Mr. Patel
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/863_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个创建真实、梦幻电影感肖像的提示，同时保留拍摄对象的身份和自然特征。
+
+#### 提示词
+
+```text
+Create an ultra-realistic dreamy cinematic portrait using the uploaded reference image as the identity reference. Preserve the person’s, skin tone, facial features, and natural appearance without altering or beautifying them.
+```
+
+### No. 65: 基于照片的3D粘土动画肖像
+
+- **分类:** `参考图保真`
+- **来源:** `x`
+- **作者:** Mr. Patel
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/864_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/864_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/864_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/864_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成细节丰富、可爱的3D粘土动画肖像的提示，需从用户上传的照片中保留拍摄对象的身份和相似度。
+
+#### 提示词
+
+```text
+A highly detailed, ultra-cute 3D claymation style portrait, meticulously retaining the precise identity, jawline, and facial likeness of the person in USER-UPLOADED PHOTO. The user's distinct features are beautifully
+```
+
+### No. 66: 地点主题的编辑艺术海报
+
+- **分类:** `参考图保真`
+- **来源:** `x`
+- **作者:** Saul Goodman
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/920_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个创建高分辨率竖版编辑海报的提示，风格为俏皮的日本设计杂志风。
+
+#### 提示词
+
+```text
+Create a premium contemporary editorial art poster for [LOCATION] in a playful Japanese design-ZINE style.
+
+FORMAT: Vertical 3:4 | High resolution | Modern editorial art
+
+Automatically choose the most iconic and visually interesting-elements of [URL]
+```
+
+### No. 67: 根据两张参考图生成的动画场景
+
+- **分类:** `参考图保真`
+- **来源:** `x`
+- **作者:** KrishnaG
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/926_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/926_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/926_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成动画场景的提示，描绘一个幼儿在温馨卧室里玩耍。
+
+#### 提示词
+
+```text
+Turn the two reference images into one adorable, heartwarming animated scene of a little girl playing peacefully in her cozy dream bedroom. CHARACTER A cute toddler girl with soft fair skin, round adorable features, rosy cheeks, large expressive
+```
+
+### No. 68: 基于面部参考的1980年代复古风格肖像
+
+- **分类:** `参考图保真`
+- **来源:** `x`
+- **作者:** Saul Goodman
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/931_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成1980年代复古风格肖像的提示，保留拍摄对象精确的面部特征和身份。
+
+#### 提示词
+
+```text
+Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high
+```
+
+### No. 69: 角色设计参考表
+
+- **分类:** `参考图保真`
+- **来源:** `x`
+- **作者:** M. Asif
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/946_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/946_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成专业角色模型表的提示，基于提供的参考图像。
+
+#### 提示词
+
+```text
+Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.
+
+REFERENCE & IDENTITY LOCK:
+Use the uploaded reference as the single source of truth for the
+```
+
+### No. 70: 摩托车骑手风格迁移
+
+- **分类:** `参考图保真`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个新主体（摩托车骑手）以输入图像所携带的精确视觉风格进行渲染。
+
+#### 提示词
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+### No. 71: 保留身份特征的服装替换
+
+- **分类:** `参考图保真`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in1.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in2.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+将参考图像中的服装适配到目标主体上，同时保持其面部、姿态和光照不变。
+
+#### 提示词
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+### No. 72: 合成到肖像场景中的狗
+
+- **分类:** `参考图保真`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in1.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+将一只狗从一张参考图像中取出，放置到另一场景中，并匹配光线和背景。
+
+#### 提示词
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+### No. 73: 草图转化为写实山谷
+
+- **分类:** `参考图保真`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一张草图被渲染成写实图像，同时保留其原有的布局、比例和透视关系。
+
+#### 提示词
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+### No. 74: 插入人物到熊袭击场景
+
+- **分类:** `参考图保真`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+围绕指定人物构建的、类似照片的动作场景，刻意营造非电影感。
+
+#### 提示词
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+### No. 75: 一致的儿童绘本角色
+
+- **分类:** `参考图保真`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out1.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个水彩图画书主角，其设定足够精确，能在不同插画中保持一致。
+
+#### 提示词
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
 <a id="category-2"></a>
 
-### 精准编辑 (10)
+### 精准编辑 (17)
 
 ### No. 1: 整理床铺
 
@@ -1743,9 +2128,175 @@ Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [P
 主光从画面右上方约 2 点钟方向窗户射入，高度角 15 至 20 度，未柔化硬质直射阳光，从右前方斜擦面部。仅照亮鼻梁右侧、右颧骨、上唇、下巴及局部肩颈，受光区与阴影区形成清晰锐利硬边界。左半张脸保持深暖褐阴影并保留完整细节，明暗比约
 ```
 
+### No. 11: 角色像素艺术精灵表
+
+- **分类:** `精准编辑`
+- **来源:** `x`
+- **作者:** テツメモ｜AI図解×検証｜Newsletter
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/860_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/860_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/860_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/860_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个为角色创建简化版128像素像素艺术战斗动作精灵表的提示，以4x4网格排列，背景透明。
+
+#### 提示词
+
+```text
+このキャラクターの128pxの簡略化されたpixelartの戦闘モーションのスプライトシートを作って。透過できるなら透過。4x4で配置すること ※background="transparent"
+```
+
+### No. 12: 将太阳和云朵增强为莲花
+
+- **分类:** `精准编辑`
+- **来源:** `x`
+- **作者:** Dylan Hayes
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/964_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/964_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个用于增强云朵和太阳照片的提示，使太阳看起来像花心，云朵像莲花，且不改变原始图像。
+
+#### 提示词
+
+```text
+太阳像花心，周围的云像一朵莲花，但不要改变原图，只把这种感觉表现得更明显。
+```
+
+### No. 13: 翻译成西班牙语的信息图
+
+- **分类:** `精准编辑`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/translate-while-preserving-layout-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/translate-while-preserving-layout-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一次仅替换文本语言的编辑，保持信息图版面所有其他像素原封不动。
+
+#### 提示词
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+### No. 14: 透明背景产品抠图
+
+- **分类:** `精准编辑`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一张产品宣传照被干净地抠出，置于透明背景上，轮廓清晰无光晕，标签文字保持可读。
+
+#### 提示词
+
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+### No. 15: 肖像中的物体移除
+
+- **分类:** `精准编辑`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+仅移除单个物体，其他一切保持不变的单行编辑。
+
+#### 提示词
+
+```text
+Remove the flower from man's hand. Do not change anything else.
+```
+
+### No. 16: 广告牌重燃为冬夜景象
+
+- **分类:** `精准编辑`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-one-condition-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-one-condition-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+对现有样机进行的五字后续编辑，仅改变季节和一天中的时间。
+
+#### 提示词
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+### No. 17: 厨房椅子替换为木质
+
+- **分类:** `精准编辑`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+仅替换椅子，并保持角度、光线和地板阴影的房间编辑。
+
+#### 提示词
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
 <a id="category-3"></a>
 
-### 风格与理解力 (216)
+### 风格与理解力 (252)
 
 ### No. 1: 赛博朋克夜都市
 
@@ -6860,9 +7411,896 @@ Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping acro
 恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。
 ```
 
+### No. 217: 狐狸角色像素艺术精灵表
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Higgsfield AI 🧩
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/804_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/804_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+用于生成名为Noxa的角色（一只收集星星的小狐狸）的精美像素艺术动画精灵表的提示。
+
+#### 提示词
+
+```text
+Create a polished pixel-art animation sprite sheet featuring an original character named Noxa, a tiny fox who collects lost stars.
+
+CHARACTER DESIGN
+Noxa is an adorable upright arctic fox with silvery ivory fur, oversized pointed ears with lavender inner fur, enormous amber
+```
+
+### No. 218: 苹果折叠屏手机概念信息图
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** simeon-sanai
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/811_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/811_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/811_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+用于生成苹果折叠屏手机写实信息图的提示，采用该品牌标志性的简洁风格。
+
+#### 提示词
+
+```text
+Create a premium photorealistic Apple foldable-phone concept infographic, inspired by the clean visual language of official Apple product presentations. Use a pure white background with a subtle glossy white floor
+```
+
+### No. 219: 东亚年轻女性特写美颜肖像
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** BubbleBrain
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/824_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/824_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅特写级、照片般真实的东亚年轻女性肖像，采用柔和光线，皮肤纹理细腻。
+
+#### 提示词
+
+```text
+9:16 vertical, photorealistic beauty portrait, close-up composition, soft natural lighting, high-detail skin texture, subtle glow, shallow depth of field, clean softly blurred background, intimate and delicate mood. A clearly adult young East Asian woman
+```
+
+### No. 220: 日落海岸公路旁的亚洲女性
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Nicole
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/826_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/826_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/826_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅照片般真实的抓拍照片，描绘了一位年轻的亚洲女性在日落时分站在海岸公路旁，视角来自车内。
+
+#### 提示词
+
+```text
+A highly photorealistic candid photograph of a completely new young adult Asian woman standing beside a scenic coastal road at sunset, photographed from inside a parked car through the passenger-side window. She has long, naturally messy dark-brown
+```
+
+### No. 221: 荷叶岛屿的水位宏观镜头
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Johnny Wang
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/854_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/854_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个电影级宏观镜头的提示，从水平面视角拍摄，将一片荷叶描绘成由三位身着汉服的微小人物居住的岛屿。
+
+#### 提示词
+
+```text
+Water-level macro cinematography among lotus leaves in a small pond, with the camera almost touching the water. A lotus leaf approximately forty centimeters wide becomes an island. Three figures, each about two centimeters tall and dressed in plain Hanfu, inhabit the leaf.
+```
+
+### No. 222: 具有武士刀锋刃的巨型三叉爪
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** TOMATO🍅トマト
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/855_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/855_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个巨型双手武器的提示，其特征是三个叉尖，其刀刃像日本刀一样被磨利和抛光。
+
+#### 提示词
+
+```text
+日本刀のように美しく研ぎ澄まされた刃を持つ巨大な両手装備の3本鉤爪
+```
+
+### No. 223: 晨光中的季节使者
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Olivia Bernardo
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/857_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个诗意的提示，描述了一位在晨光中的季节使者，拥有杂志般的肌肤，以及薄如玻璃、毫不遮掩的质感。
+
+#### 提示词
+
+```text
+Not a character.
+An ambassador for a season.
+
+Morning light.
+
+Magazine skin.
+
+Glass thin enough
+not to hide
+
+What the campaign pretended to hide.
+
+Beauty with manners.
+Charm with intent.
+
+If this were a real house,
+whose face would sign the summer?
+```
+
+### No. 224: 几何金冠侧面肖像
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Syed Abuthahir ∞
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/892_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/892_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个图像提示：一位威严的人物以锐利的侧面示人，头戴由几何金盘组成的王冠，覆盖着盘绕的黑发。
+
+#### 提示词
+
+```text
+A commanding figure in razor-flat profile, a crown of geometric gold discs stacked over a natural crown of coiled dark hair, hard
+```
+
+### No. 225: 头戴超大钻石皇冠的闪耀公主
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Syed Abuthahir ∞
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/896_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/896_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个AI图像提示：一位闪耀的人物以锐利的侧面示人，头戴一顶超大的钻石皇冠。
+
+#### 提示词
+
+```text
+A radiant figure in sharp profile, an oversized diamond tiara catching prismatic light low over the brow, oversized
+```
+
+### No. 226: 武侠风格东亚女性特写肖像
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** AIVideoHub 🕊️
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/902_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/902_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/902_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅超写实的东亚年轻女性肖像，采用武侠风格，并带有极端广角透视。
+
+#### 提示词
+
+```text
+9:16 竖版，近距离半身构图，超写实真人摄影 × 东方武侠电影 × 极端广角透视 × 冷艳高级 Editorial。一位 20–23 岁、明确成年的漂亮东亚女性，身材高挑纤细，头部偏小、脸型小巧，肩颈舒展，腰身纤细。胸部视觉约为自然 E
+```
+
+### No. 227: 居家休闲环境中女性全身肖像
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** AIVideoHub 🕊️
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/905_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/905_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/905_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个提示：创作一幅9:16竖版、全身、超写实的照片，描绘一位东亚年轻女性在慵懒的家庭氛围中，色调温暖且富有电影感。
+
+#### 提示词
+
+```text
+9:16 竖版，完整全身构图，超写实真人摄影 × 高级职业时尚 Editorial × 慵懒居家氛围 × 暖调电影感。一位 20–22 岁、明确成年的漂亮东亚女性，身高约 1.75
+```
+
+### No. 228: 包含16种姿势的Q版角色精灵表
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Zibá
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/919_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/919_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/919_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成Q版角色各种姿势的4x4网格精灵表的提示。
+
+#### 提示词
+
+```text
+Create a chibi character sprite sheet with 16 poses in a 4x4 grid. Character: [describe tu personaje]. Poses: idle, walking, running, jumping,
+```
+
+### No. 229: 卧室写实风格智能手机自拍
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** leolee
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/921_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/921_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位年轻东亚女性夜晚在床上放松的写实风景风格智能手机自拍。
+
+#### 提示词
+
+```text
+A photorealistic 4:3 landscape smartphone selfie of an adult East Asian woman around 25 years old relaxing on a bed in a quiet bedroom at night, capturing an
+```
+
+### No. 230: 由标志性地标构成的3D微缩国家地图
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** simeon-sanai
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/923_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成3D微缩地图的提示，其中国家的边界由其标志性地标和文化符号构成。
+
+#### 提示词
+
+```text
+Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other
+```
+
+### No. 231: 巴黎女性电影感肖像
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Sarah
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/924_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/924_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/924_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/924_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成超写实电影感照片的提示，描绘一位东南亚戴头巾的女性在埃菲尔铁塔附近行走。
+
+#### 提示词
+
+```text
+Ultra-realistic cinematic photography, vertical 9:16, dreamy Paris street portrait with a subtle analog photography character. A beautiful young Southeast Asian hijabi woman walks near the Eiffel Tower, captured from a close three-quarter rear
+```
+
+### No. 232: 用奢侈时装面料重构的动物
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/925_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/925_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成2x2网格的提示，展示用四家标志性奢侈时装品牌的标志性面料重构的动物形象。
+
+#### 提示词
+
+```text
+Animals rebuilt with fabrics of luxury fashion houses. 16:9, 2x2 grid, 4 brands/animals
+```
+
+### No. 233: 高端智能手机宣传海报
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** ᴍᴜʀᴘʜʏ
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/927_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/927_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/927_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成高端智能手机宣传海报的提示，采用苹果标志性风格。
+
+#### 提示词
+
+```text
+4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready
+Style: Apple-level art direction × contemporary product photography × bold editorial
+```
+
+### No. 234: 融合建筑元素的现代旅行海报
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** simeon-sanai
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/934_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成高端旅行海报的提示，采用复古丝网印刷风格和建筑门户式构图。
+
+#### 提示词
+
+```text
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT /
+```
+
+### No. 235: 定格动画黏土风格小火龙孵化
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** 林悦己Cheer
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/937_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/937_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成定格动画的提示，描绘黏土风格的小火龙从蛋中孵化并喷火。
+
+#### 提示词
+
+```text
+我要做stop motion animation
+粘土风格
+小火龙从蛋里面孵化成功，破壳而出，然后喷火。 规划好，输出36张图，然后合并在一起输出3s gif。
+```
+
+### No. 236: 马格利特的苹果化作便签纸堆
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Cell 细胞
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/938_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/938_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+对马格利特《人类之子》的创意再诠释，其中漂浮的苹果被替换成一堆苹果形状的便签纸。
+
+#### 提示词
+
+```text
+马格利特脸前的苹果，被我撕下来一片。下面居然还有一片。把《人类之子》画成苹果便利贴座之后，挡住脸的苹果，就成了每天都能用的纸。这个点子可以从“什么能被替换”开始想：① 保留礼帽、西装、红领带和遮脸构图。② 把立体苹果换成一叠苹果形纸张。
+```
+
+### No. 237: 日式宅邸内的超写实时尚肖像
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** John
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/944_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/944_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位女性在传统日式木质走廊行走的超写实时尚肖像。
+
+#### 提示词
+
+```text
+A hyperrealistic full-body lifestyle fashion portrait of an adult East Asian woman walking slowly toward the camera through a narrow corridor inside a traditional Japanese wooden house. She occupies the left-center of the vertical frame, surrounded
+```
+
+### No. 238: 极简主义罗马帝国壁纸
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Shushant Lakhyani
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/945_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/945_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅极简主义壁纸，描绘一座宏伟的罗马神庙，包含立柱、引水渠和废墟，色调温暖金黄。
+
+#### 提示词
+
+```text
+Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden
+```
+
+### No. 239: 雨中列车站台的动漫帧
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Morphed
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/956_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/956_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/956_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/956_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个用于生成虚构动漫帧的提示，描绘站台上的雨、进站的列车以及一条在城市上空漂浮的锦鲤。
+
+#### 提示词
+
+```text
+A frame from an anime that doesn't exist. Rain on the platform, a train pulling in, and a koi drifting over the city.
+```
+
+### No. 240: 混乱中与猫结缘的人
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** トリキジ
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/959_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/959_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+描绘某人在卷入各种事情后，最终与一只猫成为朋友的场景。
+
+#### 提示词
+
+```text
+いろんなことに巻き込まれてもらったら、いつの間にかネコと仲良くなってた
+```
+
+### No. 241: 高原水族馆中的狐狸水母
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** 抹茶オレンジ🧋🍊
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/963_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/963_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅图像，描绘了高原上一个水族馆内，有着睡眼的狐狸和水母，渲染风格没有颗粒状的光粒子。
+
+#### 提示词
+
+```text
+キツネ/クラゲ/高原/水槽の中/眠そうなジト目
+光のつぶつぶ感が無くなったimage 2.5
+```
+
+### No. 242: 穿和服吃牛舌麦饭的女子
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** カーブミラー
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/965_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/965_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅图像，描绘了一位身穿和服的女子，场景是一顿牛舌和麦饭的餐食。
+
+#### 提示词
+
+```text
+和服の女性。
+A woman in Japanese clothes.
+牛タンと麦飯を食べました。
+I had beef tongue with barley rice.
+```
+
+### No. 243: 舒适夜晚客厅中女子的偷拍照
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** AIMI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/990_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/990_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个用于生成写实偷拍照的提示，描绘一位年轻女子在舒适夜晚客厅环境中的场景。
+
+#### 提示词
+
+```text
+A photorealistic candid photo in a 9:16 aspect ratio, featuring an adult East Asian woman around 25 years old sitting on a soft rug beside a coffee table in a cozy living room at night, capturing an intimate
+```
+
+### No. 244: 哥特洛丽塔风格的中二病女子
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** 北国のタコ
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1017_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1017_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅动漫风格图像，描绘了一位患有中二病、化着地雷妆、身穿哥特洛丽塔服饰的女子，服饰包括露肩短上衣和束腰长裙。
+
+#### 提示词
+
+```text
+chuunibyou woman with Jirai Make is wearing Gothic Lolita style outfit with shoulder cutout tops and corset long dress. Japanese anime image.
+```
+
+### No. 245: 陪伴临终前男友的女子
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** 海老名エビ
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个提示，描述了一位女子得知前男友离开她是因为他即将离世，并决定陪伴他直到最后的场景。
+
+#### 提示词
+
+```text
+元彼が、実は百日後に死ぬ病気で、そのために自分を振ったことを知り、最後まで一緒にいることを決めた女です。
+```
+
+### No. 246: 身着制服的女子肖像
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** Hagbard Celine
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1102_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1102_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个诗意的提示，描述了一位名叫Rhiannah的角色，她身穿几何图案制服，有一只冰蓝色的眼睛、方形的肩膀和红色的嘴唇。
+
+#### 提示词
+
+```text
+'The uniform was always geometry: two rows of honor, one gold cord, a meteor aimed at the badge above her heart. Subtract the rest and she remains — one ice-blue eye, squared shoulders, lips she painted red anyway. Irreducible.'
+```
+
+### No. 247: 江南蓝染作坊
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** biuzone
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个图像提示，描绘江南染坊场景，包含蓝色染料、木架、石桥以及晨光映照水面的景象。
+
+#### 提示词
+
+```text
+把蓝染、木架、石桥与清晨的水光放进同一帧。想要的不是堆砌元素，而是“染一缕青色，也染一段心事”的呼吸感。
+```
+
+### No. 248: 编发特写肖像
+
+- **分类:** `风格与理解力`
+- **来源:** `x`
+- **作者:** The Kraken
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1134_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1134_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅16:9比例的超写实壁纸肖像，描绘了一位肤色白皙、有雀斑、蓝眼睛、编着白金色头发的年轻女子。
+
+#### 提示词
+
+```text
+wide screen wallpaper 16:9 Photorealistic close-up beauty portrait of a fair-skinned young woman with a light dusting of freckles, vivid blue eyes, braided white-blonde hair in two thick loose braids and a braided crown, curled strands framing her face
+```
+
+### No. 249: 写实风格的水手抓拍肖像
+
+- **分类:** `风格与理解力`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/control-style-and-lighting-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/control-style-and-lighting-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一张35毫米风格的抓拍照，描绘一位老水手整理渔网，皮肤与衣物材质纹理真实细腻。
+
+#### 提示词
+
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+### No. 250: 时代还原的1969年人群场景
+
+- **分类:** `风格与理解力`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/use-historical-and-real-world-context-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/use-historical-and-real-world-context-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一张写实照片，描绘纽约州贝瑟尔一处户外人群，场景设定于1969年一个具体日期，人物服饰与氛围均符合时代特征。
+
+#### 提示词
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+### No. 251: 怀旧泰迪熊圣诞贺卡
+
+- **分类:** `风格与理解力`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-holiday-card-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-holiday-card-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+基于纪念品盒场景构建的印刷级节日贺卡，带有一行逐字显示的贺卡文字。
+
+#### 提示词
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+### No. 252: 复古玩具飞机收藏品（吸塑包装）
+
+- **分类:** `风格与理解力`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-collectible-merchandise-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-collectible-merchandise-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+采用吸塑包装的零售风格收藏品拍摄图，带有一行逐字显示的包装文字。
+
+#### 提示词
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
+```
+
 <a id="category-4"></a>
 
-### 复杂版式与文字 (48)
+### 复杂版式与文字 (63)
 
 ### No. 1: 复古极简励志海报网格
 
@@ -7938,6 +9376,392 @@ Character sheet: Create a premium cinematic character bible sheet for CALVIN & B
 
 ```text
 Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour
+```
+
+### No. 49: 戏剧性文学宣传墙纸
+
+- **分类:** `复杂版式与文字`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/810_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/810_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+用于生成四本公共领域书籍的戏剧性宣传风格墙纸的2x2网格提示。
+
+#### 提示词
+
+```text
+2x2 grid, 16:9, pick 4 non-copyrighted, public domain books for this: Create a dramatic literary propaganda-wall cover for BOOK_TITLE.  Infer automatically: - BOOK_GENRE - CORE_THEME - TITLE_MARKER
+```
+
+### No. 50: 四个品牌的概念剖面立体模型
+
+- **分类:** `复杂版式与文字`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/819_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/819_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+用于生成四家财富500强公司的概念剖面立体模型的2x2网格提示。
+
+#### 提示词
+
+```text
+2x2 grid, 16:9, do this for 4 fortune 500 brands: SELECT image FROM conceptual_cutaway_dioramas WHERE subject = '[TOPIC]' AND outer_form =
+```
+
+### No. 51: 儿童鞋履广告海报：女孩与巨型运动鞋
+
+- **分类:** `复杂版式与文字`
+- **来源:** `x`
+- **作者:** 𝐌
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/918_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/918_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成欢乐广告海报的提示，海报上有一个女孩和一只巨型运动鞋。
+
+#### 提示词
+
+```text
+A sweet fun kids footwear advertisement poster. An adorable young girl age 7 with a big smile in a soft pink tulle skirt and white top skips joyfully beside a giant pink and white sneaker 3x her height with a glittery sole and bow detail on the
+```
+
+### No. 52: 奢侈香水商业广告故事板
+
+- **分类:** `复杂版式与文字`
+- **来源:** `x`
+- **作者:** Wandering Corner
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/929_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/929_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/929_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成电影感产品故事板的提示，以一款奢侈玫瑰香水为主角，采用简洁的编辑排版布局。
+
+#### 提示词
+
+```text
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+```
+
+### No. 53: 奢侈香水商业广告故事板
+
+- **分类:** `复杂版式与文字`
+- **来源:** `x`
+- **作者:** Rahul Raj Sinha
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/933_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/933_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个生成电影感产品商业广告故事板的提示，以一款奢侈玫瑰香水为主角。
+
+#### 提示词
+
+```text
+TITLE: Luxury Rose Perfume Cinematic Product Commercial Storyboard  FORMAT: • Single-page premium storyboard • 3:4 portrait storyboard sheet • 10 cinematic product-focused panels • Clean editorial grid with thin borders
+```
+
+### No. 54: 技术分解视图网格
+
+- **分类:** `复杂版式与文字`
+- **来源:** `x`
+- **作者:** Gadgetify
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/952_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/952_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个用于生成2x2网格的提示，该网格展示复杂机器的爆炸式3D视图技术插图。
+
+#### 提示词
+
+```text
+Combined a technical illustration and 3D exploded view of complex machines. 2x2 grid, 16:9, do this for 4 complex machines A technical illustration brought to life: an exploded-view schematic where physical miniature components float in precise geometric
+```
+
+### No. 55: 全页彩色漫画插图
+
+- **分类:** `复杂版式与文字`
+- **来源:** `x`
+- **作者:** 牙仔⇌
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/953_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/953_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个用于生成全页、色彩丰富且幽默的少年漫画插图的提示，采用正宗的漫画页面构图。
+
+#### 提示词
+
+```text
+创作一幅全页彩色好笑的热血漫画插图。使用真实的漫画页面构图，在单页上包含 5–7
+```
+
+### No. 56: 咖啡机技术信息图
+
+- **分类:** `复杂版式与文字`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/explain-a-process-visually-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/explain-a-process-visually-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一张解释性信息图，从头到尾展示自动意式咖啡机的工作流程。
+
+#### 提示词
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+### No. 57: 含精确标语街头服饰广告
+
+- **分类:** `复杂版式与文字`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/render-exact-text-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/render-exact-text-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一张青年街头服饰广告图，在版面内清晰、准确地呈现一条精确的广告标语。
+
+#### 提示词
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
+
+### No. 58: 透明背景极简面包店标志
+
+- **分类:** `复杂版式与文字`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out1.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out2.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out3.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个扁平、矢量风格的面包店标志，居中置于干净的透明背景上，无任何衬底。
+
+#### 提示词
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+### No. 59: 宠物独自在家的四格漫画
+
+- **分类:** `复杂版式与文字`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-story-into-a-comic-strip-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-story-into-a-comic-strip-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个垂直四格漫画条，通过四个画格呈现一个包含开端、转折和笑点的完整故事。
+
+#### 提示词
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+### No. 60: iPhone框架内的农贸市场应用界面
+
+- **分类:** `复杂版式与文字`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-an-interface-preview-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-an-interface-preview-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一个实用的移动应用界面模型，包含标题栏、商户列表和特惠信息，并置于手机设备框架内。
+
+#### 提示词
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
+
+### No. 61: 细胞呼吸课堂示意图
+
+- **分类:** `复杂版式与文字`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-scientific-and-educational-visual-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-scientific-and-educational-visual-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一张带标注的高中生物课示意图，展示了糖酵解、克雷布斯循环和电子传递链之间的关联。
+
+#### 提示词
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+### No. 62: A轮融资市场机会幻灯片
+
+- **分类:** `复杂版式与文字`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/build-slides-diagrams-and-charts-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/build-slides-diagrams-and-charts-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一张融资演示幻灯片，包含TAM/SAM/SOM图表、增长柱状图、脚注以及真实的数据层级结构。
+
+#### 提示词
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+### No. 63: 带有精确标题的广告牌样机
+
+- **分类:** `复杂版式与文字`
+- **来源:** `official`
+- **作者:** OpenAI
+- **语言:** `zh`
+- **成品图:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+高速公路广告牌样机，承载一个用粗体无衬线字体逐字显示的标题。
+
+#### 提示词
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
 ```
 
 <a id="featured-prompts"></a>

@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-334%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-407%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,9 +102,9 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **334** |
+| Total Prompts | **407** |
 | Categories | **4** |
-| Preview Images | **334** |
+| Preview Images | **407** |
 | Last Updated | **2026-09-10** |
 
 <a id="browse-by-category"></a>
@@ -112,10 +112,10 @@ Every record keeps its category, source, author, source link, input references a
 ## 🏷️ Browse by Category
 
 
-- [`Reference Fidelity`](#category-1): **60**
-- [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **216**
-- [`Layout & Typography`](#category-4): **48**
+- [`Reference Fidelity`](#category-1): **75**
+- [`Precision Editing`](#category-2): **17**
+- [`Style & Intelligence`](#category-3): **252**
+- [`Layout & Typography`](#category-4): **63**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ Every record keeps its category, source, author, source link, input references a
 
 <a id="category-1"></a>
 
-### Reference Fidelity (60)
+### Reference Fidelity (75)
 
 ### No. 1: Retro Eighties Mall Portrait
 
@@ -1501,9 +1501,394 @@ Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded
 Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
 ```
 
+### No. 61: Реалистичная фигурка масштаба 1/7 на столе
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** 木马人
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/802_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/802_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на генерацию изображения реалистичной фигурки персонажа масштаба 1/7 на компьютерном столе с прозрачной подставкой.
+
+#### Prompt
+
+```text
+Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a realistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the
+```
+
+### No. 62: Ссылка на идентичность лица в композиции
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/809_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/809_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос для ИИ на генерацию одной фотографии с семью версиями одного и того же взрослого мужчины с использованием ссылки на идентичность лица.
+
+#### Prompt
+
+```text
+Use the uploaded photo as the facial identity reference for the same adult man appearing throughout the composition. Preserve his recognizable facial
+```
+
+### No. 63: Модный портрет с использованием ссылки на идентичность лица
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abkr Sadiq
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/812_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/812_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на генерацию премиального полноростового модного портрета с использованием фотографии в качестве ссылки на идентичность лица.
+
+#### Prompt
+
+```text
+Use the uploaded photo as the facial identity reference for an adult man. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.
+
+Create a premium, ultra-realistic full-body fashion portrait of
+```
+
+### No. 64: Сновидческий кинематографичный портрет по референсу
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/863_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/863_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание реалистичного, сновидческого кинематографичного портрета с сохранением идентичности модели и её естественных черт.
+
+#### Prompt
+
+```text
+Create an ultra-realistic dreamy cinematic portrait using the uploaded reference image as the identity reference. Preserve the person’s, skin tone, facial features, and natural appearance without altering or beautifying them.
+```
+
+### No. 65: 3D-портрет в стиле пластилиновой анимации по фотографии
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/864_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/864_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/864_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/864_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание детализированного, милого 3D-портрета в стиле пластилиновой анимации (клеймоушн), сохраняющего сходство и идентичность человека с загруженной пользователем фотографии.
+
+#### Prompt
+
+```text
+A highly detailed, ultra-cute 3D claymation style portrait, meticulously retaining the precise identity, jawline, and facial likeness of the person in USER-UPLOADED PHOTO. The user's distinct features are beautifully
+```
+
+### No. 66: Арт-постер в редакционном стиле для локации
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/920_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/920_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание высокодетализированного вертикального редакционного постера в игривом японском стиле дизайн-зинов.
+
+#### Prompt
+
+```text
+Create a premium contemporary editorial art poster for [LOCATION] in a playful Japanese design-ZINE style.
+
+FORMAT: Vertical 3:4 | High resolution | Modern editorial art
+
+Automatically choose the most iconic and visually interesting-elements of [URL]
+```
+
+### No. 67: Анимированная сцена по двум референсным изображениям
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** KrishnaG
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/926_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/926_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/926_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание анимированной сцены, где малыш играет в уютной спальне.
+
+#### Prompt
+
+```text
+Turn the two reference images into one adorable, heartwarming animated scene of a little girl playing peacefully in her cozy dream bedroom. CHARACTER A cute toddler girl with soft fair skin, round adorable features, rosy cheeks, large expressive
+```
+
+### No. 68: Портрет в стиле 1980-х по референсу лица
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/931_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/931_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание портрета в ретро-винтажном стиле 1980-х годов с сохранением точных черт лица и идентичности модели.
+
+#### Prompt
+
+```text
+Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high
+```
+
+### No. 69: Референсный лист дизайна персонажа
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** M. Asif
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/946_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/946_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание профессионального модельного листа персонажа на основе предоставленного референсного изображения.
+
+#### Prompt
+
+```text
+Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.
+
+REFERENCE & IDENTITY LOCK:
+Use the uploaded reference as the single source of truth for the
+```
+
+### No. 70: Перенос стиля на мотоциклиста
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/transfer-a-visual-style-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Новый объект, отрендеренный в точном визуальном стиле, заданном входным изображением.
+
+#### Prompt
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+### No. 71: Замена наряда с сохранением идентичности
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in1.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/preserve-identity-and-change-clothing-in2.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Предметы одежды из референсных изображений, надетые на модель, при этом лицо, поза и освещение остаются неизменными.
+
+#### Prompt
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+### No. 72: Собака, вкомпонованная в портретную сцену
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/combine-references-in1.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Объект, взятый из одного референса и помещенный в другой, с согласованным светом и фоном.
+
+#### Prompt
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+### No. 73: Эскиз, превращенный в фотореалистичную долину
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-drawing-into-a-realistic-image-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Рисунок, отрендеренный фотореалистично, при этом его компоновка, пропорции и перспектива сохранены.
+
+#### Prompt
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+### No. 74: Человек, вставленный в сцену нападения медведя
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/insert-a-person-into-a-scene-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Фотографичная экшн-сцена, построенная вокруг предоставленного человека, намеренно некинематографичная.
+
+#### Prompt
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+### No. 75: Последовательный персонаж детской книги
+
+- **Category:** `Reference Fidelity`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/keep-a-character-consistent-out1.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Герой книжки-картинки в технике акварели, заданный достаточно строго, чтобы оставаться одинаковым во всех иллюстрациях.
+
+#### Prompt
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
 <a id="category-2"></a>
 
-### Precision Editing (10)
+### Precision Editing (17)
 
 ### No. 1: Bed Tidying
 
@@ -1743,9 +2128,175 @@ Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [P
 主光从画面右上方约 2 点钟方向窗户射入，高度角 15 至 20 度，未柔化硬质直射阳光，从右前方斜擦面部。仅照亮鼻梁右侧、右颧骨、上唇、下巴及局部肩颈，受光区与阴影区形成清晰锐利硬边界。左半张脸保持深暖褐阴影并保留完整细节，明暗比约
 ```
 
+### No. 11: Спрайт-лист в пиксель-арте для персонажа
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** テツメモ｜AI図解×検証｜Newsletter
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/860_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/860_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/860_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/860_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание упрощённого спрайт-листа размером 128 пикселей с анимацией боевых движений для персонажа, расположенного в сетке 4x4 на прозрачном фоне.
+
+#### Prompt
+
+```text
+このキャラクターの128pxの簡略化されたpixelartの戦闘モーションのスプライトシートを作って。透過できるなら透過。4x4で配置すること ※background="transparent"
+```
+
+### No. 12: Преобразование солнца и облаков в цветок лотоса
+
+- **Category:** `Precision Editing`
+- **Source:** `x`
+- **Author:** Dylan Hayes
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/964_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/964_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на улучшение фотографии облаков и солнца, чтобы солнце напоминало сердцевину цветка, а облака — лепестки лотоса, без изменения исходного изображения.
+
+#### Prompt
+
+```text
+太阳像花心，周围的云像一朵莲花，但不要改变原图，只把这种感觉表现得更明显。
+```
+
+### No. 13: Инфографика, переведенная на испанский язык
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/translate-while-preserving-layout-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/translate-while-preserving-layout-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Редактирование, которое меняет только язык текста и оставляет все остальные пиксели макета нетронутыми.
+
+#### Prompt
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+### No. 14: Вырезанный продукт на прозрачном фоне
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-a-transparent-product-cutout-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Изолированный пакшот на чистом альфа-канале с четким силуэтом, без ореолов и с сохранением читаемости этикетки.
+
+#### Prompt
+
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+### No. 15: Удаление объекта с портрета
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/remove-an-object-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Простое редактирование, удаляющее один объект и не меняющее ничего больше.
+
+#### Prompt
+
+```text
+Remove the flower from man's hand. Do not change anything else.
+```
+
+### No. 16: Билборд, преобразованный в зимний вечер
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-one-condition-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-one-condition-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Последующее редактирование в пять слов, меняющее время года и суток на существующем макете.
+
+#### Prompt
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+### No. 17: Замена кухонных стульев на деревянные
+
+- **Category:** `Precision Editing`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/change-furniture-in-a-room-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Редактирование комнаты, которое заменяет только стулья, сохраняя ракурс, освещение и тени на полу.
+
+#### Prompt
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
 <a id="category-3"></a>
 
-### Style & Intelligence (216)
+### Style & Intelligence (252)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -6860,9 +7411,896 @@ Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping acro
 恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。
 ```
 
+### No. 217: Спрайт-лист в пиксель-арте с персонажем лисы
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Higgsfield AI 🧩
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/804_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/804_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на генерацию отполированного спрайт-листа для анимации в пиксель-арте с персонажем по имени Нокса, крошечной лисой, которая собирает звёзды.
+
+#### Prompt
+
+```text
+Create a polished pixel-art animation sprite sheet featuring an original character named Noxa, a tiny fox who collects lost stars.
+
+CHARACTER DESIGN
+Noxa is an adorable upright arctic fox with silvery ivory fur, oversized pointed ears with lavender inner fur, enormous amber
+```
+
+### No. 218: Концепт-инфографика складного телефона Apple
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/811_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/811_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/811_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на генерацию фотореалистичной инфографики складного телефона Apple в фирменном чистом стиле бренда.
+
+#### Prompt
+
+```text
+Create a premium photorealistic Apple foldable-phone concept infographic, inspired by the clean visual language of official Apple product presentations. Use a pure white background with a subtle glossy white floor
+```
+
+### No. 219: Крупный план: Красивый портрет молодой восточноазиатской женщины
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** BubbleBrain
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/824_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/824_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Фотореалистичный портрет молодой восточноазиатской женщины крупным планом с мягким освещением и детализированной текстурой кожи.
+
+#### Prompt
+
+```text
+9:16 vertical, photorealistic beauty portrait, close-up composition, soft natural lighting, high-detail skin texture, subtle glow, shallow depth of field, clean softly blurred background, intimate and delicate mood. A clearly adult young East Asian woman
+```
+
+### No. 220: Азиатская женщина на прибрежной дороге на закате
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Nicole
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/826_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/826_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/826_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Фотореалистичный кадр, снятый от первого лица из машины: молодая азиатская женщина стоит у прибрежной дороги на закате.
+
+#### Prompt
+
+```text
+A highly photorealistic candid photograph of a completely new young adult Asian woman standing beside a scenic coastal road at sunset, photographed from inside a parked car through the passenger-side window. She has long, naturally messy dark-brown
+```
+
+### No. 221: Макросъёмка с уровня воды: Лотосовый лист как остров
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Johnny Wang
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/854_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/854_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание кинематографичного макрокадра с уровня воды, изображающего лист лотоса как остров, на котором живут три крошечные фигурки в ханьфу.
+
+#### Prompt
+
+```text
+Water-level macro cinematography among lotus leaves in a small pond, with the camera almost touching the water. A lotus leaf approximately forty centimeters wide becomes an island. Three figures, each about two centimeters tall and dressed in plain Hanfu, inhabit the leaf.
+```
+
+### No. 222: Гигантский трёхзубый коготь с лезвием катаны
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** TOMATO🍅トマト
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/855_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/855_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание гигантского двуручного оружия с тремя зубьями, лезвия которых заточены и отполированы, как у японского меча.
+
+#### Prompt
+
+```text
+日本刀のように美しく研ぎ澄まされた刃を持つ巨大な両手装備の3本鉤爪
+```
+
+### No. 223: Посол времени года в утреннем свете
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Olivia Bernardo
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/857_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/857_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Поэтичный запрос, описывающий посла времени года с утренним светом, глянцевой кожей и стеклом, настолько тонким, что оно ничего не скрывает.
+
+#### Prompt
+
+```text
+Not a character.
+An ambassador for a season.
+
+Morning light.
+
+Magazine skin.
+
+Glass thin enough
+not to hide
+
+What the campaign pretended to hide.
+
+Beauty with manners.
+Charm with intent.
+
+If this were a real house,
+whose face would sign the summer?
+```
+
+### No. 224: Профильный портрет с геометрической золотой короной
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Syed Abuthahir ∞
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/892_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/892_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на изображение властной фигуры в резком профиле, носящей корону из геометрических золотых дисков над уложенными в пучок тёмными волосами.
+
+#### Prompt
+
+```text
+A commanding figure in razor-flat profile, a crown of geometric gold discs stacked over a natural crown of coiled dark hair, hard
+```
+
+### No. 225: Сияющая принцесса с бриллиантовой тиарой
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Syed Abuthahir ∞
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/896_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/896_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос для ИИ на создание изображения сияющей фигуры в резком профиле, носящей массивную бриллиантовую тиару.
+
+#### Prompt
+
+```text
+A radiant figure in sharp profile, an oversized diamond tiara catching prismatic light low over the brow, oversized
+```
+
+### No. 226: Крупный план портрета восточноазиатской женщины в стиле уся
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/902_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/902_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/902_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Гиперреалистичный портрет молодой восточноазиатской женщины в стиле уся (китайское боевое фэнтези), снятый с экстремально широкоугольной перспективой.
+
+#### Prompt
+
+```text
+9:16 竖版，近距离半身构图，超写实真人摄影 × 东方武侠电影 × 极端广角透视 × 冷艳高级 Editorial。一位 20–23 岁、明确成年的漂亮东亚女性，身材高挑纤细，头部偏小、脸型小巧，肩颈舒展，腰身纤细。胸部视觉约为自然 E
+```
+
+### No. 227: Портрет женщины в полный рост в домашней обстановке
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/905_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/905_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/905_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание вертикальной (9:16), гиперреалистичной фотографии молодой восточноазиатской женщины в полный рост в расслабленной домашней атмосфере с тёплыми кинематографичными тонами.
+
+#### Prompt
+
+```text
+9:16 竖版，完整全身构图，超写实真人摄影 × 高级职业时尚 Editorial × 慵懒居家氛围 × 暖调电影感。一位 20–22 岁、明确成年的漂亮东亚女性，身高约 1.75
+```
+
+### No. 228: Спрайт-лист чиби-персонажа с 16 позами
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Zibá
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/919_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/919_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/919_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание спрайт-листа в сетке 4x4 с изображением чиби-персонажа в различных позах.
+
+#### Prompt
+
+```text
+Create a chibi character sprite sheet with 16 poses in a 4x4 grid. Character: [describe tu personaje]. Poses: idle, walking, running, jumping,
+```
+
+### No. 229: Фотореалистичный селфи на смартфон в спальне
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** leolee
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/921_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/921_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Фотореалистичный пейзажный селфи на смартфон молодой восточноазиатской женщины, отдыхающей на кровати ночью.
+
+#### Prompt
+
+```text
+A photorealistic 4:3 landscape smartphone selfie of an adult East Asian woman around 25 years old relaxing on a bed in a quiet bedroom at night, capturing an
+```
+
+### No. 230: 3D миниатюрная страна из знаковых достопримечательностей
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/923_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/923_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание 3D миниатюрной карты, где граница страны состоит из её знаковых достопримечательностей и культурных символов.
+
+#### Prompt
+
+```text
+Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other
+```
+
+### No. 231: Кинематографичный портрет женщины в Париже
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Sarah
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/924_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/924_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/924_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/924_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание ультрареалистичной кинематографичной фотографии женщины из Юго-Восточной Азии в хиджабе, идущей возле Эйфелевой башни.
+
+#### Prompt
+
+```text
+Ultra-realistic cinematic photography, vertical 9:16, dreamy Paris street portrait with a subtle analog photography character. A beautiful young Southeast Asian hijabi woman walks near the Eiffel Tower, captured from a close three-quarter rear
+```
+
+### No. 232: Животные, воссозданные из тканей люксовой моды
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/925_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/925_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание сетки 2x2 с изображениями животных, реконструированных с использованием фирменных тканей четырёх культовых домов люксовой моды.
+
+#### Prompt
+
+```text
+Animals rebuilt with fabrics of luxury fashion houses. 16:9, 2x2 grid, 4 brands/animals
+```
+
+### No. 233: Постер премиум-кампании для смартфона
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** ᴍᴜʀᴘʜʏ
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/927_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/927_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/927_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание рекламного постера для смартфона высокого класса в фирменном стиле Apple.
+
+#### Prompt
+
+```text
+4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready
+Style: Apple-level art direction × contemporary product photography × bold editorial
+```
+
+### No. 234: Современный туристический постер с архитектурой
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/934_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/934_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание премиального туристического постера в винтажном стиле трафаретной печати с композицией в виде архитектурного портала.
+
+#### Prompt
+
+```text
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT /
+```
+
+### No. 235: Пластилиновая анимация: Чармандер вылупляется
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 林悦己Cheer
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/937_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/937_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание покадровой анимации в стиле пластилиновой мультипликации, где Чармандер вылупляется из яйца и извергает пламя.
+
+#### Prompt
+
+```text
+我要做stop motion animation
+粘土风格
+小火龙从蛋里面孵化成功，破壳而出，然后喷火。 规划好，输出36张图，然后合并在一起输出3s gif。
+```
+
+### No. 236: Яблоко Магритта как стопка бумажных заметок
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Cell 细胞
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/938_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/938_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Креативная переработка картины Магритта 'Сын человеческий', где парящее яблоко заменено на стопку бумажных заметок в форме яблока.
+
+#### Prompt
+
+```text
+马格利特脸前的苹果，被我撕下来一片。下面居然还有一片。把《人类之子》画成苹果便利贴座之后，挡住脸的苹果，就成了每天都能用的纸。这个点子可以从“什么能被替换”开始想：① 保留礼帽、西装、红领带和遮脸构图。② 把立体苹果换成一叠苹果形纸张。
+```
+
+### No. 237: Гиперреалистичный фэшн-портрет в японском доме
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** John
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/944_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/944_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Гиперреалистичный фэшн-портрет женщины, идущей по традиционному японскому деревянному коридору.
+
+#### Prompt
+
+```text
+A hyperrealistic full-body lifestyle fashion portrait of an adult East Asian woman walking slowly toward the camera through a narrow corridor inside a traditional Japanese wooden house. She occupies the left-center of the vertical frame, surrounded
+```
+
+### No. 238: Ультраминималистичные обои с Римской империей
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Shushant Lakhyani
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/945_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/945_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Ультраминималистичные обои, изображающие величественный римский храм с колоннами, акведуками и руинами в тёплых золотистых тонах.
+
+#### Prompt
+
+```text
+Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden
+```
+
+### No. 239: Кадр из аниме: Дождливый железнодорожный перрон
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Morphed
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/956_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/956_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/956_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/956_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание несуществующего кадра аниме с дождём на перроне, прибывающим поездом и карпом кои, парящим над городом.
+
+#### Prompt
+
+```text
+A frame from an anime that doesn't exist. Rain on the platform, a train pulling in, and a koi drifting over the city.
+```
+
+### No. 240: Человек, подружившийся с котом среди хаоса
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** トリキジ
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/959_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/959_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Сцена, изображающая человека, который, ввязавшись в различные события, в итоге заводит дружбу с котом.
+
+#### Prompt
+
+```text
+いろんなことに巻き込まれてもらったら、いつの間にかネコと仲良くなってた
+```
+
+### No. 241: Лисья медуза в высокогорном аквариуме
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 抹茶オレンジ🧋🍊
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/963_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/963_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Изображение сонного лиса и медуз внутри аквариума в высокогорье, выполненное в стиле без зернистых световых частиц.
+
+#### Prompt
+
+```text
+キツネ/クラゲ/高原/水槽の中/眠そうなジト目
+光のつぶつぶ感が無くなったimage 2.5
+```
+
+### No. 242: Женщина в кимоно, употребляющая рис с говяжьим языком
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** カーブミラー
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/965_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/965_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Изображение женщины в кимоно со сценой трапезы, включающей блюдо из говяжьего языка и ячменного риса.
+
+#### Prompt
+
+```text
+和服の女性。
+A woman in Japanese clothes.
+牛タンと麦飯を食べました。
+I had beef tongue with barley rice.
+```
+
+### No. 243: Естественное фото женщины в уютной гостиной ночью
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIMI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/990_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/990_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на фотореалистичный снимок молодой женщины в естественной обстановке уютной гостиной в ночное время.
+
+#### Prompt
+
+```text
+A photorealistic candid photo in a 9:16 aspect ratio, featuring an adult East Asian woman around 25 years old sitting on a soft rug beside a coffee table in a cozy living room at night, capturing an intimate
+```
+
+### No. 244: Женщина-тюнибё в готическом лолите
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 北国のタコ
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1017_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1017_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Изображение в аниме-стиле женщины с синдромом тюнибё и макияжем в стиле дзирай-мейк, одетой в готическое платье лолита с топом на бретелях и длинным платьем с корсетом.
+
+#### Prompt
+
+```text
+chuunibyou woman with Jirai Make is wearing Gothic Lolita style outfit with shoulder cutout tops and corset long dress. Japanese anime image.
+```
+
+### No. 245: Женщина остаётся с умирающим бывшим парнем
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 海老名エビ
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1071_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос, описывающий женщину, которая узнаёт, что её бывший парень оставил её, потому что умирает, и решает остаться с ним до конца.
+
+#### Prompt
+
+```text
+元彼が、実は百日後に死ぬ病気で、そのために自分を振ったことを知り、最後まで一緒にいることを決めた女です。
+```
+
+### No. 246: Портрет женщины в униформе
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Hagbard Celine
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1102_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1102_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Поэтический запрос, описывающий персонажа по имени Рианна в геометрической униформе, с ледяно-голубым глазом, квадратными плечами и красными губами.
+
+#### Prompt
+
+```text
+'The uniform was always geometry: two rows of honor, one gold cord, a meteor aimed at the badge above her heart. Subtract the rest and she remains — one ice-blue eye, squared shoulders, lips she painted red anyway. Irreducible.'
+```
+
+### No. 247: Мастерская по окрашиванию индиго в Цзяннани
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** biuzone
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1103_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на изображение сцены в красильной мастерской Цзяннани с синей краской, деревянными рамами, каменным мостом и утренним светом на воде.
+
+#### Prompt
+
+```text
+把蓝染、木架、石桥与清晨的水光放进同一帧。想要的不是堆砌元素，而是“染一缕青色，也染一段心事”的呼吸感。
+```
+
+### No. 248: Крупный план портрета с заплетёнными волосами
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** The Kraken
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1134_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1134_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Фотореалистичный портрет в формате 16:9 для обоев, изображающий молодую женщину со светлой кожей, веснушками, голубыми глазами и заплетёнными белёсыми волосами.
+
+#### Prompt
+
+```text
+wide screen wallpaper 16:9 Photorealistic close-up beauty portrait of a fair-skinned young woman with a light dusting of freckles, vivid blue eyes, braided white-blonde hair in two thick loose braids and a braided crown, curled strands framing her face
+```
+
+### No. 249: Фотореалистичный естественный портрет моряка
+
+- **Category:** `Style & Intelligence`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/control-style-and-lighting-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/control-style-and-lighting-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Естественный снимок в стиле 35мм, на котором пожилой моряк поправляет свою сеть, с реалистичной текстурой кожи и материалов.
+
+#### Prompt
+
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+### No. 250: Сцена с толпой, соответствующая периоду 1969 года
+
+- **Category:** `Style & Intelligence`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/use-historical-and-real-world-context-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/use-historical-and-real-world-context-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Фотореалистичная уличная толпа в Бетеле, штат Нью-Йорк, в указанную дату 1969 года, воссозданная с исторической точностью.
+
+#### Prompt
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+### No. 251: Ностальгическая рождественская открытка с плюшевым мишкой
+
+- **Category:** `Style & Intelligence`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-holiday-card-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-holiday-card-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Праздничная открытка, готовая к печати, основанная на сцене с шкатулкой для памятных вещей и одной дословной строкой текста открытки.
+
+#### Prompt
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+### No. 252: Винтажный игрушечный самолёт-коллекционный в блистерной упаковке
+
+- **Category:** `Style & Intelligence`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-collectible-merchandise-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-collectible-merchandise-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Коллекционный снимок в стиле ритейла в блистерной упаковке с одной дословной строкой на упаковке.
+
+#### Prompt
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
+```
+
 <a id="category-4"></a>
 
-### Layout & Typography (48)
+### Layout & Typography (63)
 
 ### No. 1: Retro Minimalist Motivational Poster Grid
 
@@ -7938,6 +9376,392 @@ Character sheet: Create a premium cinematic character bible sheet for CALVIN & B
 
 ```text
 Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour
+```
+
+### No. 49: Драматические пропагандистские обложки для стен
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/810_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/810_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на генерацию сетки 2x2 с драматическими пропагандистскими обложками для стен по четырём книгам, являющимся общественным достоянием.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, pick 4 non-copyrighted, public domain books for this: Create a dramatic literary propaganda-wall cover for BOOK_TITLE.  Infer automatically: - BOOK_GENRE - CORE_THEME - TITLE_MARKER
+```
+
+### No. 50: Концептуальные диорамы в разрезе для четырёх брендов
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/819_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/819_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на генерацию сетки 2x2 концептуальных диорам в разрезе для четырёх компаний из списка Fortune 500.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 fortune 500 brands: SELECT image FROM conceptual_cutaway_dioramas WHERE subject = '[TOPIC]' AND outer_form =
+```
+
+### No. 51: Рекламный постер детской обуви с девочкой и гигантским кроссовком
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** 𝐌
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/918_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/918_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание радостного рекламного постера, изображающего девочку и гигантский кроссовок.
+
+#### Prompt
+
+```text
+A sweet fun kids footwear advertisement poster. An adorable young girl age 7 with a big smile in a soft pink tulle skirt and white top skips joyfully beside a giant pink and white sneaker 3x her height with a glittery sole and bow detail on the
+```
+
+### No. 52: Раскадровка рекламы люксовых духов
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Wandering Corner
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/929_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/929_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/929_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание кинематографичной раскадровки продукта, изображающей люксовые розовые духи, в чистом редакционном макете.
+
+#### Prompt
+
+```text
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+```
+
+### No. 53: Раскадровка рекламы люксовых духов
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Rahul Raj Sinha
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/933_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/933_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание кинематографичной раскадровки для рекламного ролика, изображающей люксовые розовые духи.
+
+#### Prompt
+
+```text
+TITLE: Luxury Rose Perfume Cinematic Product Commercial Storyboard  FORMAT: • Single-page premium storyboard • 3:4 portrait storyboard sheet • 10 cinematic product-focused panels • Clean editorial grid with thin borders
+```
+
+### No. 54: Техническая схема в виде взрывной модели
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/952_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/952_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание сетки 2x2 с техническими иллюстрациями, показывающими разобранные 3D-виды сложных механизмов.
+
+#### Prompt
+
+```text
+Combined a technical illustration and 3D exploded view of complex machines. 2x2 grid, 16:9, do this for 4 complex machines A technical illustration brought to life: an exploded-view schematic where physical miniature components float in precise geometric
+```
+
+### No. 55: Полноцветная иллюстрация на всю страницу в стиле комикса
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** 牙仔⇌
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/953_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/953_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Запрос на создание полноформатной, красочной и юмористической иллюстрации в стиле сёнэн-манги с использованием аутентичной композиции комикс-страницы.
+
+#### Prompt
+
+```text
+创作一幅全页彩色好笑的热血漫画插图。使用真实的漫画页面构图，在单页上包含 5–7
+```
+
+### No. 56: Техническая инфографика кофемашины
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/explain-a-process-visually-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/explain-a-process-visually-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Объяснительная инфографика, прослеживающая поток в автоматической эспрессо-машине от начала до конца.
+
+#### Prompt
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+### No. 57: Рекламный постер для уличной одежды с точным слоганом
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/render-exact-text-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/render-exact-text-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Имиджевая картинка для молодежной кампании уличной одежды, на которой один точный слоган четко отображен внутри макета.
+
+#### Prompt
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
+
+### No. 58: Минималистичный логотип пекарни на прозрачном фоне
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out1.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out2.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/design-a-reusable-logo-out3.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Плоский, вектороподобный логотип пекарни, размещенный по центру на чистом альфа-канале без какого-либо фона.
+
+#### Prompt
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+### No. 59: Четырехпанельный комикс о питомце, оставшемся дома одного
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-story-into-a-comic-strip-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/turn-a-story-into-a-comic-strip-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Вертикальная четырехпанельная полоса, несущая завязку, поворот и кульминацию по панелям.
+
+#### Prompt
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+### No. 60: Интерфейс приложения для фермерского рынка в рамке iPhone
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-an-interface-preview-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-an-interface-preview-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Практичный макет мобильного приложения с заголовком, списком продавцов и акциями, помещенный в рамку устройства.
+
+#### Prompt
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
+
+### No. 61: Учебная схема клеточного дыхания
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-scientific-and-educational-visual-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-scientific-and-educational-visual-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Подписанная схема по биологии для старшей школы, связывающая гликолиз, цикл Кребса и электрон-транспортную цепь.
+
+#### Prompt
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+### No. 62: Слайд о рыночных возможностях для раунда финансирования Series A
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/build-slides-diagrams-and-charts-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/build-slides-diagrams-and-charts-out0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Слайд для презентации с диаграммой TAM/SAM/SOM, столбцами роста, сносками и реальной иерархией данных.
+
+#### Prompt
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+### No. 63: Макет билборда с точным заголовком
+
+- **Category:** `Layout & Typography`
+- **Source:** `official`
+- **Author:** OpenAI
+- **Language:** `ru`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-out0.webp)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-out0.webp" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5-guide/create-the-starting-image-in0.webp" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Макет придорожного билборда с одним дословным заголовком жирным шрифтом без засечек.
+
+#### Prompt
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
 ```
 
 <a id="featured-prompts"></a>
