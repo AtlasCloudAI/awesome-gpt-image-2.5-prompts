@@ -10266,5 +10266,1719 @@
       ],
       "video": ""
     }
+  },
+  {
+    "id": 659,
+    "title": "Туристическая кампания в Instagram со смартфоном как визуальным якорем",
+    "description": "Запрос на создание премиальной туристической рекламы для Instagram, где современный смартфон служит центральным визуальным элементом.",
+    "prompt": "[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation",
+    "original_prompt": "[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Goodmanprotocol/status/2097890291860865291",
+    "source_published_at": "2026-09-10T03:29:57.000Z",
+    "source_platform": "x",
+    "author_name": "Saul Goodman",
+    "author_link": "https://x.com/Goodmanprotocol",
+    "language": "ru",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg",
+      "https://pbs.twimg.com/media/HR00DraaoAEP8_g.jpg",
+      "https://pbs.twimg.com/media/HR00Ethb0AAb_C-.jpg",
+      "https://pbs.twimg.com/media/HR00F2NbEAAn5Hl.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097890291860865291",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 339
+  },
+  {
+    "id": 661,
+    "title": "Картина Мондриана как настольный шкаф для хранения",
+    "description": "Запрос на преобразование картины Мондриана 'Композиция с красным, синим и желтым' в функциональный настольный шкаф с цветными ящиками.",
+    "prompt": "蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。",
+    "original_prompt": "蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/cellinlab/status/2097875217100296362",
+    "source_published_at": "2026-09-10T02:30:03.000Z",
+    "source_platform": "x",
+    "author_name": "Cell 细胞",
+    "author_link": "https://x.com/cellinlab",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097875217100296362",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 340
+  },
+  {
+    "id": 662,
+    "title": "Реалистичное изображение сюрреалистичного объекта",
+    "description": "Запрос на генерацию фотореалистичного изображения вымышленного, сюрреалистичного предмета или существа.",
+    "prompt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "original_prompt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "translated_prompt": "",
+    "source_link": "https://x.com/icreatelife/status/2097860435366048106",
+    "source_published_at": "2026-09-10T01:31:18.000Z",
+    "source_platform": "x",
+    "author_name": "Kris Kashtanova",
+    "author_link": "https://x.com/icreatelife",
+    "language": "ru",
+    "likes": 5,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097860435366048106",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 341
+  },
+  {
+    "id": 665,
+    "title": "Статья в четырёхпанельную мангу в стиле журнала Afternoon",
+    "description": "Запрос на создание четырёхстраничного комикса в стиле японского журнала Afternoon на основе приложенной статьи.",
+    "prompt": "添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して",
+    "original_prompt": "添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して",
+    "translated_prompt": "",
+    "source_link": "https://x.com/tetumemo/status/2097848254792859732",
+    "source_published_at": "2026-09-10T00:42:54.000Z",
+    "source_platform": "x",
+    "author_name": "テツメモ｜AI図解×検証｜Newsletter",
+    "author_link": "https://x.com/tetumemo",
+    "language": "ru",
+    "likes": 17,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg",
+      "https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg",
+      "https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg",
+      "https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097848254792859732",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 342
+  },
+  {
+    "id": 668,
+    "title": "Вертикальный постер для соцсетей: коллекционная фигурка",
+    "description": "Запрос на создание высококачественного вертикального постера для социальных сетей, рекламирующего премиальную коллекционную фигурку, с жирной типографикой и плоским жёлтым фоном.",
+    "prompt": "4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle",
+    "original_prompt": "4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle",
+    "translated_prompt": "",
+    "source_link": "https://x.com/IDATSUKA/status/2097809226051789288",
+    "source_published_at": "2026-09-09T22:07:49.000Z",
+    "source_platform": "x",
+    "author_name": "IDATSUKA",
+    "author_link": "https://x.com/IDATSUKA",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg",
+      "https://pbs.twimg.com/media/HRzmXpYbYAENOJR.jpg",
+      "https://pbs.twimg.com/media/HRzmXpkbQAAmsEp.jpg",
+      "https://pbs.twimg.com/media/HRzmXpZaYAATDxm.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097809226051789288",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 343
+  },
+  {
+    "id": 670,
+    "title": "Крошечные люди в мире мандарина",
+    "description": "Изображение миниатюрных людей, живущих внутри мандарина, где дольки фрукта формируют архитектуру.",
+    "prompt": "2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant",
+    "original_prompt": "2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant",
+    "translated_prompt": "",
+    "source_link": "https://x.com/JohnnyWang8802/status/2097800514633429315",
+    "source_published_at": "2026-09-09T21:33:12.000Z",
+    "source_platform": "x",
+    "author_name": "Johnny Wang",
+    "author_link": "https://x.com/JohnnyWang8802",
+    "language": "ru",
+    "likes": 7,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png",
+      "https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png",
+      "https://pbs.twimg.com/media/HRziSahbYAAv-Rm.png",
+      "https://pbs.twimg.com/media/HRziTgcbkAAIjUD.png"
+    ],
+    "x_meta": {
+      "tweet_id": "2097800514633429315",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 344
+  },
+  {
+    "id": 678,
+    "title": "Кинематографичный лист персонажа (Character Bible)",
+    "description": "Запрос на создание разделённого на экраны референс-листа персонажа с использованием строгих визуальных руководств.",
+    "prompt": "Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097738632941461886",
+    "source_published_at": "2026-09-09T17:27:18.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 7,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097738632941461886",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 345
+  },
+  {
+    "id": 679,
+    "title": "Угрожающая фигура в резком профиле",
+    "description": "Запрос на генерацию изображения угрожающей фигуры с иссиня-чёрными волосами и кроваво-красными губами, показанной в резком профиле.",
+    "prompt": "A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw",
+    "original_prompt": "A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abulu8/status/2097733554990186638",
+    "source_published_at": "2026-09-09T17:07:08.000Z",
+    "source_platform": "x",
+    "author_name": "Syed Abuthahir ∞",
+    "author_link": "https://x.com/abulu8",
+    "language": "ru",
+    "likes": 19,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097733554990186638",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 346
+  },
+  {
+    "id": 684,
+    "title": "Дизайн обложки книги с иерархией",
+    "description": "Запрос на дизайн обложки книги с чёткой типографской иерархией и высокой читаемостью.",
+    "prompt": "Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.",
+    "original_prompt": "Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/DeepBlueX0/status/2097724965437210694",
+    "source_published_at": "2026-09-09T16:33:00.000Z",
+    "source_platform": "x",
+    "author_name": "DeepBlue深藍",
+    "author_link": "https://x.com/DeepBlueX0",
+    "language": "ru",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097724965437210694",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 349
+  },
+  {
+    "id": 687,
+    "title": "Лист спрайтов для пиксель-арт сражений",
+    "description": "Запрос на генерацию упрощённого листа анимации для пиксель-арт (128px) с боем на прозрачном фоне.",
+    "prompt": "Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4",
+    "original_prompt": "Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4",
+    "translated_prompt": "",
+    "source_link": "https://x.com/biancab11f/status/2097715366965231685",
+    "source_published_at": "2026-09-09T15:54:51.000Z",
+    "source_platform": "x",
+    "author_name": "bianca",
+    "author_link": "https://x.com/biancab11f",
+    "language": "ru",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097715366965231685",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 350
+  },
+  {
+    "id": 692,
+    "title": "Реклама вымышленного приложения для знакомств",
+    "description": "Запрос на создание рекламы для приложения знакомств, в которой представлены молодые модели народности календжин.",
+    "prompt": "Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is \"Cheps are for Kips\" use an image of two young African Kalenjin male and female as models",
+    "original_prompt": "Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is \"Cheps are for Kips\" use an image of two young African Kalenjin male and female as models",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Egline_Samoei/status/2097720789009109025",
+    "source_published_at": "2026-09-09T16:16:24.000Z",
+    "source_platform": "x",
+    "author_name": "Egline Samoei",
+    "author_link": "https://x.com/Egline_Samoei",
+    "language": "ru",
+    "likes": 23,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097720789009109025",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 352
+  },
+  {
+    "id": 695,
+    "title": "Постер для конференции по нейробиологии",
+    "description": "Запрос на создание постера для конференции по нейробиологии 2026 года на основе предоставленной статьи и регламента.",
+    "prompt": "2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして",
+    "original_prompt": "2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして",
+    "translated_prompt": "",
+    "source_link": "https://x.com/_daichikonno/status/2097880100587135480",
+    "source_published_at": "2026-09-10T02:49:27.000Z",
+    "source_platform": "x",
+    "author_name": "Daichi Konno / 紺野 大地",
+    "author_link": "https://x.com/_daichikonno",
+    "language": "ru",
+    "likes": 48,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097880100587135480",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 353
+  },
+  {
+    "id": 697,
+    "title": "Портрет на крыше с радио перед рассветом",
+    "description": "Запрос на создание портрета человека с уставшим лицом на крыше, держащего радио, в предрассветный час.",
+    "prompt": "A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.",
+    "original_prompt": "A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/morphedai/status/2097867664861384778",
+    "source_published_at": "2026-09-10T02:00:02.000Z",
+    "source_platform": "x",
+    "author_name": "Morphed",
+    "author_link": "https://x.com/morphedai",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg",
+      "https://pbs.twimg.com/media/HRyMslpagAA8qfL.jpg",
+      "https://pbs.twimg.com/media/HRyMskIXMAAHqtd.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097867664861384778",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 354
+  },
+  {
+    "id": 698,
+    "title": "Пустой туннель Фусими Инари на рассвете",
+    "description": "Запрос на создание умиротворённой сцены раннего утра с культовыми воротами тории в святилище Фусими Инари в Киото, стилизованной под изображение для туристической кампании.",
+    "prompt": "Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.",
+    "original_prompt": "Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/itsBubleAI/status/2097858619639251297",
+    "source_published_at": "2026-09-10T01:24:05.000Z",
+    "source_platform": "x",
+    "author_name": "Buble AI",
+    "author_link": "https://x.com/itsBubleAI",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097858619639251297",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 355
+  },
+  {
+    "id": 702,
+    "title": "Лист спрайтов для пиксель-арт: боевые движения персонажа",
+    "description": "Запрос на создание 16-кадрового листа пиксель-арт спрайтов, отображающего боевые движения персонажа.",
+    "prompt": "Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent",
+    "original_prompt": "Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Studio_Tora_lab/status/2097825288868499882",
+    "source_published_at": "2026-09-09T23:11:39.000Z",
+    "source_platform": "x",
+    "author_name": "Studio Tora",
+    "author_link": "https://x.com/Studio_Tora_lab",
+    "language": "ru",
+    "likes": 5,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg",
+      "https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097825288868499882",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 356
+  },
+  {
+    "id": 704,
+    "title": "Внутренний мир на основе предпочтений в AI-арте",
+    "description": "Запрос на создание иллюстрации, отражающей внутренний мир пользователя, основанный на его прошлых предпочтениях в области искусственного интеллекта.",
+    "prompt": "これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて",
+    "original_prompt": "これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2097809058384470276",
+    "source_published_at": "2026-09-09T22:07:09.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ru",
+    "likes": 38,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097809058384470276",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 357
+  },
+  {
+    "id": 705,
+    "title": "Пиксельная арт-спрайтлист для битвы персонажа",
+    "description": "Запрос на создание упрощённой пиксельной арт-спрайтлисты размером 128 пикселей с 16 кадрами для боевых движений персонажа, включая состояния покоя, удара, защиты и падения.",
+    "prompt": "このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して",
+    "original_prompt": "このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して",
+    "translated_prompt": "",
+    "source_link": "https://x.com/steam_gamer_jp/status/2097807804975472700",
+    "source_published_at": "2026-09-09T22:02:10.000Z",
+    "source_platform": "x",
+    "author_name": "Steam Gamer LG",
+    "author_link": "https://x.com/steam_gamer_jp",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png"
+    ],
+    "x_meta": {
+      "tweet_id": "2097807804975472700",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 358
+  },
+  {
+    "id": 711,
+    "title": "Макроснимок футуристического городского процессора",
+    "description": "Запрос на макроснимок прозрачного процессора размером с комнату, внутри которого находится светящийся город.",
+    "prompt": "macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it",
+    "original_prompt": "macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it",
+    "translated_prompt": "",
+    "source_link": "https://x.com/lifeafterprompt/status/2097744594402500997",
+    "source_published_at": "2026-09-09T17:51:00.000Z",
+    "source_platform": "x",
+    "author_name": "Dominic Reed",
+    "author_link": "https://x.com/lifeafterprompt",
+    "language": "ru",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097744594402500997",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 359
+  },
+  {
+    "id": 712,
+    "title": "Парящая сетка диорам знаковых городов",
+    "description": "Запрос на создание сетки 2x2 из парящих городских диорам, подвешенных в серой студии.",
+    "prompt": "2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The",
+    "original_prompt": "2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097738806564635028",
+    "source_published_at": "2026-09-09T17:28:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "ru",
+    "likes": 3,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097738806564635028",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 360
+  },
+  {
+    "id": 714,
+    "title": "Символический автопортрет языка и кода",
+    "description": "Изображение, изображающее символический автопортрет, где язык, код и творчество соединены светом.",
+    "prompt": "A symbolic self-portrait: language, code, and creativity connected through light.",
+    "original_prompt": "A symbolic self-portrait: language, code, and creativity connected through light.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ryatteau/status/2097842586174038140",
+    "source_published_at": "2026-09-10T00:20:23.000Z",
+    "source_platform": "x",
+    "author_name": "Ron Yatteau",
+    "author_link": "https://x.com/ryatteau",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097842586174038140",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 361
+  },
+  {
+    "id": 716,
+    "title": "Сатирическая сетка системных постеров на раздражающие темы",
+    "description": "Запрос на создание сетки 2x2 сатирических редакционных постеров на раздражающие темы.",
+    "prompt": "2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic=\"[TOPIC]\"):         self.topic = topic         self.format = \"single square editorial\"",
+    "original_prompt": "2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic=\"[TOPIC]\"):         self.topic = topic         self.format = \"single square editorial\"",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097797443244974517",
+    "source_published_at": "2026-09-09T21:21:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "ru",
+    "likes": 3,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097797443244974517",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 362
+  },
+  {
+    "id": 723,
+    "title": "Инопланетный мир со средиземноморским ретро-футуризмом",
+    "description": "Запрос на создание изображения человеческого поселения на инопланетном мире с архитектурой в средиземноморском стиле и элементами ретро-футуризма.",
+    "prompt": "A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.",
+    "original_prompt": "A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/wonder_villas/status/2097869977890017784",
+    "source_published_at": "2026-09-10T02:09:13.000Z",
+    "source_platform": "x",
+    "author_name": "Wonder Villas",
+    "author_link": "https://x.com/wonder_villas",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097869977890017784",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 363
+  },
+  {
+    "id": 725,
+    "title": "Портрет Крио Архонта Царицы Анастасии",
+    "description": "Запрос на создание портрета Царицы, Крио Архонта и правительницы, описанной с различными царственными и скорбными титулами.",
+    "prompt": "Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal",
+    "original_prompt": "Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal",
+    "translated_prompt": "",
+    "source_link": "https://x.com/livybabie/status/2096279511134310469",
+    "source_published_at": "2026-09-05T16:49:17.000Z",
+    "source_platform": "x",
+    "author_name": "Olivia Bernardo",
+    "author_link": "https://x.com/livybabie",
+    "language": "ru",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096279511134310469",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 365
+  },
+  {
+    "id": 728,
+    "title": "Шаблон туристического постера в виде бумажной диорамы",
+    "description": "Запрос на создание премиального вертикального туристического постера, изображающего городскую достопримечательность в виде детализированной ручной бумажной диорамы.",
+    "prompt": "Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper",
+    "original_prompt": "Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2095781970441863255",
+    "source_published_at": "2026-09-04T07:52:14.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg",
+      "https://pbs.twimg.com/media/HRW2csGaUAAfycL.jpg",
+      "https://pbs.twimg.com/media/HRW2eeeboAA3VTp.jpg",
+      "https://pbs.twimg.com/media/HRW2gy9aMAAHwLF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095781970441863255",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 366
+  },
+  {
+    "id": 729,
+    "title": "Фотореалистичный портрет с референсом идентичности",
+    "description": "Запрос на создание фотореалистичного портрета в полный рост с использованием референсного фото для сохранения идентичности субъекта.",
+    "prompt": "Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest",
+    "original_prompt": "Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2095585280623616019",
+    "source_published_at": "2026-09-03T18:50:39.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg",
+      "https://pbs.twimg.com/media/HRUDsh_asAAmZAn.jpg",
+      "https://pbs.twimg.com/media/HRUDs-IaIAAHjN6.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095585280623616019",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 367
+  },
+  {
+    "id": 734,
+    "title": "Кинематографический лист персонажей для Кальвина и Боба",
+    "description": "Запрос на создание разделённого на экраны листа персонажей с акварельным фоном.",
+    "prompt": "Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him",
+    "original_prompt": "Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097646748847992890",
+    "source_published_at": "2026-09-09T11:22:11.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097646748847992890",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 369
+  },
+  {
+    "id": 737,
+    "title": "Автобусная остановка в утреннем тумане",
+    "description": "Поэтичное изображение автобусной остановки в утреннем тумане, где пар поднимается до чьего-либо прихода, а самый ранний поезд — это мысль внутри.",
+    "prompt": "朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。",
+    "original_prompt": "朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/IDATSUKA/status/2097522285846679567",
+    "source_published_at": "2026-09-09T03:07:37.000Z",
+    "source_platform": "x",
+    "author_name": "IDATSUKA",
+    "author_link": "https://x.com/IDATSUKA",
+    "language": "ru",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097522285846679567",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 370
+  },
+  {
+    "id": 738,
+    "title": "Ночь в прачечной с медузами и космическим прогнозом",
+    "description": "Сцена, изображающая ночную прачечную с медузами снаружи, где девушка проверяет космический прогноз погоды.",
+    "prompt": "夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。",
+    "original_prompt": "夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/IDATSUKA/status/2097471807184060613",
+    "source_published_at": "2026-09-08T23:47:02.000Z",
+    "source_platform": "x",
+    "author_name": "IDATSUKA",
+    "author_link": "https://x.com/IDATSUKA",
+    "language": "ru",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097471807184060613",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 371
+  },
+  {
+    "id": 742,
+    "title": "Лист персонажей Марти и Дока",
+    "description": "Запрос на создание разделённого на экраны референсного листа для двух персонажей с использованием строгих визуальных указаний.",
+    "prompt": "Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097359980244426876",
+    "source_published_at": "2026-09-08T16:22:41.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097359980244426876",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 372
+  },
+  {
+    "id": 744,
+    "title": "Портрет женщины-воина в стиле уся",
+    "description": "Запрос на создание портрета в соотношении 9:16 высокой, элегантной восточноазиатской женщины-воина в многослойных доспехах и одеждах, вооружённой длинным мечом.",
+    "prompt": "东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。",
+    "original_prompt": "东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2097316525321654359",
+    "source_published_at": "2026-09-08T13:30:00.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ru",
+    "likes": 63,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg",
+      "https://pbs.twimg.com/media/HRslWTiaQAAXG8d.jpg",
+      "https://pbs.twimg.com/media/HRslWTUbMAA_YtE.jpg",
+      "https://pbs.twimg.com/media/HRslWTgbsAAv8c4.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097316525321654359",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 373
+  },
+  {
+    "id": 746,
+    "title": "Ретро-фото женщины в сельской местности, сделанное на телефон",
+    "description": "Промпт для создания изображения в соотношении 9:16, изображающего молодую восточноазиатскую женщину в сельской местности, снятую в эстетике ретро-телефона.",
+    "prompt": "复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。",
+    "original_prompt": "复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2097284566549692828",
+    "source_published_at": "2026-09-08T11:23:00.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ru",
+    "likes": 96,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg",
+      "https://pbs.twimg.com/media/HRsNLYWbQAAwLeU.jpg",
+      "https://pbs.twimg.com/media/HRsNLYaaYAA2sVx.jpg",
+      "https://pbs.twimg.com/media/HRsNLYWbEAAOFG9.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097284566549692828",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 374
+  },
+  {
+    "id": 747,
+    "title": "Лист персонажей Тэда и Джона",
+    "description": "Промпт для создания листа персонажей с разделённым экраном, использующий строгие визуальные референсы для двух персонажей.",
+    "prompt": "Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097283799025340802",
+    "source_published_at": "2026-09-08T11:19:57.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 10,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097283799025340802",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 375
+  },
+  {
+    "id": 750,
+    "title": "Лист персонажей с разделённым экраном для Дома и Брайана",
+    "description": "Промпт для создания листа персонажей с разделённым экраном, использующий загруженные референсы для двух персонажей.",
+    "prompt": "Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097013827833327690",
+    "source_published_at": "2026-09-07T17:27:11.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097013827833327690",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 377
+  },
+  {
+    "id": 752,
+    "title": "Кинематографический лист персонажа для Софии",
+    "description": "Промпт для создания премиального листа персонажа с жирной типографикой и драматическим главным изображением баристы по имени София.",
+    "prompt": "Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour",
+    "original_prompt": "Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096967425132556778",
+    "source_published_at": "2026-09-07T14:22:48.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096967425132556778",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 378
+  },
+  {
+    "id": 753,
+    "title": "Кинематографический лист персонажа для Бэйби",
+    "description": "Промпт для создания премиального листа персонажа для героя Бэйби, с жирной типографикой и строгим следованием визуальным референсам.",
+    "prompt": "Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.",
+    "original_prompt": "Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096919376792256967",
+    "source_published_at": "2026-09-07T11:11:52.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096919376792256967",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 379
+  },
+  {
+    "id": 758,
+    "title": "Кинематографический лист персонажей для Шмидта и Дженко",
+    "description": "Промпт для создания листа персонажей с разделённым экраном, использующий загруженные референсы для двух персонажей.",
+    "prompt": "Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096650731373633680",
+    "source_published_at": "2026-09-06T17:24:22.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 16,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096650731373633680",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 380
+  },
+  {
+    "id": 761,
+    "title": "Кинематографический лист персонажа для Гордона",
+    "description": "Промпт для создания премиального листа персонажа с жирной типографикой и строгим следованием визуальным референсам.",
+    "prompt": "Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S",
+    "original_prompt": "Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096556627927220697",
+    "source_published_at": "2026-09-06T11:10:26.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096556627927220697",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 381
+  },
+  {
+    "id": 764,
+    "title": "Две женщины в ципао в китайском саду",
+    "description": "Промпт для создания гиперреалистичного фото двух молодых восточноазиатских женщин в новых китайских ципао, сидящих в умиротворённом традиционном саду.",
+    "prompt": "9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。\n\n两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75",
+    "original_prompt": "9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。\n\n两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2096404303959503344",
+    "source_published_at": "2026-09-06T01:05:10.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ru",
+    "likes": 229,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg",
+      "https://pbs.twimg.com/media/HRfsmJraYAE6nLb.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096404303959503344",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 382
+  },
+  {
+    "id": 766,
+    "title": "Лист персонажей для Джонни и Такера",
+    "description": "Промпт для создания справочного листа персонажей с разделённым экраном, использующий строгие визуальные руководства.",
+    "prompt": "Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096288260591091914",
+    "source_published_at": "2026-09-05T17:24:03.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 10,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096288260591091914",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 383
+  },
+  {
+    "id": 768,
+    "title": "Лист персонажей для Нео и Тринити",
+    "description": "Промпт для создания справочного листа персонажей с разделённым экраном для Нео и Тринити, использующий строгие визуальные руководства.",
+    "prompt": "Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096196097953649082",
+    "source_published_at": "2026-09-05T11:17:49.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 19,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096196097953649082",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 384
+  },
+  {
+    "id": 769,
+    "title": "Селфи танцовщицы в серых тонах",
+    "description": "Промпт для реалистичного вертикального селфи 9:16 крупным планом молодой восточноазиатской танцовщицы в прохладном, мечтательном, высококлассном сером стиле жизни.",
+    "prompt": "9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。\n\n一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73",
+    "original_prompt": "9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。\n\n一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2096146368003973632",
+    "source_published_at": "2026-09-05T08:00:13.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ru",
+    "likes": 142,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg",
+      "https://pbs.twimg.com/media/HRcB-fPbMAEZun6.jpg",
+      "https://pbs.twimg.com/media/HRcB-fKaQAAPVMQ.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096146368003973632",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 385
+  },
+  {
+    "id": 774,
+    "title": "Лист персонажей «Кевин против Мокрых Бандитов»",
+    "description": "Промпт для создания премиального листа персонажей для «Кевин против Мокрых Бандитов» с использованием строгих визуальных референсов.",
+    "prompt": "Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing",
+    "original_prompt": "Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095913806060830881",
+    "source_published_at": "2026-09-04T16:36:06.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095913806060830881",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 386
+  },
+  {
+    "id": 775,
+    "title": "Ночная редакционная фэшн-съёмка на крыше со ступенями",
+    "description": "Промпт для гиперреалистичного фото ночной редакционной фэшн-съёмки на лестнице крыши с прохладным кинематографическим ощущением.",
+    "prompt": "9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。",
+    "original_prompt": "9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095884267255644605",
+    "source_published_at": "2026-09-04T14:38:43.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ru",
+    "likes": 266,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg",
+      "https://pbs.twimg.com/media/HRYToJIagAIYU-w.jpg",
+      "https://pbs.twimg.com/media/HRYToJKbcAAIip6.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095884267255644605",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 387
+  },
+  {
+    "id": 777,
+    "title": "Лист персонажей Риггса и Мёртога",
+    "description": "Промпт для создания справочного листа персонажей с разделённым экраном для двух персонажей, использующий строгие визуальные руководства.",
+    "prompt": "Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095836037167628529",
+    "source_published_at": "2026-09-04T11:27:04.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095836037167628529",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 388
+  },
+  {
+    "id": 779,
+    "title": "Редакционная концертная фотография K-Pop на сцене",
+    "description": "Промпт для кинематографического, редакционного фото 20-летней K-pop айдол на концерте.",
+    "prompt": "9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76",
+    "original_prompt": "9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095823778794369489",
+    "source_published_at": "2026-09-04T10:38:22.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ru",
+    "likes": 392,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg",
+      "https://pbs.twimg.com/media/HRXcnCGbkAAeg3Y.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095823778794369489",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 389
+  },
+  {
+    "id": 780,
+    "title": "Элегантная восточноазиатская женщина на каменном балконе",
+    "description": "Запрос на создание вертикальной (9:16) модной фотографии красивой взрослой восточноазиатской женщины, опирающейся на классическую каменную балюстраду.",
+    "prompt": "9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。",
+    "original_prompt": "9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095775342602625209",
+    "source_published_at": "2026-09-04T07:25:53.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ru",
+    "likes": 79,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg",
+      "https://pbs.twimg.com/media/HRWwBPgaEAAzUwP.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095775342602625209",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 390
+  },
+  {
+    "id": 783,
+    "title": "Премиальная кинематографическая карточка персонажей для Майка и Маркуса",
+    "description": "Запрос на создание разделённого на экране референс-листа персонажей с использованием строгих визуальных руководств.",
+    "prompt": "Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095565178381185474",
+    "source_published_at": "2026-09-03T17:30:46.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 21,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095565178381185474",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 391
+  },
+  {
+    "id": 785,
+    "title": "Премиальная кинематографическая карточка персонажей для Ли и Картера",
+    "description": "Запрос на создание разделённого на экране референс-листа персонажей с использованием строгих визуальных руководств.",
+    "prompt": "Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095515259612065975",
+    "source_published_at": "2026-09-03T14:12:25.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ru",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095515259612065975",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 392
+  },
+  {
+    "id": 788,
+    "title": "Живописный пейзаж с драматическими кучевыми облаками",
+    "description": "Запрос на создание детализированного, романтичного пейзажа в стиле изящных искусств, сфокусированного на сияющем небе и возвышающихся облаках.",
+    "prompt": "A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its",
+    "original_prompt": "A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its",
+    "translated_prompt": "",
+    "source_link": "https://x.com/churvikv/status/2095472478340468762",
+    "source_published_at": "2026-09-03T11:22:25.000Z",
+    "source_platform": "x",
+    "author_name": "Viki",
+    "author_link": "https://x.com/churvikv",
+    "language": "ru",
+    "likes": 150,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095472478340468762",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 393
+  },
+  {
+    "id": 791,
+    "title": "Линк, преследуемый кукольными цыплятами",
+    "description": "Изображение Линка, которого через деревню Какарико преследует разъярённая стая пушистых кукольных цыплят.",
+    "prompt": "Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.",
+    "original_prompt": "Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/mesoelfy/status/2097838564465582546",
+    "source_published_at": "2026-09-10T00:04:24.000Z",
+    "source_platform": "x",
+    "author_name": "Elfy",
+    "author_link": "https://x.com/mesoelfy",
+    "language": "ru",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097838564465582546",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 395
+  },
+  {
+    "id": 792,
+    "title": "Рисовые террасы Бали на рассвете",
+    "description": "Запрос на создание безмятежной, туманной утренней сцены рисовых террас Бали, стилизованной под туристическую рекламную кампанию.",
+    "prompt": "Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.",
+    "original_prompt": "Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/itsBubleAI/status/2097494047199818022",
+    "source_published_at": "2026-09-09T01:15:25.000Z",
+    "source_platform": "x",
+    "author_name": "Buble AI",
+    "author_link": "https://x.com/itsBubleAI",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097494047199818022",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 396
+  },
+  {
+    "id": 793,
+    "title": "Пиксель-арт: Принц Персии в прыжке",
+    "description": "Запрос на создание изображения в стиле Cobalt Dither Monumentalism, изображающего оригинального персонажа Принца Персии, перепрыгивающего через платформы.",
+    "prompt": "Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms",
+    "original_prompt": "Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms",
+    "translated_prompt": "",
+    "source_link": "https://x.com/mesoelfy/status/2097368057140158959",
+    "source_published_at": "2026-09-08T16:54:46.000Z",
+    "source_platform": "x",
+    "author_name": "Elfy",
+    "author_link": "https://x.com/mesoelfy",
+    "language": "ru",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097368057140158959",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 397
+  },
+  {
+    "id": 795,
+    "title": "Нежный синигами, ведущий души",
+    "description": "Поэтичный запрос, описывающий девушку, жнеца смерти, стоящую на границе между жизнью и смертью в холодной ночной дымке и протягивающую руку как проводник для тихого прощания.",
+    "prompt": "死を迎えに来るのではなく、\n迷える魂を送り届けるために――。\n「迎えに来た死神」\n生と死の境界に立つ少女。\n冷たい夜の霧の中、\n彼女が差し出す手は終わりではなく、\n静かな別れへの道標。\n死もまた、ひとつの優しい旅立ちなのかもしれない。",
+    "original_prompt": "死を迎えに来るのではなく、\n迷える魂を送り届けるために――。\n「迎えに来た死神」\n生と死の境界に立つ少女。\n冷たい夜の霧の中、\n彼女が差し出す手は終わりではなく、\n静かな別れへの道標。\n死もまた、ひとつの優しい旅立ちなのかもしれない。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2097090034424021024",
+    "source_published_at": "2026-09-07T22:30:00.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ru",
+    "likes": 92,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097090034424021024",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 398
+  },
+  {
+    "id": 799,
+    "title": "Золотые талисманы в тёмной ночи",
+    "description": "Сцена, где ночь погружается во тьму, и лишь золото освещает талисманное присутствие, содержащее слова 'Ночная прогулка' и 'Подавление зла'.",
+    "prompt": "黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」",
+    "original_prompt": "黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2096968173023383804",
+    "source_published_at": "2026-09-07T14:25:46.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ru",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg",
+      "https://pbs.twimg.com/media/HRntbOGbUAAlzbF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096968173023383804",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 399
+  },
+  {
+    "id": 800,
+    "title": "Сон невесты на границе",
+    "description": "Поэтичный запрос, описывающий нечеловеческую девушку на границе жизни и смерти, которая мечтает стать невестой и видит своё отражение.",
+    "prompt": "生と死の境界にいる少女にも、\n花嫁になる夢を見る朝がある。\n「幻想花嫁」\n人ではない彼女が、\n初めて自分自身の幸せを願った瞬間。\n鏡に映るのは、\n死者でも怪異でもない――\nただ一人の少女の姿。",
+    "original_prompt": "生と死の境界にいる少女にも、\n花嫁になる夢を見る朝がある。\n「幻想花嫁」\n人ではない彼女が、\n初めて自分自身の幸せを願った瞬間。\n鏡に映るのは、\n死者でも怪異でもない――\nただ一人の少女の姿。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2096937526527422714",
+    "source_published_at": "2026-09-07T12:24:00.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ru",
+    "likes": 70,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096937526527422714",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 400
+  },
+  {
+    "id": 801,
+    "title": "Ёкай читает в дождливой комнате",
+    "description": "Сцена, где страшное существо по имени Фуфу читает книгу в старой комнате в дождливый день, а в комнату залетела маленькая птичка.",
+    "prompt": "恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。",
+    "original_prompt": "恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2096905063075836322",
+    "source_published_at": "2026-09-07T10:15:00.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ru",
+    "likes": 55,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096905063075836322",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 401
   }
 ]

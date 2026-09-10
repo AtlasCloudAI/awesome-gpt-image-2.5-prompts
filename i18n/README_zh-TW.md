@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-278%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-334%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts&locale=zh-TW) | [提交提示詞](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,20 +102,20 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **278** |
+| 提示詞總數 | **334** |
 | 分類數 | **4** |
-| 預覽圖數 | **278** |
-| 最後更新 | **2026-09-09** |
+| 預覽圖數 | **334** |
+| 最後更新 | **2026-09-10** |
 
 <a id="browse-by-category"></a>
 
 ## 🏷️ 按分類瀏覽
 
 
-- [`參考圖保真`](#category-1): **41**
+- [`參考圖保真`](#category-1): **60**
 - [`精準編輯`](#category-2): **10**
-- [`風格與理解力`](#category-3): **188**
-- [`複雜版式與文字`](#category-4): **39**
+- [`風格與理解力`](#category-3): **216**
+- [`複雜版式與文字`](#category-4): **48**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 <a id="category-1"></a>
 
-### 參考圖保真 (41)
+### 參考圖保真 (60)
 
 ### No. 1: 復古八〇年代商場肖像
 
@@ -1075,6 +1075,432 @@ A powerful cinematic fantasy scene of the woman from the reference image standin
 Create a premium, hyper-realistic high-fashion advertising campaign image using my uploaded female model as the ONLY identity reference for the main female subject. Preserve her exact facial identity and natural appearance — facial structure, skin
 ```
 
+### No. 42: 文章轉化為午後風格四格漫畫
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** テツメモ｜AI図解×検証｜Newsletter
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個根據附帶文章，生成日式雜誌《午後》風格的四頁漫畫的提示。
+
+#### 提示詞
+
+```text
+添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して
+```
+
+### No. 43: 高級電影感角色設定表
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個使用嚴格視覺指南創作分屏式角色參考表的提示。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 44: 像素藝術戰鬥動畫精靈表
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** bianca
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個生成簡化的128像素像素藝術戰鬥動畫精靈表的提示，背景為透明。
+
+#### 提示詞
+
+```text
+Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4
+```
+
+### No. 45: 角色戰鬥動畫像素藝術精靈表
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** Studio Tora
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個生成包含16幀角色戰鬥動作的像素藝術精靈表的提示。
+
+#### 提示詞
+
+```text
+Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent
+```
+
+### No. 46: 角色戰鬥像素動畫精靈表
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** Steam Gamer LG
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於創建一個128像素的簡化像素藝術精靈表，包含16幀，用於表現角色的戰鬥動作，包括待機、揮砍、防禦和擊倒狀態。
+
+#### 提示詞
+
+```text
+このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して
+```
+
+### No. 47: 帶有身份參考的寫實肖像
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** Mr. Patel
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDsh_asAAmZAn.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDs-IaIAAHjN6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，要求使用參考照片來創建一張全身、寫實的肖像，以保留主體的身份特徵。
+
+#### 提示詞
+
+```text
+Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest
+```
+
+### No. 48: 馬蒂與博士角色設定指南表
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，要求使用嚴格的視覺指南，為兩個角色生成一個分屏角色參考表。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 49: 泰德與約翰角色設定集
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成使用嚴格視覺參考的雙角色分屏角色設定表。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 50: 多姆與布萊恩分屏角色設定集
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成使用上傳參考圖的雙角色分屏角色設定表。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 51: 寶貝電影感角色設定集
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成角色「寶貝」的高級角色設定表，以粗體排版和嚴格遵守視覺參考為特色。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.
+```
+
+### No. 52: 施密特與詹科電影感角色設定集
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成使用上傳參考圖的雙角色分屏角色設定表。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 53: 高登電影感角色設定集
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於創建具有粗體排版和嚴格視覺參考的高級角色設定表。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S
+```
+
+### No. 54: 強尼與塔克角色設定集
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成使用嚴格視覺指南的分屏角色參考表。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 55: 尼歐與崔妮蒂角色設定集
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成尼歐和崔妮蒂的分屏角色參考表，使用嚴格視覺指南。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 56: 凱文對決濕身大盜角色設定集
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成「凱文對決濕身大盜」的高級角色設定表，使用嚴格視覺參考。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing
+```
+
+### No. 57: 夜間屋頂樓梯時尚編輯攝影
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** AIVideoHub 🕊️
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJIagAIYU-w.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJKbcAAIip6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成超寫實照片，內容為夜間屋頂樓梯時尚編輯攝影，帶有酷炫的電影感。
+
+#### 提示詞
+
+```text
+9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。
+```
+
+### No. 58: 瑞格斯與莫陶角色設定集
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成使用嚴格視覺指南的雙角色分屏角色參考表。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 59: 麥克與馬庫斯：高級電影感角色設定表
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成嚴格遵循視覺指南的分屏角色參考表。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 60: 李與卡特：高級電影感角色設定表
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創建嚴格遵循視覺指南的分屏角色參考表的提示。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
 <a id="category-2"></a>
 
 ### 精準編輯 (10)
@@ -1319,7 +1745,7 @@ Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [P
 
 <a id="category-3"></a>
 
-### 風格與理解力 (188)
+### 風格與理解力 (216)
 
 ### No. 1: 夜間賽博龐克大都會
 
@@ -5783,9 +6209,660 @@ towering pint glass rising from the desert floor like a twisting sand-and-beer v
 real beer bottle in the lower-right foreground, large, sharp, and partially cropped
 ```
 
+### No. 189: 蒙德里安畫作變身桌面收納櫃
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Cell 细胞
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個將蒙德里安的《紅、藍、黃構圖》轉化為帶有彩色抽屜的功能性桌面收納櫃的提示。
+
+#### 提示詞
+
+```text
+蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。
+```
+
+### No. 190: 超現實事物的真實影像
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Kris Kashtanova
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個生成高度逼真的想像中超現實主題影像的提示。
+
+#### 提示詞
+
+```text
+create the most realistic possible image of the most surreal thing you can imagine
+```
+
+### No. 191: 橘子世界裡的微小人類
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Johnny Wang
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziSahbYAAv-Rm.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziTgcbkAAIjUD.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅描繪微小人類居住在橘子內的圖像，果瓣形成了建築結構。
+
+#### 提示詞
+
+```text
+2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant
+```
+
+### No. 192: 銳利側影中的威脅身影
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Syed Abuthahir ∞
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個生成帶有烏黑頭髮與血紅嘴唇的威脅身影，以銳利側面輪廓呈現的提示。
+
+#### 提示詞
+
+```text
+A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw
+```
+
+### No. 193: 虛構交友軟體廣告
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Egline Samoei
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個生成以卡倫津族年輕模特兒為特色的交友軟體廣告的提示。
+
+#### 提示詞
+
+```text
+Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is "Cheps are for Kips" use an image of two young African Kalenjin male and female as models
+```
+
+### No. 194: 日出前屋頂上的收音機肖像
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Morphed
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMslpagAA8qfL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMskIXMAAHqtd.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個生成日出前屋頂上，一張飽經風霜的臉龐與收音機的肖像圖的提示。
+
+#### 提示詞
+
+```text
+A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.
+```
+
+### No. 195: 黎明時分空無一人的伏見稻荷隧道
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Buble AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個生成京都伏見稻荷大社標誌性朱紅色鳥居在清晨寧靜場景的提示，風格為旅遊宣傳圖像。
+
+#### 提示詞
+
+```text
+Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.
+```
+
+### No. 196: 基於AI藝術喜好的內心世界
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** 符符 Fufu｜阿山
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個請求，要求根據用戶過去的AI藝術喜好，繪製一幅反映其內心世界的插圖。
+
+#### 提示詞
+
+```text
+これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて
+```
+
+### No. 197: 未來城市處理器的微距鏡頭
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Dominic Reed
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，要求生成一個透明、房間大小的處理器的微距鏡頭，其中包含一座發光的城市。
+
+#### 提示詞
+
+```text
+macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it
+```
+
+### No. 198: 語言與代碼的象徵性自畫像
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Ron Yatteau
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅描繪象徵性自畫像的圖像，其中語言、代碼和創造力被光線相互連接。
+
+#### 提示詞
+
+```text
+A symbolic self-portrait: language, code, and creativity connected through light.
+```
+
+### No. 199: 融合地中海復古未來主義的外星世界
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Wonder Villas
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成一個外星世界上人類定居點的圖像，其建築融合了地中海風格與復古未來主義元素。
+
+#### 提示詞
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+### No. 200: 冰之女皇阿納斯塔西婭肖像
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Olivia Bernardo
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成女皇的肖像，她是一位冰之執政官與君主，描述中帶有各種尊貴與憂傷的稱號。
+
+#### 提示詞
+
+```text
+Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal
+```
+
+### No. 201: 晨霧中的公車站
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** IDATSUKA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅詩意的圖像，描繪晨霧中的公車站，蒸汽在任何人到來之前升起，而最早的列車是其中的一個念頭。
+
+#### 提示詞
+
+```text
+朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。
+```
+
+### No. 202: 水母與宇宙預報的夜間自助洗衣店
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** IDATSUKA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個場景，描繪夜間的自助洗衣店，外面有水母，一個女孩正在查看宇宙天氣預報。
+
+#### 提示詞
+
+```text
+夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。
+```
+
+### No. 203: 武俠女戰士肖像
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** AIVideoHub 🕊️
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTiaQAAXG8d.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTUbMAA_YtE.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTgbsAAv8c4.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成一幅9:16比例的肖像，描繪一位高挑、優雅的東亞女戰士，身著層疊盔甲與長袍，手持長劍。
+
+#### 提示詞
+
+```text
+东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。
+```
+
+### No. 204: 鄉村復古電話風格女性照片
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** AIVideoHub 🕊️
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbQAAwLeU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYaaYAA2sVx.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbEAAOFG9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成9:16圖像的提示，描繪一位在鄉村環境中的年輕東亞女性，以復古電話美學捕捉。
+
+#### 提示詞
+
+```text
+复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。
+```
+
+### No. 205: 中式園林中兩位著旗袍的女性
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** AIVideoHub 🕊️
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRfsmJraYAE6nLb.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成超寫實照片，內容為兩位身著新中式旗袍的年輕東亞女性，坐在寧靜的傳統園林中。
+
+#### 提示詞
+
+```text
+9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。
+
+两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75
+```
+
+### No. 206: 舞者灰色調自拍
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** AIVideoHub 🕊️
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fPbMAEZun6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fKaQAAPVMQ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成9:16垂直、寫實特寫自拍，內容為一位年輕東亞舞者，採用酷炫、夢幻、高端的灰色生活風格。
+
+#### 提示詞
+
+```text
+9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。
+
+一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73
+```
+
+### No. 207: K-Pop演唱會舞台時尚編輯攝影
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** AIVideoHub 🕊️
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRXcnCGbkAAeg3Y.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成電影感、時尚編輯風格的20歲K-pop女偶像演唱會照片。
+
+#### 提示詞
+
+```text
+9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76
+```
+
+### No. 208: 優雅的東亞女子於石造陽台
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** AIVideoHub 🕊️
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRWwBPgaEAAzUwP.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成9:16垂直時尚照片的提示，描繪一位美麗的成年東亞女子倚靠著古典石欄杆。
+
+#### 提示詞
+
+```text
+9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。
+```
+
+### No. 209: 具繪畫感的戲劇性積雲風景
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Viki
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成細緻、浪漫的藝術風景畫的提示，重點在於明亮的天空和高聳的雲層。
+
+#### 提示詞
+
+```text
+A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its
+```
+
+### No. 210: 被傀儡小雞追逐的林克
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Elfy
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅林克被一群憤怒的毛茸茸傀儡小雞穿過卡卡利科村追逐的圖像。
+
+#### 提示詞
+
+```text
+Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.
+```
+
+### No. 211: 黎明時分的巴厘島梯田
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Buble AI
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個圖像提示，用於描繪巴厘島梯田寧靜、霧氣濛濛的清晨場景，風格類似旅遊宣傳。
+
+#### 提示詞
+
+```text
+Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.
+```
+
+### No. 212: 波斯王子跳躍像素藝術
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Elfy
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成以鈷藍色網點紀念主義風格描繪原始波斯王子角色跳躍平台的圖像。
+
+#### 提示詞
+
+```text
+Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms
+```
+
+### No. 213: 溫柔引導靈魂的死神
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** 符符 Fufu｜阿山
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詩意的提示，描述一位作為死亡收割者的女孩，站在生死邊界的寒冷夜霧中，伸出手作為引導，進行一場靜默的告別。
+
+#### 提示詞
+
+```text
+死を迎えに来るのではなく、
+迷える魂を送り届けるために――。
+「迎えに来た死神」
+生と死の境界に立つ少女。
+冷たい夜の霧の中、
+彼女が差し出す手は終わりではなく、
+静かな別れへの道標。
+死もまた、ひとつの優しい旅立ちなのかもしれない。
+```
+
+### No. 214: 暗夜中的金色符咒
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** 符符 Fufu｜阿山
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRntbOGbUAAlzbF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個夜晚沉入黑暗的場景，只有金色照亮了一個符咒般的存在，並包含「夜行」與「鎮邪」字樣。
+
+#### 提示詞
+
+```text
+黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」
+```
+
+### No. 215: 邊界上新娘的夢
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** 符符 Fufu｜阿山
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個詩意的提示，描述一位非人女孩在生死邊界上夢想著成為新娘，並看見自己的倒影。
+
+#### 提示詞
+
+```text
+生と死の境界にいる少女にも、
+花嫁になる夢を見る朝がある。
+「幻想花嫁」
+人ではない彼女が、
+初めて自分自身の幸せを願った瞬間。
+鏡に映るのは、
+死者でも怪異でもない――
+ただ一人の少女の姿。
+```
+
+### No. 216: 雨日房間中閱讀的妖怪
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** 符符 Fufu｜阿山
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個場景，描繪令人畏懼的存在——福福，在一個下雨天的舊房間裡閱讀書籍，還有一隻誤入的小鳥。
+
+#### 提示詞
+
+```text
+恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。
+```
+
 <a id="category-4"></a>
 
-### 複雜版式與文字 (39)
+### 複雜版式與文字 (48)
 
 ### No. 1: 復古極簡勵志海報網格
 
@@ -6656,6 +7733,213 @@ two hero packaged bars crossing diagonally through the center in opposite direct
 three bowls arranged diagonally from front-left foreground to rear-right background
 ```
 
+### No. 40: 以智慧型手機為視覺錨點的高級Instagram旅遊廣告
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** Saul Goodman
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00DraaoAEP8_g.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00Ethb0AAb_C-.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00F2NbEAAn5Hl.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作高級Instagram旅遊廣告的提示，以現代智慧型手機作為視覺錨點。
+
+#### 提示詞
+
+```text
+[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation
+```
+
+### No. 41: 收藏級人偶的垂直社群海報
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** IDATSUKA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpYbYAENOJR.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpkbQAAmsEp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpZaYAATDxm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作高解析度垂直社群媒體海報的提示，廣告內容為高級收藏人偶，採用粗體字體與純黃色背景。
+
+#### 提示詞
+
+```text
+4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle
+```
+
+### No. 42: 層次分明的書籍封面設計
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** DeepBlue深藍
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個設計具有強烈字體層次感與易讀性的書籍封面的提示。
+
+#### 提示詞
+
+```text
+Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.
+```
+
+### No. 43: 神經科學會議海報
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** Daichi Konno / 紺野 大地
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個根據提供的論文與規定，生成2026年神經科學會議海報的提示。
+
+#### 提示詞
+
+```text
+2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして
+```
+
+### No. 44: 懸浮標誌性城市立體模型網格
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成一個2x2網格的懸浮城市立體模型，這些模型懸掛在一個灰色工作室中。
+
+#### 提示詞
+
+```text
+2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The
+```
+
+### No. 45: 關於惱人話題的諷刺系統海報網格
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，要求生成一個2x2網格的諷刺性社論海報，主題是令人沮喪的話題。
+
+#### 提示詞
+
+```text
+2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic="[TOPIC]"):         self.topic = topic         self.format = "single square editorial"
+```
+
+### No. 46: 紙藝立體模型旅遊海報模板
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** Mr. Patel
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2csGaUAAfycL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2eeeboAA3VTp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2gy9aMAAHwLF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於創建一張優質的垂直旅遊海報，將城市地標描繪成一個精緻的手工紙藝立體模型。
+
+#### 提示詞
+
+```text
+Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper
+```
+
+### No. 47: 卡爾文與鮑伯的電影角色設定表
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於創建一個帶有水彩背景的分屏角色設定表。
+
+#### 提示詞
+
+```text
+Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him
+```
+
+### No. 48: 蘇菲亞電影感角色設定集
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** TechieSA
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個提示，用於生成高級角色設定表，以粗體排版和名為蘇菲亞的咖啡師戲劇性主角形象為特色。
+
+#### 提示詞
+
+```text
+Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour
+```
+
 <a id="featured-prompts"></a>
 
 ## 🔥 精選提示詞
@@ -6870,4 +8154,4 @@ npx tsc --noEmit
 
 > 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
 
-> 此 README 為自動生成。 2026-09-09.
+> 此 README 為自動生成。 2026-09-10.

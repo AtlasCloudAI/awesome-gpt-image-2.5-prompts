@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-278%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-334%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,20 +102,20 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **278** |
+| Total Prompts | **334** |
 | Categories | **4** |
-| Preview Images | **278** |
-| Last Updated | **2026-09-09** |
+| Preview Images | **334** |
+| Last Updated | **2026-09-10** |
 
 <a id="browse-by-category"></a>
 
 ## 🏷️ Browse by Category
 
 
-- [`Reference Fidelity`](#category-1): **41**
+- [`Reference Fidelity`](#category-1): **60**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **188**
-- [`Layout & Typography`](#category-4): **39**
+- [`Style & Intelligence`](#category-3): **216**
+- [`Layout & Typography`](#category-4): **48**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ Every record keeps its category, source, author, source link, input references a
 
 <a id="category-1"></a>
 
-### Reference Fidelity (41)
+### Reference Fidelity (60)
 
 ### No. 1: Retro Eighties Mall Portrait
 
@@ -1075,6 +1075,432 @@ A powerful cinematic fantasy scene of the woman from the reference image standin
 Create a premium, hyper-realistic high-fashion advertising campaign image using my uploaded female model as the ONLY identity reference for the main female subject. Preserve her exact facial identity and natural appearance — facial structure, skin
 ```
 
+### No. 42: 기사를 애프터눈 스타일의 4컷 만화로 변환
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** テツメモ｜AI図解×検証｜Newsletter
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+첨부된 기사를 바탕으로 일본 잡지 '애프터눈'의 스타일로 4페이지 분량의 만화를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して
+```
+
+### No. 43: 고급 시네마틱 캐릭터 바이블 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+엄격한 시각적 가이드라인을 사용하여 스플릿 스크린 방식의 캐릭터 레퍼런스 시트를 제작하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 44: 픽셀 아트 전투 스프라이트 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** bianca
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+투명 배경의 단순화된 128px 픽셀 아트 전투 애니메이션 스프라이트 시트를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4
+```
+
+### No. 45: 캐릭터 전투 스프라이트 시트 픽셀 아트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Studio Tora
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+캐릭터의 전투 동작을 위한 16프레임 픽셀 아트 스프라이트 시트를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent
+```
+
+### No. 46: 캐릭터 배틀 스프라이트 시트 픽셀 아트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Steam Gamer LG
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+캐릭터의 전투 동작(대기, 베기, 방어, 넉다운 상태)을 위한 16프레임의 128px 단순화 픽셀 아트 스프라이트 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して
+```
+
+### No. 47: 신원 참조를 활용한 사실적 초상화
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDsh_asAAmZAn.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDs-IaIAAHjN6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+참조 사진을 사용하여 피사체의 신원을 보존한 전신의 사실적(포토리얼리스틱) 초상화를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest
+```
+
+### No. 48: 마티 & 닥터 캐릭터 바이블 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+엄격한 시각적 가이드라인을 사용하여 두 캐릭터에 대한 스플릿 스크린 캐릭터 참조 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 49: 테드 & 존 캐릭터 바이블 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+두 캐릭터에 대해 엄격한 시각적 참조를 사용하여 스플릿 스크린 캐릭터 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 50: 돔 & 브라이언을 위한 스플릿 스크린 캐릭터 바이블
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+업로드된 참조 자료를 사용하여 두 캐릭터의 스플릿 스크린 캐릭터 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 51: 베이비를 위한 시네마틱 캐릭터 바이블 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+강렬한 타이포그래피와 엄격한 시각적 참조 준수를 특징으로 하는 캐릭터 '베이비'를 위한 프리미엄 캐릭터 시트 생성 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.
+```
+
+### No. 52: 슈미트 & 젠코를 위한 시네마틱 캐릭터 바이블
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+업로드된 참조 자료를 사용하여 두 캐릭터의 스플릿 스크린 캐릭터 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 53: 고든을 위한 시네마틱 캐릭터 바이블
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+강렬한 타이포그래피와 엄격한 시각적 참조를 갖춘 프리미엄 캐릭터 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S
+```
+
+### No. 54: 조니 & 터커 캐릭터 바이블 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+엄격한 시각적 가이드라인을 사용하여 스플릿 스크린 캐릭터 참조 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 55: 네오 & 트리니티 캐릭터 바이블 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+엄격한 시각적 가이드라인을 사용하여 네오와 트리니티의 스플릿 스크린 캐릭터 참조 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 56: 케빈 대 웻 밴디츠 캐릭터 바이블
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+엄격한 시각적 참조를 사용하여 '케빈 대 웻 밴디츠'를 위한 프리미엄 캐릭터 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing
+```
+
+### No. 57: 야간 옥상 계단 에디토리얼 패션 샷
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJIagAIYU-w.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJKbcAAIip6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+시원한 시네마틱 느낌의 야간 옥상 계단 패션 에디토리얼을 위한 초현실적 사진 프롬프트입니다.
+
+#### Prompt
+
+```text
+9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。
+```
+
+### No. 58: 리그스 & 머토 캐릭터 바이블 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+엄격한 시각적 가이드라인을 사용하여 두 캐릭터의 스플릿 스크린 캐릭터 참조 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 59: 마이크와 마커스를 위한 프리미엄 시네마틱 캐릭터 바이블 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+엄격한 시각적 가이드라인을 사용하여 스플릿 스크린 캐릭터 레퍼런스 시트를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 60: 리와 카터를 위한 프리미엄 시네마틱 캐릭터 바이블 시트
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+엄격한 시각적 가이드를 사용하여 스플릿 스크린 캐릭터 레퍼런스 시트를 제작하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
 <a id="category-2"></a>
 
 ### Precision Editing (10)
@@ -1319,7 +1745,7 @@ Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [P
 
 <a id="category-3"></a>
 
-### Style & Intelligence (188)
+### Style & Intelligence (216)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -5783,9 +6209,660 @@ towering pint glass rising from the desert floor like a twisting sand-and-beer v
 real beer bottle in the lower-right foreground, large, sharp, and partially cropped
 ```
 
+### No. 189: 몬드리안 그림을 데스크탑 수납장으로 변환
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Cell 细胞
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+몬드리안의 '빨강, 파랑, 노랑의 구성'을 색상이 있는 서랍이 달린 기능성 데스크탑 수납장으로 변환하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。
+```
+
+### No. 190: 초현실적인 사물의 사실적인 이미지
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Kris Kashtanova
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+상상 속 초현실적인 주제를 매우 사실적으로 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+create the most realistic possible image of the most surreal thing you can imagine
+```
+
+### No. 191: 귤 속의 작은 인간 세계
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Johnny Wang
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziSahbYAAv-Rm.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziTgcbkAAIjUD.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+귤 속에서 사는 아주 작은 인간들의 이미지로, 과일의 쪽이 건축물을 형성합니다.
+
+#### Prompt
+
+```text
+2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant
+```
+
+### No. 192: 날카로운 측면에서 바라본 위협적인 인물
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Syed Abuthahir ∞
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+까만 까마귀 같은 머리와 핏빛 붉은 입술을 가진 위협적인 인물을 날카로운 측면에서 바라본 이미지를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw
+```
+
+### No. 193: 가상 데이팅 앱 광고
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Egline Samoei
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+젊은 칼렌진 모델들을 내세운 데이팅 앱 광고를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is "Cheps are for Kips" use an image of two young African Kalenjin male and female as models
+```
+
+### No. 194: 해뜨기 전 옥상 라디오 인물 사진
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Morphed
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMslpagAA8qfL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMskIXMAAHqtd.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+해뜨기 전, 라디오를 든 풍파에 지은 얼굴의 인물이 옥상에 있는 인물 사진을 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.
+```
+
+### No. 195: 새벽의 텅 빈 후시미 이나리 터널
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Buble AI
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+교토 후시미 이나리 신사의 상징적인 주홍색 토리이(문)가 있는 고요한 이른 아침 풍경을 여행 캠페인 이미지 스타일로 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.
+```
+
+### No. 196: AI 예술 선호도에 기반한 내면 세계
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+사용자의 과거 AI 예술 선호도를 바탕으로 그들의 내면 세계를 반영한 일러스트레이션을 요청하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて
+```
+
+### No. 197: 미래 도시 프로세서의 접사 샷
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Dominic Reed
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+빛나는 도시를 담고 있는 방 크기의 투명 프로세서의 접사(매크로) 샷을 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it
+```
+
+### No. 198: 언어와 코드의 상징적 자화상
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Ron Yatteau
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+언어, 코드, 창의성이 빛으로 연결되어 있는 상징적 자화상을 묘사한 이미지입니다.
+
+#### Prompt
+
+```text
+A symbolic self-portrait: language, code, and creativity connected through light.
+```
+
+### No. 199: 지중해풍 레트로 퓨처리즘을 가진 외계 세계
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Wonder Villas
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+레트로 퓨처리즘 요소가 있는 지중해풍 건축물을 특징으로 하는 외계 세계의 인간 정착지를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+### No. 200: 얼음의 군주 차리차 아나스타샤의 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Olivia Bernardo
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+다양한 왕실적이고 슬픈 칭호로 묘사된 얼음의 군주이자 주권자인 차리차의 초상화를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal
+```
+
+### No. 201: 아침 안개 속 버스 정류장
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+아침 안개 속 버스 정류장의 시적인 이미지로, 아무도 오기 전에 증기가 피어오르고 가장 이른 열차는 마음속의 생각입니다.
+
+#### Prompt
+
+```text
+朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。
+```
+
+### No. 202: 해파리와 우주 일보가 있는 밤의 세탁소
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+밤의 세탁소를 묘사한 장면으로, 밖에는 해파리가 있고, 한 소녀가 우주 일기예보를 확인하고 있습니다.
+
+#### Prompt
+
+```text
+夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。
+```
+
+### No. 203: 무협 여성 전사 초상화
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTiaQAAXG8d.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTUbMAA_YtE.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTgbsAAv8c4.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+레이어드 갑옷과 로브를 입고 긴 검을 휘두르는 키 크고 우아한 동아시아 여성 전사의 9:16 비율 초상화를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。
+```
+
+### No. 204: 시골 레트로 폰 사진 속 여성
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbQAAwLeU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYaaYAA2sVx.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbEAAOFG9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+레트로 폰 미학으로 촬영된, 시골 배경의 젊은 동아시아 여성을 묘사한 9:16 비율 이미지 프롬프트입니다.
+
+#### Prompt
+
+```text
+复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。
+```
+
+### No. 205: 중국식 정원의 치파오 입은 두 여성
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRfsmJraYAE6nLb.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+고요한 전통 정원에 앉아 있는, 새로운 중식 스타일 치파오를 입은 두 젊은 동아시아 여성의 초현실적 사진을 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。
+
+两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75
+```
+
+### No. 206: 회색 톤의 무용수 셀카
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fPbMAEZun6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fKaQAAPVMQ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+시원하고 몽환적이며 고급스러운 회색 라이프스타일 스타일의 젊은 동아시아 무용수의 리얼리즘적인 클로즈업 셀카를 위한 9:16 세로 비율 프롬프트입니다.
+
+#### Prompt
+
+```text
+9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。
+
+一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73
+```
+
+### No. 207: K-Pop 콘서트 무대 에디토리얼 사진
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRXcnCGbkAAeg3Y.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+콘서트에서의 20세기 K-pop 여성 아이돌을 담은 시네마틱하고 에디토리얼 스타일의 사진 프롬프트입니다.
+
+#### Prompt
+
+```text
+9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76
+```
+
+### No. 208: 석조 발코니에 기대 선 우아한 동아시아 여성
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRWwBPgaEAAzUwP.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+고전적인 석조 난간에 기대어 서 있는 아름다운 성인 동아시아 여성의 9:16 세로형 패션 사진을 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。
+```
+
+### No. 209: 극적인 적운이 있는 회화적 풍경
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Viki
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+빛나는 하늘과 높이 솟은 구름에 초점을 맞춘 디테일하고 낭만적인 미술 풍경화를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its
+```
+
+### No. 210: 퍼펫 닭들에게 쫓기는 링크
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Elfy
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+카카리코 마을을 통해 푹신한 퍼펫 닭들의 성난 무리에게 쫓기는 링크의 이미지입니다.
+
+#### Prompt
+
+```text
+Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.
+```
+
+### No. 211: 새벽의 발리 쌀 테라스
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Buble AI
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+안개 낀 고요한 아침의 발리 쌀 테라스 장면을, 여행 캠페인 스타일로 표현한 이미지 프롬프트입니다.
+
+#### Prompt
+
+```text
+Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.
+```
+
+### No. 212: 픽셀 아트로 점프하는 페르시아의 왕자
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Elfy
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+코발트 디더 모뉴멘탈리즘 스타일로, 플랫폼을 가로지르며 점프하는 오리지널 페르시아의 왕자 캐릭터를 묘사한 이미지를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms
+```
+
+### No. 213: 영혼을 인도하는 온화한 사신
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+삶과 죽음의 경계에 서서 차가운 밤 안개 속에서 조용한 작별을 위한 인도자의 손을 내미는, 죽음의 사신인 소녀를 시적으로 묘사한 프롬프트입니다.
+
+#### Prompt
+
+```text
+死を迎えに来るのではなく、
+迷える魂を送り届けるために――。
+「迎えに来た死神」
+生と死の境界に立つ少女。
+冷たい夜の霧の中、
+彼女が差し出す手は終わりではなく、
+静かな別れへの道標。
+死もまた、ひとつの優しい旅立ちなのかもしれない。
+```
+
+### No. 214: 어두운 밤 속의 금색 부적
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRntbOGbUAAlzbF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+밤이 검은색으로 스며들어 오직 금빛만이 부적의 존재를 비추는 장면으로, '밤산책'과 '악귀퇴치'라는 단어가 등장합니다.
+
+#### Prompt
+
+```text
+黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」
+```
+
+### No. 215: 경계에서 꾸는 신부의 꿈
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+삶과 죽음의 경계에 선 비인간 소녀가 신부가 되는 꿈을 꾸며 자신의 모습을 비추어 보는 것을 시적으로 묘사한 프롬프트입니다.
+
+#### Prompt
+
+```text
+生と死の境界にいる少女にも、
+花嫁になる夢を見る朝がある。
+「幻想花嫁」
+人ではない彼女が、
+初めて自分自身の幸せを願った瞬間。
+鏡に映るのは、
+死者でも怪異でもない――
+ただ一人の少女の姿。
+```
+
+### No. 216: 비 오는 방에서 책을 읽는 요괴
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+비 오는 날, 오래된 방에서 책을 읽고 있는 두려움의 존재 '후후'와 그곳에 들어온 작은 새의 장면입니다.
+
+#### Prompt
+
+```text
+恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。
+```
+
 <a id="category-4"></a>
 
-### Layout & Typography (39)
+### Layout & Typography (48)
 
 ### No. 1: Retro Minimalist Motivational Poster Grid
 
@@ -6656,6 +7733,213 @@ two hero packaged bars crossing diagonally through the center in opposite direct
 three bowls arranged diagonally from front-left foreground to rear-right background
 ```
 
+### No. 40: 스마트폰을 시각적 중심으로 한 인스타그램 여행 캠페인
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00DraaoAEP8_g.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00Ethb0AAb_C-.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00F2NbEAAn5Hl.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+현대적인 스마트폰을 시각적 중심으로 사용한 고급스러운 인스타그램 여행 광고를 제작하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation
+```
+
+### No. 41: 콜렉터블 피규어용 세로형 소셜 미디어 포스터
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpYbYAENOJR.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpkbQAAmsEp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpZaYAATDxm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+대담한 타이포그래피와 단색 노란색 배경을 사용한 고급 콜렉터블 피규어를 광고하는 고해상도 세로형 소셜 미디어 포스터를 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle
+```
+
+### No. 42: 계층적 책 표지 디자인
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** DeepBlue深藍
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+강력한 타이포그래피 계층 구조와 가독성을 갖춘 책 표지를 디자인하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.
+```
+
+### No. 43: 신경과학 학회 포스터
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Daichi Konno / 紺野 大地
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+제공된 논문과 규정을 바탕으로 2026년 신경과학 학회 포스터를 생성하기 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして
+```
+
+### No. 44: 아이코닉 도시들의 떠 있는 디오라마 그리드
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+회색 스튜디오에 매달린 떠 있는 도시 디오라마 4개(2x2 그리드)를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The
+```
+
+### No. 45: 짜증나는 주제에 대한 풍자적 시스템 포스터 그리드
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+짜증나는 주제에 대한 풍자적 에디토리얼 포스터 4개(2x2 그리드)를 위한 프롬프트입니다.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic="[TOPIC]"):         self.topic = topic         self.format = "single square editorial"
+```
+
+### No. 46: 종이 디오라마 여행 포스터 템플릿
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2csGaUAAfycL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2eeeboAA3VTp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2gy9aMAAHwLF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+도시 랜드마크를 상세한 수제 종이 디오라마로 묘사한 프리미엄 세로형 여행 포스터를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper
+```
+
+### No. 47: 캘빈 & 밥을 위한 시네마틱 캐릭터 시트
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+수채화 배경이 있는 스플릿 스크린 캐릭터 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him
+```
+
+### No. 48: 소피아를 위한 시네마틱 캐릭터 바이블 시트
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `ko`
+- **Result:** [View](https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+바리스타 소피아의 드라마틱한 히어로 이미지와 강렬한 타이포그래피를 특징으로 하는 프리미엄 캐릭터 시트를 생성하는 프롬프트입니다.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour
+```
+
 <a id="featured-prompts"></a>
 
 ## 🔥 Featured Prompts
@@ -6870,4 +8154,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-09-09.
+> This README is auto-generated. 2026-09-10.

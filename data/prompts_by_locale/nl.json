@@ -10266,5 +10266,1719 @@
       ],
       "video": ""
     }
+  },
+  {
+    "id": 659,
+    "title": "Instagram-reiscampagne met Smartphone als Visueel Anker",
+    "description": "Een prompt voor het creëren van een premium Instagram-reisadvertentie met een moderne smartphone als visueel anker.",
+    "prompt": "[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation",
+    "original_prompt": "[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Goodmanprotocol/status/2097890291860865291",
+    "source_published_at": "2026-09-10T03:29:57.000Z",
+    "source_platform": "x",
+    "author_name": "Saul Goodman",
+    "author_link": "https://x.com/Goodmanprotocol",
+    "language": "nl",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg",
+      "https://pbs.twimg.com/media/HR00DraaoAEP8_g.jpg",
+      "https://pbs.twimg.com/media/HR00Ethb0AAb_C-.jpg",
+      "https://pbs.twimg.com/media/HR00F2NbEAAn5Hl.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097890291860865291",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 339
+  },
+  {
+    "id": 661,
+    "title": "Mondriaan-schilderij als Bureaublad Opbergkast",
+    "description": "Een prompt om Mondriaans 'Compositie met rood, blauw en geel' om te vormen tot een functionele bureaublad opbergkast met gekleurde lades.",
+    "prompt": "蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。",
+    "original_prompt": "蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/cellinlab/status/2097875217100296362",
+    "source_published_at": "2026-09-10T02:30:03.000Z",
+    "source_platform": "x",
+    "author_name": "Cell 细胞",
+    "author_link": "https://x.com/cellinlab",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097875217100296362",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 340
+  },
+  {
+    "id": 662,
+    "title": "Realistisch Beeld van een Surreel Ding",
+    "description": "Een prompt om een zeer realistisch beeld te genereren van een bedacht surrealistisch onderwerp.",
+    "prompt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "original_prompt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "translated_prompt": "",
+    "source_link": "https://x.com/icreatelife/status/2097860435366048106",
+    "source_published_at": "2026-09-10T01:31:18.000Z",
+    "source_platform": "x",
+    "author_name": "Kris Kashtanova",
+    "author_link": "https://x.com/icreatelife",
+    "language": "nl",
+    "likes": 5,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097860435366048106",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 341
+  },
+  {
+    "id": 665,
+    "title": "Artikel naar Vierpanel Manga in Afternoon-stijl",
+    "description": "Een prompt om een vier pagina's tellende strip te genereren in de stijl van het Japanse tijdschrift Afternoon, gebaseerd op een bijgevoegd artikel.",
+    "prompt": "添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して",
+    "original_prompt": "添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して",
+    "translated_prompt": "",
+    "source_link": "https://x.com/tetumemo/status/2097848254792859732",
+    "source_published_at": "2026-09-10T00:42:54.000Z",
+    "source_platform": "x",
+    "author_name": "テツメモ｜AI図解×検証｜Newsletter",
+    "author_link": "https://x.com/tetumemo",
+    "language": "nl",
+    "likes": 17,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg",
+      "https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg",
+      "https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg",
+      "https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097848254792859732",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 342
+  },
+  {
+    "id": 668,
+    "title": "Verticale Social Media Poster voor Verzamelbaar Figuur",
+    "description": "Een prompt voor een hoogwaardige verticale social media poster die een premium verzamelbaar figuur adverteert, met krachtige typografie en een effen gele achtergrond.",
+    "prompt": "4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle",
+    "original_prompt": "4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle",
+    "translated_prompt": "",
+    "source_link": "https://x.com/IDATSUKA/status/2097809226051789288",
+    "source_published_at": "2026-09-09T22:07:49.000Z",
+    "source_platform": "x",
+    "author_name": "IDATSUKA",
+    "author_link": "https://x.com/IDATSUKA",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg",
+      "https://pbs.twimg.com/media/HRzmXpYbYAENOJR.jpg",
+      "https://pbs.twimg.com/media/HRzmXpkbQAAmsEp.jpg",
+      "https://pbs.twimg.com/media/HRzmXpZaYAATDxm.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097809226051789288",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 343
+  },
+  {
+    "id": 670,
+    "title": "Kleine Mensen in een Mandarijnwereld",
+    "description": "Een beeld van minuscule mensen die in een mandarijn leven, waarbij de partjes architectuur vormen.",
+    "prompt": "2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant",
+    "original_prompt": "2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant",
+    "translated_prompt": "",
+    "source_link": "https://x.com/JohnnyWang8802/status/2097800514633429315",
+    "source_published_at": "2026-09-09T21:33:12.000Z",
+    "source_platform": "x",
+    "author_name": "Johnny Wang",
+    "author_link": "https://x.com/JohnnyWang8802",
+    "language": "nl",
+    "likes": 7,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png",
+      "https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png",
+      "https://pbs.twimg.com/media/HRziSahbYAAv-Rm.png",
+      "https://pbs.twimg.com/media/HRziTgcbkAAIjUD.png"
+    ],
+    "x_meta": {
+      "tweet_id": "2097800514633429315",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 344
+  },
+  {
+    "id": 678,
+    "title": "Premium Cinematisch Personage Referentieblad",
+    "description": "Een prompt voor het creëren van een gesplitst referentieblad voor een personage met strikte visuele richtlijnen.",
+    "prompt": "Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097738632941461886",
+    "source_published_at": "2026-09-09T17:27:18.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 7,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097738632941461886",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 345
+  },
+  {
+    "id": 679,
+    "title": "Dreigende Figuur in Scherp Profiel",
+    "description": "Een prompt voor het genereren van een beeld van een dreigende figuur met ravenzwart haar en bloedrode lippen in scherp profiel.",
+    "prompt": "A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw",
+    "original_prompt": "A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abulu8/status/2097733554990186638",
+    "source_published_at": "2026-09-09T17:07:08.000Z",
+    "source_platform": "x",
+    "author_name": "Syed Abuthahir ∞",
+    "author_link": "https://x.com/abulu8",
+    "language": "nl",
+    "likes": 19,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097733554990186638",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 346
+  },
+  {
+    "id": 684,
+    "title": "Hiërarchisch Boekomslagontwerp",
+    "description": "Een prompt voor het ontwerpen van een boekomslag met een sterke typografische hiërarchie en leesbaarheid.",
+    "prompt": "Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.",
+    "original_prompt": "Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/DeepBlueX0/status/2097724965437210694",
+    "source_published_at": "2026-09-09T16:33:00.000Z",
+    "source_platform": "x",
+    "author_name": "DeepBlue深藍",
+    "author_link": "https://x.com/DeepBlueX0",
+    "language": "nl",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097724965437210694",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 349
+  },
+  {
+    "id": 687,
+    "title": "Pixel Art Gevechts Sprite Sheet",
+    "description": "Een prompt om een vereenvoudigde 128px pixel art gevechtsanimatie sprite sheet te genereren met een transparante achtergrond.",
+    "prompt": "Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4",
+    "original_prompt": "Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4",
+    "translated_prompt": "",
+    "source_link": "https://x.com/biancab11f/status/2097715366965231685",
+    "source_published_at": "2026-09-09T15:54:51.000Z",
+    "source_platform": "x",
+    "author_name": "bianca",
+    "author_link": "https://x.com/biancab11f",
+    "language": "nl",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097715366965231685",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 350
+  },
+  {
+    "id": 692,
+    "title": "Fictieve Dating App Advertentie",
+    "description": "Een prompt om een advertentie te genereren voor een dating app met jonge Kalenjin-modellen.",
+    "prompt": "Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is \"Cheps are for Kips\" use an image of two young African Kalenjin male and female as models",
+    "original_prompt": "Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is \"Cheps are for Kips\" use an image of two young African Kalenjin male and female as models",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Egline_Samoei/status/2097720789009109025",
+    "source_published_at": "2026-09-09T16:16:24.000Z",
+    "source_platform": "x",
+    "author_name": "Egline Samoei",
+    "author_link": "https://x.com/Egline_Samoei",
+    "language": "nl",
+    "likes": 23,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097720789009109025",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 352
+  },
+  {
+    "id": 695,
+    "title": "Neurowetenschap Conferentie Poster",
+    "description": "Een prompt om een conferentieposter te genereren voor een neurowetenschapsbijeenkomst in 2026, gebaseerd op een verstrekt artikel en voorschriften.",
+    "prompt": "2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして",
+    "original_prompt": "2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして",
+    "translated_prompt": "",
+    "source_link": "https://x.com/_daichikonno/status/2097880100587135480",
+    "source_published_at": "2026-09-10T02:49:27.000Z",
+    "source_platform": "x",
+    "author_name": "Daichi Konno / 紺野 大地",
+    "author_link": "https://x.com/_daichikonno",
+    "language": "nl",
+    "likes": 48,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097880100587135480",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 353
+  },
+  {
+    "id": 697,
+    "title": "Dakterras Radio Portret voor Zonsopgang",
+    "description": "Een prompt om een portret te genereren van een verweerd gezicht op een dakterras met een radio, vlak voor zonsopgang.",
+    "prompt": "A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.",
+    "original_prompt": "A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/morphedai/status/2097867664861384778",
+    "source_published_at": "2026-09-10T02:00:02.000Z",
+    "source_platform": "x",
+    "author_name": "Morphed",
+    "author_link": "https://x.com/morphedai",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg",
+      "https://pbs.twimg.com/media/HRyMslpagAA8qfL.jpg",
+      "https://pbs.twimg.com/media/HRyMskIXMAAHqtd.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097867664861384778",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 354
+  },
+  {
+    "id": 698,
+    "title": "Lege Fushimi Inari Tunnel bij Dageraad",
+    "description": "Een prompt voor het genereren van een serene, vroege ochtendscène van de iconische vermiljoen poorten bij het Fushimi Inari-schrijn in Kyoto, gestyled als een reiscampagnebeeld.",
+    "prompt": "Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.",
+    "original_prompt": "Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/itsBubleAI/status/2097858619639251297",
+    "source_published_at": "2026-09-10T01:24:05.000Z",
+    "source_platform": "x",
+    "author_name": "Buble AI",
+    "author_link": "https://x.com/itsBubleAI",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097858619639251297",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 355
+  },
+  {
+    "id": 702,
+    "title": "Personage Gevechts Sprite Sheet Pixel Art",
+    "description": "Een prompt om een 16-frames pixel art sprite sheet te genereren voor de gevechtsbewegingen van een personage.",
+    "prompt": "Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent",
+    "original_prompt": "Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Studio_Tora_lab/status/2097825288868499882",
+    "source_published_at": "2026-09-09T23:11:39.000Z",
+    "source_platform": "x",
+    "author_name": "Studio Tora",
+    "author_link": "https://x.com/Studio_Tora_lab",
+    "language": "nl",
+    "likes": 5,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg",
+      "https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097825288868499882",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 356
+  },
+  {
+    "id": 704,
+    "title": "Innerlijke Wereld Gebaseerd op AI Kunstvoorkeuren",
+    "description": "Een prompt die vraagt om een illustratie die de innerlijke wereld van de gebruiker weerspiegelt, gebaseerd op hun eerdere voorkeuren voor AI-kunst.",
+    "prompt": "これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて",
+    "original_prompt": "これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2097809058384470276",
+    "source_published_at": "2026-09-09T22:07:09.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "nl",
+    "likes": 38,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097809058384470276",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 357
+  },
+  {
+    "id": 705,
+    "title": "Karakter Battle Sprite Sheet Pixel Art",
+    "description": "Een prompt om een vereenvoudigd pixel art sprite sheet van 128px met 16 frames te maken voor de gevechtsbewegingen van een personage, inclusief idle, hakken, verdedigen en neergeslagen toestanden.",
+    "prompt": "このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して",
+    "original_prompt": "このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して",
+    "translated_prompt": "",
+    "source_link": "https://x.com/steam_gamer_jp/status/2097807804975472700",
+    "source_published_at": "2026-09-09T22:02:10.000Z",
+    "source_platform": "x",
+    "author_name": "Steam Gamer LG",
+    "author_link": "https://x.com/steam_gamer_jp",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png"
+    ],
+    "x_meta": {
+      "tweet_id": "2097807804975472700",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 358
+  },
+  {
+    "id": 711,
+    "title": "Macro Opname Van Futuristische Stadprocessor",
+    "description": "Een prompt voor een macro-opname van een transparante, kamerformaat processor die een gloeiende stad bevat.",
+    "prompt": "macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it",
+    "original_prompt": "macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it",
+    "translated_prompt": "",
+    "source_link": "https://x.com/lifeafterprompt/status/2097744594402500997",
+    "source_published_at": "2026-09-09T17:51:00.000Z",
+    "source_platform": "x",
+    "author_name": "Dominic Reed",
+    "author_link": "https://x.com/lifeafterprompt",
+    "language": "nl",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097744594402500997",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 359
+  },
+  {
+    "id": 712,
+    "title": "Zwevend Diorama Raster Van Iconische Steden",
+    "description": "Een prompt om een 2x2 raster te genereren van zwevende stadsdiorama's die in een grijze studio hangen.",
+    "prompt": "2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The",
+    "original_prompt": "2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097738806564635028",
+    "source_published_at": "2026-09-09T17:28:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "nl",
+    "likes": 3,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097738806564635028",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 360
+  },
+  {
+    "id": 714,
+    "title": "Symbolisch Zelfportret Van Taal En Code",
+    "description": "Een afbeelding die een symbolisch zelfportret toont waarin taal, code en creativiteit met elkaar verbonden zijn door licht.",
+    "prompt": "A symbolic self-portrait: language, code, and creativity connected through light.",
+    "original_prompt": "A symbolic self-portrait: language, code, and creativity connected through light.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ryatteau/status/2097842586174038140",
+    "source_published_at": "2026-09-10T00:20:23.000Z",
+    "source_platform": "x",
+    "author_name": "Ron Yatteau",
+    "author_link": "https://x.com/ryatteau",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097842586174038140",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 361
+  },
+  {
+    "id": 716,
+    "title": "Satirisch Systeem Poster Raster Over Frustrerende Onderwerpen",
+    "description": "Een prompt voor een 2x2 raster van satirische redactionele posters over frustrerende onderwerpen.",
+    "prompt": "2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic=\"[TOPIC]\"):         self.topic = topic         self.format = \"single square editorial\"",
+    "original_prompt": "2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic=\"[TOPIC]\"):         self.topic = topic         self.format = \"single square editorial\"",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097797443244974517",
+    "source_published_at": "2026-09-09T21:21:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "nl",
+    "likes": 3,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097797443244974517",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 362
+  },
+  {
+    "id": 723,
+    "title": "Alien Wereld Met Mediterrane Retro-Futurisme",
+    "description": "Een prompt voor het genereren van een afbeelding van een menselijke nederzetting op een alien wereld met architectuur geïnspireerd op de Middellandse Zee en retro-futuristische elementen.",
+    "prompt": "A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.",
+    "original_prompt": "A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/wonder_villas/status/2097869977890017784",
+    "source_published_at": "2026-09-10T02:09:13.000Z",
+    "source_platform": "x",
+    "author_name": "Wonder Villas",
+    "author_link": "https://x.com/wonder_villas",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097869977890017784",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 363
+  },
+  {
+    "id": 725,
+    "title": "Portret van de Cryo Archon Tsarina Anastasya",
+    "description": "Een prompt om een portret te genereren van de Tsarina, een Cryo Archon en soeverein, beschreven met diverse koninklijke en treurige titels.",
+    "prompt": "Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal",
+    "original_prompt": "Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal",
+    "translated_prompt": "",
+    "source_link": "https://x.com/livybabie/status/2096279511134310469",
+    "source_published_at": "2026-09-05T16:49:17.000Z",
+    "source_platform": "x",
+    "author_name": "Olivia Bernardo",
+    "author_link": "https://x.com/livybabie",
+    "language": "nl",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096279511134310469",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 365
+  },
+  {
+    "id": 728,
+    "title": "Papieren Diorama Reisposter Sjabloon",
+    "description": "Een prompt voor het maken van een premium verticale reisposter die een stadsicoon toont als een gedetailleerd handgemaakt papieren diorama.",
+    "prompt": "Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper",
+    "original_prompt": "Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2095781970441863255",
+    "source_published_at": "2026-09-04T07:52:14.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg",
+      "https://pbs.twimg.com/media/HRW2csGaUAAfycL.jpg",
+      "https://pbs.twimg.com/media/HRW2eeeboAA3VTp.jpg",
+      "https://pbs.twimg.com/media/HRW2gy9aMAAHwLF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095781970441863255",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 366
+  },
+  {
+    "id": 729,
+    "title": "Fotorealistisch Portret Met Identiteitsreferentie",
+    "description": "Een prompt voor het maken van een fotorealistisch volle-lengte portret met behulp van een referentiefoto om de identiteit van het onderwerp te behouden.",
+    "prompt": "Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest",
+    "original_prompt": "Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2095585280623616019",
+    "source_published_at": "2026-09-03T18:50:39.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg",
+      "https://pbs.twimg.com/media/HRUDsh_asAAmZAn.jpg",
+      "https://pbs.twimg.com/media/HRUDs-IaIAAHjN6.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095585280623616019",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 367
+  },
+  {
+    "id": 734,
+    "title": "Cinematisch Karakterblad Voor Calvin & Bob",
+    "description": "Een prompt voor het maken van een gesplitst scherm karakterblad met een aquarel achtergrond.",
+    "prompt": "Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him",
+    "original_prompt": "Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097646748847992890",
+    "source_published_at": "2026-09-09T11:22:11.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097646748847992890",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 369
+  },
+  {
+    "id": 737,
+    "title": "Bushalte In De Ochtendmist",
+    "description": "Een poëtisch beeld van een bushalte in ochtendmist, waar stoom opstijgt voordat iemand arriveert, en de vroegste trein een gedachte is vanbinnen.",
+    "prompt": "朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。",
+    "original_prompt": "朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/IDATSUKA/status/2097522285846679567",
+    "source_published_at": "2026-09-09T03:07:37.000Z",
+    "source_platform": "x",
+    "author_name": "IDATSUKA",
+    "author_link": "https://x.com/IDATSUKA",
+    "language": "nl",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097522285846679567",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 370
+  },
+  {
+    "id": 738,
+    "title": "Wasserette Nacht Met Kwallen En Kosmische Weersverwachting",
+    "description": "Een scène die een nachtelijke wasserette toont met kwallen buiten, waar een meisje een kosmische weersverwachting checkt.",
+    "prompt": "夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。",
+    "original_prompt": "夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/IDATSUKA/status/2097471807184060613",
+    "source_published_at": "2026-09-08T23:47:02.000Z",
+    "source_platform": "x",
+    "author_name": "IDATSUKA",
+    "author_link": "https://x.com/IDATSUKA",
+    "language": "nl",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097471807184060613",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 371
+  },
+  {
+    "id": 742,
+    "title": "Marty & Doc Karakterbijbelblad",
+    "description": "Een prompt om een gesplitst scherm karakterreferentieblad te genereren voor twee personages met strikte visuele richtlijnen.",
+    "prompt": "Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097359980244426876",
+    "source_published_at": "2026-09-08T16:22:41.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097359980244426876",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 372
+  },
+  {
+    "id": 744,
+    "title": "Wuxia Vrouwelijke Krijger Portret",
+    "description": "Een prompt voor het genereren van een 9:16 portret van een lange, elegante Oost-Aziatische vrouwelijke krijger in gelaagd harnas en gewaden, die een lang zwaard hanteert.",
+    "prompt": "东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。",
+    "original_prompt": "东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2097316525321654359",
+    "source_published_at": "2026-09-08T13:30:00.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "nl",
+    "likes": 63,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg",
+      "https://pbs.twimg.com/media/HRslWTiaQAAXG8d.jpg",
+      "https://pbs.twimg.com/media/HRslWTUbMAA_YtE.jpg",
+      "https://pbs.twimg.com/media/HRslWTgbsAAv8c4.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097316525321654359",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 373
+  },
+  {
+    "id": 746,
+    "title": "Rustieke Retro Telefoonfoto van Vrouw",
+    "description": "Een prompt voor een 9:16-beeld van een jonge Oost-Aziatische vrouw in een landelijke omgeving, vastgelegd met een retro telefoonesthetiek.",
+    "prompt": "复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。",
+    "original_prompt": "复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2097284566549692828",
+    "source_published_at": "2026-09-08T11:23:00.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "nl",
+    "likes": 96,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg",
+      "https://pbs.twimg.com/media/HRsNLYWbQAAwLeU.jpg",
+      "https://pbs.twimg.com/media/HRsNLYaaYAA2sVx.jpg",
+      "https://pbs.twimg.com/media/HRsNLYWbEAAOFG9.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097284566549692828",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 374
+  },
+  {
+    "id": 747,
+    "title": "Personagebijbelblad voor Ted & John",
+    "description": "Een prompt om een gesplitst personageblad te genereren met strikte visuele referenties voor twee personages.",
+    "prompt": "Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097283799025340802",
+    "source_published_at": "2026-09-08T11:19:57.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 10,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097283799025340802",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 375
+  },
+  {
+    "id": 750,
+    "title": "Gesplitst Personagebijbel voor Dom & Brian",
+    "description": "Een prompt om een gesplitst personageblad te genereren met behulp van geüploade referenties voor twee personages.",
+    "prompt": "Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097013827833327690",
+    "source_published_at": "2026-09-07T17:27:11.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097013827833327690",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 377
+  },
+  {
+    "id": 752,
+    "title": "Cinematisch Personagebijbelblad voor Sofia",
+    "description": "Een prompt om een premium personageblad te genereren met gedurfde typografie en een dramatische hero-afbeelding van een barista genaamd Sofia.",
+    "prompt": "Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour",
+    "original_prompt": "Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096967425132556778",
+    "source_published_at": "2026-09-07T14:22:48.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096967425132556778",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 378
+  },
+  {
+    "id": 753,
+    "title": "Cinematisch Personagebijbelblad voor Baby",
+    "description": "Een prompt om een premium personageblad te genereren voor het personage Baby, met gedurfde typografie en strikte naleving van visuele referenties.",
+    "prompt": "Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.",
+    "original_prompt": "Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096919376792256967",
+    "source_published_at": "2026-09-07T11:11:52.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096919376792256967",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 379
+  },
+  {
+    "id": 758,
+    "title": "Cinematische Personagebijbel voor Schmidt & Jenko",
+    "description": "Een prompt om een gesplitst personageblad te genereren met behulp van geüploade referenties voor twee personages.",
+    "prompt": "Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096650731373633680",
+    "source_published_at": "2026-09-06T17:24:22.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 16,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096650731373633680",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 380
+  },
+  {
+    "id": 761,
+    "title": "Cinematische Personagebijbel voor Gordon",
+    "description": "Een prompt voor het maken van een premium personageblad met gedurfde typografie en strikte visuele referentie.",
+    "prompt": "Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S",
+    "original_prompt": "Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096556627927220697",
+    "source_published_at": "2026-09-06T11:10:26.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096556627927220697",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 381
+  },
+  {
+    "id": 764,
+    "title": "Twee Vrouwen in Qipao in Chinese Tuin",
+    "description": "Een prompt voor het genereren van een hyperrealistische foto van twee jonge Oost-Aziatische vrouwen in nieuwe Chinese stijl qipao's, zittend in een serene traditionele tuin.",
+    "prompt": "9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。\n\n两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75",
+    "original_prompt": "9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。\n\n两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2096404303959503344",
+    "source_published_at": "2026-09-06T01:05:10.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "nl",
+    "likes": 229,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg",
+      "https://pbs.twimg.com/media/HRfsmJraYAE6nLb.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096404303959503344",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 382
+  },
+  {
+    "id": 766,
+    "title": "Personagebijbelblad voor Johnny & Tucker",
+    "description": "Een prompt om een gesplitst personagereferentieblad te genereren met strikte visuele richtlijnen.",
+    "prompt": "Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096288260591091914",
+    "source_published_at": "2026-09-05T17:24:03.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 10,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096288260591091914",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 383
+  },
+  {
+    "id": 768,
+    "title": "Personagebijbelblad voor Neo & Trinity",
+    "description": "Een prompt om een gesplitst personagereferentieblad te genereren voor Neo en Trinity met strikte visuele richtlijnen.",
+    "prompt": "Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096196097953649082",
+    "source_published_at": "2026-09-05T11:17:49.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 19,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096196097953649082",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 384
+  },
+  {
+    "id": 769,
+    "title": "Selfie van een Danser in Grijstinten",
+    "description": "Een prompt voor een 9:16 verticale, realistische close-up selfie van een jonge Oost-Aziatische danser in een koele, dromerige, high-end grijze lifestyle stijl.",
+    "prompt": "9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。\n\n一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73",
+    "original_prompt": "9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。\n\n一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2096146368003973632",
+    "source_published_at": "2026-09-05T08:00:13.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "nl",
+    "likes": 142,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg",
+      "https://pbs.twimg.com/media/HRcB-fPbMAEZun6.jpg",
+      "https://pbs.twimg.com/media/HRcB-fKaQAAPVMQ.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096146368003973632",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 385
+  },
+  {
+    "id": 774,
+    "title": "Personagebijbel voor Kevin vs The Wet Bandits",
+    "description": "Een prompt om een premium personageblad te genereren voor Kevin vs the Wet Bandits met strikte visuele referenties.",
+    "prompt": "Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing",
+    "original_prompt": "Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095913806060830881",
+    "source_published_at": "2026-09-04T16:36:06.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095913806060830881",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 386
+  },
+  {
+    "id": 775,
+    "title": "Redactionele Modeshoot op Nachtelijk Daktrappen",
+    "description": "Een prompt voor een hyperrealistische foto van een redactionele modeshoot op nachtelijke dak trappen met een coole cinematische sfeer.",
+    "prompt": "9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。",
+    "original_prompt": "9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095884267255644605",
+    "source_published_at": "2026-09-04T14:38:43.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "nl",
+    "likes": 266,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg",
+      "https://pbs.twimg.com/media/HRYToJIagAIYU-w.jpg",
+      "https://pbs.twimg.com/media/HRYToJKbcAAIip6.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095884267255644605",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 387
+  },
+  {
+    "id": 777,
+    "title": "Personagebijbelblad voor Riggs & Murtaugh",
+    "description": "Een prompt om een gesplitst personagereferentieblad te genereren voor twee personages met strikte visuele richtlijnen.",
+    "prompt": "Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095836037167628529",
+    "source_published_at": "2026-09-04T11:27:04.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095836037167628529",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 388
+  },
+  {
+    "id": 779,
+    "title": "Redactionele Concertfotografie K-Pop Podium",
+    "description": "Een prompt voor een cinematische, redactionele stijl foto van een 20-jarige K-pop vrouwelijke idool tijdens een concert.",
+    "prompt": "9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76",
+    "original_prompt": "9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095823778794369489",
+    "source_published_at": "2026-09-04T10:38:22.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "nl",
+    "likes": 392,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg",
+      "https://pbs.twimg.com/media/HRXcnCGbkAAeg3Y.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095823778794369489",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 389
+  },
+  {
+    "id": 780,
+    "title": "Elegante Oost-Aziatische Vrouw Bij Stenen Balkon",
+    "description": "Een prompt voor een 9:16 verticale modefoto van een prachtige volwassen Oost-Aziatische vrouw die leunt tegen een klassieke stenen balustrade.",
+    "prompt": "9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。",
+    "original_prompt": "9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095775342602625209",
+    "source_published_at": "2026-09-04T07:25:53.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "nl",
+    "likes": 79,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg",
+      "https://pbs.twimg.com/media/HRWwBPgaEAAzUwP.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095775342602625209",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 390
+  },
+  {
+    "id": 783,
+    "title": "Premium Cinematisch Personagebijbelblad Voor Mike & Marcus",
+    "description": "Een prompt om een split-screen personagereferentieblad te genereren met strikte visuele richtlijnen.",
+    "prompt": "Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095565178381185474",
+    "source_published_at": "2026-09-03T17:30:46.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 21,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095565178381185474",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 391
+  },
+  {
+    "id": 785,
+    "title": "Premium Cinematisch Personagebijbelblad Voor Lee & Carter",
+    "description": "Een prompt voor het creëren van een split-screen personagereferentieblad met strikte visuele richtlijnen.",
+    "prompt": "Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095515259612065975",
+    "source_published_at": "2026-09-03T14:12:25.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "nl",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095515259612065975",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 392
+  },
+  {
+    "id": 788,
+    "title": "Schilderachtig Landschap Met Dramatische Cumuluswolken",
+    "description": "Een prompt voor het genereren van een gedetailleerd, romantisch fijnkunstig landschap gericht op een stralende hemel en torenhoge wolken.",
+    "prompt": "A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its",
+    "original_prompt": "A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its",
+    "translated_prompt": "",
+    "source_link": "https://x.com/churvikv/status/2095472478340468762",
+    "source_published_at": "2026-09-03T11:22:25.000Z",
+    "source_platform": "x",
+    "author_name": "Viki",
+    "author_link": "https://x.com/churvikv",
+    "language": "nl",
+    "likes": 150,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095472478340468762",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 393
+  },
+  {
+    "id": 791,
+    "title": "Link Achtervolgd Door Poppenkippen",
+    "description": "Een afbeelding van Link die wordt achtervolgd door een boze zwerm pluizige poppenkippen door Kakariko Village.",
+    "prompt": "Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.",
+    "original_prompt": "Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/mesoelfy/status/2097838564465582546",
+    "source_published_at": "2026-09-10T00:04:24.000Z",
+    "source_platform": "x",
+    "author_name": "Elfy",
+    "author_link": "https://x.com/mesoelfy",
+    "language": "nl",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097838564465582546",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 395
+  },
+  {
+    "id": 792,
+    "title": "Bali Rijstvelden Bij Zonsopgang",
+    "description": "Een beeldprompt voor een serene, mistige ochtendscène van de rijstvelden van Bali, gestyled als een reiscampagne.",
+    "prompt": "Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.",
+    "original_prompt": "Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/itsBubleAI/status/2097494047199818022",
+    "source_published_at": "2026-09-09T01:15:25.000Z",
+    "source_platform": "x",
+    "author_name": "Buble AI",
+    "author_link": "https://x.com/itsBubleAI",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097494047199818022",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 396
+  },
+  {
+    "id": 793,
+    "title": "Prince Of Persia Springende Pixelkunst",
+    "description": "Een prompt om een afbeelding te genereren in de stijl van Cobalt Dither Monumentalism, die het originele Prince of Persia-personage toont dat over platforms springt.",
+    "prompt": "Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms",
+    "original_prompt": "Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms",
+    "translated_prompt": "",
+    "source_link": "https://x.com/mesoelfy/status/2097368057140158959",
+    "source_published_at": "2026-09-08T16:54:46.000Z",
+    "source_platform": "x",
+    "author_name": "Elfy",
+    "author_link": "https://x.com/mesoelfy",
+    "language": "nl",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097368057140158959",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 397
+  },
+  {
+    "id": 795,
+    "title": "Zachtaardige Shinigami Die Zielen Begeleidt",
+    "description": "Een poëtische prompt die een meisje beschrijft, een dood-doder, staand op de grens tussen leven en dood in een koude nachtnevel, die een hand biedt als gids voor een stille afscheid.",
+    "prompt": "死を迎えに来るのではなく、\n迷える魂を送り届けるために――。\n「迎えに来た死神」\n生と死の境界に立つ少女。\n冷たい夜の霧の中、\n彼女が差し出す手は終わりではなく、\n静かな別れへの道標。\n死もまた、ひとつの優しい旅立ちなのかもしれない。",
+    "original_prompt": "死を迎えに来るのではなく、\n迷える魂を送り届けるために――。\n「迎えに来た死神」\n生と死の境界に立つ少女。\n冷たい夜の霧の中、\n彼女が差し出す手は終わりではなく、\n静かな別れへの道標。\n死もまた、ひとつの優しい旅立ちなのかもしれない。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2097090034424021024",
+    "source_published_at": "2026-09-07T22:30:00.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "nl",
+    "likes": 92,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097090034424021024",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 398
+  },
+  {
+    "id": 799,
+    "title": "Gouden Talismannen In De Donkere Nacht",
+    "description": "Een scène van de nacht die in het zwart zinkt, waar alleen goud een talismanachtige aanwezigheid verlicht, met de woorden 'Nachtwandeling' en 'Kwaad Onderdrukken'.",
+    "prompt": "黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」",
+    "original_prompt": "黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2096968173023383804",
+    "source_published_at": "2026-09-07T14:25:46.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "nl",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg",
+      "https://pbs.twimg.com/media/HRntbOGbUAAlzbF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096968173023383804",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 399
+  },
+  {
+    "id": 800,
+    "title": "Bruidsdroom Aan De Grens",
+    "description": "Een poëtische prompt die een niet-menselijk meisje aan de grens van leven en dood beschrijft die droomt van bruid worden en haar eigen reflectie ziet.",
+    "prompt": "生と死の境界にいる少女にも、\n花嫁になる夢を見る朝がある。\n「幻想花嫁」\n人ではない彼女が、\n初めて自分自身の幸せを願った瞬間。\n鏡に映るのは、\n死者でも怪異でもない――\nただ一人の少女の姿。",
+    "original_prompt": "生と死の境界にいる少女にも、\n花嫁になる夢を見る朝がある。\n「幻想花嫁」\n人ではない彼女が、\n初めて自分自身の幸せを願った瞬間。\n鏡に映るのは、\n死者でも怪異でもない――\nただ一人の少女の姿。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2096937526527422714",
+    "source_published_at": "2026-09-07T12:24:00.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "nl",
+    "likes": 70,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096937526527422714",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 400
+  },
+  {
+    "id": 801,
+    "title": "Yokai Lezend In Een Regenachtige Kamer",
+    "description": "Een scène van een gevreesd wezen, Fufu, dat een boek leest in een oude kamer op een regenachtige dag, met een klein vogeltje dat is binnengedwaald.",
+    "prompt": "恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。",
+    "original_prompt": "恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2096905063075836322",
+    "source_published_at": "2026-09-07T10:15:00.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "nl",
+    "likes": 55,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096905063075836322",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 401
   }
 ]

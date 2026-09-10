@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-278%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-334%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,20 +102,20 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **278** |
+| Total Prompts | **334** |
 | Categories | **4** |
-| Preview Images | **278** |
-| Last Updated | **2026-09-09** |
+| Preview Images | **334** |
+| Last Updated | **2026-09-10** |
 
 <a id="browse-by-category"></a>
 
 ## 🏷️ Browse by Category
 
 
-- [`Reference Fidelity`](#category-1): **41**
+- [`Reference Fidelity`](#category-1): **60**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **188**
-- [`Layout & Typography`](#category-4): **39**
+- [`Style & Intelligence`](#category-3): **216**
+- [`Layout & Typography`](#category-4): **48**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ Every record keeps its category, source, author, source link, input references a
 
 <a id="category-1"></a>
 
-### Reference Fidelity (41)
+### Reference Fidelity (60)
 
 ### No. 1: Retro Eighties Mall Portrait
 
@@ -1075,6 +1075,432 @@ Sebuah prompt untuk menciptakan gambar iklan fesyen tinggi premium dan hiper-rea
 Create a premium, hyper-realistic high-fashion advertising campaign image using my uploaded female model as the ONLY identity reference for the main female subject. Preserve her exact facial identity and natural appearance — facial structure, skin
 ```
 
+### No. 42: Artikel ke Manga Empat Panel dalam Gaya Afternoon
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** テツメモ｜AI図解×検証｜Newsletter
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk menghasilkan komik empat halaman dalam gaya majalah Jepang Afternoon berdasarkan artikel terlampir.
+
+#### Prompt
+
+```text
+添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して
+```
+
+### No. 43: Lembar Referensi Karakter Sinematik Premium
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk membuat lembar referensi karakter layar terbagi menggunakan panduan visual yang ketat.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 44: Lembar Sprite Pertarungan Seni Pixel
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** bianca
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk menghasilkan lembar sprite animasi pertarungan seni pixel 128px yang disederhanakan dengan latar belakang transparan.
+
+#### Prompt
+
+```text
+Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4
+```
+
+### No. 45: Lembar Sprite Pertarungan Karakter Seni Pixel
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Studio Tora
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk menghasilkan lembar sprite seni pixel 16-frame untuk gerakan pertarungan seorang karakter.
+
+#### Prompt
+
+```text
+Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent
+```
+
+### No. 46: Lembar Sprite Pertarungan Karakter dalam Seni Pixel
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Steam Gamer LG
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk membuat lembar sprite seni pixel sederhana berukuran 128px dengan 16 frame untuk gerakan pertarungan karakter, termasuk keadaan diam, menebas, menjaga, dan terjatuh.
+
+#### Prompt
+
+```text
+このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して
+```
+
+### No. 47: Potret Fotorealistis dengan Referensi Identitas
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDsh_asAAmZAn.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDs-IaIAAHjN6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk membuat potret fotorealistis seluruh tubuh menggunakan foto referensi untuk mempertahankan identitas subjek.
+
+#### Prompt
+
+```text
+Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest
+```
+
+### No. 48: Lembar Referensi Karakter Marty & Doc
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk menghasilkan lembar referensi karakter layar terbagi untuk dua karakter menggunakan panduan visual yang ketat.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 49: Lembar Karakter Bible Ted & John
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar karakter layar terbagi menggunakan referensi visual yang ketat untuk dua karakter.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 50: Bible Karakter Layar Terbagi Untuk Dom & Brian
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar karakter layar terbagi menggunakan referensi yang diunggah untuk dua karakter.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 51: Lembar Karakter Bible Sinematik Untuk Baby
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar karakter premium untuk karakter Baby, menampilkan tipografi tegas dan kepatuhan ketat pada referensi visual.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.
+```
+
+### No. 52: Bible Karakter Sinematik Untuk Schmidt & Jenko
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar karakter layar terbagi menggunakan referensi yang diunggah untuk dua karakter.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 53: Bible Karakter Sinematik Untuk Gordon
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk membuat lembar karakter premium dengan tipografi tegas dan referensi visual yang ketat.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S
+```
+
+### No. 54: Lembar Karakter Bible untuk Johnny & Tucker
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar referensi karakter layar terbagi menggunakan panduan visual yang ketat.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 55: Lembar Karakter Bible untuk Neo & Trinity
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar referensi karakter layar terbagi untuk Neo dan Trinity menggunakan panduan visual yang ketat.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 56: Bible Karakter Kevin Vs The Wet Bandits
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar karakter premium untuk Kevin vs the Wet Bandits menggunakan referensi visual yang ketat.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing
+```
+
+### No. 57: Foto Fesyen Editorial Tangga Atap Malam Hari
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJIagAIYU-w.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJKbcAAIip6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk foto hiper-realistis dari editorial fesyen tangga atap di malam hari dengan nuansa sinematik yang keren.
+
+#### Prompt
+
+```text
+9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。
+```
+
+### No. 58: Lembar Karakter Bible Riggs & Murtaugh
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar referensi karakter layar terbagi untuk dua karakter menggunakan panduan visual yang ketat.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 59: Lembar Referensi Karakter Sinematik Premium untuk Mike & Marcus
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar referensi karakter layar terbagi menggunakan panduan visual yang ketat.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 60: Lembar Referensi Karakter Sinematik Premium untuk Lee & Carter
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk membuat lembar referensi karakter layar terbagi menggunakan panduan visual yang ketat.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
 <a id="category-2"></a>
 
 ### Precision Editing (10)
@@ -1319,7 +1745,7 @@ Sebuah prompt yang menggambarkan potret yang diterangi oleh sinar matahari keras
 
 <a id="category-3"></a>
 
-### Style & Intelligence (188)
+### Style & Intelligence (216)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -5783,9 +6209,660 @@ Sebuah prompt untuk gambar yang menampilkan botol bir asli besar, tajam, dan ter
 real beer bottle in the lower-right foreground, large, sharp, and partially cropped
 ```
 
+### No. 189: Lukisan Mondrian sebagai Kabinet Penyimpanan Meja
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Cell 细胞
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk mengubah lukisan Mondrian 'Komposisi dengan Merah, Biru dan Kuning' menjadi kabinet penyimpanan meja fungsional dengan laci-laci berwarna.
+
+#### Prompt
+
+```text
+蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。
+```
+
+### No. 190: Gambar Realistis dari Benda Surealis
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Kris Kashtanova
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk menghasilkan gambar yang sangat realistis dari subjek surealis yang dibayangkan.
+
+#### Prompt
+
+```text
+create the most realistic possible image of the most surreal thing you can imagine
+```
+
+### No. 191: Manusia Mini di Dunia Jeruk Mandarin
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Johnny Wang
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziSahbYAAv-Rm.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziTgcbkAAIjUD.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah gambar manusia mungil yang hidup di dalam jeruk mandarin, dengan segmen buah membentuk arsitektur.
+
+#### Prompt
+
+```text
+2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant
+```
+
+### No. 192: Figur Menyeramkan dalam Profil Tajam
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Syed Abuthahir ∞
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk menghasilkan gambar figur menyeramkan dengan rambut hitam pekat dan bibir merah darah dalam profil tajam.
+
+#### Prompt
+
+```text
+A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw
+```
+
+### No. 193: Iklan Aplikasi Kencan Fiksi
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Egline Samoei
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk menghasilkan iklan untuk aplikasi kencan yang menampilkan model-model Kalenjin muda.
+
+#### Prompt
+
+```text
+Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is "Cheps are for Kips" use an image of two young African Kalenjin male and female as models
+```
+
+### No. 194: Potret Radio di Atap Gedung Sebelum Matahari Terbit
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Morphed
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMslpagAA8qfL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMskIXMAAHqtd.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk menghasilkan potret wajah berkarakter di atas atap dengan radio sebelum matahari terbit.
+
+#### Prompt
+
+```text
+A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.
+```
+
+### No. 195: Terowongan Fushimi Inari yang Sepi di Fajar
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Buble AI
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk menghasilkan pemandangan tenang pagi buta dari gerbang vermilion ikonik di kuil Fushimi Inari Kyoto, bergaya sebagai gambar kampanye perjalanan.
+
+#### Prompt
+
+```text
+Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.
+```
+
+### No. 196: Dunia Batin Berdasarkan Preferensi Seni AI
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah permintaan ilustrasi yang mencerminkan dunia batin pengguna berdasarkan preferensi seni AI mereka sebelumnya.
+
+#### Prompt
+
+```text
+これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて
+```
+
+### No. 197: Foto Makro Prosesor Kota Futuristik
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Dominic Reed
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk foto makro prosesor transparan seukuran ruangan yang berisi kota bercahaya.
+
+#### Prompt
+
+```text
+macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it
+```
+
+### No. 198: Potret Diri Simbolis tentang Bahasa dan Kode
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Ron Yatteau
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah gambar yang menggambarkan potret diri simbolis di mana bahasa, kode, dan kreativitas saling terhubung oleh cahaya.
+
+#### Prompt
+
+```text
+A symbolic self-portrait: language, code, and creativity connected through light.
+```
+
+### No. 199: Dunia Alien dengan Retro-Futurisme Mediterania
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Wonder Villas
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk menghasilkan gambar permukiman manusia di dunia alien yang menampilkan arsitektur bergaya Mediterania dengan elemen retro-futuris.
+
+#### Prompt
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+### No. 200: Potret Sang Archon Cryo Tsaritsa Anastasya
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Olivia Bernardo
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk menghasilkan potret Sang Tsaritsa, seorang Archon Cryo dan penguasa, yang digambarkan dengan berbagai gelar kebangsawanan dan penuh kesedihan.
+
+#### Prompt
+
+```text
+Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal
+```
+
+### No. 201: Halte Bus dalam Kabut Pagi
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Gambar puitis tentang halte bus dalam kabut pagi, di mana uap naik sebelum siapa pun tiba, dan kereta paling awal adalah sebuah pikiran di dalamnya.
+
+#### Prompt
+
+```text
+朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。
+```
+
+### No. 202: Malam di Laundromat dengan Ubur-ubur dan Ramalan Kosmik
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah adegan yang menggambarkan laundromat di malam hari dengan ubur-ubur di luar, di mana seorang gadis memeriksa ramalan cuaca kosmik.
+
+#### Prompt
+
+```text
+夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。
+```
+
+### No. 203: Potret Prajurit Wanita Wuxia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTiaQAAXG8d.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTUbMAA_YtE.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTgbsAAv8c4.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk menghasilkan potret rasio 9:16 seorang prajurit wanita Asia Timur yang tinggi dan elegan dengan baju zirah dan jubah berlapis, membawa pedang panjang.
+
+#### Prompt
+
+```text
+东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。
+```
+
+### No. 204: Foto Nostalgia Telepon Tua Wanita di Pedesaan
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbQAAwLeU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYaaYAA2sVx.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbEAAOFG9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk gambar rasio 9:16 yang menggambarkan seorang wanita muda Asia Timur di setting pedesaan, diambil dengan estetika foto retro telepon.
+
+#### Prompt
+
+```text
+复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。
+```
+
+### No. 205: Dua Wanita Berqipao di Taman Tiongkok
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRfsmJraYAE6nLb.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan foto hiper-realistis dari dua wanita muda Asia Timur dalam qipao bergaya Tiongkok baru yang duduk di taman tradisional yang tenang.
+
+#### Prompt
+
+```text
+9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。
+
+两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75
+```
+
+### No. 206: Selfie Penari dalam Nuansa Abu-abu
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fPbMAEZun6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fKaQAAPVMQ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk selfie close-up vertikal 9:16 yang realistis dari seorang penari muda Asia Timur dalam gaya hidup abu-abu yang sejuk, penuh mimpi, dan berkelas.
+
+#### Prompt
+
+```text
+9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。
+
+一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73
+```
+
+### No. 207: Fotografi Editorial Panggung Konser K-Pop
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRXcnCGbkAAeg3Y.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk foto bergaya editorial sinematik dari seorang idola wanita K-pop berusia 20 tahun di sebuah konser.
+
+#### Prompt
+
+```text
+9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76
+```
+
+### No. 208: Wanita Asia Timur Elegan di Balkon Batu
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRWwBPgaEAAzUwP.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk foto fesyen vertikal 9:16 yang menampilkan wanita dewasa Asia Timur yang cantik sedang bersandar pada pagar batu klasik.
+
+#### Prompt
+
+```text
+9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。
+```
+
+### No. 209: Lanskap Bergaya Lukisan dengan Awan Kumulus Dramatis
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Viki
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lanskap seni rupa romantis yang detail, berfokus pada langit bercahaya dan awan menjulang tinggi.
+
+#### Prompt
+
+```text
+A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its
+```
+
+### No. 210: Link Dikejar Ayam Boneka
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Elfy
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah gambar Link yang dikejar kawanan ayam boneka berbulu yang marah melintasi Desa Kakariko.
+
+#### Prompt
+
+```text
+Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.
+```
+
+### No. 211: Teras Sawah Bali di Fajar
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Buble AI
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt gambar untuk pemandangan pagi yang tenang dan berkabut di teras sawah Bali, bergaya seperti kampanye perjalanan.
+
+#### Prompt
+
+```text
+Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.
+```
+
+### No. 212: Seni Pixel Pangeran Persia Melompat
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Elfy
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan gambar dalam gaya Cobalt Dither Monumentalism, menggambarkan karakter asli Pangeran Persia yang sedang melompati platform.
+
+#### Prompt
+
+```text
+Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms
+```
+
+### No. 213: Shinigami Lembut Menuntun Jiwa
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt puitis yang menggambarkan seorang gadis, sang pencabut nyawa, berdiri di batas antara kehidupan dan kematian dalam kabut malam yang dingin, menawarkan tangan sebagai penuntun untuk perpisahan yang tenang.
+
+#### Prompt
+
+```text
+死を迎えに来るのではなく、
+迷える魂を送り届けるために――。
+「迎えに来た死神」
+生と死の境界に立つ少女。
+冷たい夜の霧の中、
+彼女が差し出す手は終わりではなく、
+静かな別れへの道標。
+死もまた、ひとつの優しい旅立ちなのかもしれない。
+```
+
+### No. 214: Jimat Emas di Malam Gelap
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRntbOGbUAAlzbF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah adegan malam yang tenggelam dalam kegelapan, di mana hanya emas yang menerangi kehadiran jimat, menampilkan kata-kata 'Night Walk' dan 'Suppress Evil'.
+
+#### Prompt
+
+```text
+黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」
+```
+
+### No. 215: Impian Pengantin di Batas
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt puitis yang menggambarkan seorang gadis non-manusia di batas kehidupan dan kematian yang bermimpi menjadi pengantin dan melihat bayangannya sendiri.
+
+#### Prompt
+
+```text
+生と死の境界にいる少女にも、
+花嫁になる夢を見る朝がある。
+「幻想花嫁」
+人ではない彼女が、
+初めて自分自身の幸せを願った瞬間。
+鏡に映るのは、
+死者でも怪異でもない――
+ただ一人の少女の姿。
+```
+
+### No. 216: Yokai Membaca di Ruang Hujan
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah adegan makhluk yang ditakuti, Fufu, sedang membaca buku di ruangan tua pada hari hujan, dengan seekor burung kecil yang tersesat masuk.
+
+#### Prompt
+
+```text
+恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。
+```
+
 <a id="category-4"></a>
 
-### Layout & Typography (39)
+### Layout & Typography (48)
 
 ### No. 1: Retro Minimalist Motivational Poster Grid
 
@@ -6656,6 +7733,213 @@ Sebuah prompt untuk gambar tiga mangkuk yang disusun secara diagonal dari latar 
 three bowls arranged diagonally from front-left foreground to rear-right background
 ```
 
+### No. 40: Kampanye Perjalanan Instagram dengan Smartphone sebagai Fokus Visual
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00DraaoAEP8_g.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00Ethb0AAb_C-.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00F2NbEAAn5Hl.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk membuat iklan perjalanan Instagram premium yang menampilkan smartphone modern sebagai elemen visual utama.
+
+#### Prompt
+
+```text
+[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation
+```
+
+### No. 41: Poster Sosial Vertikal untuk Figur Koleksi
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpYbYAENOJR.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpkbQAAmsEp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpZaYAATDxm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk poster media sosial vertikal resolusi tinggi yang mengiklankan figur koleksi premium dengan tipografi tegas dan latar belakang kuning polos.
+
+#### Prompt
+
+```text
+4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle
+```
+
+### No. 42: Desain Sampul Buku dengan Hierarki
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** DeepBlue深藍
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk mendesain sampul buku dengan hierarki tipografi yang kuat dan mudah dibaca.
+
+#### Prompt
+
+```text
+Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.
+```
+
+### No. 43: Poster Konferensi Neurosains
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Daichi Konno / 紺野 大地
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah perintah untuk menghasilkan poster konferensi untuk pertemuan neurosains 2026 berdasarkan makalah dan peraturan yang disediakan.
+
+#### Prompt
+
+```text
+2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして
+```
+
+### No. 44: Grid Diorama Kota Ikonik yang Melayang
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk menghasilkan grid 2x2 diorama kota yang melayang dan tergantung di studio abu-abu.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The
+```
+
+### No. 45: Grid Poster Sistem Satir tentang Topik-topik yang Menjengkelkan
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk grid 2x2 poster editorial satir tentang topik-topik yang menjengkelkan.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic="[TOPIC]"):         self.topic = topic         self.format = "single square editorial"
+```
+
+### No. 46: Template Poster Perjalanan Diorama Kertas
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2csGaUAAfycL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2eeeboAA3VTp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2gy9aMAAHwLF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk membuat poster perjalanan vertikal premium yang menggambarkan tengara kota sebagai diorama kertas buatan tangan yang detail.
+
+#### Prompt
+
+```text
+Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper
+```
+
+### No. 47: Lembar Karakter Sinematik untuk Calvin & Bob
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Permintaan untuk membuat lembar karakter layar terbagi dengan latar belakang cat air.
+
+#### Prompt
+
+```text
+Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him
+```
+
+### No. 48: Lembar Karakter Bible Sinematik Untuk Sofia
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `id`
+- **Result:** [View](https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Sebuah prompt untuk menghasilkan lembar karakter premium yang menampilkan tipografi tegas dan gambar hero dramatis dari seorang barista bernama Sofia.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour
+```
+
 <a id="featured-prompts"></a>
 
 ## 🔥 Featured Prompts
@@ -6870,4 +8154,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-09-09.
+> This README is auto-generated. 2026-09-10.

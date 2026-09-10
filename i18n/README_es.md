@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-278%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-334%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,20 +102,20 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **278** |
+| Total Prompts | **334** |
 | Categories | **4** |
-| Preview Images | **278** |
-| Last Updated | **2026-09-09** |
+| Preview Images | **334** |
+| Last Updated | **2026-09-10** |
 
 <a id="browse-by-category"></a>
 
 ## 🏷️ Browse by Category
 
 
-- [`Reference Fidelity`](#category-1): **41**
+- [`Reference Fidelity`](#category-1): **60**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **188**
-- [`Layout & Typography`](#category-4): **39**
+- [`Style & Intelligence`](#category-3): **216**
+- [`Layout & Typography`](#category-4): **48**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ Every record keeps its category, source, author, source link, input references a
 
 <a id="category-1"></a>
 
-### Reference Fidelity (41)
+### Reference Fidelity (60)
 
 ### No. 1: Retro Eighties Mall Portrait
 
@@ -1075,6 +1075,432 @@ Una indicación para crear una imagen publicitaria de alta costura premium e hip
 Create a premium, hyper-realistic high-fashion advertising campaign image using my uploaded female model as the ONLY identity reference for the main female subject. Preserve her exact facial identity and natural appearance — facial structure, skin
 ```
 
+### No. 42: Artículo a Manga de Cuatro Paneles en Estilo Afternoon
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** テツメモ｜AI図解×検証｜Newsletter
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar un cómic de cuatro páginas en el estilo de la revista japonesa Afternoon basado en un artículo adjunto.
+
+#### Prompt
+
+```text
+添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して
+```
+
+### No. 43: Hoja de Referencia de Personaje Cinematográfico Premium
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para crear una hoja de referencia de personaje en pantalla dividida utilizando pautas visuales estrictas.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 44: Hoja de Sprites de Combate en Pixel Art
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** bianca
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar una hoja de sprites de animación de combate en pixel art simplificado de 128px con fondo transparente.
+
+#### Prompt
+
+```text
+Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4
+```
+
+### No. 45: Hoja de Sprites de Batalla de Personaje en Pixel Art
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Studio Tora
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar una hoja de sprites de pixel art de 16 cuadros para los movimientos de batalla de un personaje.
+
+#### Prompt
+
+```text
+Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent
+```
+
+### No. 46: Hoja de Sprites Pixel Art para Batalla de Personaje
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Steam Gamer LG
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para crear una hoja de sprites de arte pixel simplificado de 128px con 16 cuadros para los movimientos de combate de un personaje, incluyendo estados de inactividad, tajo, guardia y derribo.
+
+#### Prompt
+
+```text
+このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して
+```
+
+### No. 47: Retrato Fotorrealista con Referencia de Identidad
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDsh_asAAmZAn.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDs-IaIAAHjN6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para crear un retrato fotorrealista de cuerpo completo utilizando una foto de referencia para preservar la identidad del sujeto.
+
+#### Prompt
+
+```text
+Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest
+```
+
+### No. 48: Hoja de Referencia de Personajes para Marty y Doc
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para generar una hoja de referencia de personajes en pantalla dividida para dos personajes, utilizando pautas visuales estrictas.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 49: Hoja de Biblia de Personajes de Ted y John
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una hoja de personaje en pantalla dividida utilizando referencias visuales estrictas para dos personajes.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 50: Biblia de Personajes en Pantalla Dividida para Dom y Brian
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una hoja de personaje en pantalla dividida utilizando referencias subidas para dos personajes.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 51: Hoja de Biblia de Personaje Cinematográfica para Baby
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una hoja de personaje premium para el personaje Baby, con tipografía audaz y adherencia estricta a referencias visuales.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.
+```
+
+### No. 52: Biblia de Personaje Cinematográfica para Schmidt y Jenko
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una hoja de personaje en pantalla dividida utilizando referencias subidas para dos personajes.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 53: Biblia de Personaje Cinematográfica para Gordon
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para crear una hoja de personaje premium con tipografía audaz y referencia visual estricta.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S
+```
+
+### No. 54: Hoja de Biblia de Personajes para Johnny y Tucker
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una hoja de referencia de personajes en pantalla dividida utilizando pautas visuales estrictas.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 55: Hoja de Biblia de Personajes para Neo y Trinity
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una hoja de referencia de personajes en pantalla dividida para Neo y Trinity utilizando pautas visuales estrictas.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 56: Biblia de Personajes de Kevin contra los Ladrones Mojados
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una hoja de personaje premium para Kevin contra los Ladrones Mojados utilizando referencias visuales estrictas.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing
+```
+
+### No. 57: Fotografía de Moda Editorial en Escalera de Azotea Nocturna
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJIagAIYU-w.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJKbcAAIip6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para una foto hiperrealista de una sesión de moda editorial en una escalera de azotea nocturna, con una sensación cinematográfica fresca.
+
+#### Prompt
+
+```text
+9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。
+```
+
+### No. 58: Hoja de Biblia de Personajes de Riggs y Murtaugh
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una hoja de referencia de personajes en pantalla dividida para dos personajes utilizando pautas visuales estrictas.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 59: Hoja de Referencia de Personaje Cinematográfico Premium para Mike y Marcus
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar una hoja de referencia de personaje en pantalla dividida utilizando pautas visuales estrictas.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 60: Hoja de Referencia de Personaje Cinematográfico Premium para Lee y Carter
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para crear una hoja de referencia de personaje en pantalla dividida utilizando guías visuales estrictas.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
 <a id="category-2"></a>
 
 ### Precision Editing (10)
@@ -1319,7 +1745,7 @@ Un prompt que describe un retrato iluminado por luz solar dura y sin suavizar, p
 
 <a id="category-3"></a>
 
-### Style & Intelligence (188)
+### Style & Intelligence (216)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -5783,9 +6209,660 @@ Una indicación para una imagen que presenta una botella de cerveza real grande 
 real beer bottle in the lower-right foreground, large, sharp, and partially cropped
 ```
 
+### No. 189: Pintura de Mondrian como Gabinete de Almacenamiento de Escritorio
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Cell 细胞
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para transformar 'Composición con Rojo, Azul y Amarillo' de Mondrian en un gabinete de almacenamiento funcional para escritorio con cajones de colores.
+
+#### Prompt
+
+```text
+蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。
+```
+
+### No. 190: Imagen Realista de una Cosa Surrealista
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Kris Kashtanova
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar una imagen altamente realista de un sujeto surrealista imaginado.
+
+#### Prompt
+
+```text
+create the most realistic possible image of the most surreal thing you can imagine
+```
+
+### No. 191: Humanos Minúsculos en un Mundo de Mandarina
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Johnny Wang
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziSahbYAAv-Rm.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziTgcbkAAIjUD.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una imagen de humanos diminutos viviendo dentro de una mandarina, con los gajos de la fruta formando arquitectura.
+
+#### Prompt
+
+```text
+2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant
+```
+
+### No. 192: Figura Amenazante en Perfil Marcado
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Syed Abuthahir ∞
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar una imagen de una figura amenazante con cabello negro azabache y labios rojo sangre en un perfil marcado.
+
+#### Prompt
+
+```text
+A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw
+```
+
+### No. 193: Anuncio de Aplicación de Citas Ficticia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Egline Samoei
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar un anuncio para una aplicación de citas que presenta modelos jóvenes Kalenjin.
+
+#### Prompt
+
+```text
+Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is "Cheps are for Kips" use an image of two young African Kalenjin male and female as models
+```
+
+### No. 194: Retrato en la Azotea con Radio Antes del Amanecer
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Morphed
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMslpagAA8qfL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMskIXMAAHqtd.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar un retrato de un rostro curtido en una azotea con una radio antes del amanecer.
+
+#### Prompt
+
+```text
+A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.
+```
+
+### No. 195: Túnel Vacío de Fushimi Inari al Amanecer
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Buble AI
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar una escena serena y temprano en la mañana de los icónicos portales bermellón del santuario Fushimi Inari en Kioto, con el estilo de una imagen de campaña de viajes.
+
+#### Prompt
+
+```text
+Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.
+```
+
+### No. 196: Mundo Interior Basado en Preferencias de Arte con IA
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para una ilustración que refleje el mundo interior del usuario, basándose en sus preferencias pasadas de arte generado por IA.
+
+#### Prompt
+
+```text
+これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて
+```
+
+### No. 197: Plano Detalle de un Procesador de Ciudad Futurista
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Dominic Reed
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para un plano detalle (macro) de un procesador transparente del tamaño de una habitación que contiene una ciudad luminosa en su interior.
+
+#### Prompt
+
+```text
+macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it
+```
+
+### No. 198: Autorretrato Simbólico de Lenguaje y Código
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Ron Yatteau
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una imagen que representa un autorretrato simbólico donde el lenguaje, el código y la creatividad están interconectados por la luz.
+
+#### Prompt
+
+```text
+A symbolic self-portrait: language, code, and creativity connected through light.
+```
+
+### No. 199: Mundo Alienígena con Retro-Futurismo Mediterráneo
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Wonder Villas
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para generar una imagen de un asentamiento humano en un mundo alienígena, con arquitectura de inspiración mediterránea y elementos retro-futuristas.
+
+#### Prompt
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+### No. 200: Retrato de la Archon Cryo Tsaritsa Anastasya
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Olivia Bernardo
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para generar un retrato de la Tsaritsa, una Archon Cryo y soberana, descrita con varios títulos regios y de pesar.
+
+#### Prompt
+
+```text
+Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal
+```
+
+### No. 201: Parada de Autobús en la Niebla Matutina
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una imagen poética de una parada de autobús en la niebla de la mañana, donde el vapor se eleva antes de que llegue nadie, y el primer tren es un pensamiento en su interior.
+
+#### Prompt
+
+```text
+朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。
+```
+
+### No. 202: Noche en Lavandería con Medusas y Pronóstico Cósmico
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una escena que representa una lavandería por la noche con medusas en el exterior, donde una chica consulta un pronóstico del tiempo cósmico.
+
+#### Prompt
+
+```text
+夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。
+```
+
+### No. 203: Retrato de una Guerrera Wuxia
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTiaQAAXG8d.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTUbMAA_YtE.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTgbsAAv8c4.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para generar un retrato en formato 9:16 de una guerrera alta y elegante de Asia Oriental, con armadura y ropajes superpuestos, blandiendo una espada larga.
+
+#### Prompt
+
+```text
+东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。
+```
+
+### No. 204: Foto Retro de Teléfono Rural de una Mujer
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbQAAwLeU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYaaYAA2sVx.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbEAAOFG9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para una imagen 9:16 que representa a una joven mujer de Asia Oriental en un entorno rural, capturada con una estética retro de teléfono.
+
+#### Prompt
+
+```text
+复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。
+```
+
+### No. 205: Dos Mujeres en Qipao en un Jardín Chino
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRfsmJraYAE6nLb.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una foto hiperrealista de dos jóvenes mujeres de Asia Oriental en qipaos de nuevo estilo chino, sentadas en un sereno jardín tradicional.
+
+#### Prompt
+
+```text
+9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。
+
+两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75
+```
+
+### No. 206: Selfie de una Bailarina en Tonos Grises
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fPbMAEZun6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fKaQAAPVMQ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para un selfie vertical realista 9:16, un primer plano de una joven bailarina de Asia Oriental en un estilo de vida gris de alta gama, fresco y onírico.
+
+#### Prompt
+
+```text
+9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。
+
+一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73
+```
+
+### No. 207: Fotografía Editorial del Escenario de un Concierto de K-Pop
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRXcnCGbkAAeg3Y.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para una foto cinematográfica de estilo editorial de una idol femenina de K-pop de 20 años en un concierto.
+
+#### Prompt
+
+```text
+9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76
+```
+
+### No. 208: Elegante Mujer del Este de Asia en un Balcón de Piedra
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRWwBPgaEAAzUwP.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para una foto de moda vertical 9:16 de una hermosa mujer adulta del Este de Asia apoyada contra una barandilla de piedra clásica.
+
+#### Prompt
+
+```text
+9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。
+```
+
+### No. 209: Paisaje Pictórico con Nubes Cumulus Dramáticas
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Viki
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar un paisaje de bellas artes detallado y romántico, centrado en un cielo luminoso y nubes imponentes.
+
+#### Prompt
+
+```text
+A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its
+```
+
+### No. 210: Link Perseguido por Pollos de Títere
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Elfy
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una imagen de Link siendo perseguido por una bandada enfadada de pollos de títere esponjosos a través de la Aldea Kakariko.
+
+#### Prompt
+
+```text
+Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.
+```
+
+### No. 211: Terraza de Arroz de Bali al Amanecer
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Buble AI
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt de imagen para una escena serena y brumosa de la mañana en las terrazas de arroz de Bali, con estilo de campaña de viajes.
+
+#### Prompt
+
+```text
+Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.
+```
+
+### No. 212: Arte de Píxeles del Príncipe de Persia Saltando
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Elfy
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar una imagen en el estilo de Cobalt Dither Monumentalism, que representa al personaje original del Príncipe de Persia saltando entre plataformas.
+
+#### Prompt
+
+```text
+Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms
+```
+
+### No. 213: Shinigami Gentil Guiando Almas
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt poético que describe a una chica, una segadora de la muerte, de pie en el límite entre la vida y la muerte en una fría noche brumosa, ofreciendo una mano como guía para un adiós tranquilo.
+
+#### Prompt
+
+```text
+死を迎えに来るのではなく、
+迷える魂を送り届けるために――。
+「迎えに来た死神」
+生と死の境界に立つ少女。
+冷たい夜の霧の中、
+彼女が差し出す手は終わりではなく、
+静かな別れへの道標。
+死もまた、ひとつの優しい旅立ちなのかもしれない。
+```
+
+### No. 214: Talismanes Dorados en la Noche Oscura
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRntbOGbUAAlzbF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una escena de la noche hundiéndose en la negrura, donde solo el oro ilumina una presencia talismánica, con las palabras 'Paseo Nocturno' y 'Suprimir el Mal'.
+
+#### Prompt
+
+```text
+黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」
+```
+
+### No. 215: El Sueño de la Novia en el Límite
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt poético que describe a una chica no humana en el límite entre la vida y la muerte soñando con convertirse en novia y ver su propio reflejo.
+
+#### Prompt
+
+```text
+生と死の境界にいる少女にも、
+花嫁になる夢を見る朝がある。
+「幻想花嫁」
+人ではない彼女が、
+初めて自分自身の幸せを願った瞬間。
+鏡に映るのは、
+死者でも怪異でもない――
+ただ一人の少女の姿。
+```
+
+### No. 216: Yokai Leyendo en una Habitación Lluviosa
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una escena de un ser temido, Fufu, leyendo un libro en una habitación antigua en un día lluvioso, con un pequeño pájaro que ha entrado.
+
+#### Prompt
+
+```text
+恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。
+```
+
 <a id="category-4"></a>
 
-### Layout & Typography (39)
+### Layout & Typography (48)
 
 ### No. 1: Retro Minimalist Motivational Poster Grid
 
@@ -6656,6 +7733,213 @@ Una indicación para una imagen de tres cuencos dispuestos en diagonal desde el 
 three bowls arranged diagonally from front-left foreground to rear-right background
 ```
 
+### No. 40: Campaña de Viajes para Instagram con Anclaje de Smartphone
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00DraaoAEP8_g.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00Ethb0AAb_C-.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00F2NbEAAn5Hl.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para crear un anuncio de viajes premium para Instagram que presenta un smartphone moderno como anclaje visual.
+
+#### Prompt
+
+```text
+[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation
+```
+
+### No. 41: Póster Social Vertical para Figura de Colección
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpYbYAENOJR.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpkbQAAmsEp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpZaYAATDxm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para un póster vertical de alta resolución para redes sociales que anuncia una figura de colección premium con tipografía audaz y un fondo amarillo plano.
+
+#### Prompt
+
+```text
+4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle
+```
+
+### No. 42: Diseño de Portada de Libro Jerárquica
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** DeepBlue深藍
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para diseñar la portada de un libro con una jerarquía tipográfica fuerte y legibilidad.
+
+#### Prompt
+
+```text
+Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.
+```
+
+### No. 43: Póster de Conferencia de Neurociencia
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Daichi Konno / 紺野 大地
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Un prompt para generar un póster de conferencia para una reunión de neurociencia de 2026 basado en un artículo y regulaciones proporcionados.
+
+#### Prompt
+
+```text
+2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして
+```
+
+### No. 44: Cuadrícula de Dioramas Flotantes de Ciudades Icónicas
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para generar una cuadrícula de 2x2 con dioramas de ciudades flotantes, suspendidos en un estudio de fondo gris.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The
+```
+
+### No. 45: Cuadrícula de Pósters Editoriales Satíricos sobre Temas Frustrantes
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para una cuadrícula de 2x2 de pósters editoriales satíricos sobre temas frustrantes.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic="[TOPIC]"):         self.topic = topic         self.format = "single square editorial"
+```
+
+### No. 46: Plantilla de Póster de Viaje con Diorama de Papel
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2csGaUAAfycL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2eeeboAA3VTp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2gy9aMAAHwLF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para crear un póster de viaje vertical premium que represente un monumento urbano como un diorama de papel artesanal detallado.
+
+#### Prompt
+
+```text
+Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper
+```
+
+### No. 47: Hoja de Personaje Cinematográfica para Calvin y Bob
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una solicitud para crear una hoja de personaje en pantalla dividida con un fondo de acuarela.
+
+#### Prompt
+
+```text
+Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him
+```
+
+### No. 48: Hoja de Biblia de Personaje Cinematográfica para Sofía
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `es`
+- **Result:** [View](https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+Una indicación para generar una hoja de personaje premium con tipografía audaz y una imagen heroica dramática de una barista llamada Sofía.
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour
+```
+
 <a id="featured-prompts"></a>
 
 ## 🔥 Featured Prompts
@@ -6870,4 +8154,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-09-09.
+> This README is auto-generated. 2026-09-10.

@@ -10266,5 +10266,1719 @@
       ],
       "video": ""
     }
+  },
+  {
+    "id": 659,
+    "title": "스마트폰을 시각적 중심으로 한 인스타그램 여행 캠페인",
+    "description": "현대적인 스마트폰을 시각적 중심으로 사용한 고급스러운 인스타그램 여행 광고를 제작하기 위한 프롬프트입니다.",
+    "prompt": "[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation",
+    "original_prompt": "[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Goodmanprotocol/status/2097890291860865291",
+    "source_published_at": "2026-09-10T03:29:57.000Z",
+    "source_platform": "x",
+    "author_name": "Saul Goodman",
+    "author_link": "https://x.com/Goodmanprotocol",
+    "language": "ko",
+    "likes": 4,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg",
+      "https://pbs.twimg.com/media/HR00DraaoAEP8_g.jpg",
+      "https://pbs.twimg.com/media/HR00Ethb0AAb_C-.jpg",
+      "https://pbs.twimg.com/media/HR00F2NbEAAn5Hl.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097890291860865291",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 339
+  },
+  {
+    "id": 661,
+    "title": "몬드리안 그림을 데스크탑 수납장으로 변환",
+    "description": "몬드리안의 '빨강, 파랑, 노랑의 구성'을 색상이 있는 서랍이 달린 기능성 데스크탑 수납장으로 변환하기 위한 프롬프트입니다.",
+    "prompt": "蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。",
+    "original_prompt": "蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/cellinlab/status/2097875217100296362",
+    "source_published_at": "2026-09-10T02:30:03.000Z",
+    "source_platform": "x",
+    "author_name": "Cell 细胞",
+    "author_link": "https://x.com/cellinlab",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097875217100296362",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 340
+  },
+  {
+    "id": 662,
+    "title": "초현실적인 사물의 사실적인 이미지",
+    "description": "상상 속 초현실적인 주제를 매우 사실적으로 생성하기 위한 프롬프트입니다.",
+    "prompt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "original_prompt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "translated_prompt": "",
+    "source_link": "https://x.com/icreatelife/status/2097860435366048106",
+    "source_published_at": "2026-09-10T01:31:18.000Z",
+    "source_platform": "x",
+    "author_name": "Kris Kashtanova",
+    "author_link": "https://x.com/icreatelife",
+    "language": "ko",
+    "likes": 5,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097860435366048106",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 341
+  },
+  {
+    "id": 665,
+    "title": "기사를 애프터눈 스타일의 4컷 만화로 변환",
+    "description": "첨부된 기사를 바탕으로 일본 잡지 '애프터눈'의 스타일로 4페이지 분량의 만화를 생성하기 위한 프롬프트입니다.",
+    "prompt": "添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して",
+    "original_prompt": "添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して",
+    "translated_prompt": "",
+    "source_link": "https://x.com/tetumemo/status/2097848254792859732",
+    "source_published_at": "2026-09-10T00:42:54.000Z",
+    "source_platform": "x",
+    "author_name": "テツメモ｜AI図解×検証｜Newsletter",
+    "author_link": "https://x.com/tetumemo",
+    "language": "ko",
+    "likes": 17,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg",
+      "https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg",
+      "https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg",
+      "https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097848254792859732",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 342
+  },
+  {
+    "id": 668,
+    "title": "콜렉터블 피규어용 세로형 소셜 미디어 포스터",
+    "description": "대담한 타이포그래피와 단색 노란색 배경을 사용한 고급 콜렉터블 피규어를 광고하는 고해상도 세로형 소셜 미디어 포스터를 위한 프롬프트입니다.",
+    "prompt": "4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle",
+    "original_prompt": "4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle",
+    "translated_prompt": "",
+    "source_link": "https://x.com/IDATSUKA/status/2097809226051789288",
+    "source_published_at": "2026-09-09T22:07:49.000Z",
+    "source_platform": "x",
+    "author_name": "IDATSUKA",
+    "author_link": "https://x.com/IDATSUKA",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg",
+      "https://pbs.twimg.com/media/HRzmXpYbYAENOJR.jpg",
+      "https://pbs.twimg.com/media/HRzmXpkbQAAmsEp.jpg",
+      "https://pbs.twimg.com/media/HRzmXpZaYAATDxm.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097809226051789288",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 343
+  },
+  {
+    "id": 670,
+    "title": "귤 속의 작은 인간 세계",
+    "description": "귤 속에서 사는 아주 작은 인간들의 이미지로, 과일의 쪽이 건축물을 형성합니다.",
+    "prompt": "2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant",
+    "original_prompt": "2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant",
+    "translated_prompt": "",
+    "source_link": "https://x.com/JohnnyWang8802/status/2097800514633429315",
+    "source_published_at": "2026-09-09T21:33:12.000Z",
+    "source_platform": "x",
+    "author_name": "Johnny Wang",
+    "author_link": "https://x.com/JohnnyWang8802",
+    "language": "ko",
+    "likes": 7,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png",
+      "https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png",
+      "https://pbs.twimg.com/media/HRziSahbYAAv-Rm.png",
+      "https://pbs.twimg.com/media/HRziTgcbkAAIjUD.png"
+    ],
+    "x_meta": {
+      "tweet_id": "2097800514633429315",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 344
+  },
+  {
+    "id": 678,
+    "title": "고급 시네마틱 캐릭터 바이블 시트",
+    "description": "엄격한 시각적 가이드라인을 사용하여 스플릿 스크린 방식의 캐릭터 레퍼런스 시트를 제작하기 위한 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097738632941461886",
+    "source_published_at": "2026-09-09T17:27:18.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 7,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097738632941461886",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 345
+  },
+  {
+    "id": 679,
+    "title": "날카로운 측면에서 바라본 위협적인 인물",
+    "description": "까만 까마귀 같은 머리와 핏빛 붉은 입술을 가진 위협적인 인물을 날카로운 측면에서 바라본 이미지를 생성하기 위한 프롬프트입니다.",
+    "prompt": "A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw",
+    "original_prompt": "A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abulu8/status/2097733554990186638",
+    "source_published_at": "2026-09-09T17:07:08.000Z",
+    "source_platform": "x",
+    "author_name": "Syed Abuthahir ∞",
+    "author_link": "https://x.com/abulu8",
+    "language": "ko",
+    "likes": 19,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097733554990186638",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 346
+  },
+  {
+    "id": 684,
+    "title": "계층적 책 표지 디자인",
+    "description": "강력한 타이포그래피 계층 구조와 가독성을 갖춘 책 표지를 디자인하기 위한 프롬프트입니다.",
+    "prompt": "Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.",
+    "original_prompt": "Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/DeepBlueX0/status/2097724965437210694",
+    "source_published_at": "2026-09-09T16:33:00.000Z",
+    "source_platform": "x",
+    "author_name": "DeepBlue深藍",
+    "author_link": "https://x.com/DeepBlueX0",
+    "language": "ko",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097724965437210694",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 349
+  },
+  {
+    "id": 687,
+    "title": "픽셀 아트 전투 스프라이트 시트",
+    "description": "투명 배경의 단순화된 128px 픽셀 아트 전투 애니메이션 스프라이트 시트를 생성하기 위한 프롬프트입니다.",
+    "prompt": "Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4",
+    "original_prompt": "Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4",
+    "translated_prompt": "",
+    "source_link": "https://x.com/biancab11f/status/2097715366965231685",
+    "source_published_at": "2026-09-09T15:54:51.000Z",
+    "source_platform": "x",
+    "author_name": "bianca",
+    "author_link": "https://x.com/biancab11f",
+    "language": "ko",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097715366965231685",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 350
+  },
+  {
+    "id": 692,
+    "title": "가상 데이팅 앱 광고",
+    "description": "젊은 칼렌진 모델들을 내세운 데이팅 앱 광고를 생성하기 위한 프롬프트입니다.",
+    "prompt": "Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is \"Cheps are for Kips\" use an image of two young African Kalenjin male and female as models",
+    "original_prompt": "Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is \"Cheps are for Kips\" use an image of two young African Kalenjin male and female as models",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Egline_Samoei/status/2097720789009109025",
+    "source_published_at": "2026-09-09T16:16:24.000Z",
+    "source_platform": "x",
+    "author_name": "Egline Samoei",
+    "author_link": "https://x.com/Egline_Samoei",
+    "language": "ko",
+    "likes": 23,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097720789009109025",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 352
+  },
+  {
+    "id": 695,
+    "title": "신경과학 학회 포스터",
+    "description": "제공된 논문과 규정을 바탕으로 2026년 신경과학 학회 포스터를 생성하기 위한 프롬프트입니다.",
+    "prompt": "2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして",
+    "original_prompt": "2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして",
+    "translated_prompt": "",
+    "source_link": "https://x.com/_daichikonno/status/2097880100587135480",
+    "source_published_at": "2026-09-10T02:49:27.000Z",
+    "source_platform": "x",
+    "author_name": "Daichi Konno / 紺野 大地",
+    "author_link": "https://x.com/_daichikonno",
+    "language": "ko",
+    "likes": 48,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097880100587135480",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 353
+  },
+  {
+    "id": 697,
+    "title": "해뜨기 전 옥상 라디오 인물 사진",
+    "description": "해뜨기 전, 라디오를 든 풍파에 지은 얼굴의 인물이 옥상에 있는 인물 사진을 생성하기 위한 프롬프트입니다.",
+    "prompt": "A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.",
+    "original_prompt": "A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/morphedai/status/2097867664861384778",
+    "source_published_at": "2026-09-10T02:00:02.000Z",
+    "source_platform": "x",
+    "author_name": "Morphed",
+    "author_link": "https://x.com/morphedai",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg",
+      "https://pbs.twimg.com/media/HRyMslpagAA8qfL.jpg",
+      "https://pbs.twimg.com/media/HRyMskIXMAAHqtd.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097867664861384778",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 354
+  },
+  {
+    "id": 698,
+    "title": "새벽의 텅 빈 후시미 이나리 터널",
+    "description": "교토 후시미 이나리 신사의 상징적인 주홍색 토리이(문)가 있는 고요한 이른 아침 풍경을 여행 캠페인 이미지 스타일로 생성하기 위한 프롬프트입니다.",
+    "prompt": "Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.",
+    "original_prompt": "Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/itsBubleAI/status/2097858619639251297",
+    "source_published_at": "2026-09-10T01:24:05.000Z",
+    "source_platform": "x",
+    "author_name": "Buble AI",
+    "author_link": "https://x.com/itsBubleAI",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097858619639251297",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 355
+  },
+  {
+    "id": 702,
+    "title": "캐릭터 전투 스프라이트 시트 픽셀 아트",
+    "description": "캐릭터의 전투 동작을 위한 16프레임 픽셀 아트 스프라이트 시트를 생성하기 위한 프롬프트입니다.",
+    "prompt": "Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent",
+    "original_prompt": "Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Studio_Tora_lab/status/2097825288868499882",
+    "source_published_at": "2026-09-09T23:11:39.000Z",
+    "source_platform": "x",
+    "author_name": "Studio Tora",
+    "author_link": "https://x.com/Studio_Tora_lab",
+    "language": "ko",
+    "likes": 5,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg",
+      "https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097825288868499882",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 356
+  },
+  {
+    "id": 704,
+    "title": "AI 예술 선호도에 기반한 내면 세계",
+    "description": "사용자의 과거 AI 예술 선호도를 바탕으로 그들의 내면 세계를 반영한 일러스트레이션을 요청하는 프롬프트입니다.",
+    "prompt": "これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて",
+    "original_prompt": "これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2097809058384470276",
+    "source_published_at": "2026-09-09T22:07:09.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ko",
+    "likes": 38,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097809058384470276",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 357
+  },
+  {
+    "id": 705,
+    "title": "캐릭터 배틀 스프라이트 시트 픽셀 아트",
+    "description": "캐릭터의 전투 동작(대기, 베기, 방어, 넉다운 상태)을 위한 16프레임의 128px 단순화 픽셀 아트 스프라이트 시트를 생성하는 프롬프트입니다.",
+    "prompt": "このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して",
+    "original_prompt": "このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して",
+    "translated_prompt": "",
+    "source_link": "https://x.com/steam_gamer_jp/status/2097807804975472700",
+    "source_published_at": "2026-09-09T22:02:10.000Z",
+    "source_platform": "x",
+    "author_name": "Steam Gamer LG",
+    "author_link": "https://x.com/steam_gamer_jp",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png"
+    ],
+    "x_meta": {
+      "tweet_id": "2097807804975472700",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 358
+  },
+  {
+    "id": 711,
+    "title": "미래 도시 프로세서의 접사 샷",
+    "description": "빛나는 도시를 담고 있는 방 크기의 투명 프로세서의 접사(매크로) 샷을 위한 프롬프트입니다.",
+    "prompt": "macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it",
+    "original_prompt": "macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it",
+    "translated_prompt": "",
+    "source_link": "https://x.com/lifeafterprompt/status/2097744594402500997",
+    "source_published_at": "2026-09-09T17:51:00.000Z",
+    "source_platform": "x",
+    "author_name": "Dominic Reed",
+    "author_link": "https://x.com/lifeafterprompt",
+    "language": "ko",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097744594402500997",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 359
+  },
+  {
+    "id": 712,
+    "title": "아이코닉 도시들의 떠 있는 디오라마 그리드",
+    "description": "회색 스튜디오에 매달린 떠 있는 도시 디오라마 4개(2x2 그리드)를 생성하는 프롬프트입니다.",
+    "prompt": "2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The",
+    "original_prompt": "2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097738806564635028",
+    "source_published_at": "2026-09-09T17:28:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "ko",
+    "likes": 3,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097738806564635028",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 360
+  },
+  {
+    "id": 714,
+    "title": "언어와 코드의 상징적 자화상",
+    "description": "언어, 코드, 창의성이 빛으로 연결되어 있는 상징적 자화상을 묘사한 이미지입니다.",
+    "prompt": "A symbolic self-portrait: language, code, and creativity connected through light.",
+    "original_prompt": "A symbolic self-portrait: language, code, and creativity connected through light.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ryatteau/status/2097842586174038140",
+    "source_published_at": "2026-09-10T00:20:23.000Z",
+    "source_platform": "x",
+    "author_name": "Ron Yatteau",
+    "author_link": "https://x.com/ryatteau",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097842586174038140",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 361
+  },
+  {
+    "id": 716,
+    "title": "짜증나는 주제에 대한 풍자적 시스템 포스터 그리드",
+    "description": "짜증나는 주제에 대한 풍자적 에디토리얼 포스터 4개(2x2 그리드)를 위한 프롬프트입니다.",
+    "prompt": "2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic=\"[TOPIC]\"):         self.topic = topic         self.format = \"single square editorial\"",
+    "original_prompt": "2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic=\"[TOPIC]\"):         self.topic = topic         self.format = \"single square editorial\"",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2097797443244974517",
+    "source_published_at": "2026-09-09T21:21:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "ko",
+    "likes": 3,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097797443244974517",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 362
+  },
+  {
+    "id": 723,
+    "title": "지중해풍 레트로 퓨처리즘을 가진 외계 세계",
+    "description": "레트로 퓨처리즘 요소가 있는 지중해풍 건축물을 특징으로 하는 외계 세계의 인간 정착지를 생성하는 프롬프트입니다.",
+    "prompt": "A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.",
+    "original_prompt": "A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/wonder_villas/status/2097869977890017784",
+    "source_published_at": "2026-09-10T02:09:13.000Z",
+    "source_platform": "x",
+    "author_name": "Wonder Villas",
+    "author_link": "https://x.com/wonder_villas",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097869977890017784",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 363
+  },
+  {
+    "id": 725,
+    "title": "얼음의 군주 차리차 아나스타샤의 초상화",
+    "description": "다양한 왕실적이고 슬픈 칭호로 묘사된 얼음의 군주이자 주권자인 차리차의 초상화를 생성하는 프롬프트입니다.",
+    "prompt": "Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal",
+    "original_prompt": "Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal",
+    "translated_prompt": "",
+    "source_link": "https://x.com/livybabie/status/2096279511134310469",
+    "source_published_at": "2026-09-05T16:49:17.000Z",
+    "source_platform": "x",
+    "author_name": "Olivia Bernardo",
+    "author_link": "https://x.com/livybabie",
+    "language": "ko",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096279511134310469",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 365
+  },
+  {
+    "id": 728,
+    "title": "종이 디오라마 여행 포스터 템플릿",
+    "description": "도시 랜드마크를 상세한 수제 종이 디오라마로 묘사한 프리미엄 세로형 여행 포스터를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper",
+    "original_prompt": "Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2095781970441863255",
+    "source_published_at": "2026-09-04T07:52:14.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg",
+      "https://pbs.twimg.com/media/HRW2csGaUAAfycL.jpg",
+      "https://pbs.twimg.com/media/HRW2eeeboAA3VTp.jpg",
+      "https://pbs.twimg.com/media/HRW2gy9aMAAHwLF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095781970441863255",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 366
+  },
+  {
+    "id": 729,
+    "title": "신원 참조를 활용한 사실적 초상화",
+    "description": "참조 사진을 사용하여 피사체의 신원을 보존한 전신의 사실적(포토리얼리스틱) 초상화를 생성하는 프롬프트입니다.",
+    "prompt": "Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest",
+    "original_prompt": "Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest",
+    "translated_prompt": "",
+    "source_link": "https://x.com/ItsPatelSaab/status/2095585280623616019",
+    "source_published_at": "2026-09-03T18:50:39.000Z",
+    "source_platform": "x",
+    "author_name": "Mr. Patel",
+    "author_link": "https://x.com/ItsPatelSaab",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg",
+      "https://pbs.twimg.com/media/HRUDsh_asAAmZAn.jpg",
+      "https://pbs.twimg.com/media/HRUDs-IaIAAHjN6.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095585280623616019",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 367
+  },
+  {
+    "id": 734,
+    "title": "캘빈 & 밥을 위한 시네마틱 캐릭터 시트",
+    "description": "수채화 배경이 있는 스플릿 스크린 캐릭터 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him",
+    "original_prompt": "Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097646748847992890",
+    "source_published_at": "2026-09-09T11:22:11.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 6,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097646748847992890",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 369
+  },
+  {
+    "id": 737,
+    "title": "아침 안개 속 버스 정류장",
+    "description": "아침 안개 속 버스 정류장의 시적인 이미지로, 아무도 오기 전에 증기가 피어오르고 가장 이른 열차는 마음속의 생각입니다.",
+    "prompt": "朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。",
+    "original_prompt": "朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/IDATSUKA/status/2097522285846679567",
+    "source_published_at": "2026-09-09T03:07:37.000Z",
+    "source_platform": "x",
+    "author_name": "IDATSUKA",
+    "author_link": "https://x.com/IDATSUKA",
+    "language": "ko",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097522285846679567",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 370
+  },
+  {
+    "id": 738,
+    "title": "해파리와 우주 일보가 있는 밤의 세탁소",
+    "description": "밤의 세탁소를 묘사한 장면으로, 밖에는 해파리가 있고, 한 소녀가 우주 일기예보를 확인하고 있습니다.",
+    "prompt": "夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。",
+    "original_prompt": "夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/IDATSUKA/status/2097471807184060613",
+    "source_published_at": "2026-09-08T23:47:02.000Z",
+    "source_platform": "x",
+    "author_name": "IDATSUKA",
+    "author_link": "https://x.com/IDATSUKA",
+    "language": "ko",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097471807184060613",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 371
+  },
+  {
+    "id": 742,
+    "title": "마티 & 닥터 캐릭터 바이블 시트",
+    "description": "엄격한 시각적 가이드라인을 사용하여 두 캐릭터에 대한 스플릿 스크린 캐릭터 참조 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097359980244426876",
+    "source_published_at": "2026-09-08T16:22:41.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097359980244426876",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 372
+  },
+  {
+    "id": 744,
+    "title": "무협 여성 전사 초상화",
+    "description": "레이어드 갑옷과 로브를 입고 긴 검을 휘두르는 키 크고 우아한 동아시아 여성 전사의 9:16 비율 초상화를 생성하는 프롬프트입니다.",
+    "prompt": "东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。",
+    "original_prompt": "东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2097316525321654359",
+    "source_published_at": "2026-09-08T13:30:00.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ko",
+    "likes": 63,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg",
+      "https://pbs.twimg.com/media/HRslWTiaQAAXG8d.jpg",
+      "https://pbs.twimg.com/media/HRslWTUbMAA_YtE.jpg",
+      "https://pbs.twimg.com/media/HRslWTgbsAAv8c4.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097316525321654359",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 373
+  },
+  {
+    "id": 746,
+    "title": "시골 레트로 폰 사진 속 여성",
+    "description": "레트로 폰 미학으로 촬영된, 시골 배경의 젊은 동아시아 여성을 묘사한 9:16 비율 이미지 프롬프트입니다.",
+    "prompt": "复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。",
+    "original_prompt": "复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2097284566549692828",
+    "source_published_at": "2026-09-08T11:23:00.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ko",
+    "likes": 96,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg",
+      "https://pbs.twimg.com/media/HRsNLYWbQAAwLeU.jpg",
+      "https://pbs.twimg.com/media/HRsNLYaaYAA2sVx.jpg",
+      "https://pbs.twimg.com/media/HRsNLYWbEAAOFG9.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097284566549692828",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 374
+  },
+  {
+    "id": 747,
+    "title": "테드 & 존 캐릭터 바이블 시트",
+    "description": "두 캐릭터에 대해 엄격한 시각적 참조를 사용하여 스플릿 스크린 캐릭터 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097283799025340802",
+    "source_published_at": "2026-09-08T11:19:57.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 10,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097283799025340802",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 375
+  },
+  {
+    "id": 750,
+    "title": "돔 & 브라이언을 위한 스플릿 스크린 캐릭터 바이블",
+    "description": "업로드된 참조 자료를 사용하여 두 캐릭터의 스플릿 스크린 캐릭터 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2097013827833327690",
+    "source_published_at": "2026-09-07T17:27:11.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097013827833327690",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 377
+  },
+  {
+    "id": 752,
+    "title": "소피아를 위한 시네마틱 캐릭터 바이블 시트",
+    "description": "바리스타 소피아의 드라마틱한 히어로 이미지와 강렬한 타이포그래피를 특징으로 하는 프리미엄 캐릭터 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour",
+    "original_prompt": "Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096967425132556778",
+    "source_published_at": "2026-09-07T14:22:48.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096967425132556778",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 378
+  },
+  {
+    "id": 753,
+    "title": "베이비를 위한 시네마틱 캐릭터 바이블 시트",
+    "description": "강렬한 타이포그래피와 엄격한 시각적 참조 준수를 특징으로 하는 캐릭터 '베이비'를 위한 프리미엄 캐릭터 시트 생성 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.",
+    "original_prompt": "Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096919376792256967",
+    "source_published_at": "2026-09-07T11:11:52.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096919376792256967",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 379
+  },
+  {
+    "id": 758,
+    "title": "슈미트 & 젠코를 위한 시네마틱 캐릭터 바이블",
+    "description": "업로드된 참조 자료를 사용하여 두 캐릭터의 스플릿 스크린 캐릭터 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096650731373633680",
+    "source_published_at": "2026-09-06T17:24:22.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 16,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096650731373633680",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 380
+  },
+  {
+    "id": 761,
+    "title": "고든을 위한 시네마틱 캐릭터 바이블",
+    "description": "강렬한 타이포그래피와 엄격한 시각적 참조를 갖춘 프리미엄 캐릭터 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S",
+    "original_prompt": "Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096556627927220697",
+    "source_published_at": "2026-09-06T11:10:26.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096556627927220697",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 381
+  },
+  {
+    "id": 764,
+    "title": "중국식 정원의 치파오 입은 두 여성",
+    "description": "고요한 전통 정원에 앉아 있는, 새로운 중식 스타일 치파오를 입은 두 젊은 동아시아 여성의 초현실적 사진을 생성하는 프롬프트입니다.",
+    "prompt": "9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。\n\n两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75",
+    "original_prompt": "9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。\n\n两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2096404303959503344",
+    "source_published_at": "2026-09-06T01:05:10.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ko",
+    "likes": 229,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg",
+      "https://pbs.twimg.com/media/HRfsmJraYAE6nLb.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096404303959503344",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 382
+  },
+  {
+    "id": 766,
+    "title": "조니 & 터커 캐릭터 바이블 시트",
+    "description": "엄격한 시각적 가이드라인을 사용하여 스플릿 스크린 캐릭터 참조 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096288260591091914",
+    "source_published_at": "2026-09-05T17:24:03.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 10,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096288260591091914",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 383
+  },
+  {
+    "id": 768,
+    "title": "네오 & 트리니티 캐릭터 바이블 시트",
+    "description": "엄격한 시각적 가이드라인을 사용하여 네오와 트리니티의 스플릿 스크린 캐릭터 참조 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2096196097953649082",
+    "source_published_at": "2026-09-05T11:17:49.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 19,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096196097953649082",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 384
+  },
+  {
+    "id": 769,
+    "title": "회색 톤의 무용수 셀카",
+    "description": "시원하고 몽환적이며 고급스러운 회색 라이프스타일 스타일의 젊은 동아시아 무용수의 리얼리즘적인 클로즈업 셀카를 위한 9:16 세로 비율 프롬프트입니다.",
+    "prompt": "9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。\n\n一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73",
+    "original_prompt": "9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。\n\n一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2096146368003973632",
+    "source_published_at": "2026-09-05T08:00:13.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ko",
+    "likes": 142,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg",
+      "https://pbs.twimg.com/media/HRcB-fPbMAEZun6.jpg",
+      "https://pbs.twimg.com/media/HRcB-fKaQAAPVMQ.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096146368003973632",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 385
+  },
+  {
+    "id": 774,
+    "title": "케빈 대 웻 밴디츠 캐릭터 바이블",
+    "description": "엄격한 시각적 참조를 사용하여 '케빈 대 웻 밴디츠'를 위한 프리미엄 캐릭터 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing",
+    "original_prompt": "Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095913806060830881",
+    "source_published_at": "2026-09-04T16:36:06.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 15,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095913806060830881",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 386
+  },
+  {
+    "id": 775,
+    "title": "야간 옥상 계단 에디토리얼 패션 샷",
+    "description": "시원한 시네마틱 느낌의 야간 옥상 계단 패션 에디토리얼을 위한 초현실적 사진 프롬프트입니다.",
+    "prompt": "9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。",
+    "original_prompt": "9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095884267255644605",
+    "source_published_at": "2026-09-04T14:38:43.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ko",
+    "likes": 266,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg",
+      "https://pbs.twimg.com/media/HRYToJIagAIYU-w.jpg",
+      "https://pbs.twimg.com/media/HRYToJKbcAAIip6.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095884267255644605",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 387
+  },
+  {
+    "id": 777,
+    "title": "리그스 & 머토 캐릭터 바이블 시트",
+    "description": "엄격한 시각적 가이드라인을 사용하여 두 캐릭터의 스플릿 스크린 캐릭터 참조 시트를 생성하는 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095836037167628529",
+    "source_published_at": "2026-09-04T11:27:04.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095836037167628529",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 388
+  },
+  {
+    "id": 779,
+    "title": "K-Pop 콘서트 무대 에디토리얼 사진",
+    "description": "콘서트에서의 20세기 K-pop 여성 아이돌을 담은 시네마틱하고 에디토리얼 스타일의 사진 프롬프트입니다.",
+    "prompt": "9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76",
+    "original_prompt": "9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095823778794369489",
+    "source_published_at": "2026-09-04T10:38:22.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ko",
+    "likes": 392,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg",
+      "https://pbs.twimg.com/media/HRXcnCGbkAAeg3Y.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095823778794369489",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 389
+  },
+  {
+    "id": 780,
+    "title": "석조 발코니에 기대 선 우아한 동아시아 여성",
+    "description": "고전적인 석조 난간에 기대어 서 있는 아름다운 성인 동아시아 여성의 9:16 세로형 패션 사진을 위한 프롬프트입니다.",
+    "prompt": "9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。",
+    "original_prompt": "9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/AIVideoHub_/status/2095775342602625209",
+    "source_published_at": "2026-09-04T07:25:53.000Z",
+    "source_platform": "x",
+    "author_name": "AIVideoHub 🕊️",
+    "author_link": "https://x.com/AIVideoHub_",
+    "language": "ko",
+    "likes": 79,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg",
+      "https://pbs.twimg.com/media/HRWwBPgaEAAzUwP.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095775342602625209",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 390
+  },
+  {
+    "id": 783,
+    "title": "마이크와 마커스를 위한 프리미엄 시네마틱 캐릭터 바이블 시트",
+    "description": "엄격한 시각적 가이드라인을 사용하여 스플릿 스크린 캐릭터 레퍼런스 시트를 생성하기 위한 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "original_prompt": "Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095565178381185474",
+    "source_published_at": "2026-09-03T17:30:46.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 21,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095565178381185474",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 391
+  },
+  {
+    "id": 785,
+    "title": "리와 카터를 위한 프리미엄 시네마틱 캐릭터 바이블 시트",
+    "description": "엄격한 시각적 가이드를 사용하여 스플릿 스크린 캐릭터 레퍼런스 시트를 제작하기 위한 프롬프트입니다.",
+    "prompt": "Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "original_prompt": "Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "translated_prompt": "",
+    "source_link": "https://x.com/TechieBySA/status/2095515259612065975",
+    "source_published_at": "2026-09-03T14:12:25.000Z",
+    "source_platform": "x",
+    "author_name": "TechieSA",
+    "author_link": "https://x.com/TechieBySA",
+    "language": "ko",
+    "likes": 12,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095515259612065975",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 392
+  },
+  {
+    "id": 788,
+    "title": "극적인 적운이 있는 회화적 풍경",
+    "description": "빛나는 하늘과 높이 솟은 구름에 초점을 맞춘 디테일하고 낭만적인 미술 풍경화를 생성하기 위한 프롬프트입니다.",
+    "prompt": "A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its",
+    "original_prompt": "A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its",
+    "translated_prompt": "",
+    "source_link": "https://x.com/churvikv/status/2095472478340468762",
+    "source_published_at": "2026-09-03T11:22:25.000Z",
+    "source_platform": "x",
+    "author_name": "Viki",
+    "author_link": "https://x.com/churvikv",
+    "language": "ko",
+    "likes": 150,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2095472478340468762",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 393
+  },
+  {
+    "id": 791,
+    "title": "퍼펫 닭들에게 쫓기는 링크",
+    "description": "카카리코 마을을 통해 푹신한 퍼펫 닭들의 성난 무리에게 쫓기는 링크의 이미지입니다.",
+    "prompt": "Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.",
+    "original_prompt": "Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/mesoelfy/status/2097838564465582546",
+    "source_published_at": "2026-09-10T00:04:24.000Z",
+    "source_platform": "x",
+    "author_name": "Elfy",
+    "author_link": "https://x.com/mesoelfy",
+    "language": "ko",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097838564465582546",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 395
+  },
+  {
+    "id": 792,
+    "title": "새벽의 발리 쌀 테라스",
+    "description": "안개 낀 고요한 아침의 발리 쌀 테라스 장면을, 여행 캠페인 스타일로 표현한 이미지 프롬프트입니다.",
+    "prompt": "Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.",
+    "original_prompt": "Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/itsBubleAI/status/2097494047199818022",
+    "source_published_at": "2026-09-09T01:15:25.000Z",
+    "source_platform": "x",
+    "author_name": "Buble AI",
+    "author_link": "https://x.com/itsBubleAI",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097494047199818022",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 396
+  },
+  {
+    "id": 793,
+    "title": "픽셀 아트로 점프하는 페르시아의 왕자",
+    "description": "코발트 디더 모뉴멘탈리즘 스타일로, 플랫폼을 가로지르며 점프하는 오리지널 페르시아의 왕자 캐릭터를 묘사한 이미지를 생성하기 위한 프롬프트입니다.",
+    "prompt": "Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms",
+    "original_prompt": "Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms",
+    "translated_prompt": "",
+    "source_link": "https://x.com/mesoelfy/status/2097368057140158959",
+    "source_published_at": "2026-09-08T16:54:46.000Z",
+    "source_platform": "x",
+    "author_name": "Elfy",
+    "author_link": "https://x.com/mesoelfy",
+    "language": "ko",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097368057140158959",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 397
+  },
+  {
+    "id": 795,
+    "title": "영혼을 인도하는 온화한 사신",
+    "description": "삶과 죽음의 경계에 서서 차가운 밤 안개 속에서 조용한 작별을 위한 인도자의 손을 내미는, 죽음의 사신인 소녀를 시적으로 묘사한 프롬프트입니다.",
+    "prompt": "死を迎えに来るのではなく、\n迷える魂を送り届けるために――。\n「迎えに来た死神」\n生と死の境界に立つ少女。\n冷たい夜の霧の中、\n彼女が差し出す手は終わりではなく、\n静かな別れへの道標。\n死もまた、ひとつの優しい旅立ちなのかもしれない。",
+    "original_prompt": "死を迎えに来るのではなく、\n迷える魂を送り届けるために――。\n「迎えに来た死神」\n生と死の境界に立つ少女。\n冷たい夜の霧の中、\n彼女が差し出す手は終わりではなく、\n静かな別れへの道標。\n死もまた、ひとつの優しい旅立ちなのかもしれない。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2097090034424021024",
+    "source_published_at": "2026-09-07T22:30:00.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ko",
+    "likes": 92,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2097090034424021024",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 398
+  },
+  {
+    "id": 799,
+    "title": "어두운 밤 속의 금색 부적",
+    "description": "밤이 검은색으로 스며들어 오직 금빛만이 부적의 존재를 비추는 장면으로, '밤산책'과 '악귀퇴치'라는 단어가 등장합니다.",
+    "prompt": "黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」",
+    "original_prompt": "黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2096968173023383804",
+    "source_published_at": "2026-09-07T14:25:46.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ko",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg",
+      "https://pbs.twimg.com/media/HRntbOGbUAAlzbF.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096968173023383804",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 399
+  },
+  {
+    "id": 800,
+    "title": "경계에서 꾸는 신부의 꿈",
+    "description": "삶과 죽음의 경계에 선 비인간 소녀가 신부가 되는 꿈을 꾸며 자신의 모습을 비추어 보는 것을 시적으로 묘사한 프롬프트입니다.",
+    "prompt": "生と死の境界にいる少女にも、\n花嫁になる夢を見る朝がある。\n「幻想花嫁」\n人ではない彼女が、\n初めて自分自身の幸せを願った瞬間。\n鏡に映るのは、\n死者でも怪異でもない――\nただ一人の少女の姿。",
+    "original_prompt": "生と死の境界にいる少女にも、\n花嫁になる夢を見る朝がある。\n「幻想花嫁」\n人ではない彼女が、\n初めて自分自身の幸せを願った瞬間。\n鏡に映るのは、\n死者でも怪異でもない――\nただ一人の少女の姿。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2096937526527422714",
+    "source_published_at": "2026-09-07T12:24:00.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ko",
+    "likes": 70,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096937526527422714",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 400
+  },
+  {
+    "id": 801,
+    "title": "비 오는 방에서 책을 읽는 요괴",
+    "description": "비 오는 날, 오래된 방에서 책을 읽고 있는 두려움의 존재 '후후'와 그곳에 들어온 작은 새의 장면입니다.",
+    "prompt": "恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。",
+    "original_prompt": "恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/FufuJiangshi/status/2096905063075836322",
+    "source_published_at": "2026-09-07T10:15:00.000Z",
+    "source_platform": "x",
+    "author_name": "符符 Fufu｜阿山",
+    "author_link": "https://x.com/FufuJiangshi",
+    "language": "ko",
+    "likes": 55,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2096905063075836322",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 401
   }
 ]

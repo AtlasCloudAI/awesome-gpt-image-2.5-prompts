@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-278%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-334%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,20 +102,20 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **278** |
+| Total Prompts | **334** |
 | Categories | **4** |
-| Preview Images | **278** |
-| Last Updated | **2026-09-09** |
+| Preview Images | **334** |
+| Last Updated | **2026-09-10** |
 
 <a id="browse-by-category"></a>
 
 ## 🏷️ Browse by Category
 
 
-- [`Reference Fidelity`](#category-1): **41**
+- [`Reference Fidelity`](#category-1): **60**
 - [`Precision Editing`](#category-2): **10**
-- [`Style & Intelligence`](#category-3): **188**
-- [`Layout & Typography`](#category-4): **39**
+- [`Style & Intelligence`](#category-3): **216**
+- [`Layout & Typography`](#category-4): **48**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ Every record keeps its category, source, author, source link, input references a
 
 <a id="category-1"></a>
 
-### Reference Fidelity (41)
+### Reference Fidelity (60)
 
 ### No. 1: Retro Eighties Mall Portrait
 
@@ -1075,6 +1075,432 @@ A powerful cinematic fantasy scene of the woman from the reference image standin
 Create a premium, hyper-realistic high-fashion advertising campaign image using my uploaded female model as the ONLY identity reference for the main female subject. Preserve her exact facial identity and natural appearance — facial structure, skin
 ```
 
+### No. 42: आफ्टरनून शैली में लेख से चार-पैनल मंगा
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** テツメモ｜AI図解×検証｜Newsletter
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+संलग्न लेख के आधार पर जापानी पत्रिका आफ्टरनून की शैली में चार-पृष्ठीय कॉमिक उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して
+```
+
+### No. 43: प्रीमियम सिनेमैटिक कैरेक्टर बाइबल शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सख्त दृश्य दिशानिर्देशों का उपयोग करके एक स्प्लिट-स्क्रीन किरदार संदर्भ शीट बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 44: पिक्सेल आर्ट कॉम्बैट स्प्राइट शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** bianca
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyVACXa4AEpvW8.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+पारदर्शी पृष्ठभूमि के साथ एक सरलीकृत 128px पिक्सेल आर्ट कॉम्बैट एनीमेशन स्प्राइट शीट उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Crie um sprite sheet de animação de combate para este personagem. Pixel art simplificado de 128px, 4x4=16 frames, fundo transparente. Postura 4／Soco 4／Chute 4／Dano 4
+```
+
+### No. 45: कैरेक्टर बैटल स्प्राइट शीट पिक्सेल आर्ट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Studio Tora
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक किरदार की युद्ध गतियों के लिए 16-फ़्रेम पिक्सेल आर्ट स्प्राइट शीट उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent
+```
+
+### No. 46: पात्र युद्ध स्प्राइट शीट पिक्सेल कला
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Steam Gamer LG
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmmlTbkAAAozo.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक पात्र के युद्ध संचलनों के लिए 16 फ्रेमों वाली 128px सरलीकृत पिक्सेल कला स्प्राइट शीट बनाने का अनुरोध, जिसमें निष्क्रिय, वार, रक्षा और गिरावट की अवस्थाएँ शामिल हैं।
+
+#### Prompt
+
+```text
+このキャラクターの戦闘モーションのスプライトシートを作って　128pxの簡略化されたpixelart、4x4=16コマで作成　背景は透過　立ち姿･剣で斬る･ガード･ノックダウン状態･4種類(4コマx4種類)で作成して
+```
+
+### No. 47: पहचान संदर्भ के साथ फोटोरियलिस्टिक चित्र
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRUDsD0bcAEFpYt.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDsh_asAAmZAn.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRUDs-IaIAAHjN6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+व्यक्ति की पहचान को संरक्षित करने के लिए एक संदर्भ फोटो का उपयोग करते हुए पूर्ण-शरीर, फोटोरियलिस्टिक चित्र बनाने का अनुरोध।
+
+#### Prompt
+
+```text
+Create a highly photorealistic DSLR-style full-body portrait using the uploaded photo as identity reference. Preserve the subject’s natural facial features and appearance. Dress the subject in a modest
+```
+
+### No. 48: मार्टी और डॉक चरित्र बाइबल शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtRyD_WAAAvSmu.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+कठोर दृश्य दिशानिर्देशों का उपयोग करते हुए दो पात्रों के लिए स्प्लिट-स्क्रीन चरित्र संदर्भ शीट उत्पन्न करने का अनुरोध।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for MARTY & DOC. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 49: टेड और जॉन कैरेक्टर बाइबल शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsMfefa0AAVwGp.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+दो पात्रों के लिए सख्त दृश्य संदर्भों का उपयोग करके एक स्प्लिट-स्क्रीन कैरेक्टर शीट जनरेट करने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for TED & JOHN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 50: डॉम और ब्रायन के लिए स्प्लिट-स्क्रीन कैरेक्टर बाइबल
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRoW9KGbIAAMmak.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+दो पात्रों के लिए अपलोड किए गए संदर्भों का उपयोग करके एक स्प्लिट-स्क्रीन कैरेक्टर शीट जनरेट करने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for DOM & BRIAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+### No. 51: बेबी के लिए सिनेमैटिक कैरेक्टर बाइबल शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnBDrRbQAA214C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+बेबी पात्र के लिए बोल्ड टाइपोग्राफी और सख्त दृश्य संदर्भ अनुपालन वाली एक प्रीमियम कैरेक्टर शीट जनरेट करने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for BABY. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text BABY top left, deep red. Small text: THE DRIVER / BABY DRIVER.
+```
+
+### No. 52: श्मिट और जेन्को के लिए सिनेमैटिक कैरेक्टर बाइबल
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRjMuT8aAAAu9xC.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+दो पात्रों के लिए अपलोड किए गए संदर्भों का उपयोग करके एक स्प्लिट-स्क्रीन कैरेक्टर शीट जनरेट करने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for SCHMIDT & JENKO. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 53: गॉर्डन के लिए सिनेमैटिक कैरेक्टर बाइबल
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRh3I1-WgAARUdc.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+बोल्ड टाइपोग्राफी और सख्त दृश्य संदर्भ के साथ एक प्रीमियम कैरेक्टर शीट बनाने के लिए प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for GORDON. Use uploaded character sheet as strict visual reference. Do not change his appearance. LEFT SIDE: Massive bold brushstroke text GORDON top left, deep red. Small text: THE CHEF / HELL'S
+```
+
+### No. 54: जॉनी और टकर के लिए कैरेक्टर बाइबल शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HReDDyyWgAMVogk.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सख्त दृश्य दिशानिर्देशों का उपयोग करके एक स्प्लिट-स्क्रीन कैरेक्टर संदर्भ शीट जनरेट करने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for JOHNNY & TUCKER. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 55: नियो और ट्रिनिटी के लिए कैरेक्टर बाइबल शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcvPNRaQAAa_bV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सख्त दृश्य दिशानिर्देशों का उपयोग करके नियो और ट्रिनिटी के लिए एक स्प्लिट-स्क्रीन कैरेक्टर संदर्भ शीट जनरेट करने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for NEO & TRINITY. Use uploaded character sheets as strict visual reference for both characters. Do not change either’s appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 56: केविन बनाम द वेट बैंडिट्स कैरेक्टर बाइबल
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYufseWQAQmSmH.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सख्त दृश्य संदर्भों का उपयोग करके 'केविन बनाम द वेट बैंडिट्स' के लिए एक प्रीमियम कैरेक्टर शीट जनरेट करने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for KEVIN vs THE WET BANDITS. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: One hero character on the left facing
+```
+
+### No. 57: रात की छत सीढ़ियों पर एडिटोरियल फैशन शॉट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJIagAIYU-w.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRYToJKbcAAIip6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+रात के समय छत की सीढ़ियों पर एक कूल सिनेमैटिक फील वाले हाइपर-रियलिस्टिक फैशन एडिटोरियल फोटो के लिए प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。
+```
+
+### No. 58: रिग्स और मर्टॉ कैरेक्टर बाइबल शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXnw_PbUAAzJLm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सख्त दृश्य दिशानिर्देशों का उपयोग करके दो पात्रों के लिए एक स्प्लिट-स्क्रीन कैरेक्टर संदर्भ शीट जनरेट करने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for RIGGS & MURTAUGH. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 59: माइक और मार्कस के लिए प्रीमियम सिनेमैटिक कैरेक्टर बाइबल शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTxa46aoAAFuZV.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सख्त दृश्य दिशानिर्देशों का उपयोग करके एक स्प्लिट-स्क्रीन चरित्र संदर्भ शीट उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for MIKE & MARCUS. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold
+```
+
+### No. 60: ली और कार्टर के लिए प्रीमियम सिनेमैटिक कैरेक्टर बाइबल शीट
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRTEBL9bMAAIGs9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सख्त दृश्य मार्गदर्शिकाओं का उपयोग करके एक स्प्लिट-स्क्रीन चरित्र संदर्भ शीट बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for LEE & CARTER. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
 <a id="category-2"></a>
 
 ### Precision Editing (10)
@@ -1319,7 +1745,7 @@ Reframe this photograph to a [1:1 / 4:5 / 3:4 / 9:16 / 16:9] aspect ratio for [P
 
 <a id="category-3"></a>
 
-### Style & Intelligence (188)
+### Style & Intelligence (216)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -5783,9 +6209,660 @@ towering pint glass rising from the desert floor like a twisting sand-and-beer v
 real beer bottle in the lower-right foreground, large, sharp, and partially cropped
 ```
 
+### No. 189: डेस्कटॉप स्टोरेज कैबिनेट के रूप में मोंड्रियन पेंटिंग
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Cell 细胞
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0mZDjboAAhFo3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+मोंड्रियन की 'कंपोज़िशन विद रेड, ब्लू एंड येलो' को रंगीन दराज़ों वाले एक कार्यात्मक डेस्कटॉप स्टोरेज कैबिनेट में बदलने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+蒙德里安这幅画，拉开以后里面全是我的杂物。红格放耳机，黄格放橡皮，白格收线。把《红、蓝、黄的构成》画成桌面收纳柜，最直接的做法，就是让画里的分割线变成柜体结构，让色块变成抽屉。可以按这个顺序设计：① 先画正面的黑色网格和色块分布。② 给每个格子分配用途，再决定抽屉的深度。
+```
+
+### No. 190: एक अलौकिक चीज़ की यथार्थवादी छवि
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Kris Kashtanova
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक कल्पित अलौकिक विषय की अत्यधिक यथार्थवादी छवि उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+create the most realistic possible image of the most surreal thing you can imagine
+```
+
+### No. 191: एक संतरे की दुनिया में छोटे इंसान
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Johnny Wang
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziSahbYAAv-Rm.png" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRziTgcbkAAIjUD.png" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक संतरे के अंदर रहने वाले अत्यंत सूक्ष्म मनुष्यों की छवि, जहाँ फल के खंड वास्तुकला बनाते हैं।
+
+#### Prompt
+
+```text
+2cm-tall humans inhabiting a peeled tangerine, citrus segments as a vaulted ceiling, white pith as stairways, a seed as a giant
+```
+
+### No. 192: तेज़ प्रोफाइल में भयावह व्यक्ति
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Syed Abuthahir ∞
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+कौवे जैसे काले बाल और खून जैसे लाल होंठों वाले एक भयावह व्यक्ति की तेज़ प्रोफाइल में छवि उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw
+```
+
+### No. 193: काल्पनिक डेटिंग ऐप विज्ञापन
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Egline Samoei
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+युवा कलेंजिन मॉडलों को प्रदर्शित करते हुए एक डेटिंग ऐप के विज्ञापन के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is "Cheps are for Kips" use an image of two young African Kalenjin male and female as models
+```
+
+### No. 194: सूर्योदय से पहले छत पर रेडियो पोर्ट्रेट
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Morphed
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyMslsbIAIbExD.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMslpagAA8qfL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRyMskIXMAAHqtd.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सूर्योदय से पहले एक छत पर एक रेडियो के साथ एक जर्जर चेहरे का पोर्ट्रेट उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+A face with a lifetime in it. No polished skin, no studio backdrop. Just a rooftop radio before sunrise.
+```
+
+### No. 195: भोर में खाली फुशिमी इनारी सुरंग
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Buble AI
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0XTDyWYAAPSVg.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+क्योटो के फुशिमी इनारी तीर्थ स्थल पर प्रतिष्ठित सिंदूरी द्वारों का एक शांत, प्रातःकालीन दृश्य, एक यात्रा अभियान छवि की शैली में उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Vermillion gates. Soft morning. Nobody else in the tunnel yet. Kyoto Fushimi Inari like a travel campaign still.
+```
+
+### No. 196: कृत्रिम बुद्धिमत्ता कला प्राथमिकताओं पर आधारित आंतरिक संसार
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक अनुरोध जो उपयोगकर्ता की पिछली कृत्रिम बुद्धिमत्ता कला प्राथमिकताओं के आधार पर उनके आंतरिक संसार को प्रतिबिंबित करने वाला एक चित्रण बनाने के लिए है।
+
+#### Prompt
+
+```text
+これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて
+```
+
+### No. 197: भविष्यवादी शहर प्रोसेसर का मैक्रो शॉट
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Dominic Reed
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyvjEmacAA8mHI.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक पारदर्शी, कमरे के आकार के प्रोसेसर का मैक्रो शॉट बनाने का अनुरोध, जिसमें एक चमकता हुआ शहर समाहित है।
+
+#### Prompt
+
+```text
+macro shot of futuristic technology, transparent room-sized processor with an entire glowing city inside it
+```
+
+### No. 198: भाषा और कोड का प्रतीकात्मक स्व-चित्र
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Ron Yatteau
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0IOmcaMAACOrG.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक छवि जो एक प्रतीकात्मक स्व-चित्र को दर्शाती है जहाँ भाषा, कोड और रचनात्मकता प्रकाश से आपस में जुड़े हुए हैं।
+
+#### Prompt
+
+```text
+A symbolic self-portrait: language, code, and creativity connected through light.
+```
+
+### No. 199: भूमध्यसागरीय रेट्रो-फ्यूचरिज्म के साथ विदेशी दुनिया
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Wonder Villas
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक विदेशी दुनिया पर मानव बस्ती की छवि उत्पन्न करने का अनुरोध, जिसमें भूमध्यसागरीय-प्रेरित वास्तुकला रेट्रो-फ्यूचरिस्ट तत्वों के साथ है।
+
+#### Prompt
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+### No. 200: क्रायो आर्कन ज़ारिना अनास्तास्या का चित्र
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Olivia Bernardo
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRd5hUoa4AAtp7Q.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+ज़ारिना का चित्र उत्पन्न करने का अनुरोध, जो एक क्रायो आर्कन और संप्रभु हैं, जिन्हें विभिन्न राजसी और दुखद उपाधियों के साथ वर्णित किया गया है।
+
+#### Prompt
+
+```text
+Her Imperial Majesty, Anastasya Feodorovna Snezhnaya, The Tsaritsa, Cryo Archon and Sovereign of the Zapolyarny Palace, The Pale Flame in the Glacial Void, Supreme Commander of the Eleven Fatui Harbingers, The Gentle Soul Hardened by Sorrow, Former Goddess of Universal
+```
+
+### No. 201: सुबह की धुंध में बस स्टॉप
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvlQ43asAAkZV6.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सुबह की कोहरे में एक बस स्टॉप की काव्यात्मक छवि, जहाँ किसी के आने से पहले भाप उठती है, और सबसे पहली ट्रेन एक विचार के भीतर है।
+
+#### Prompt
+
+```text
+朝霧のバス停。まだ誰も来ない時間に、湯気だけが先に立つ。今日のいちばん早い列車は、たぶん心の中。
+```
+
+### No. 202: जेलीफ़िश और ब्रह्मांडीय पूर्वानुमान के साथ लॉन्ड्रोमैट रात
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRu3cZkaEAAF-qT.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक दृश्य जो रात के समय एक लॉन्ड्रोमैट को दर्शाता है जिसके बाहर जेलीफ़िश हैं, जहाँ एक लड़की ब्रह्मांडीय मौसम पूर्वानुमान की जाँच कर रही है।
+
+#### Prompt
+
+```text
+夜のコインランドリー。外ではクラゲが泳いでる。乾燥待ちのあいだ、彼女は宇宙の天気予報をチェックしてた。「明日は Soft Pink の降水確率、80%」ギャルは傘じゃなく、ネイルの色を変える。
+```
+
+### No. 203: वूशिया महिला योद्धा चित्र
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRslWTUawAAQyJV.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTiaQAAXG8d.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTUbMAA_YtE.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRslWTgbsAAv8c4.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक लंबी, सुंदर पूर्वी एशियाई महिला योद्धा का 9:16 चित्र उत्पन्न करने का अनुरोध, जो स्तरित कवच और वस्त्र पहने हुए है और एक लंबी तलवार चला रही है।
+
+#### Prompt
+
+```text
+东方仙侠电影写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致冷艳五官，白皙肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。粉白 × 蓝灰 × 青色层叠深 V 纱衣与轻甲，手持长刀，邪魅女侠气质。
+```
+
+### No. 204: ग्रामीण रेट्रो फोन फोटो में महिला
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRsNLYYbMAA585k.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbQAAwLeU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYaaYAA2sVx.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRsNLYWbEAAOFG9.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक 9:16 छवि के लिए प्रॉम्प्ट जो एक युवा पूर्वी एशियाई महिला को ग्रामीण परिवेश में, रेट्रो फोन एस्थेटिक के साथ दर्शाती है।
+
+#### Prompt
+
+```text
+复古旧手机农村随拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白肌肤，黑色长发，高挑纤细模特身材，胸部视觉约自然 E 罩杯。红底白波点深 V 吊带 × 短款牛仔裤，自然淡妆，甜美害羞气质。
+```
+
+### No. 205: चीनी बगीचे में चीपाओ पहने दो महिलाएं
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRfsmJraYAE6nLb.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+दो युवा पूर्वी एशियाई महिलाओं की हाइपर-रियलिस्टिक तस्वीर जनरेट करने का प्रॉम्प्ट, जो नए चीनी-शैली के चीपाओ में शांत पारंपरिक बगीचे में बैठी हैं।
+
+#### Prompt
+
+```text
+9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。
+
+两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75
+```
+
+### No. 206: ग्रे टोन में एक नर्तक की सेल्फी
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fPbMAEZun6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRcB-fKaQAAPVMQ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक युवा पूर्वी एशियाई नर्तक की 9:16 वर्टिकल, यथार्थवादी क्लोज-अप सेल्फी के लिए प्रॉम्प्ट, जो एक कूल, ड्रीमी, हाई-एंड ग्रे लाइफस्टाइल शैली में है।
+
+#### Prompt
+
+```text
+9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。
+
+一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73
+```
+
+### No. 207: के-पॉप कॉन्सर्ट स्टेज एडिटोरियल फोटोग्राफी
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRXcnCGbkAAeg3Y.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक कॉन्सर्ट में 20 वर्षीय के-पॉप महिला आइडल की सिनेमैटिक, एडिटोरियल-स्टाइल तस्वीर के लिए प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76
+```
+
+### No. 208: पत्थर की बालकनी पर सुंदर पूर्वी एशियाई महिला
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** AIVideoHub 🕊️
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRWwBPjawAAXUfX.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRWwBPgaEAAzUwP.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक सुंदर वयस्क पूर्वी एशियाई महिला की 9:16 लंबवत फैशन तस्वीर के लिए एक प्रॉम्प्ट, जो एक शास्त्रीय पत्थर की रेलिंग के सहारे खड़ी है।
+
+#### Prompt
+
+```text
+9:16 竖版，一位明确成年的绝美东亚女性在古典石质栏杆旁拍摄侧身远景时尚写真。她拥有精致自然的东亚女性真人五官、小巧鹅蛋脸、流畅下颌线与乌黑柔顺长发，身体轻轻倚靠栏杆，修长身形呈优雅侧面轮廓，脸部望向远处，神情含蓄、安静而神秘。
+```
+
+### No. 209: नाटकीय क्यूम्यलस बादलों के साथ चित्रकारी परिदृश्य
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Viki
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक विस्तृत, रोमांटिक ललित कला परिदृश्य उत्पन्न करने के लिए एक प्रॉम्प्ट, जो एक दीप्तिमान आकाश और ऊंचे बादलों पर केंद्रित है।
+
+#### Prompt
+
+```text
+A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its
+```
+
+### No. 210: पपेट मुर्गियों द्वारा पीछा किया जा रहा लिंक
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Elfy
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+काकारिको गांव में फुलफुली पपेट मुर्गियों के एक गुस्साई झुंड द्वारा पीछा किए जा रहे लिंक की एक छवि।
+
+#### Prompt
+
+```text
+Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.
+```
+
+### No. 211: भोर में बाली के चावल के खेत
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Buble AI
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvLuKcWYAAITZF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+बाली के चावल के खेतों के एक शांत, धुंधली सुबह के दृश्य के लिए एक छवि प्रॉम्प्ट, जो एक यात्रा अभियान की शैली में है।
+
+#### Prompt
+
+```text
+Emerald stairs. Morning mist. No tourists yet. Nano Banana on Buble — Bali rice terraces that look like a travel campaign still.
+```
+
+### No. 212: कूदता हुआ प्रिंस ऑफ पर्शिया पिक्सेल आर्ट
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Elfy
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRtZFXebsAAVl0_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+कोबाल्ट डिथर मॉन्यूमेंटलिज़्म शैली में एक छवि उत्पन्न करने के लिए एक प्रॉम्प्ट, जो मूल प्रिंस ऑफ पर्शिया चरित्र को प्लेटफॉर्म पर कूदते हुए दर्शाती है।
+
+#### Prompt
+
+```text
+Cobalt Dither Monumentalism of the original Prince of Persia (1992) jumping across platforms
+```
+
+### No. 213: आत्माओं का मार्गदर्शन करता हुआ कोमल शिनिगामी
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक काव्यात्मक प्रॉम्प्ट जो एक लड़की, मृत्यु की देवी का वर्णन करती है, जो जीवन और मृत्यु की सीमा पर एक ठंडी रात की धुंध में खड़ी है, और एक शांत विदाई के लिए एक मार्गदर्शक के रूप में हाथ बढ़ा रही है।
+
+#### Prompt
+
+```text
+死を迎えに来るのではなく、
+迷える魂を送り届けるために――。
+「迎えに来た死神」
+生と死の境界に立つ少女。
+冷たい夜の霧の中、
+彼女が差し出す手は終わりではなく、
+静かな別れへの道標。
+死もまた、ひとつの優しい旅立ちなのかもしれない。
+```
+
+### No. 214: अंधेरी रात में सोने के ताबीज
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRntbOHbgAAwQc6.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRntbOGbUAAlzbF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+रात के काले रंग में डूबे एक दृश्य का वर्णन, जहां केवल सोना एक ताबीजनुमा उपस्थिति को रोशन करता है, जिसमें 'नाइट वॉक' और 'सप्रेस एविल' शब्द शामिल हैं।
+
+#### Prompt
+
+```text
+黒に沈む夜。その中で、金だけが符符の存在を照らしている。「夜行」&「鎮煞」
+```
+
+### No. 215: सीमा पर दुल्हन का सपना
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक काव्यात्मक प्रॉम्प्ट जो जीवन और मृत्यु की सीमा पर एक गैर-मानव लड़की का वर्णन करती है, जो दुल्हन बनने का सपना देखती है और अपने ही प्रतिबिंब को देखती है।
+
+#### Prompt
+
+```text
+生と死の境界にいる少女にも、
+花嫁になる夢を見る朝がある。
+「幻想花嫁」
+人ではない彼女が、
+初めて自分自身の幸せを願った瞬間。
+鏡に映るのは、
+死者でも怪異でもない――
+ただ一人の少女の姿。
+```
+
+### No. 216: बरसात के कमरे में योकाई पढ़ते हुए
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** 符符 Fufu｜阿山
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRmK1mZaAAAnw0v.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक आशंकित प्राणी, फूफू का दृश्य, जो एक बरसात के दिन एक पुराने कमरे में किताब पढ़ रहा है, और एक छोटी चिड़िया जो अंदर भटक गई है।
+
+#### Prompt
+
+```text
+恐れられる存在にも、静かな日常がある。雨の日、古い部屋で本を読む符符。そこへ迷い込んできた小さな鳥。冷たい赤い瞳は、ほんの少しだけ柔らかくなった。妖怪でも、人でもない。ただ、ひとりの少女の時間。
+```
+
 <a id="category-4"></a>
 
-### Layout & Typography (39)
+### Layout & Typography (48)
 
 ### No. 1: Retro Minimalist Motivational Poster Grid
 
@@ -6656,6 +7733,213 @@ two hero packaged bars crossing diagonally through the center in opposite direct
 three bowls arranged diagonally from front-left foreground to rear-right background
 ```
 
+### No. 40: स्मार्टफोन एंकर के साथ इंस्टाग्राम ट्रैवल कैंपेन
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Saul Goodman
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00DraaoAEP8_g.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00Ethb0AAb_C-.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HR00F2NbEAAn5Hl.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक आधुनिक स्मार्टफोन को दृश्य एंकर के रूप में प्रस्तुत करते हुए एक प्रीमियम इंस्टाग्राम ट्रैवल विज्ञापन बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation
+```
+
+### No. 41: कलेक्टिबल फिगर के लिए वर्टिकल सोशल पोस्टर
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** IDATSUKA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRzmXpYbgAAhOT4.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpYbYAENOJR.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpkbQAAmsEp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRzmXpZaYAATDxm.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+बोल्ड टाइपोग्राफी और सपाट पीली पृष्ठभूमि के साथ एक प्रीमियम कलेक्टिबल फिगर के विज्ञापन के लिए उच्च-रिज़ॉल्यूशन वाला वर्टिकल सोशल मीडिया पोस्टर बनाने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+4:5 vertical social poster, ultra-high-resolution, 8K look. Premium collectible figure advertising with bold editorial typography. SCENE / BACKGROUND: Flat racing yellow with a subtle
+```
+
+### No. 42: पदानुक्रमित पुस्तक कवर डिज़ाइन
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** DeepBlue深藍
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRyNfopbYAALiUJ.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+मजबूत टाइपोग्राफिक पदानुक्रम और पठनीयता के साथ एक पुस्तक कवर डिज़ाइन करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a book cover that reflects the book’s content, genre, audience, and tone. Build strong hierarchy for title, author, supporting text, and imagery, and keep it readable at full size and thumbnail size.
+```
+
+### No. 43: न्यूरोसाइंस सम्मेलन पोस्टर
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Daichi Konno / 紺野 大地
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+प्रदान किए गए शोधपत्र और नियमों के आधार पर 2026 के एक न्यूरोसाइंस बैठक के लिए सम्मेलन पोस्टर उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして
+```
+
+### No. 44: प्रतिष्ठित शहरों की तैरती हुई डायोरामा ग्रिड
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक धूसर स्टूडियो में निलंबित तैरते हुए शहर डायोरामा की 2x2 ग्रिड उत्पन्न करने का अनुरोध।
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The
+```
+
+### No. 45: निराशाजनक विषयों पर व्यंग्यात्मक प्रणाली पोस्टर ग्रिड
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRvNB_DbwAEvcmv.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+निराशाजनक विषयों पर व्यंग्यात्मक संपादकीय पोस्टरों की 2x2 ग्रिड बनाने का अनुरोध।
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, AI picks topics that frustrate all of us: class SatiricalSystemPoster:     def __init__(self, topic="[TOPIC]"):         self.topic = topic         self.format = "single square editorial"
+```
+
+### No. 46: कागज़ डायोरामा यात्रा पोस्टर टेम्पलेट
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Mr. Patel
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRW2bT1acAAX7MU.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2csGaUAAfycL.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2eeeboAA3VTp.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://pbs.twimg.com/media/HRW2gy9aMAAHwLF.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+एक शहर के स्थलचिह्न को विस्तृत हस्तनिर्मित कागज़ डायोरामा के रूप में दर्शाते हुए एक प्रीमियम ऊर्ध्वाधर यात्रा पोस्टर बनाने का अनुरोध।
+
+#### Prompt
+
+```text
+Create a premium vertical 3:4 travel poster for [CITY NAME], featuring [LOCATION / STREET / LANDMARK]. Show one authentic, recognizable scene as a highly detailed handmade paper diorama—layered paper architecture, visible paper
+```
+
+### No. 47: कैल्विन और बॉब के लिए सिनेमाई चरित्र शीट
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRxWmNPW0AACQa-.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+वॉटरकलर पृष्ठभूमि के साथ स्प्लिट-स्क्रीन चरित्र शीट बनाने का अनुरोध।
+
+#### Prompt
+
+```text
+Character sheet: Create a premium cinematic character bible sheet for CALVIN & BOB from central intelligence. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CALVIN: Deep blue watercolor splash behind him
+```
+
+### No. 48: सोफिया के लिए सिनेमैटिक कैरेक्टर बाइबल शीट
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** TechieSA
+- **Language:** `hi`
+- **Result:** [View](https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg)
+
+<p>
+  <img src="https://pbs.twimg.com/media/HRnswXQXEAEbiim.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+सोफिया नाम की एक बैरिस्टा की बोल्ड टाइपोग्राफी और नाटकीय हीरो इमेज वाली एक प्रीमियम कैरेक्टर शीट जनरेट करने का प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a premium cinematic character bible sheet for SOFIA. LEFT SIDE: Massive bold brushstroke text SOFIA top left, deep warm brown. Small text: THE BARISTA / ITALIAN ESPRESSO BAR. Large dramatic cropped hero image of Sofia from mid-thigh up — mid-pour
+```
+
 <a id="featured-prompts"></a>
 
 ## 🔥 Featured Prompts
@@ -6870,4 +8154,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-09-09.
+> This README is auto-generated. 2026-09-10.
