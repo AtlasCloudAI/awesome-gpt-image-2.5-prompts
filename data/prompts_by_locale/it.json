@@ -14540,5 +14540,413 @@
       ],
       "video": ""
     }
+  },
+  {
+    "id": 1160,
+    "title": "Ritratto Candido nella Metropolitana di NYC",
+    "description": "Una richiesta per una foto di vita quotidiana in stile candido di una donna con lineamenti morbidi e capelli scuri spettinati nella metropolitana di New York.",
+    "prompt": "Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway. She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style",
+    "original_prompt": "Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway. She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2098252670385676491",
+    "source_published_at": "2026-09-11T03:29:54.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "it",
+    "likes": 10,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1160_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098252670385676491",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 493,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1160_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1161,
+    "title": "Pannello Manga con Fumetti",
+    "description": "Un'immagine in stile manga di una ragazza che dice \"Ehi, ascolta!\" e un ragazzo che copre il suo fumetto con il suo fumetto di pensiero che dice \"Farò finta di non aver sentito\", disegnato in un rapporto d'aspetto verticale 4:5.",
+    "prompt": "“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。\nアスペクト比は縦長（4:5）で描画",
+    "original_prompt": "“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。\nアスペクト比は縦長（4:5）で描画",
+    "translated_prompt": "",
+    "source_link": "https://x.com/kabumira862571/status/2098251497385721990",
+    "source_published_at": "2026-09-11T03:25:15.000Z",
+    "source_platform": "x",
+    "author_name": "カーブミラー",
+    "author_link": "https://x.com/kabumira862571",
+    "language": "it",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1161_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098251497385721990",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 494,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1161_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1162,
+    "title": "Pannello Manga: Ragazza Morde il Fumetto",
+    "description": "Una scena in stile manga di un ragazzo che dice \"Non combatteremo?\" e una ragazza dall'aspetto feroce che morde il suo fumetto.",
+    "prompt": "“ケンカなんかしないよ？”という男の子と、その吹き出しに噛みつく凶暴そうな女の子。アスペクト比は縦長（4:5）で描画",
+    "original_prompt": "“ケンカなんかしないよ？”という男の子と、その吹き出しに噛みつく凶暴そうな女の子。アスペクト比は縦長（4:5）で描画",
+    "translated_prompt": "",
+    "source_link": "https://x.com/kabumira862571/status/2098248262713286905",
+    "source_published_at": "2026-09-11T03:12:24.000Z",
+    "source_platform": "x",
+    "author_name": "カーブミラー",
+    "author_link": "https://x.com/kabumira862571",
+    "language": "it",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1162_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098248262713286905",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 495,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1162_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1165,
+    "title": "Griglia Editoriale delle Mode per Decenni",
+    "description": "Una richiesta per generare una griglia 2x2 che visualizza quattro movimenti della moda di decenni diversi in uno stile poster editoriale 16:9.",
+    "prompt": "2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution =",
+    "original_prompt": "2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution =",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2098228786156196084",
+    "source_published_at": "2026-09-11T01:55:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "it",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1165_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098228786156196084",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 496,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1165_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1167,
+    "title": "Griglia dei Sistemi di Governo",
+    "description": "Una richiesta per generare un'immagine a griglia 2x2 che visualizza quattro diversi sistemi di governo in uno stile pastello da libro illustrato.",
+    "prompt": "2x2 grid, 16:9, do this for 4 systems of government: 2x2 grid, 16:9, do this for famous manga: <instructions> CONCEPT ANCHOR 1: \"Pastel storybook cutaway",
+    "original_prompt": "2x2 grid, 16:9, do this for 4 systems of government: 2x2 grid, 16:9, do this for famous manga: <instructions> CONCEPT ANCHOR 1: \"Pastel storybook cutaway",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2098193553470226903",
+    "source_published_at": "2026-09-10T23:35:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "it",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1167_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098193553470226903",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 497,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1167_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1174,
+    "title": "Poster di Eredità Eroica per un Giocatore di Scacchi",
+    "description": "Una richiesta per generare una griglia 2x2 di poster tributo illustrati ed eroici per quattro leggende degli scacchi scomparse.",
+    "prompt": "2x2 grid, 9:16, 4 goat chess players who passed away [SUBJECT] :: single standalone vertical tribute poster, not a grid    Create a heroic illustrated legacy poster for [SUBJECT], showing",
+    "original_prompt": "2x2 grid, 9:16, 4 goat chess players who passed away [SUBJECT] :: single standalone vertical tribute poster, not a grid    Create a heroic illustrated legacy poster for [SUBJECT], showing",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2098095155576246642",
+    "source_published_at": "2026-09-10T17:04:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "it",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098095155576246642",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 498,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1174_0.jpg",
+        "media/gpt-image-2-5/1174_1.jpg",
+        "media/gpt-image-2-5/1174_2.jpg",
+        "media/gpt-image-2-5/1174_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1182,
+    "title": "Scheda di Riferimento per Personaggio Cinematografico a Pannelli Multipli",
+    "description": "Una richiesta per generare una scheda di riferimento del personaggio che mostra la stessa donna reale in vista frontale, 3/4, di profilo e posteriore.",
+    "prompt": "Multi-panel film character reference sheet of the same real woman across four panels:",
+    "original_prompt": "Multi-panel film character reference sheet of the same real woman across four panels:",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abxxai/status/2098061897702805800",
+    "source_published_at": "2026-09-10T14:51:51.000Z",
+    "source_platform": "x",
+    "author_name": "Abdul Shakoor",
+    "author_link": "https://x.com/abxxai",
+    "language": "it",
+    "likes": 20,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1182_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098061897702805800",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 500,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1182_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1185,
+    "title": "Ufficio Postale sulle Nuvole in uno Stile di Libro Illustrato Rasserenante",
+    "description": "Una scena fantastica di una nuvola soffice trasformata in un ufficio postale dove piccoli animali in uniforme smistano lettere, resa in uno stile morbido e rasserenante da libro illustrato.",
+    "prompt": "【云朵邮局】巨大的柔软云朵变成邮局，小动物穿着迷你制服认真分拣“晚安”“好运”“抱抱”信件。粉蓝、奶油白、淡黄色，柔软云雾，阳光穿透云层。整体像一本治愈系绘本。",
+    "original_prompt": "【云朵邮局】巨大的柔软云朵变成邮局，小动物穿着迷你制服认真分拣“晚安”“好运”“抱抱”信件。粉蓝、奶油白、淡黄色，柔软云雾，阳光穿透云层。整体像一本治愈系绘本。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/DeepBlueX0/status/2098058051140067606",
+    "source_published_at": "2026-09-10T14:36:34.000Z",
+    "source_platform": "x",
+    "author_name": "DeepBlue深藍",
+    "author_link": "https://x.com/DeepBlueX0",
+    "language": "it",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1185_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098058051140067606",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 501,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1185_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1186,
+    "title": "Opera d'Arta a Vignetta Minimal in Acquerello Basata su Foto",
+    "description": "Una richiesta per trasformare una fotografia caricata in un'opera d'arte raffinata che combina realismo fotografico con uno stile minimal a vignetta in acquerello.",
+    "prompt": "Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects",
+    "original_prompt": "Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2098053997588557855",
+    "source_published_at": "2026-09-10T14:20:27.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "it",
+    "likes": 50,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098053997588557855",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 502,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1186_0.jpg",
+        "media/gpt-image-2-5/1186_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1187,
+    "title": "Ritratto Cinematografico Iperrealista su una Motocicletta",
+    "description": "Un ritratto cinematografico iperrealista di un uomo barbuto ed elegante su una motocicletta personalizzata.",
+    "prompt": "A hyper-realistic cinematic portrait of a stylish young bearded man wearing dark sunglasses, a fitted white T-shirt, ripped dark jeans, rugged boots, and subtle accessories, sitting confidently on a dark custom motorcycle.",
+    "original_prompt": "A hyper-realistic cinematic portrait of a stylish young bearded man wearing dark sunglasses, a fitted white T-shirt, ripped dark jeans, rugged boots, and subtle accessories, sitting confidently on a dark custom motorcycle.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Xaroon_x/status/2098052790421713400",
+    "source_published_at": "2026-09-10T14:15:39.000Z",
+    "source_platform": "x",
+    "author_name": "Zar⭕on",
+    "author_link": "https://x.com/Xaroon_x",
+    "language": "it",
+    "likes": 201,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1187_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098052790421713400",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 503,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1187_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1188,
+    "title": "Ritratto Editoriale di Alta Moda in Bianco e Nero",
+    "description": "Una richiesta per creare un ritratto di alta moda in bianco e nero di un giovane uomo con capelli ricci e abbigliamento a strati.",
+    "prompt": "Create a high-fashion black and white editorial portrait of a young man with thick naturally curly dark hair, wearing an oversized black T-shirt with a small minimalist “NOCTIS” logo centered on the chest, layered over a white long-sleeve shirt.",
+    "original_prompt": "Create a high-fashion black and white editorial portrait of a young man with thick naturally curly dark hair, wearing an oversized black T-shirt with a small minimalist “NOCTIS” logo centered on the chest, layered over a white long-sleeve shirt.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/harboriis/status/2098051393538134448",
+    "source_published_at": "2026-09-10T14:10:06.000Z",
+    "source_platform": "x",
+    "author_name": "Harboris",
+    "author_link": "https://x.com/harboriis",
+    "language": "it",
+    "likes": 37,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098051393538134448",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 504,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1188_0.jpg",
+        "media/gpt-image-2-5/1188_1.jpg",
+        "media/gpt-image-2-5/1188_2.jpg"
+      ],
+      "video": ""
+    }
   }
 ]

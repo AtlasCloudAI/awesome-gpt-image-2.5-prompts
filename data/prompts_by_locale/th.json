@@ -14540,5 +14540,413 @@
       ],
       "video": ""
     }
+  },
+  {
+    "id": 1160,
+    "title": "ภาพบุคคลแคนดิดในรถไฟใต้ดินนิวยอร์ก",
+    "description": "พรอมต์สำหรับภาพถ่ายไลฟ์สไตล์แคนดิดของผู้หญิงที่มีใบหน้าเรียวงามและผมสีเข้มรุงรังในรถไฟใต้ดินนิวยอร์ก",
+    "prompt": "Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway. She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style",
+    "original_prompt": "Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway. She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2098252670385676491",
+    "source_published_at": "2026-09-11T03:29:54.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "th",
+    "likes": 10,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1160_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098252670385676491",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 493,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1160_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1161,
+    "title": "ภาพมังงะพร้อมบอลลูนคำพูด",
+    "description": "ภาพสไตล์มังงะของเด็กผู้หญิงกำลังพูดว่า \"เฮ้ ฟังนะ!\" และเด็กผู้ชายกำลังปิดบอลลูนคำพูดของเธอด้วยบอลลูนความคิดของตัวเองที่เขียนว่า \"ฉันจะแกล้งทำเป็นว่าไม่ได้ยิน\" วาดในอัตราส่วนแนวตั้ง 4:5",
+    "prompt": "“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。\nアスペクト比は縦長（4:5）で描画",
+    "original_prompt": "“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。\nアスペクト比は縦長（4:5）で描画",
+    "translated_prompt": "",
+    "source_link": "https://x.com/kabumira862571/status/2098251497385721990",
+    "source_published_at": "2026-09-11T03:25:15.000Z",
+    "source_platform": "x",
+    "author_name": "カーブミラー",
+    "author_link": "https://x.com/kabumira862571",
+    "language": "th",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1161_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098251497385721990",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 494,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1161_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1162,
+    "title": "ภาพมังงะเด็กผู้หญิงกัดบอลลูนคำพูด",
+    "description": "ฉากสไตล์มังงะของเด็กผู้ชายพูดว่า \"เราจะไม่ทะเลาะกันใช่ไหม?\" และเด็กผู้หญิงที่มีท่าทางดุดันกำลังกัดบอลลูนคำพูดของเขา",
+    "prompt": "“ケンカなんかしないよ？”という男の子と、その吹き出しに噛みつく凶暴そうな女の子。アスペクト比は縦長（4:5）で描画",
+    "original_prompt": "“ケンカなんかしないよ？”という男の子と、その吹き出しに噛みつく凶暴そうな女の子。アスペクト比は縦長（4:5）で描画",
+    "translated_prompt": "",
+    "source_link": "https://x.com/kabumira862571/status/2098248262713286905",
+    "source_published_at": "2026-09-11T03:12:24.000Z",
+    "source_platform": "x",
+    "author_name": "カーブミラー",
+    "author_link": "https://x.com/kabumira862571",
+    "language": "th",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1162_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098248262713286905",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 495,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1162_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1165,
+    "title": "ตารางกริดแฟชั่นจากทศวรรษต่างๆ สไตล์งานบรรณาธิการ",
+    "description": "พรอมต์สำหรับสร้างตารางกริด 2x2 เพื่อแสดงภาพแฟชั่นเคลื่อนไหวสี่สไตล์จากทศวรรษที่ต่างกัน ในสไตล์โปสเตอร์งานบรรณาธิการอัตราส่วน 16:9",
+    "prompt": "2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution =",
+    "original_prompt": "2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution =",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2098228786156196084",
+    "source_published_at": "2026-09-11T01:55:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "th",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1165_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098228786156196084",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 496,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1165_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1167,
+    "title": "ตารางกริดระบบการปกครอง",
+    "description": "พรอมต์สำหรับสร้างภาพตารางกริด 2x2 เพื่อแสดงภาพระบบการปกครองที่แตกต่างกันสี่รูปแบบ ในสไตล์หนังสือภาพสีพาสเทล",
+    "prompt": "2x2 grid, 16:9, do this for 4 systems of government: 2x2 grid, 16:9, do this for famous manga: <instructions> CONCEPT ANCHOR 1: \"Pastel storybook cutaway",
+    "original_prompt": "2x2 grid, 16:9, do this for 4 systems of government: 2x2 grid, 16:9, do this for famous manga: <instructions> CONCEPT ANCHOR 1: \"Pastel storybook cutaway",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2098193553470226903",
+    "source_published_at": "2026-09-10T23:35:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "th",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1167_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098193553470226903",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 497,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1167_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1174,
+    "title": "โปสเตอร์มรดกวีรกรรมสำหรับนักหมากรุก",
+    "description": "พรอมต์สำหรับสร้างตารางกริด 2x2 ของโปสเตอร์ภาพประกอบเพื่อเป็นเกียรติแด่ตำนานนักหมากรุกที่เสียชีวิตไปแล้วสี่ท่าน",
+    "prompt": "2x2 grid, 9:16, 4 goat chess players who passed away [SUBJECT] :: single standalone vertical tribute poster, not a grid    Create a heroic illustrated legacy poster for [SUBJECT], showing",
+    "original_prompt": "2x2 grid, 9:16, 4 goat chess players who passed away [SUBJECT] :: single standalone vertical tribute poster, not a grid    Create a heroic illustrated legacy poster for [SUBJECT], showing",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2098095155576246642",
+    "source_published_at": "2026-09-10T17:04:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "th",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Layout & Typography"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098095155576246642",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Layout & Typography",
+    "sort_order": 498,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1174_0.jpg",
+        "media/gpt-image-2-5/1174_1.jpg",
+        "media/gpt-image-2-5/1174_2.jpg",
+        "media/gpt-image-2-5/1174_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1182,
+    "title": "ชีทอ้างอิงตัวละครหนังแบบหลายช่องภาพ",
+    "description": "พรอมต์สำหรับสร้างชีทอ้างอิงตัวละครที่แสดงภาพผู้หญิงจริงคนเดียวกันจากมุมมองด้านหน้า, 3/4, ด้านข้าง และด้านหลัง",
+    "prompt": "Multi-panel film character reference sheet of the same real woman across four panels:",
+    "original_prompt": "Multi-panel film character reference sheet of the same real woman across four panels:",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abxxai/status/2098061897702805800",
+    "source_published_at": "2026-09-10T14:51:51.000Z",
+    "source_platform": "x",
+    "author_name": "Abdul Shakoor",
+    "author_link": "https://x.com/abxxai",
+    "language": "th",
+    "likes": 20,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1182_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098061897702805800",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 500,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1182_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1185,
+    "title": "ที่ทำการไปรษณีย์บนก้อนเมฆในสไตล์หนังสือภาพบำบัดใจ",
+    "description": "ภาพฉากแสนวิเศษของก้อนเมฆนุ่มนิ่มที่แปลงร่างเป็นที่ทำการไปรษณีย์ ซึ่งมีสัตว์ตัวน้อยๆ ในชุดเครื่องแบบกำลังคัดแยกจดหมาย เรนเดอร์ในสไตล์หนังสือภาพนุ่มนวลที่บำบัดใจ",
+    "prompt": "【云朵邮局】巨大的柔软云朵变成邮局，小动物穿着迷你制服认真分拣“晚安”“好运”“抱抱”信件。粉蓝、奶油白、淡黄色，柔软云雾，阳光穿透云层。整体像一本治愈系绘本。",
+    "original_prompt": "【云朵邮局】巨大的柔软云朵变成邮局，小动物穿着迷你制服认真分拣“晚安”“好运”“抱抱”信件。粉蓝、奶油白、淡黄色，柔软云雾，阳光穿透云层。整体像一本治愈系绘本。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/DeepBlueX0/status/2098058051140067606",
+    "source_published_at": "2026-09-10T14:36:34.000Z",
+    "source_platform": "x",
+    "author_name": "DeepBlue深藍",
+    "author_link": "https://x.com/DeepBlueX0",
+    "language": "th",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1185_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098058051140067606",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 501,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1185_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1186,
+    "title": "งานศิลปะภาพวาดสีน้ำมินิมอลจากภาพถ่าย",
+    "description": "พรอมต์สำหรับแปลงภาพถ่ายที่อัปโหลดให้เป็นงานศิลปะสุดประณีตที่ผสมผสานความสมจริงของภาพถ่ายเข้ากับสไตล์ภาพวาดสีน้ำมินิมอลแบบวิเน็ตต์",
+    "prompt": "Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects",
+    "original_prompt": "Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2098053997588557855",
+    "source_published_at": "2026-09-10T14:20:27.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "th",
+    "likes": 50,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Reference Fidelity"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098053997588557855",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Reference Fidelity",
+    "sort_order": 502,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1186_0.jpg",
+        "media/gpt-image-2-5/1186_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1187,
+    "title": "ภาพบุคคลสมจริงสุดขีดสไตล์ภาพยนตร์บนรถมอเตอร์ไซค์",
+    "description": "ภาพบุคคลสมจริงสุดขีดสไตล์ภาพยนตร์ของชายมีหนวดเคราแต่งตัวสไตล์ล้ำสมัยบนรถมอเตอร์ไซค์คัสตอม",
+    "prompt": "A hyper-realistic cinematic portrait of a stylish young bearded man wearing dark sunglasses, a fitted white T-shirt, ripped dark jeans, rugged boots, and subtle accessories, sitting confidently on a dark custom motorcycle.",
+    "original_prompt": "A hyper-realistic cinematic portrait of a stylish young bearded man wearing dark sunglasses, a fitted white T-shirt, ripped dark jeans, rugged boots, and subtle accessories, sitting confidently on a dark custom motorcycle.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Xaroon_x/status/2098052790421713400",
+    "source_published_at": "2026-09-10T14:15:39.000Z",
+    "source_platform": "x",
+    "author_name": "Zar⭕on",
+    "author_link": "https://x.com/Xaroon_x",
+    "language": "th",
+    "likes": 201,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1187_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098052790421713400",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 503,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1187_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1188,
+    "title": "ภาพบุคคลขาวดำสไตล์งานบรรณาธิการแฟชั่นระดับสูง",
+    "description": "พรอมต์สำหรับสร้างภาพบุคคลขาวดำแฟชั่นระดับสูงของชายหนุ่มผมหยิกสวมเสื้อผ้าซ้อนหลายชั้น",
+    "prompt": "Create a high-fashion black and white editorial portrait of a young man with thick naturally curly dark hair, wearing an oversized black T-shirt with a small minimalist “NOCTIS” logo centered on the chest, layered over a white long-sleeve shirt.",
+    "original_prompt": "Create a high-fashion black and white editorial portrait of a young man with thick naturally curly dark hair, wearing an oversized black T-shirt with a small minimalist “NOCTIS” logo centered on the chest, layered over a white long-sleeve shirt.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/harboriis/status/2098051393538134448",
+    "source_published_at": "2026-09-10T14:10:06.000Z",
+    "source_platform": "x",
+    "author_name": "Harboris",
+    "author_link": "https://x.com/harboriis",
+    "language": "th",
+    "likes": 37,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "Style & Intelligence"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098051393538134448",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "Style & Intelligence",
+    "sort_order": 504,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1188_0.jpg",
+        "media/gpt-image-2-5/1188_1.jpg",
+        "media/gpt-image-2-5/1188_2.jpg"
+      ],
+      "video": ""
+    }
   }
 ]

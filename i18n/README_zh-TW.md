@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-407%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-418%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts&locale=zh-TW) | [提交提示詞](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,20 +102,20 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **407** |
+| 提示詞總數 | **418** |
 | 分類數 | **4** |
-| 預覽圖數 | **407** |
-| 最後更新 | **2026-09-10** |
+| 預覽圖數 | **418** |
+| 最後更新 | **2026-09-11** |
 
 <a id="browse-by-category"></a>
 
 ## 🏷️ 按分類瀏覽
 
 
-- [`參考圖保真`](#category-1): **75**
+- [`參考圖保真`](#category-1): **78**
 - [`精準編輯`](#category-2): **17**
-- [`風格與理解力`](#category-3): **252**
-- [`複雜版式與文字`](#category-4): **63**
+- [`風格與理解力`](#category-3): **255**
+- [`複雜版式與文字`](#category-4): **68**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ GPT Image 2.5(官方名 ChatGPT Images 2.5,2026-09-08 發布)是 OpenAI 的圖�
 
 <a id="category-1"></a>
 
-### 參考圖保真 (75)
+### 參考圖保真 (78)
 
 ### No. 1: 復古八〇年代商場肖像
 
@@ -1886,6 +1886,73 @@ Constraints:
 - Plain forest background to clearly showcase the character
 ```
 
+### No. 76: 紐約地鐵隨拍人像
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1160_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1160_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成在紐約地鐵中，一位面容柔和、深色亂髮女子的隨性生活風格照片的提示。
+
+#### 提示詞
+
+```text
+Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway. She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style
+```
+
+### No. 77: 多格電影角色參考表
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** Abdul Shakoor
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1182_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1182_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成角色參考表的提示，展示同一位真實女性的正面、3/4側面、側面和背面視圖。
+
+#### 提示詞
+
+```text
+Multi-panel film character reference sheet of the same real woman across four panels:
+```
+
+### No. 78: 基於照片的極簡水彩暈染藝術作品
+
+- **分類:** `參考圖保真`
+- **來源:** `x`
+- **作者:** simeon-sanai
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個將上傳的照片轉化為精緻藝術作品的提示，結合了照片寫實主義與極簡水彩暈染風格。
+
+#### 提示詞
+
+```text
+Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects
+```
+
 <a id="category-2"></a>
 
 ### 精準編輯 (17)
@@ -2296,7 +2363,7 @@ Photorealistic contact shadows and fabric texture.
 
 <a id="category-3"></a>
 
-### 風格與理解力 (252)
+### 風格與理解力 (255)
 
 ### No. 1: 夜間賽博龐克大都會
 
@@ -8298,9 +8365,77 @@ Include ONLY this packaging text (verbatim):
 "Christmas Memories Edition"
 ```
 
+### No. 253: 療癒繪本風格的雲端郵局
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** DeepBlue深藍
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1185_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1185_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個奇幻場景：柔軟的雲朵變成了郵局，身穿制服的小動物們正在分揀信件，以柔和、療癒的繪本風格呈現。
+
+#### 提示詞
+
+```text
+【云朵邮局】巨大的柔软云朵变成邮局，小动物穿着迷你制服认真分拣“晚安”“好运”“抱抱”信件。粉蓝、奶油白、淡黄色，柔软云雾，阳光穿透云层。整体像一本治愈系绘本。
+```
+
+### No. 254: 摩托車上的超寫實電影感肖像
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Zar⭕on
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1187_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1187_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一位時尚有型、留著鬍鬚的男子騎在訂製摩托車上的超寫實電影感肖像。
+
+#### 提示詞
+
+```text
+A hyper-realistic cinematic portrait of a stylish young bearded man wearing dark sunglasses, a fitted white T-shirt, ripped dark jeans, rugged boots, and subtle accessories, sitting confidently on a dark custom motorcycle.
+```
+
+### No. 255: 黑白高級時尚編輯肖像
+
+- **分類:** `風格與理解力`
+- **來源:** `x`
+- **作者:** Harboris
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於創作黑白高級時尚肖像的提示，對象是一位有著捲髮和層次穿搭的年輕男子。
+
+#### 提示詞
+
+```text
+Create a high-fashion black and white editorial portrait of a young man with thick naturally curly dark hair, wearing an oversized black T-shirt with a small minimalist “NOCTIS” logo centered on the chest, layered over a white long-sleeve shirt.
+```
+
 <a id="category-4"></a>
 
-### 複雜版式與文字 (63)
+### 複雜版式與文字 (68)
 
 ### No. 1: 復古極簡勵志海報網格
 
@@ -9764,6 +9899,120 @@ Ensure text appears once and is perfectly legible.
 No watermarks, no logos.
 ```
 
+### No. 64: 帶有對話框的漫畫分格
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** カーブミラー
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1161_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1161_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一幅漫畫風格圖像，描繪一個女孩說「嘿，聽著！」而一個男孩用他的思想泡泡蓋住她的對話框，寫著「我會假裝沒聽到」，以垂直4:5比例繪製。
+
+#### 提示詞
+
+```text
+“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。
+アスペクト比は縦長（4:5）で描画
+```
+
+### No. 65: 漫畫分格：女孩咬住對話框
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** カーブミラー
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1162_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1162_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個漫畫風格的場景，男孩說「我們不吵架了？」而一個表情兇狠的女孩咬著他的對話框。
+
+#### 提示詞
+
+```text
+“ケンカなんかしないよ？”という男の子と、その吹き出しに噛みつく凶暴そうな女の子。アスペクト比は縦長（4:5）で描画
+```
+
+### No. 66: 時尚年代編輯網格
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1165_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1165_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成2x2網格的提示，以16:9的編輯海報風格視覺化呈現來自不同年代的四種時尚運動。
+
+#### 提示詞
+
+```text
+2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution =
+```
+
+### No. 67: 政府體制網格
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1167_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1167_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成2x2網格圖像的提示，以柔和色調的童書風格視覺化呈現四種不同的政府體制。
+
+#### 提示詞
+
+```text
+2x2 grid, 16:9, do this for 4 systems of government: 2x2 grid, 16:9, do this for famous manga: <instructions> CONCEPT ANCHOR 1: "Pastel storybook cutaway
+```
+
+### No. 68: 西洋棋手的英雄傳承海報
+
+- **分類:** `複雜版式與文字`
+- **來源:** `x`
+- **作者:** Gadgetify
+- **語言:** `zh-TW`
+- **成品圖:** [查看](https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+一個用於生成2x2網格的提示，為四位已故西洋棋傳奇人物創作英雄風格的致敬海報。
+
+#### 提示詞
+
+```text
+2x2 grid, 9:16, 4 goat chess players who passed away [SUBJECT] :: single standalone vertical tribute poster, not a grid    Create a heroic illustrated legacy poster for [SUBJECT], showing
+```
+
 <a id="featured-prompts"></a>
 
 ## 🔥 精選提示詞
@@ -9978,4 +10227,4 @@ npx tsc --noEmit
 
 > 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
 
-> 此 README 為自動生成。 2026-09-10.
+> 此 README 為自動生成。 2026-09-11.

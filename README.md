@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-407%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-418%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/gpt-image-2-5-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Submit your prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/issues/new?template=prompt.yml) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2.5-prompts) |
 |---|---|---|---|
@@ -102,20 +102,20 @@ Every record keeps its category, source, author, source link, input references a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **407** |
+| Total Prompts | **418** |
 | Categories | **4** |
-| Preview Images | **407** |
-| Last Updated | **2026-09-10** |
+| Preview Images | **418** |
+| Last Updated | **2026-09-11** |
 
 <a id="browse-by-category"></a>
 
 ## 🏷️ Browse by Category
 
 
-- [`Reference Fidelity`](#category-1): **75**
+- [`Reference Fidelity`](#category-1): **78**
 - [`Precision Editing`](#category-2): **17**
-- [`Style & Intelligence`](#category-3): **252**
-- [`Layout & Typography`](#category-4): **63**
+- [`Style & Intelligence`](#category-3): **255**
+- [`Layout & Typography`](#category-4): **68**
 
 <a id="all-prompts"></a>
 
@@ -124,7 +124,7 @@ Every record keeps its category, source, author, source link, input references a
 
 <a id="category-1"></a>
 
-### Reference Fidelity (75)
+### Reference Fidelity (78)
 
 ### No. 1: Retro Eighties Mall Portrait
 
@@ -1886,6 +1886,73 @@ Constraints:
 - Plain forest background to clearly showcase the character
 ```
 
+### No. 76: NYC Subway Candid Portrait
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1160_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1160_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A prompt for a candid lifestyle photo of a woman with soft features and messy dark hair in a NYC subway.
+
+#### Prompt
+
+```text
+Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway. She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style
+```
+
+### No. 77: Multi-Panel Film Character Reference Sheet
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** Abdul Shakoor
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1182_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1182_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A prompt to generate a character reference sheet showing the same real woman from front, 3/4, profile, and rear views.
+
+#### Prompt
+
+```text
+Multi-panel film character reference sheet of the same real woman across four panels:
+```
+
+### No. 78: Photo-Based Minimal Watercolor Vignette Artwork
+
+- **Category:** `Reference Fidelity`
+- **Source:** `x`
+- **Author:** simeon-sanai
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_1.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A prompt to transform an uploaded photograph into a refined artwork combining photo realism with a minimal watercolor vignette style.
+
+#### Prompt
+
+```text
+Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects
+```
+
 <a id="category-2"></a>
 
 ### Precision Editing (17)
@@ -2296,7 +2363,7 @@ Photorealistic contact shadows and fabric texture.
 
 <a id="category-3"></a>
 
-### Style & Intelligence (252)
+### Style & Intelligence (255)
 
 ### No. 1: Cyberpunk Metropolis At Night
 
@@ -8298,9 +8365,77 @@ Include ONLY this packaging text (verbatim):
 "Christmas Memories Edition"
 ```
 
+### No. 253: Cloud Post Office in a Healing Picture Book Style
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** DeepBlue深藍
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1185_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1185_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A whimsical scene of a soft cloud transformed into a post office where small animals in uniforms sort letters, rendered in a soft, healing picture-book style.
+
+#### Prompt
+
+```text
+【云朵邮局】巨大的柔软云朵变成邮局，小动物穿着迷你制服认真分拣“晚安”“好运”“抱抱”信件。粉蓝、奶油白、淡黄色，柔软云雾，阳光穿透云层。整体像一本治愈系绘本。
+```
+
+### No. 254: Hyper-Realistic Cinematic Portrait on a Motorcycle
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Zar⭕on
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1187_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1187_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A hyper-realistic cinematic portrait of a stylish bearded man on a custom motorcycle.
+
+#### Prompt
+
+```text
+A hyper-realistic cinematic portrait of a stylish young bearded man wearing dark sunglasses, a fitted white T-shirt, ripped dark jeans, rugged boots, and subtle accessories, sitting confidently on a dark custom motorcycle.
+```
+
+### No. 255: High-Fashion Black and White Editorial Portrait
+
+- **Category:** `Style & Intelligence`
+- **Source:** `x`
+- **Author:** Harboris
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_2.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A prompt for creating a black and white high-fashion portrait of a young man with curly hair and layered clothing.
+
+#### Prompt
+
+```text
+Create a high-fashion black and white editorial portrait of a young man with thick naturally curly dark hair, wearing an oversized black T-shirt with a small minimalist “NOCTIS” logo centered on the chest, layered over a white long-sleeve shirt.
+```
+
 <a id="category-4"></a>
 
-### Layout & Typography (63)
+### Layout & Typography (68)
 
 ### No. 1: Retro Minimalist Motivational Poster Grid
 
@@ -9764,6 +9899,120 @@ Ensure text appears once and is perfectly legible.
 No watermarks, no logos.
 ```
 
+### No. 64: Manga Panel With Speech Bubbles
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** カーブミラー
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1161_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1161_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A manga-style image of a girl saying "Hey, listen!" and a boy covering her speech bubble with his thought bubble saying "I'll pretend I didn't hear that", drawn in a vertical 4:5 aspect ratio.
+
+#### Prompt
+
+```text
+“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。
+アスペクト比は縦長（4:5）で描画
+```
+
+### No. 65: Manga Panel Girl Bites Speech Bubble
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** カーブミラー
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1162_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1162_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A manga-style scene of a boy saying "We won't fight?" and a fierce-looking girl biting his speech bubble.
+
+#### Prompt
+
+```text
+“ケンカなんかしないよ？”という男の子と、その吹き出しに噛みつく凶暴そうな女の子。アスペクト比は縦長（4:5）で描画
+```
+
+### No. 66: Fashion Decades Editorial Grid
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1165_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1165_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A prompt to generate a 2x2 grid visualizing four fashion movements from different decades in a 16:9 editorial poster style.
+
+#### Prompt
+
+```text
+2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution =
+```
+
+### No. 67: Systems Of Government Grid
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1167_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1167_0.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A prompt to generate a 2x2 grid image visualizing four different systems of government in a pastel storybook style.
+
+#### Prompt
+
+```text
+2x2 grid, 16:9, do this for 4 systems of government: 2x2 grid, 16:9, do this for famous manga: <instructions> CONCEPT ANCHOR 1: "Pastel storybook cutaway
+```
+
+### No. 68: Heroic Legacy Poster For Chess Player
+
+- **Category:** `Layout & Typography`
+- **Source:** `x`
+- **Author:** Gadgetify
+- **Language:** `en`
+- **Result:** [View](https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_0.jpg)
+
+<p>
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_0.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_1.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_2.jpg" width="480" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_3.jpg" width="480" referrerpolicy="no-referrer">
+</p>
+
+#### Description
+
+A prompt to generate a 2x2 grid of heroic illustrated tribute posters for four deceased chess legends.
+
+#### Prompt
+
+```text
+2x2 grid, 9:16, 4 goat chess players who passed away [SUBJECT] :: single standalone vertical tribute poster, not a grid    Create a heroic illustrated legacy poster for [SUBJECT], showing
+```
+
 <a id="featured-prompts"></a>
 
 ## 🔥 Featured Prompts
@@ -9978,4 +10227,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-09-10.
+> This README is auto-generated. 2026-09-11.

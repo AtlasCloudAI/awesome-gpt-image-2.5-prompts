@@ -14540,5 +14540,413 @@
       ],
       "video": ""
     }
+  },
+  {
+    "id": 1160,
+    "title": "紐約地鐵隨拍人像",
+    "description": "一個用於生成在紐約地鐵中，一位面容柔和、深色亂髮女子的隨性生活風格照片的提示。",
+    "prompt": "Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway. She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style",
+    "original_prompt": "Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway. She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2098252670385676491",
+    "source_published_at": "2026-09-11T03:29:54.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "zh-TW",
+    "likes": 10,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "參考圖保真"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1160_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098252670385676491",
+      "confidence": "low",
+      "prompt_kind": "raw"
+    },
+    "category": "參考圖保真",
+    "sort_order": 493,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1160_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1161,
+    "title": "帶有對話框的漫畫分格",
+    "description": "一幅漫畫風格圖像，描繪一個女孩說「嘿，聽著！」而一個男孩用他的思想泡泡蓋住她的對話框，寫著「我會假裝沒聽到」，以垂直4:5比例繪製。",
+    "prompt": "“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。\nアスペクト比は縦長（4:5）で描画",
+    "original_prompt": "“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。\nアスペクト比は縦長（4:5）で描画",
+    "translated_prompt": "",
+    "source_link": "https://x.com/kabumira862571/status/2098251497385721990",
+    "source_published_at": "2026-09-11T03:25:15.000Z",
+    "source_platform": "x",
+    "author_name": "カーブミラー",
+    "author_link": "https://x.com/kabumira862571",
+    "language": "zh-TW",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "複雜版式與文字"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1161_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098251497385721990",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "複雜版式與文字",
+    "sort_order": 494,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1161_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1162,
+    "title": "漫畫分格：女孩咬住對話框",
+    "description": "一個漫畫風格的場景，男孩說「我們不吵架了？」而一個表情兇狠的女孩咬著他的對話框。",
+    "prompt": "“ケンカなんかしないよ？”という男の子と、その吹き出しに噛みつく凶暴そうな女の子。アスペクト比は縦長（4:5）で描画",
+    "original_prompt": "“ケンカなんかしないよ？”という男の子と、その吹き出しに噛みつく凶暴そうな女の子。アスペクト比は縦長（4:5）で描画",
+    "translated_prompt": "",
+    "source_link": "https://x.com/kabumira862571/status/2098248262713286905",
+    "source_published_at": "2026-09-11T03:12:24.000Z",
+    "source_platform": "x",
+    "author_name": "カーブミラー",
+    "author_link": "https://x.com/kabumira862571",
+    "language": "zh-TW",
+    "likes": 0,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "複雜版式與文字"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1162_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098248262713286905",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "複雜版式與文字",
+    "sort_order": 495,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1162_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1165,
+    "title": "時尚年代編輯網格",
+    "description": "一個用於生成2x2網格的提示，以16:9的編輯海報風格視覺化呈現來自不同年代的四種時尚運動。",
+    "prompt": "2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution =",
+    "original_prompt": "2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution =",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2098228786156196084",
+    "source_published_at": "2026-09-11T01:55:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "zh-TW",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "複雜版式與文字"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1165_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098228786156196084",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "複雜版式與文字",
+    "sort_order": 496,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1165_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1167,
+    "title": "政府體制網格",
+    "description": "一個用於生成2x2網格圖像的提示，以柔和色調的童書風格視覺化呈現四種不同的政府體制。",
+    "prompt": "2x2 grid, 16:9, do this for 4 systems of government: 2x2 grid, 16:9, do this for famous manga: <instructions> CONCEPT ANCHOR 1: \"Pastel storybook cutaway",
+    "original_prompt": "2x2 grid, 16:9, do this for 4 systems of government: 2x2 grid, 16:9, do this for famous manga: <instructions> CONCEPT ANCHOR 1: \"Pastel storybook cutaway",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2098193553470226903",
+    "source_published_at": "2026-09-10T23:35:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "zh-TW",
+    "likes": 1,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "複雜版式與文字"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1167_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098193553470226903",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "複雜版式與文字",
+    "sort_order": 497,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1167_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1174,
+    "title": "西洋棋手的英雄傳承海報",
+    "description": "一個用於生成2x2網格的提示，為四位已故西洋棋傳奇人物創作英雄風格的致敬海報。",
+    "prompt": "2x2 grid, 9:16, 4 goat chess players who passed away [SUBJECT] :: single standalone vertical tribute poster, not a grid    Create a heroic illustrated legacy poster for [SUBJECT], showing",
+    "original_prompt": "2x2 grid, 9:16, 4 goat chess players who passed away [SUBJECT] :: single standalone vertical tribute poster, not a grid    Create a heroic illustrated legacy poster for [SUBJECT], showing",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Gdgtify/status/2098095155576246642",
+    "source_published_at": "2026-09-10T17:04:00.000Z",
+    "source_platform": "x",
+    "author_name": "Gadgetify",
+    "author_link": "https://x.com/Gdgtify",
+    "language": "zh-TW",
+    "likes": 9,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "複雜版式與文字"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_2.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1174_3.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098095155576246642",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "複雜版式與文字",
+    "sort_order": 498,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1174_0.jpg",
+        "media/gpt-image-2-5/1174_1.jpg",
+        "media/gpt-image-2-5/1174_2.jpg",
+        "media/gpt-image-2-5/1174_3.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1182,
+    "title": "多格電影角色參考表",
+    "description": "一個用於生成角色參考表的提示，展示同一位真實女性的正面、3/4側面、側面和背面視圖。",
+    "prompt": "Multi-panel film character reference sheet of the same real woman across four panels:",
+    "original_prompt": "Multi-panel film character reference sheet of the same real woman across four panels:",
+    "translated_prompt": "",
+    "source_link": "https://x.com/abxxai/status/2098061897702805800",
+    "source_published_at": "2026-09-10T14:51:51.000Z",
+    "source_platform": "x",
+    "author_name": "Abdul Shakoor",
+    "author_link": "https://x.com/abxxai",
+    "language": "zh-TW",
+    "likes": 20,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "參考圖保真"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1182_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098061897702805800",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "參考圖保真",
+    "sort_order": 500,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1182_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1185,
+    "title": "療癒繪本風格的雲端郵局",
+    "description": "一個奇幻場景：柔軟的雲朵變成了郵局，身穿制服的小動物們正在分揀信件，以柔和、療癒的繪本風格呈現。",
+    "prompt": "【云朵邮局】巨大的柔软云朵变成邮局，小动物穿着迷你制服认真分拣“晚安”“好运”“抱抱”信件。粉蓝、奶油白、淡黄色，柔软云雾，阳光穿透云层。整体像一本治愈系绘本。",
+    "original_prompt": "【云朵邮局】巨大的柔软云朵变成邮局，小动物穿着迷你制服认真分拣“晚安”“好运”“抱抱”信件。粉蓝、奶油白、淡黄色，柔软云雾，阳光穿透云层。整体像一本治愈系绘本。",
+    "translated_prompt": "",
+    "source_link": "https://x.com/DeepBlueX0/status/2098058051140067606",
+    "source_published_at": "2026-09-10T14:36:34.000Z",
+    "source_platform": "x",
+    "author_name": "DeepBlue深藍",
+    "author_link": "https://x.com/DeepBlueX0",
+    "language": "zh-TW",
+    "likes": 11,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "風格與理解力"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1185_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098058051140067606",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "風格與理解力",
+    "sort_order": 501,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1185_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1186,
+    "title": "基於照片的極簡水彩暈染藝術作品",
+    "description": "一個將上傳的照片轉化為精緻藝術作品的提示，結合了照片寫實主義與極簡水彩暈染風格。",
+    "prompt": "Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects",
+    "original_prompt": "Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Naiknelofar788/status/2098053997588557855",
+    "source_published_at": "2026-09-10T14:20:27.000Z",
+    "source_platform": "x",
+    "author_name": "simeon-sanai",
+    "author_link": "https://x.com/Naiknelofar788",
+    "language": "zh-TW",
+    "likes": 50,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "參考圖保真"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1186_1.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098053997588557855",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "參考圖保真",
+    "sort_order": 502,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1186_0.jpg",
+        "media/gpt-image-2-5/1186_1.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1187,
+    "title": "摩托車上的超寫實電影感肖像",
+    "description": "一位時尚有型、留著鬍鬚的男子騎在訂製摩托車上的超寫實電影感肖像。",
+    "prompt": "A hyper-realistic cinematic portrait of a stylish young bearded man wearing dark sunglasses, a fitted white T-shirt, ripped dark jeans, rugged boots, and subtle accessories, sitting confidently on a dark custom motorcycle.",
+    "original_prompt": "A hyper-realistic cinematic portrait of a stylish young bearded man wearing dark sunglasses, a fitted white T-shirt, ripped dark jeans, rugged boots, and subtle accessories, sitting confidently on a dark custom motorcycle.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/Xaroon_x/status/2098052790421713400",
+    "source_published_at": "2026-09-10T14:15:39.000Z",
+    "source_platform": "x",
+    "author_name": "Zar⭕on",
+    "author_link": "https://x.com/Xaroon_x",
+    "language": "zh-TW",
+    "likes": 201,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "風格與理解力"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1187_0.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098052790421713400",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "風格與理解力",
+    "sort_order": 503,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1187_0.jpg"
+      ],
+      "video": ""
+    }
+  },
+  {
+    "id": 1188,
+    "title": "黑白高級時尚編輯肖像",
+    "description": "一個用於創作黑白高級時尚肖像的提示，對象是一位有著捲髮和層次穿搭的年輕男子。",
+    "prompt": "Create a high-fashion black and white editorial portrait of a young man with thick naturally curly dark hair, wearing an oversized black T-shirt with a small minimalist “NOCTIS” logo centered on the chest, layered over a white long-sleeve shirt.",
+    "original_prompt": "Create a high-fashion black and white editorial portrait of a young man with thick naturally curly dark hair, wearing an oversized black T-shirt with a small minimalist “NOCTIS” logo centered on the chest, layered over a white long-sleeve shirt.",
+    "translated_prompt": "",
+    "source_link": "https://x.com/harboriis/status/2098051393538134448",
+    "source_published_at": "2026-09-10T14:10:06.000Z",
+    "source_platform": "x",
+    "author_name": "Harboris",
+    "author_link": "https://x.com/harboriis",
+    "language": "zh-TW",
+    "likes": 37,
+    "results_count": 0,
+    "need_reference_images": false,
+    "prompt_categories": [
+      "風格與理解力"
+    ],
+    "remote_images": [
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_0.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_1.jpg",
+      "https://static.atlascloud.ai/prompt/gpt-image-2-5/1188_2.jpg"
+    ],
+    "x_meta": {
+      "tweet_id": "2098051393538134448",
+      "confidence": "medium",
+      "prompt_kind": "keyword"
+    },
+    "category": "風格與理解力",
+    "sort_order": 504,
+    "local_media": {
+      "images": [
+        "media/gpt-image-2-5/1188_0.jpg",
+        "media/gpt-image-2-5/1188_1.jpg",
+        "media/gpt-image-2-5/1188_2.jpg"
+      ],
+      "video": ""
+    }
   }
 ]
