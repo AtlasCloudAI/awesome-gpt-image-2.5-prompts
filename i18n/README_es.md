@@ -105,7 +105,7 @@ Every record keeps its category, source, author, source link, input references a
 | Total Prompts | **418** |
 | Categories | **4** |
 | Preview Images | **418** |
-| Last Updated | **2026-10-29** |
+| Last Updated | **2026-10-30** |
 
 <a id="browse-by-category"></a>
 
@@ -10227,4 +10227,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-10-29.
+> This README is auto-generated. 2026-10-30.
